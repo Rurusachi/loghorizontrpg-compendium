@@ -2,25 +2,33 @@
   "_id": "bxV1OU3qLY9YjjOt",
   "changes": [
     {
-      "key": "data.attributes.accuracy.bonus",
+      "key": "system.attributes.accuracy.bonus",
       "mode": 2,
       "value": "3"
     },
     {
-      "key": "data.combatstats.pdef.total",
+      "key": "system.combatstats.pdef.total",
       "mode": 2,
-      "value": "@data.abilites.pow.mod"
+      "value": "@abilities.pow.mod"
     }
   ],
   "disabled": false,
   "duration": {
-    "startTime": null
+    "startTime": null,
+    "seconds": null,
+    "combat": null,
+    "rounds": null,
+    "turns": null,
+    "startRound": null,
+    "startTurn": null
   },
   "icon": "icons/svg/aura.svg",
-  "label": "Totem Grace",
   "origin": "Compendium.loghorizontrpg.druid-skills.F0EGYIbF6WbAiY4q",
   "transfer": true,
   "flags": {},
-  "tint": "",
+  "tint": null,
+  "name": "Totem Grace",
+  "description": "",
+  "statuses": [],
   "_key": "!items.effects!F0EGYIbF6WbAiY4q.bxV1OU3qLY9YjjOt"
 }

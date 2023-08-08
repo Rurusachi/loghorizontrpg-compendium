@@ -3,7 +3,13 @@
   "name": "Totem Grace",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [
+    "bxV1OU3qLY9YjjOt"
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>You gain a +3 bonus to [Accuracy], and a +[POW Mod] bonus to [Physical Defense].</p>",
     "limit": {
       "min": 0,
@@ -114,14 +120,16 @@
       "max": 1
     }
   },
-  "effects": [
-    "bxV1OU3qLY9YjjOt"
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": 1691515036721,
+    "modifiedTime": 1691516666496,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!F0EGYIbF6WbAiY4q"
 }
