@@ -1,0 +1,25 @@
+{
+  "name": "Adventure Sack",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +8. In addition, has +5 slots only for [Consumables].</p>",
+    "other": {
+      "inventoryslots": 8
+    },
+    "tags": "Bag",
+    "ir": 15,
+    "quantity": 1,
+    "size": 1,
+    "price": 480
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "27pJ1tx3kMBjUhcb",
+  "effects": [],
+  "_key": "!items!27pJ1tx3kMBjUhcb"
+}

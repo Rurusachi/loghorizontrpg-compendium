@@ -1,0 +1,39 @@
+{
+  "name": "Pure Eye Card I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The next time the target performs Prop Analyze, they gain a +1D bonus to the check. The effect of multiple Pure Eye Cards (regardless of grade) do not stack, and the effect is removed after being applied once, or at the end of the scene. (CR9): This item has no effect. </p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 60
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "YQE0jao5MDGTVaAB",
+  "_key": "!items!YQE0jao5MDGTVaAB"
+}

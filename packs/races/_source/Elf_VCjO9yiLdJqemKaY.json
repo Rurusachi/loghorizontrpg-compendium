@@ -1,0 +1,43 @@
+{
+  "_id": "VCjO9yiLdJqemKaY",
+  "name": "Elf",
+  "type": "race",
+  "img": "Tzuriel_sng.png",
+  "data": {
+    "description": "",
+    "hp": {
+      "value": 8
+    },
+    "abilities": {
+      "str": {
+        "value": 0
+      },
+      "dex": {
+        "value": 1
+      },
+      "pow": {
+        "value": 1
+      },
+      "int": {
+        "value": 0
+      }
+    },
+    "fate": {
+      "value": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "ZUUkEZycgIRSncDu": 3,
+    "kCCLU79fwope7zbH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.N1v8CkgXPTjRNm45"
+    }
+  },
+  "_key": "!items!VCjO9yiLdJqemKaY"
+}

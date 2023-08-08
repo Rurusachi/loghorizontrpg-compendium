@@ -1,0 +1,39 @@
+{
+  "name": "Decay Poison III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target takes [Decay: 15].</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "8",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable",
+    "ir": 15,
+    "quantity": 1,
+    "size": 1,
+    "price": 280
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "iTJxqGzICnZon0WM",
+  "_key": "!items!iTJxqGzICnZon0WM"
+}

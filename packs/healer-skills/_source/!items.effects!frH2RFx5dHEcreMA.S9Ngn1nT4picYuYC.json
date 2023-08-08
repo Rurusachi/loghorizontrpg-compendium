@@ -1,0 +1,21 @@
+{
+  "_id": "S9Ngn1nT4picYuYC",
+  "changes": [
+    {
+      "key": "data.attributes.negotiation.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Preacher Bonus",
+  "origin": "Compendium.loghorizontrpg.healer-skills.frH2RFx5dHEcreMA",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!frH2RFx5dHEcreMA.S9Ngn1nT4picYuYC"
+}

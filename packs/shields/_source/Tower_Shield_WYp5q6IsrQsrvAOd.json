@@ -1,0 +1,30 @@
+{
+  "name": "Tower Shield",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A giant shield that allows a fully armed knight to hide its entire body.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 15
+      },
+      "mdef": {
+        "bonus": 14
+      }
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 27,
+    "quantity": 1,
+    "size": 1,
+    "price": 1600
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WYp5q6IsrQsrvAOd",
+  "effects": [],
+  "_key": "!items!WYp5q6IsrQsrvAOd"
+}

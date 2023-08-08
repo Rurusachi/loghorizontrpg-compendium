@@ -1,0 +1,39 @@
+{
+  "name": "Telescope",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>For viewing objects from a distance. Misusing it is prohibited!</p>",
+    "timing": "none",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "-"
+    },
+    "target": {
+      "type": "none",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 10
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "cTqFimjdNXNNVToi",
+  "_key": "!items!cTqFimjdNXNNVToi"
+}

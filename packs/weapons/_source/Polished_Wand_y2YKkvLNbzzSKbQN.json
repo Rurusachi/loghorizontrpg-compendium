@@ -1,0 +1,39 @@
+{
+  "name": "Polished Wand",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The wand was polished and wrapped with magical silver on the surface.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 23
+      },
+      "matk": {
+        "bonus": 49
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Staff",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 3400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "y2YKkvLNbzzSKbQN",
+  "effects": [],
+  "_key": "!items!y2YKkvLNbzzSKbQN"
+}

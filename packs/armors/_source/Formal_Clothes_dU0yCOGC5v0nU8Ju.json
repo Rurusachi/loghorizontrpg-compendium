@@ -1,0 +1,33 @@
+{
+  "name": "Formal Clothes",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Not for everday use. You'll want to have a set ready for an important meeting with People of the Land, but you shouldn't wear these clothes all the time.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 0
+      },
+      "mdef": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 30
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "dU0yCOGC5v0nU8Ju",
+  "effects": [],
+  "_key": "!items!dU0yCOGC5v0nU8Ju"
+}

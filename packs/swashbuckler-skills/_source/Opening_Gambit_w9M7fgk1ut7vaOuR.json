@@ -1,0 +1,125 @@
+{
+  "_id": "w9M7fgk1ut7vaOuR",
+  "name": "Opening Gambit",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target takes [SR] stacks of [Pursuit: 7]. These [Pursuit] stacks may be divided amongst characters within range as you please.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): Add +1 to the number of [Pursuit] stacks.</p>\n<p>(Fate 2): Add +2 to the number of [Pursuit] stacks.</p>\n<p>(CR11): The [Pursuit] rating increases to 15.</p>\n<p>(CR21): The [Pursuit] rating increases to 24.</p>",
+    "limit": {
+      "min": 0,
+      "value": 0,
+      "max": 1,
+      "bonus": 1,
+      "addsr": "none",
+      "type": "scene"
+    },
+    "timing": "instant",
+    "check": {
+      "type": "automatic",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Weapon"
+    },
+    "target": {
+      "type": "refer",
+      "value": "0",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "1",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": "Combat, -, -, -",
+    "sr": {
+      "value": 1,
+      "max": 5
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!w9M7fgk1ut7vaOuR"
+}

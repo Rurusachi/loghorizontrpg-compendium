@@ -1,0 +1,39 @@
+{
+  "name": "Enduring Magic Salve I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target gains a +4 bonus to [Magic Defense]. Treat this effect as a Combat Status.</p>",
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Medicine, Consumable, Preparation",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 90
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "J7oidYa33QvyC3lH",
+  "_key": "!items!J7oidYa33QvyC3lH"
+}

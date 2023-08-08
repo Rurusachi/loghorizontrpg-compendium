@@ -1,0 +1,39 @@
+{
+  "name": "Unyielding Salve I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target gains [Cancel: 5].</p>",
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Medicine, Consumable, Preparation",
+    "ir": 10,
+    "quantity": 1,
+    "size": 1,
+    "price": 190
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "eT24xTP9RDbJFDmH",
+  "_key": "!items!eT24xTP9RDbJFDmH"
+}

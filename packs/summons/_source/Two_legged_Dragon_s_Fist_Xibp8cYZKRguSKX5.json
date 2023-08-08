@@ -1,0 +1,39 @@
+{
+  "name": "Two-legged Dragon's Fist",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You are put in the [Riding: Dinosaur] state. You can use EX power «Sharp Sense» and «Train Dash». (CR16): This item has no effect.</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Summon, Preparation, Rare, M2",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 150
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Xibp8cYZKRguSKX5",
+  "_key": "!items!Xibp8cYZKRguSKX5"
+}

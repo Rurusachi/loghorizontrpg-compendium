@@ -1,0 +1,39 @@
+{
+  "name": "Lance",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Originally a large spear used on horses.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 13
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Spear",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 160
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "91R8gukQp8VFYIZF",
+  "effects": [],
+  "_key": "!items!91R8gukQp8VFYIZF"
+}

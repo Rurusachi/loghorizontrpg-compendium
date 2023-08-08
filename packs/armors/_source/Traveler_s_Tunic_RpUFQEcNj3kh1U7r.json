@@ -1,0 +1,33 @@
+{
+  "name": "Traveler's Tunic",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A piece of metal is sewn on the back of the tanned leather garment to increase the defense.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 9
+      },
+      "mdef": {
+        "bonus": 13
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 270
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "RpUFQEcNj3kh1U7r",
+  "effects": [],
+  "_key": "!items!RpUFQEcNj3kh1U7r"
+}

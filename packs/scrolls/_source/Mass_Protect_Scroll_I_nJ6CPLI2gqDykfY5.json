@@ -1,0 +1,39 @@
+{
+  "name": "Mass Protect Scroll I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Choose one: [Flame] [Cold] [Shock] [Holy] [Blight] or [Spirit]. The target gains [Cancel (Chosen Tag): 5]. You take [Fatigue: (Base STR x2)]. (CR16): This item has no effect.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 7,
+    "quantity": 1,
+    "size": 1,
+    "price": 100
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "nJ6CPLI2gqDykfY5",
+  "_key": "!items!nJ6CPLI2gqDykfY5"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Light Javelin",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A one-handed spear that is balanced and made for melee.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 4
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Spear",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 70
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "hCYus9ZnV5toYtXO",
+  "effects": [],
+  "_key": "!items!hCYus9ZnV5toYtXO"
+}

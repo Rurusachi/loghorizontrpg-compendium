@@ -1,0 +1,125 @@
+{
+  "_id": "inKuQDx4gwmGnacx",
+  "name": "Shadow Bind",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target takes [Dazed]. When you use this skill while [Hidden], you do not lose [Hidden].</p>\n<p>&nbsp;</p>\n<p>(Hate 1): This skill can be used with [Timing: Initiative].</p>\n<p>&nbsp;</p>\n<p>A special skill that sews up the opponent's shadow and seals their movement. It doesn't do any direct damage, but being unable to move even for a moment in front of an &lt;Assassin&gt; is fatal.</p>",
+    "limit": {
+      "min": 0,
+      "value": 0,
+      "max": 1,
+      "bonus": 0,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "minor",
+    "check": {
+      "type": "automatic",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "4 Sq."
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "1",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": "Combat, -, -, -",
+    "sr": {
+      "value": 1,
+      "max": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!inKuQDx4gwmGnacx"
+}

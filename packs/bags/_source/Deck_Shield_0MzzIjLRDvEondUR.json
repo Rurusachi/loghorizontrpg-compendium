@@ -1,0 +1,25 @@
+{
+  "name": "Deck Shield",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You have 8 dedicated inventory slots dedicated to [Charms]. You +2 to your [Initiative].</p>",
+    "other": {
+      "inventoryslots": 0
+    },
+    "tags": "Accessory, One-Handed",
+    "ir": 13,
+    "quantity": 1,
+    "size": 1,
+    "price": 370
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "0MzzIjLRDvEondUR",
+  "effects": [],
+  "_key": "!items!0MzzIjLRDvEondUR"
+}

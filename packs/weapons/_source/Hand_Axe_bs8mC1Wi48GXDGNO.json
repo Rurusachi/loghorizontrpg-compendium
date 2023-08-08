@@ -1,0 +1,39 @@
+{
+  "name": "Hand Axe",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A small ax handled with one hand. Convenient as a tool.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 5
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Hafted",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 50
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "bs8mC1Wi48GXDGNO",
+  "effects": [],
+  "_key": "!items!bs8mC1Wi48GXDGNO"
+}

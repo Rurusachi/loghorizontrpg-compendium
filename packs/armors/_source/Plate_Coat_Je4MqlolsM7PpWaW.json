@@ -1,0 +1,33 @@
+{
+  "name": "Plate Coat",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Armor that secures both ease of movement and defense by fastening sheet metal to the back of durable leather or fabric. </p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 30
+      },
+      "mdef": {
+        "bonus": 17
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "tags": "Heavy Armor",
+    "ir": 12,
+    "quantity": 1,
+    "size": 1,
+    "price": 850
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Je4MqlolsM7PpWaW",
+  "effects": [],
+  "_key": "!items!Je4MqlolsM7PpWaW"
+}

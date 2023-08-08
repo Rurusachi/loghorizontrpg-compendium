@@ -1,0 +1,468 @@
+{
+  "_id": "7QJaNLsaNduaAzDo",
+  "name": "Monk",
+  "type": "class",
+  "img": "Monk_Logo.png",
+  "data": {
+    "description": "<p>At character creation, Monk characters obtain the following three skills for free: Martial Arts, Laughing Taunt, and Shadowless Kick.</p>",
+    "hp": {
+      "value": 55,
+      "modifier": 9
+    },
+    "abilities": {
+      "str": {
+        "value": 4
+      },
+      "dex": {
+        "value": 4
+      },
+      "pow": {
+        "value": 2
+      },
+      "int": {
+        "value": 0
+      }
+    },
+    "skills": [
+      {
+        "_id": "wzfgVrBdYusbNH2L",
+        "name": "Martial Arts",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>You gain a +2 bonus to [Accuracy]. Your [Evasion Checks] and [Resistance Checks] gain a +1D bonus.</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "constant",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "Close"
+          },
+          "target": {
+            "type": "self",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [
+          {
+            "_id": "b5xjjcHMlnP2ex5J",
+            "changes": [
+              {
+                "key": "data.attributes.accuracy.bonus",
+                "mode": 2,
+                "value": "2"
+              },
+              {
+                "key": "data.attributes.evasion.dice",
+                "mode": 2,
+                "value": "1"
+              },
+              {
+                "key": "data.attributes.resistance.dice",
+                "mode": 2,
+                "value": "1"
+              }
+            ],
+            "disabled": false,
+            "duration": {
+              "startTime": null
+            },
+            "icon": "icons/svg/aura.svg",
+            "label": "Martial Arts",
+            "origin": "Compendium.loghorizontrpg.monk-skills.cVz8aPeOjCKLR9YO",
+            "tint": null,
+            "transfer": true,
+            "flags": {}
+          }
+        ],
+        "folder": "Mn2tm1YxrhSafDtt",
+        "sort": 387500,
+        "permission": {
+          "default": 0,
+          "kH30kyBVeJe6zIts": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.monk-skills.cVz8aPeOjCKLR9YO"
+          }
+        }
+      },
+      {
+        "_id": "aGl8rT3axLE5Jw39",
+        "name": "Laughing Taunt",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>This skill can only target an ally other than yourself. The target may reduce their [Hate] by -2. This skill may be used multiple times during the same Main Process.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): This skill may be used with [Range: 6 Sq.]</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "minor",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "2 Sq."
+          },
+          "target": {
+            "type": "single",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [],
+        "folder": "Mn2tm1YxrhSafDtt",
+        "sort": 362500,
+        "permission": {
+          "default": 0,
+          "kH30kyBVeJe6zIts": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.monk-skills.wgljFZhG9jMa8SlF"
+          }
+        }
+      },
+      {
+        "_id": "p2rS007WPsZf6bkO",
+        "name": "Shadowless Kick",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>Use this skill just after you have successfully made a [Dodge Check] against an attack from the target.</p>\n<p>&nbsp;</p>\n<p>(Target: Mob): After the current Main Process ends, the target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p>(Hate Top): Deal 5 direct damage to the target.</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "aftercheck",
+          "check": {
+            "type": "automatic",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "Close"
+          },
+          "target": {
+            "type": "single",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "1",
+            "addsr": false,
+            "total": 1
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "5",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [],
+        "folder": "Mn2tm1YxrhSafDtt",
+        "sort": 368750,
+        "permission": {
+          "default": 0,
+          "kH30kyBVeJe6zIts": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.monk-skills.fQlCXH8PNwLwgyqK"
+          }
+        }
+      }
+    ],
+    "equippabletags": "[Martial Arts] [Throwing] [Light Armor] [Accessory] [Bag]"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "ZUUkEZycgIRSncDu": 3,
+    "kCCLU79fwope7zbH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.5dYAdnCXwJeJ4kfu"
+    }
+  },
+  "_key": "!items!7QJaNLsaNduaAzDo"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Snake Whip",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A hard whip with many short rods connected.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 11
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Whip",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 220
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "qyJrHAvC9s8GfzOx",
+  "effects": [],
+  "_key": "!items!qyJrHAvC9s8GfzOx"
+}

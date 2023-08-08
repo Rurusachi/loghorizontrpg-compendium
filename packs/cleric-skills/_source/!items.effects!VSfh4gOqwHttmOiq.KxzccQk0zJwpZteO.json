@@ -1,0 +1,21 @@
+{
+  "_id": "KxzccQk0zJwpZteO",
+  "changes": [
+    {
+      "key": "data.attributes.analyze.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Calm Guidance",
+  "origin": "Compendium.loghorizontrpg.cleric-skills.VSfh4gOqwHttmOiq",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!VSfh4gOqwHttmOiq.KxzccQk0zJwpZteO"
+}

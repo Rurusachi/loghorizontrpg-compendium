@@ -1,0 +1,39 @@
+{
+  "name": "Espadon",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A double-edged double-handed sword that has long handle a large long sword, so that both hands can handle it.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 40
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Blade",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "waGIAYaKCj7QwSWJ",
+  "effects": [],
+  "_key": "!items!waGIAYaKCj7QwSWJ"
+}

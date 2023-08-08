@@ -1,0 +1,25 @@
+{
+  "name": "Bag of Holding IV",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +18.</p>",
+    "other": {
+      "inventoryslots": 18
+    },
+    "tags": "Bag",
+    "ir": 29,
+    "quantity": 1,
+    "size": 1,
+    "price": 1600
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "s6cZB0HvevQTR6bT",
+  "effects": [],
+  "_key": "!items!s6cZB0HvevQTR6bT"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Longbow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A bow made by cutting hard trees.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 12
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 150
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "XykR0QDE1yY0xAB6",
+  "effects": [],
+  "_key": "!items!XykR0QDE1yY0xAB6"
+}

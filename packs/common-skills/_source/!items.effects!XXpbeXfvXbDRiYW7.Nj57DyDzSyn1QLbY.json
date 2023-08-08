@@ -1,0 +1,21 @@
+{
+  "_id": "Nj57DyDzSyn1QLbY",
+  "changes": [
+    {
+      "key": "data.fate.max",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Bonus Fate Point",
+  "origin": "Compendium.loghorizontrpg.common-skills.XXpbeXfvXbDRiYW7",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!XXpbeXfvXbDRiYW7.Nj57DyDzSyn1QLbY"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Hot Sauce**",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Gives access to Expower 'Flame Belch' [Special Attack], Major, Target: Single, Range: 1 Sq, 3/Scene, Deal 2D of Penetrating damage to the target. This damage triggers [Weakness (Flame)]. Treat 'Flame Belch' as a CS.</p>",
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Food, Consumable, Preparation, Rare",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 60
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ajFvNIilO9WfM0KW",
+  "_key": "!items!ajFvNIilO9WfM0KW"
+}

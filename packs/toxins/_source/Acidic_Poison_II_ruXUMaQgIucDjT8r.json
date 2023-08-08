@@ -1,0 +1,39 @@
+{
+  "name": "Acidic Poison II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Deal [2D + 26] physical damage to the target. This damage always has the [Blight] tag, even if another effect would overwrite it.</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "6",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable, Blight",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 120
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ruXUMaQgIucDjT8r",
+  "_key": "!items!ruXUMaQgIucDjT8r"
+}

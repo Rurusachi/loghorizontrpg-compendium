@@ -1,0 +1,463 @@
+{
+  "_id": "IxJKNT4d1cZsiwyk",
+  "name": "Druid",
+  "type": "class",
+  "img": "Druid_Logo.png",
+  "data": {
+    "description": "<p>At character creation, Druid characters obtain the following three skills for free: Totem Grace, Heartbeat Healing, and Heal. Note that the Heal skill is found on the Healer Archetype skill list.</p>",
+    "hp": {
+      "value": 35,
+      "modifier": 5
+    },
+    "abilities": {
+      "str": {
+        "value": 2
+      },
+      "dex": {
+        "value": 1
+      },
+      "pow": {
+        "value": 4
+      },
+      "int": {
+        "value": 3
+      }
+    },
+    "skills": [
+      {
+        "_id": "uDcwkCAWCXpDpgXy",
+        "name": "Totem Grace",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>You gain a +3 bonus to [Accuracy], and a +[POW Mod] bonus to [Physical Defense].</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "constant",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "Close"
+          },
+          "target": {
+            "type": "self",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [
+          {
+            "_id": "bxV1OU3qLY9YjjOt",
+            "changes": [
+              {
+                "key": "data.attributes.accuracy.bonus",
+                "mode": 2,
+                "value": "3"
+              },
+              {
+                "key": "data.combatstats.pdef.total",
+                "mode": 2,
+                "value": "@data.abilites.pow.mod"
+              }
+            ],
+            "disabled": false,
+            "duration": {
+              "startTime": null
+            },
+            "icon": "icons/svg/aura.svg",
+            "label": "Totem Grace",
+            "origin": "Compendium.loghorizontrpg.druid-skills.F0EGYIbF6WbAiY4q",
+            "tint": null,
+            "transfer": true,
+            "flags": {}
+          }
+        ],
+        "folder": null,
+        "sort": 150000,
+        "permission": {
+          "default": 0,
+          "ZUUkEZycgIRSncDu": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.druid-skills.F0EGYIbF6WbAiY4q"
+          }
+        }
+      },
+      {
+        "_id": "GCEloedPzuP4dcjQ",
+        "name": "Heartbeat Healing",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>The target gains [Regen: (Magic Power) + 10].</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "setup",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "4 Sq."
+          },
+          "target": {
+            "type": "single",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "2",
+            "addsr": false,
+            "total": 2
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "10",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": true,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": 1,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, Preparation, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 400000,
+        "permission": {
+          "default": 0,
+          "ZUUkEZycgIRSncDu": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.druid-skills.IHL7bkqShKRL4NAs"
+          }
+        }
+      },
+      {
+        "_id": "RnCs1HzRFH7PP1cN",
+        "name": "Heal",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>The target recovers [3D + (Magic Power) + (Recovery)] HP.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): Increase the amount of HP recovered by +10.</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "major",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "4 Sq."
+          },
+          "target": {
+            "type": "single",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "1",
+            "addsr": false,
+            "total": 1
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 300000,
+        "permission": {
+          "default": 0,
+          "ZUUkEZycgIRSncDu": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.healer-skills.My7Fi20fnbLi6g8O"
+          }
+        }
+      }
+    ],
+    "equippabletags": "[Spear] [Hafted] [Whip] [Magic Stone] [Medium Armor] [Light Armor] [Accessory] [Bag]"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "ZUUkEZycgIRSncDu": 3,
+    "kCCLU79fwope7zbH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.owLJnPUuaPwWj1Hs"
+    }
+  },
+  "_key": "!items!IxJKNT4d1cZsiwyk"
+}

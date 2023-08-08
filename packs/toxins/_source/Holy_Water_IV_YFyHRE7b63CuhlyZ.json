@@ -1,0 +1,39 @@
+{
+  "name": "Holy Water IV",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Deal [1D + 14] penetrating damage to the target. This damage always has the [Holy] tag, even if another effect would overwrite it.</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "9",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable, Holy",
+    "ir": 24,
+    "quantity": 1,
+    "size": 1,
+    "price": 690
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "YFyHRE7b63CuhlyZ",
+  "_key": "!items!YFyHRE7b63CuhlyZ"
+}

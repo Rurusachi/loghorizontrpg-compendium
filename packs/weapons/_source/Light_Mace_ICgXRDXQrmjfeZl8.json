@@ -1,0 +1,39 @@
+{
+  "name": "Light Mace",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A striking weapon with a metal head at the tip.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 4
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Hafted",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 40
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ICgXRDXQrmjfeZl8",
+  "effects": [],
+  "_key": "!items!ICgXRDXQrmjfeZl8"
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "UCW0ST3fBJg0Ljvu",
+  "changes": [
+    {
+      "key": "data.attributes.operate.dice",
+      "mode": 2,
+      "value": "1"
+    },
+    {
+      "key": "data.attributes.negotiation.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": true,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Troubadour SR2",
+  "origin": "Compendium.loghorizontrpg.bard-skills.wKWffYZHuI3SwE4e",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!wKWffYZHuI3SwE4e.UCW0ST3fBJg0Ljvu"
+}

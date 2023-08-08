@@ -1,0 +1,33 @@
+{
+  "name": "Hard Leather",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Light and hard armor made by tanning leather with wax.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 13
+      },
+      "mdef": {
+        "bonus": 10
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Medium Armor",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 270
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "7R2Le7enYxroOYp8",
+  "effects": [],
+  "_key": "!items!7R2Le7enYxroOYp8"
+}

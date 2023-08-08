@@ -1,0 +1,39 @@
+{
+  "name": "Fine Javelin",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The best handwear made by the hands of the artisan, recognized by many things.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 31
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Spear",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 2400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "uxrTvG4woXAfKSMA",
+  "effects": [],
+  "_key": "!items!uxrTvG4woXAfKSMA"
+}

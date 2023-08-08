@@ -1,0 +1,39 @@
+{
+  "name": "Short Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A double-edged sword with a blade span of about 50cm. Easy to handle.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 3
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade, Light",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 60
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "aiW3ZOi2e2dzb9cR",
+  "effects": [],
+  "_key": "!items!aiW3ZOi2e2dzb9cR"
+}

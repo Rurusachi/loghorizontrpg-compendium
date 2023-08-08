@@ -1,0 +1,39 @@
+{
+  "name": "Maple Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Long cane filled with jewels that use selected tree of maple to enhance magical power.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 36
+      },
+      "matk": {
+        "bonus": 37
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Staff",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "dguZi2cikj1srdCp",
+  "effects": [],
+  "_key": "!items!dguZi2cikj1srdCp"
+}

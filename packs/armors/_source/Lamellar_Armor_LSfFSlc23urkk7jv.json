@@ -1,0 +1,33 @@
+{
+  "name": "Lamellar Armor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Full body armor with small pieces of metal.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 23
+      },
+      "mdef": {
+        "bonus": 12
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "tags": "Heavy Armor",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 530
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "LSfFSlc23urkk7jv",
+  "effects": [],
+  "_key": "!items!LSfFSlc23urkk7jv"
+}

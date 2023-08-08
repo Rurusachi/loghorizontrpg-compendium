@@ -1,0 +1,39 @@
+{
+  "name": "Broadsword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A straight sword with a wide blade.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 13
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade",
+    "ir": 10,
+    "quantity": 1,
+    "size": 1,
+    "price": 330
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "eBNBXrUidh7LkJWX",
+  "effects": [],
+  "_key": "!items!eBNBXrUidh7LkJWX"
+}

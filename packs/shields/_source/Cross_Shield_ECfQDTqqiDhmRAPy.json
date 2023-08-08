@@ -1,0 +1,30 @@
+{
+  "name": "Cross Shield",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A kite shield with a cross drawn on the surface.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 9
+      },
+      "mdef": {
+        "bonus": 8
+      }
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 14,
+    "quantity": 1,
+    "size": 1,
+    "price": 470
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ECfQDTqqiDhmRAPy",
+  "effects": [],
+  "_key": "!items!ECfQDTqqiDhmRAPy"
+}

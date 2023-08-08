@@ -1,0 +1,39 @@
+{
+  "name": "Deadly Poison II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>This item only has an effect if the target is a [Mob] enemy. The target becomes [Incapacitated] or [Dead] (your choice).</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "5",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 60
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "w03leEXm8F3xKYMs",
+  "_key": "!items!w03leEXm8F3xKYMs"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Tent (Pavilion)",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Useful for raids, guild training camps, and small festivals.</p>",
+    "timing": "resttime",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 800
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "sdP6ILN1KNdh7gu5",
+  "_key": "!items!sdP6ILN1KNdh7gu5"
+}

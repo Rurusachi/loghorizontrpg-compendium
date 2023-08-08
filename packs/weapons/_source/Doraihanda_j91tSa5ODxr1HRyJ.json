@@ -1,0 +1,39 @@
+{
+  "name": "Doraihanda",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A heavyweight two-handed sword with both hand size and weight that seems to be very crisp yet.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 54
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Blade",
+    "ir": 27,
+    "quantity": 1,
+    "size": 1,
+    "price": 2900
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "j91tSa5ODxr1HRyJ",
+  "effects": [],
+  "_key": "!items!j91tSa5ODxr1HRyJ"
+}

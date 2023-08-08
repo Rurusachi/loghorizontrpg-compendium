@@ -1,0 +1,39 @@
+{
+  "name": "Magical Card II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During the target's current Main Process, physical damage they deal changes to magical damage. (CR25): This item has no effect. </p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 15,
+    "quantity": 1,
+    "size": 1,
+    "price": 400
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "eXHvMQ5pqQMIlubW",
+  "_key": "!items!eXHvMQ5pqQMIlubW"
+}

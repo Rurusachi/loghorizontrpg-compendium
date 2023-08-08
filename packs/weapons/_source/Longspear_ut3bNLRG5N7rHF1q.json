@@ -1,0 +1,39 @@
+{
+  "name": "Longspear",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A spear with a long handle. You can attack and control the airspace from a long distance.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 6
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Spear",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 80
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ut3bNLRG5N7rHF1q",
+  "effects": [],
+  "_key": "!items!ut3bNLRG5N7rHF1q"
+}

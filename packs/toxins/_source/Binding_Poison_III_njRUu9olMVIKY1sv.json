@@ -1,0 +1,39 @@
+{
+  "name": "Binding Poison III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target takes [Rigor].</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "9",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 320
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "njRUu9olMVIKY1sv",
+  "_key": "!items!njRUu9olMVIKY1sv"
+}

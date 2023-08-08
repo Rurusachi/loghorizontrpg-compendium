@@ -1,0 +1,21 @@
+{
+  "_id": "6Mq9PQtfAQsyAgEp",
+  "changes": [
+    {
+      "key": "data.attributes.athletics.bonus",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Performance",
+  "origin": "Compendium.loghorizontrpg.bard-skills.ZtpvItMpVBRMk2tP",
+  "transfer": true,
+  "flags": {},
+  "tint": "",
+  "_key": "!items.effects!ZtpvItMpVBRMk2tP.6Mq9PQtfAQsyAgEp"
+}

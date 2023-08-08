@@ -1,0 +1,39 @@
+{
+  "name": "Decay Poison II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target takes [Decay: 5].</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "5",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable",
+    "ir": 7,
+    "quantity": 1,
+    "size": 1,
+    "price": 80
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Jkr9RMS03mU0emC3",
+  "_key": "!items!Jkr9RMS03mU0emC3"
+}

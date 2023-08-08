@@ -1,0 +1,39 @@
+{
+  "name": "Great Ax",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Battle ax with both hands which increased power and increased power.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 40
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -2
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Hafted",
+    "ir": 14,
+    "quantity": 1,
+    "size": 1,
+    "price": 810
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "W7NcwKQSyhFU864G",
+  "effects": [],
+  "_key": "!items!W7NcwKQSyhFU864G"
+}

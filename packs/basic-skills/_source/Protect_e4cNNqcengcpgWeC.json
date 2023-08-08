@@ -1,0 +1,130 @@
+{
+  "_id": "e4cNNqcengcpgWeC",
+  "name": "Protect",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Use when an ally other than you would take damage. You take the damage instead of the target, and the target is unaffected by the attack. You must be in the [Pre-Action] state to use this ability, and become [Post-Action] after using it. This skill may only be used once in response to any given attack. Enemies cannot use this skill.</p>",
+    "limit": {
+      "min": 0,
+      "value": 1,
+      "max": "1",
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "beforedamage",
+    "check": {
+      "type": "none",
+      "caster": "",
+      "bonus": "",
+      "addsr": false,
+      "target": "",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": null
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": "Basic",
+    "sr": {
+      "value": 1,
+      "max": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "kCCLU79fwope7zbH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.Hn2LZGzv0RsDdlbp"
+    }
+  },
+  "_key": "!items!e4cNNqcengcpgWeC"
+}

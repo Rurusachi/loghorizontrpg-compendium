@@ -1,0 +1,39 @@
+{
+  "name": "Mass Stealth Scroll III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>When the target appears in the next scene, they will have the [Hidden] status. You take [Fatigue: (Base STR) x 2].</p>",
+    "timing": "briefing",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 28,
+    "quantity": 1,
+    "size": 1,
+    "price": 1200
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "aOFKbDjlqlOwTdEo",
+  "_key": "!items!aOFKbDjlqlOwTdEo"
+}

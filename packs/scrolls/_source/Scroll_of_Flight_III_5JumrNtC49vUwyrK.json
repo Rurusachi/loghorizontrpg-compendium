@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Flight III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target gains [Flying]. Treat this effect as a Combat Status. You take [Fatigue: (Base STR x 2)].</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 14,
+    "quantity": 1,
+    "size": 1,
+    "price": 890
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "5JumrNtC49vUwyrK",
+  "_key": "!items!5JumrNtC49vUwyrK"
+}

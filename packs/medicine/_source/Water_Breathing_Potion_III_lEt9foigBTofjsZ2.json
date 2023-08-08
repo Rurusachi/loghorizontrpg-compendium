@@ -1,0 +1,39 @@
+{
+  "name": "Water Breathing Potion III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You gain the [Aquatic] tag. Treat this effect as a Combat Status.</p>",
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Medicine, Consumable, Preparation",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 260
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "lEt9foigBTofjsZ2",
+  "_key": "!items!lEt9foigBTofjsZ2"
+}

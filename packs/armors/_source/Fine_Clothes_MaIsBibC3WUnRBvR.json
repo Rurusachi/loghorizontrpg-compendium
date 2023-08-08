@@ -1,0 +1,33 @@
+{
+  "name": "Fine Clothes",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>For when you take time off from questing, you might want to have a set of these ready for going on a date. It's nice to have some clothes.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 0
+      },
+      "mdef": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 20
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "MaIsBibC3WUnRBvR",
+  "effects": [],
+  "_key": "!items!MaIsBibC3WUnRBvR"
+}

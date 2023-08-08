@@ -1,0 +1,39 @@
+{
+  "name": "Pine Wand",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Magician wand. A fine pattern is carved on the surface.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 4
+      },
+      "matk": {
+        "bonus": 7
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Staff",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 140
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "OkKcqr2MBf7i5BOu",
+  "effects": [],
+  "_key": "!items!OkKcqr2MBf7i5BOu"
+}

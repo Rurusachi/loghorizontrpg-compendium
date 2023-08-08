@@ -1,0 +1,33 @@
+{
+  "name": "Tilt Armor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A heavy, solid metal shell used in joust games in the old days.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 69
+      },
+      "mdef": {
+        "bonus": 43
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "tags": "Heavy Armor",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 4700
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Gndi7gG9nLAGug8c",
+  "effects": [],
+  "_key": "!items!Gndi7gG9nLAGug8c"
+}

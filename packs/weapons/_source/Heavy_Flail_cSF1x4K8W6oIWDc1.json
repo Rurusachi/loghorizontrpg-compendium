@@ -1,0 +1,39 @@
+{
+  "name": "Heavy Flail",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Tang Rod weapon which connects metal rods and gives a blow with centrifugal force and weight.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 52
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -2
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Hafted",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "cSF1x4K8W6oIWDc1",
+  "effects": [],
+  "_key": "!items!cSF1x4K8W6oIWDc1"
+}

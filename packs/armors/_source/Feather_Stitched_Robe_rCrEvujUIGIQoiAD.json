@@ -1,0 +1,33 @@
+{
+  "name": "Feather Stitched Robe",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A robe with magical embroidery that dramatically increases defensive power.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 40
+      },
+      "mdef": {
+        "bonus": 59
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 4200
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "rCrEvujUIGIQoiAD",
+  "effects": [],
+  "_key": "!items!rCrEvujUIGIQoiAD"
+}

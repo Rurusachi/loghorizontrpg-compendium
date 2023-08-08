@@ -1,0 +1,39 @@
+{
+  "name": "Falchyon",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A wide sword used by people in the desert. It is also called a barbari and has a great sense of intimidation.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 16
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade",
+    "ir": 13,
+    "quantity": 1,
+    "size": 1,
+    "price": 520
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "xaWQcEW6CeHLPX89",
+  "effects": [],
+  "_key": "!items!xaWQcEW6CeHLPX89"
+}

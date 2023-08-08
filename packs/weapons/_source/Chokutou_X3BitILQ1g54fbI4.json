@@ -1,0 +1,39 @@
+{
+  "name": "Chokutou",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sword with sharp edges and blades without warping.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 10
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Katana",
+    "ir": 8,
+    "quantity": 1,
+    "size": 1,
+    "price": 270
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "X3BitILQ1g54fbI4",
+  "effects": [],
+  "_key": "!items!X3BitILQ1g54fbI4"
+}

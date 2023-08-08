@@ -1,0 +1,39 @@
+{
+  "name": "Flamere",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sharp spear with an elongated canopy shaped tip.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 24
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Spear",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 1400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "jaxrX0ErDGDxBup9",
+  "effects": [],
+  "_key": "!items!jaxrX0ErDGDxBup9"
+}

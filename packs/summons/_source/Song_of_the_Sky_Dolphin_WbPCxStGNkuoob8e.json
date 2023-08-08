@@ -1,0 +1,39 @@
+{
+  "name": "Song of the Sky Dolphin",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You are put in the [Riding: Kelpie] state. You can use EX power «Aqua Jet», «Big Wave» and gain the [Aquatic] tag.  (CR22): This item has no effect.</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Summon, Preparation, Rare, M2",
+    "ir": 12,
+    "quantity": 1,
+    "size": 1,
+    "price": 450
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WbPCxStGNkuoob8e",
+  "_key": "!items!WbPCxStGNkuoob8e"
+}

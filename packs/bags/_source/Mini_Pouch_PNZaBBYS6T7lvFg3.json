@@ -1,0 +1,25 @@
+{
+  "name": "Mini-Pouch",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +2.</p>",
+    "other": {
+      "inventoryslots": 2
+    },
+    "tags": "Bag, Accessory",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 50
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "PNZaBBYS6T7lvFg3",
+  "effects": [],
+  "_key": "!items!PNZaBBYS6T7lvFg3"
+}

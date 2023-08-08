@@ -1,0 +1,39 @@
+{
+  "name": "Mass Stealth Scroll II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>When the target appears in the next scene, they will have the [Hidden] status. You take [Fatigue: (Base STR) x 2]. (CR28): This item has no effect.</p>",
+    "timing": "briefing",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 18,
+    "quantity": 1,
+    "size": 1,
+    "price": 570
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "8GkuXogQa82VY8F1",
+  "_key": "!items!8GkuXogQa82VY8F1"
+}

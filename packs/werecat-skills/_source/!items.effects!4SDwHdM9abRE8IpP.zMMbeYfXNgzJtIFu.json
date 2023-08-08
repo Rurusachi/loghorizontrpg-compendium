@@ -1,0 +1,21 @@
+{
+  "_id": "zMMbeYfXNgzJtIFu",
+  "changes": [
+    {
+      "key": "data.abilities.dex.bonus",
+      "mode": 2,
+      "value": "4"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Cat's Grace",
+  "origin": "Compendium.loghorizontrpg.werecat-skills.4SDwHdM9abRE8IpP",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!4SDwHdM9abRE8IpP.zMMbeYfXNgzJtIFu"
+}

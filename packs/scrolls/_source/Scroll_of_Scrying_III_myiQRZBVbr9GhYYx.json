@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Scrying III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You can target any enemy appearing in the next scene that you know the name of with [Enemy Identification]. You take [Fatigue: Base STR].</p>",
+    "timing": "briefing",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Scout",
+    "ir": 21,
+    "quantity": 1,
+    "size": 1,
+    "price": 690
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "myiQRZBVbr9GhYYx",
+  "_key": "!items!myiQRZBVbr9GhYYx"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Giant Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A huge handed sword that processed the giant's waving sword for humanity.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 47
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Blade",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 2100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "gwBQEOVCdJQrQrM0",
+  "effects": [],
+  "_key": "!items!gwBQEOVCdJQrQrM0"
+}

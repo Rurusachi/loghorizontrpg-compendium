@@ -1,0 +1,21 @@
+{
+  "_id": "IhnOAwejv8wqln0G",
+  "changes": [
+    {
+      "key": "data.hp.base",
+      "mode": 2,
+      "value": "-10"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Substitute Tail",
+  "origin": "Compendium.loghorizontrpg.fox-tail-skills.eRN4k5XrEH9xFaPT",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!eRN4k5XrEH9xFaPT.IhnOAwejv8wqln0G"
+}

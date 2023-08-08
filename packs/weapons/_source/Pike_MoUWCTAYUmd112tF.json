@@ -1,0 +1,39 @@
+{
+  "name": "Pike",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A spear that has a leaf-like tip of a tree on a very long handle.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 8
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Spear",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 90
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "MoUWCTAYUmd112tF",
+  "effects": [],
+  "_key": "!items!MoUWCTAYUmd112tF"
+}

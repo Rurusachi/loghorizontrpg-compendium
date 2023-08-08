@@ -1,0 +1,39 @@
+{
+  "name": "Sickle",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A weapon derived from agricultural tools.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 9
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Hafted",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 90
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "HcYO23kYhlJSRzLv",
+  "effects": [],
+  "_key": "!items!HcYO23kYhlJSRzLv"
+}

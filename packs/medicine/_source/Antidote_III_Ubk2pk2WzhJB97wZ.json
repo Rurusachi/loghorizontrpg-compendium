@@ -1,0 +1,39 @@
+{
+  "name": "Antidote III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target removes a [Decay] condition with a rating of 60 or less.</p>",
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Medicine, Consumable",
+    "ir": 21,
+    "quantity": 1,
+    "size": 1,
+    "price": 430
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Ubk2pk2WzhJB97wZ",
+  "_key": "!items!Ubk2pk2WzhJB97wZ"
+}

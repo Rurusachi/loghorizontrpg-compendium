@@ -1,0 +1,39 @@
+{
+  "name": "Focus Card I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During the target's current Main Process, the target's [Normal Moves] become [Safe Moves]. (CR16): This item has no effect. </p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 90
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "TCK4FbX1aESpRb9L",
+  "_key": "!items!TCK4FbX1aESpRb9L"
+}

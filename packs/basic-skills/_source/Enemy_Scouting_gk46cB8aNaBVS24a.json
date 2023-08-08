@@ -1,0 +1,128 @@
+{
+  "_id": "gk46cB8aNaBVS24a",
+  "name": "Enemy Scouting",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Use this skill when you attempt to acquire information about enemies in the next scene.</p>\n<p>&nbsp;</p>\n<p>(Result: 10) You learn the number of enemies appearing.</p>\n<p>(Result: 20) You learn the name of the lowest ranked enemy (if there are several tied for the same rank, GM's choice), along with whether they have the [Boss] or [Mob] tags.</p>\n<p>(Fumble): The enemy notices your scouting.</p>",
+    "limit": {
+      "min": 0,
+      "value": 0,
+      "max": "0",
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "briefing",
+    "check": {
+      "type": "basic",
+      "caster": "athletics",
+      "bonus": null,
+      "addsr": false,
+      "target": "detection",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Refer"
+    },
+    "target": {
+      "type": "refer",
+      "value": "",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": null
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": "Basic, Scout",
+    "sr": {
+      "value": 1,
+      "max": 1
+    },
+    "cost": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "kCCLU79fwope7zbH": 3,
+    "ZUUkEZycgIRSncDu": 3
+  },
+  "flags": {},
+  "_key": "!items!gk46cB8aNaBVS24a"
+}

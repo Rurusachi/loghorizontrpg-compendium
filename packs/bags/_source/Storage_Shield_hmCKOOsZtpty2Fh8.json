@@ -1,0 +1,25 @@
+{
+  "name": "Storage Shield",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You have five additional inventory slots. Your physical defense is +6.</p>",
+    "other": {
+      "inventoryslots": 0
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 12,
+    "quantity": 1,
+    "size": 1,
+    "price": 320
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "hmCKOOsZtpty2Fh8",
+  "effects": [],
+  "_key": "!items!hmCKOOsZtpty2Fh8"
+}

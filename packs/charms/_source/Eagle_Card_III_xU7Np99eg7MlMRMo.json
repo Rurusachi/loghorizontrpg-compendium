@@ -1,0 +1,39 @@
+{
+  "name": "Eagle Card III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During this Main Process, the target gains [Flying].</p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 28,
+    "quantity": 1,
+    "size": 1,
+    "price": 1400
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "xU7Np99eg7MlMRMo",
+  "_key": "!items!xU7Np99eg7MlMRMo"
+}

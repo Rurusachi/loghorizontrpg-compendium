@@ -1,0 +1,39 @@
+{
+  "name": "Demonic Flame Light Sand I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Deal [2D + 5] magical damage to the target. This damage always has the [Flame] tag, even if another effect would overwrite it.</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "4",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 30
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "MFltVkwcGWCj3eT6",
+  "_key": "!items!MFltVkwcGWCj3eT6"
+}

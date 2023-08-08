@@ -1,0 +1,25 @@
+{
+  "name": "Bag of Holding I",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +6. This is often referred to as Tohra's Magic Bag.</p>",
+    "other": {
+      "inventoryslots": 6
+    },
+    "tags": "Bag",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 90
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ZCq1jwX7PE5ZaQd4",
+  "effects": [],
+  "_key": "!items!ZCq1jwX7PE5ZaQd4"
+}

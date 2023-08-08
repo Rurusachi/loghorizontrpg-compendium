@@ -1,0 +1,39 @@
+{
+  "name": "Jamada Hull",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Qatar increased its power by using rare metals.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 42
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Martial Arts",
+    "ir": 27,
+    "quantity": 1,
+    "size": 1,
+    "price": 2600
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ji1wmEFGgDnt7V5T",
+  "effects": [],
+  "_key": "!items!ji1wmEFGgDnt7V5T"
+}

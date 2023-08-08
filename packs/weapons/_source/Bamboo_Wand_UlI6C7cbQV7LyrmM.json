@@ -1,0 +1,39 @@
+{
+  "name": "Bamboo Wand",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A wand that uses precious metals for decoration and has enhanced magical power.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 7
+      },
+      "matk": {
+        "bonus": 12
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Staff",
+    "ir": 7,
+    "quantity": 1,
+    "size": 1,
+    "price": 260
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "UlI6C7cbQV7LyrmM",
+  "effects": [],
+  "_key": "!items!UlI6C7cbQV7LyrmM"
+}

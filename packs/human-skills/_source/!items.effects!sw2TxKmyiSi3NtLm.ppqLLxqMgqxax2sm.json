@@ -1,0 +1,36 @@
+{
+  "_id": "ppqLLxqMgqxax2sm",
+  "changes": [
+    {
+      "key": "data.abilities.str.bonus",
+      "mode": 2,
+      "value": "1"
+    },
+    {
+      "key": "data.abilities.dex.bonus",
+      "mode": 2,
+      "value": "1"
+    },
+    {
+      "key": "data.abilities.pow.bonus",
+      "mode": 2,
+      "value": "1"
+    },
+    {
+      "key": "data.abilities.int.bonus",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Human Discipline",
+  "origin": "Compendium.loghorizontrpg.human-skills.sw2TxKmyiSi3NtLm",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!sw2TxKmyiSi3NtLm.ppqLLxqMgqxax2sm"
+}

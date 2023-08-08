@@ -1,0 +1,39 @@
+{
+  "name": "Mistletoe Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Long stick of mistletoe made with emphasis on transmission of magical power.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 41
+      },
+      "matk": {
+        "bonus": 46
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Staff",
+    "ir": 24,
+    "quantity": 1,
+    "size": 1,
+    "price": 2300
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "OH0nJGEAPPryI831",
+  "effects": [],
+  "_key": "!items!OH0nJGEAPPryI831"
+}

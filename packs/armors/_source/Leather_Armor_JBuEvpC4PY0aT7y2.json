@@ -1,0 +1,33 @@
+{
+  "name": "Leather Armor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Armor with tanned leather.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 5
+      },
+      "mdef": {
+        "bonus": 3
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Medium Armor",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 120
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "JBuEvpC4PY0aT7y2",
+  "effects": [],
+  "_key": "!items!JBuEvpC4PY0aT7y2"
+}

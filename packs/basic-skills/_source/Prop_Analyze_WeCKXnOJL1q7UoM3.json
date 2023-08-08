@@ -1,0 +1,128 @@
+{
+  "_id": "WeCKXnOJL1q7UoM3",
+  "name": "Prop Analyze",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>This skill targets a single Prop with a [Analysis Difficulty]. The target becomes [Analyzed].</p>",
+    "limit": {
+      "min": 0,
+      "value": 0,
+      "max": "0",
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "major",
+    "check": {
+      "type": "basic",
+      "caster": "analyze",
+      "bonus": null,
+      "addsr": false,
+      "target": "analysis",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "1"
+    },
+    "target": {
+      "type": "refer",
+      "value": "",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": null
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": "Basic",
+    "sr": {
+      "value": 1,
+      "max": 1
+    },
+    "cost": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "kCCLU79fwope7zbH": 3,
+    "ZUUkEZycgIRSncDu": 3
+  },
+  "flags": {},
+  "_key": "!items!WeCKXnOJL1q7UoM3"
+}

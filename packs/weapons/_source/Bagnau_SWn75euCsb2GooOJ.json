@@ -1,0 +1,39 @@
+{
+  "name": "Bagnau",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Nail for fighting to use by grasping in the palm.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 22
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Martial Arts",
+    "ir": 13,
+    "quantity": 1,
+    "size": 1,
+    "price": 680
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "SWn75euCsb2GooOJ",
+  "effects": [],
+  "_key": "!items!SWn75euCsb2GooOJ"
+}

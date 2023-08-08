@@ -1,0 +1,43 @@
+{
+  "_id": "QAdkyo9M0nFXIs7p",
+  "name": "Race of Ritual",
+  "type": "race",
+  "img": "Viola_sng.png",
+  "data": {
+    "description": "",
+    "hp": {
+      "value": 0
+    },
+    "abilities": {
+      "str": {
+        "value": 0
+      },
+      "dex": {
+        "value": 0
+      },
+      "pow": {
+        "value": 0
+      },
+      "int": {
+        "value": 2
+      }
+    },
+    "fate": {
+      "value": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "ZUUkEZycgIRSncDu": 3,
+    "kCCLU79fwope7zbH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.N1v8CkgXPTjRNm45"
+    }
+  },
+  "_key": "!items!QAdkyo9M0nFXIs7p"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Combat Dress",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Cloth armor designed to not break during instense battles. Many have beautiful appearances.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 36
+      },
+      "mdef": {
+        "bonus": 53
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 27,
+    "quantity": 1,
+    "size": 1,
+    "price": 3400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "visvAxG830qtO9MT",
+  "effects": [],
+  "_key": "!items!visvAxG830qtO9MT"
+}

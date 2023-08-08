@@ -1,0 +1,39 @@
+{
+  "name": "True Sight Card I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>This item targets everything in range that has a [Detection Difficulty]. The target removes [Concealed] or [Hidden]. You do not have to apply this effect to your allies. </p>",
+    "timing": "move",
+    "check": {
+      "type": "basic",
+      "caster": "none",
+      "bonus": "5",
+      "addsr": false,
+      "target": "detection"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 70
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "OXkhCasjTnqzgWhX",
+  "_key": "!items!OXkhCasjTnqzgWhX"
+}

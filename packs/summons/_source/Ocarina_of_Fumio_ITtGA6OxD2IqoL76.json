@@ -1,0 +1,39 @@
+{
+  "name": "Ocarina of Fumio",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You are put in the [Riding: Passenger Horse] state. You can use EX power «Horse Trot» and «Horse Kick». \n(CR11): This item has no effect.</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Summon, Preparation, M2",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 45
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ITtGA6OxD2IqoL76",
+  "_key": "!items!ITtGA6OxD2IqoL76"
+}

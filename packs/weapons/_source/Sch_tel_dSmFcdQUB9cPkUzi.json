@@ -1,0 +1,39 @@
+{
+  "name": "Schötel",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A double-edged sword featuring a large S-shaped curved blade.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 29
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Blade",
+    "ir": 13,
+    "quantity": 1,
+    "size": 1,
+    "price": 740
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "dSmFcdQUB9cPkUzi",
+  "effects": [],
+  "_key": "!items!dSmFcdQUB9cPkUzi"
+}

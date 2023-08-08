@@ -1,0 +1,39 @@
+{
+  "name": "Morning Star",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A blunt instrument with an iron ball with spikes attached to the tip of the handle.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 13
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Hafted",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 200
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "bYNUDvkKWflhHvj0",
+  "effects": [],
+  "_key": "!items!bYNUDvkKWflhHvj0"
+}

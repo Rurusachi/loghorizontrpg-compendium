@@ -1,0 +1,327 @@
+{
+  "_id": "lq0zH6RVmMyRBRxS",
+  "name": "Swashbuckler",
+  "type": "class",
+  "img": "Swashbuckler_Logo.png",
+  "data": {
+    "description": "<p>At character creation, Swashbuckler characters obtain the following three skills for free: Blade Artist, End of Act, and either Opening Gambit or Danse Macabre. Note that the Blade Artist skill is found on the Weapon Master Archetype skill list.</p>",
+    "hp": {
+      "value": 40,
+      "modifier": 6
+    },
+    "abilities": {
+      "str": {
+        "value": 3
+      },
+      "dex": {
+        "value": 4
+      },
+      "pow": {
+        "value": 2
+      },
+      "int": {
+        "value": 1
+      }
+    },
+    "skills": [
+      {
+        "_id": "CGdsrS64FjURpJ3b",
+        "name": "Blade Artist",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>You gain a +1D bonus to [Hit Checks].</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "constant",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "Close"
+          },
+          "target": {
+            "type": "self",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [
+          {
+            "_id": "2gxqK8EuLtWHwLUD",
+            "changes": [
+              {
+                "key": "data.attributes.accuracy.dice",
+                "mode": 2,
+                "value": "1"
+              }
+            ],
+            "disabled": false,
+            "duration": {
+              "startTime": null
+            },
+            "icon": "icons/svg/aura.svg",
+            "label": "Accuracy Bonus",
+            "origin": "Compendium.loghorizontrpg.weapon-master-skills.iH6uFC9DRbxX207A",
+            "tint": null,
+            "transfer": true,
+            "flags": {}
+          }
+        ],
+        "folder": null,
+        "sort": 300000,
+        "permission": {
+          "default": 0,
+          "ZUUkEZycgIRSncDu": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.weapon-master-skills.iH6uFC9DRbxX207A"
+          }
+        }
+      },
+      {
+        "_id": "4Wump5hZ4WrvtaCq",
+        "name": "End of Act",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>If a [Mob] has taken at least one point of HP Damage as a result of this damage roll, it becomes [Incapacitated] or [Dead] (your choice).</p>\n<p>&nbsp;</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 1,
+            "addsr": "none",
+            "type": "scene"
+          },
+          "timing": "damageroll",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "Close"
+          },
+          "target": {
+            "type": "self",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "1",
+            "addsr": false,
+            "total": 1
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 350000,
+        "permission": {
+          "default": 0,
+          "ZUUkEZycgIRSncDu": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.swashbuckler-skills.3S1GGkGbIX8vmY3W"
+          }
+        }
+      }
+    ],
+    "equippabletags": "[Blade] [Hafted] [Whip] [Throwing] [Shield] [Medium Armor] [Light Armor] [Accessory] [Bag]"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "ZUUkEZycgIRSncDu": 3,
+    "kCCLU79fwope7zbH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.oxFXH5STqNTp9LWK"
+    }
+  },
+  "_key": "!items!lq0zH6RVmMyRBRxS"
+}

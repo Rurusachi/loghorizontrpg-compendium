@@ -1,0 +1,39 @@
+{
+  "name": "Sword Two Leg Dragon Horn",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You are put in the [Riding: Dinosaur] state. You can use EX power «Sharp Sense», «Train Dash» and «Force Rush».</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Summon, Preparation, Rare, M2",
+    "ir": 26,
+    "quantity": 1,
+    "size": 1,
+    "price": 1800
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "T5anxPYVi9Clxbwn",
+  "_key": "!items!T5anxPYVi9Clxbwn"
+}

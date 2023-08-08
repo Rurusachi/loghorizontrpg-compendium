@@ -1,0 +1,39 @@
+{
+  "name": "Elemental Card II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Select one: [Flame] [Cold] [Shock] [Blight] [Holy] or [Spirit]. During the target's Main Process, they deal damage of the chosen tag. (CR21): This item has no effect.</p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 230
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "mPI2yKNe62fB7teq",
+  "_key": "!items!mPI2yKNe62fB7teq"
+}

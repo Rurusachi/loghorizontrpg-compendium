@@ -1,0 +1,39 @@
+{
+  "name": "Quick Card I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During the target's current Main Process, the target receives an extra minor action. The effect of multiple Quick Cards (regardless of grade) do not stack. (CR17): This item has no effect. </p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 7,
+    "quantity": 1,
+    "size": 1,
+    "price": 170
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "wpzGNocvGfMeUI1D",
+  "_key": "!items!wpzGNocvGfMeUI1D"
+}

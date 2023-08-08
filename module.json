@@ -1,0 +1,375 @@
+{
+  "id": "loghorizontrpg-compendium",
+  "title": "Log Horizon Compendium",
+  "description": "Compendium pack for Log Horizon",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11.307
+  },
+  "relationships": {
+	  "systems": [{
+			"id": "loghorizontrpg",
+			"type": "system",
+			"manifest": "https://github.com/Rurusachi/loghorizontrpg/releases/latest/download/system.json",
+			"compatibility": {
+				"verified": "0.5.0"
+			}
+		}
+	  ]
+  },
+  "packs": [
+    {
+      "name": "warrior-skills",
+      "label": "Warrior Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/warrior-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "guardian-skills",
+      "label": "Guardian Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/guardian-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "samurai-skills",
+      "label": "Samurai Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/samurai-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "monk-skills",
+      "label": "Monk Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/monk-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "healer-skills",
+      "label": "Healer Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/healer-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "cleric-skills",
+      "label": "Cleric Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/cleric-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "druid-skills",
+      "label": "Druid Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/druid-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "kannagi-skills",
+      "label": "Kannagi Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/kannagi-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "weapon-master-skills",
+      "label": "Weapon Master Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/weapon-master-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "assassin-skills",
+      "label": "Assassin Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/assassin-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "swashbuckler-skills",
+      "label": "Swashbuckler Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/swashbuckler-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "bard-skills",
+      "label": "Bard Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/bard-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "mage-skills",
+      "label": "Mage Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/mage-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "sorcerer-skills",
+      "label": "Sorcerer Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/sorcerer-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "summoner-skills",
+      "label": "Summoner Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/summoner-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "enchanter-skills",
+      "label": "Enchanter Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/enchanter-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "basic-skills",
+      "label": "Basic Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/basic-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "common-skills",
+      "label": "Common Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/common-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "subclass-skills",
+      "label": "Subclass Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/subclass-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "human-skills",
+      "label": "Human Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/human-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "elf-skills",
+      "label": "Elf Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/elf-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "dwarf-skills",
+      "label": "Dwarf Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/dwarf-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "half-alv-skills",
+      "label": "Half-Alv Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/half-alv-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "werecat-skills",
+      "label": "Werecat Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/werecat-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "wolf-fang-skills",
+      "label": "Wolf Fang Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/wolf-fang-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "fox-tail-skills",
+      "label": "Fox Tail Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/fox-tail-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "race-of-ritual-skills",
+      "label": "Race of Ritual Skills",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/race-of-ritual-skills",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "races",
+      "label": "Races",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/races",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/classes",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "weapons",
+      "label": "Weapons",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/weapons",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "armors",
+      "label": "Armors",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/armors",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "shields",
+      "label": "Shields",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/shields",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "accessories",
+      "label": "Accessories",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/accessories",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "bags",
+      "label": "Bags",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/bags",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "food",
+      "label": "Food",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/food",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "medicine",
+      "label": "Medicine",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/medicine",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "scrolls",
+      "label": "Scrolls",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/scrolls",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "gems",
+      "label": "Gems",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/gems",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "toxins",
+      "label": "Toxins",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/toxins",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "charms",
+      "label": "Charms",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/charms",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "summons",
+      "label": "Summons",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/summons",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "miscellaneous",
+      "label": "Miscellaneous",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/miscellaneous",
+      "type": "Item",
+      "lang": ["en"]
+    },
+    {
+      "name": "equipment-lists",
+      "label": "Equipment Lists",
+	  "system": ["loghorizontrpg"],
+      "path": "./packs/equipment-lists",
+      "type": "JournalEntry",
+      "lang": ["en"]
+    }
+  ],
+  "url": "",
+  "authors": [
+    {
+      "name": "Rurusachi"
+    }
+  ],
+  "manifest": "",
+  "download": ""
+}

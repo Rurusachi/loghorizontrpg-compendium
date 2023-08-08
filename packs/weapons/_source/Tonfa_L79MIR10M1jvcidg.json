@@ -1,0 +1,39 @@
+{
+  "name": "Tonfa",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A rod-shaped weapon with a handle.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 15
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Martial Arts",
+    "ir": 8,
+    "quantity": 1,
+    "size": 1,
+    "price": 310
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "L79MIR10M1jvcidg",
+  "effects": [],
+  "_key": "!items!L79MIR10M1jvcidg"
+}

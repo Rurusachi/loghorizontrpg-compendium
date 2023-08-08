@@ -1,0 +1,39 @@
+{
+  "name": "Physical Card I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During the target's current Main Process, magical damage they deal changes to physical damage. (CR13): This item has no effect. </p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 3,
+    "quantity": 1,
+    "size": 1,
+    "price": 50
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "YkXhX33Al1Zyp8xk",
+  "_key": "!items!YkXhX33Al1Zyp8xk"
+}

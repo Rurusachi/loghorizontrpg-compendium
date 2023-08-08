@@ -1,0 +1,39 @@
+{
+  "name": "Crystal Ball of Memories",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Photographic equipment to record surrounding scenes. [Activate: Major] Record 1 Sq scenery as a still image from up to 4 Sq of yourself. [Activate: Major] Project recorded images on nearby walls and on the ground.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "4 Sq"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Rare, Magic Item",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 40
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "GnPGoTEqx0zC4fim",
+  "_key": "!items!GnPGoTEqx0zC4fim"
+}

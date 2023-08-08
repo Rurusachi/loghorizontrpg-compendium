@@ -1,0 +1,39 @@
+{
+  "name": "Regen Potion III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target gains [Regen: 15].</p>",
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Medicine, Consumable, Rare, Preparation",
+    "ir": 21,
+    "quantity": 1,
+    "size": 1,
+    "price": 790
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "XWZeTHkq890epcR7",
+  "_key": "!items!XWZeTHkq890epcR7"
+}

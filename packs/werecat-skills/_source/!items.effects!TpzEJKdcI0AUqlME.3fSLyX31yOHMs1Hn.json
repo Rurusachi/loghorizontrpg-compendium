@@ -1,0 +1,21 @@
+{
+  "_id": "3fSLyX31yOHMs1Hn",
+  "changes": [
+    {
+      "key": "data.fate.max",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Cat's Eye",
+  "origin": "Compendium.loghorizontrpg.werecat-skills.TpzEJKdcI0AUqlME",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!TpzEJKdcI0AUqlME.3fSLyX31yOHMs1Hn"
+}

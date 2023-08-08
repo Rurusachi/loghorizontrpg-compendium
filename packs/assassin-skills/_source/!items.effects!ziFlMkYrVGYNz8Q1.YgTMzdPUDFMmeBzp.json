@@ -1,0 +1,21 @@
+{
+  "_id": "YgTMzdPUDFMmeBzp",
+  "changes": [
+    {
+      "key": "data.attributes.perception.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Cold Stare",
+  "origin": "Compendium.loghorizontrpg.assassin-skills.ziFlMkYrVGYNz8Q1",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!ziFlMkYrVGYNz8Q1.YgTMzdPUDFMmeBzp"
+}

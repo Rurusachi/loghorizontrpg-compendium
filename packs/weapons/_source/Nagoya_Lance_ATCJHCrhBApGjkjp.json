@@ -1,0 +1,39 @@
+{
+  "name": "Nagoya Lance",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Two handed spear with a long handle exceeding 4 meters.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 36
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Spear",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1200
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ATCJHCrhBApGjkjp",
+  "effects": [],
+  "_key": "!items!ATCJHCrhBApGjkjp"
+}

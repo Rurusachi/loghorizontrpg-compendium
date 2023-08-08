@@ -1,0 +1,39 @@
+{
+  "name": "Light Crossbow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Lightweight crossbow.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 18
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -4
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 230
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "MLXcM5N15dmFIH4X",
+  "effects": [],
+  "_key": "!items!MLXcM5N15dmFIH4X"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Heater Shield",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A large rectangular shield suitable for handling on horses.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 13
+      },
+      "mdef": {
+        "bonus": 12
+      }
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 1100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ARxB6d7MORRszb5l",
+  "effects": [],
+  "_key": "!items!ARxB6d7MORRszb5l"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Mass Protect Scroll III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Choose one: [Flame] [Cold] [Shock] [Holy] [Blight] or [Spirit]. The target gains [Cancel (Chosen Tag): 15]. You take [Fatigue: (Base STR x2)].</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 25,
+    "quantity": 1,
+    "size": 1,
+    "price": 970
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "7GZIZeclnqBe0RjH",
+  "_key": "!items!7GZIZeclnqBe0RjH"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ring Mail",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Armor with numerous metal rings sewn together.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 7
+      },
+      "mdef": {
+        "bonus": 2
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "tags": "Heavy Armor",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 130
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Fz22NpKoF4X7CUBT",
+  "effects": [],
+  "_key": "!items!Fz22NpKoF4X7CUBT"
+}

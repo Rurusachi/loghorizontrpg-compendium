@@ -1,0 +1,39 @@
+{
+  "name": "Exhausting Poison IV",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target takes [Fatigue: 40].</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "8",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable, Rare",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 1050
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WimlamKIjbkwCLZS",
+  "_key": "!items!WimlamKIjbkwCLZS"
+}

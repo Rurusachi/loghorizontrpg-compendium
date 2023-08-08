@@ -1,0 +1,25 @@
+{
+  "name": "Jewelry Pouch",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +9.</p>",
+    "other": {
+      "inventoryslots": 9
+    },
+    "tags": "Bag, Accessory",
+    "ir": 25,
+    "quantity": 1,
+    "size": 1,
+    "price": 1200
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "NKXVpMwFk144w5Ud",
+  "effects": [],
+  "_key": "!items!NKXVpMwFk144w5Ud"
+}

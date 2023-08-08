@@ -1,0 +1,39 @@
+{
+  "name": "Greatsword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A big sword with a blade of more than 1m.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 7
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Blade",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "VIRqChR99vMk3B2n",
+  "effects": [],
+  "_key": "!items!VIRqChR99vMk3B2n"
+}

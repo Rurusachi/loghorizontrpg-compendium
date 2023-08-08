@@ -1,0 +1,42 @@
+{
+  "name": "Spirit's Ema",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>(Fate 1): You are put in the [Riding: Phase Horse] state.</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 1
+    },
+    "tags": "Summon, Preparation, M2",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 310
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "iU74In1ea6f4tojX",
+  "_key": "!items!iU74In1ea6f4tojX"
+}

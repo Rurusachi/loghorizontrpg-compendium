@@ -1,0 +1,21 @@
+{
+  "_id": "WTzDPJHTWXF1UQpD",
+  "changes": [
+    {
+      "key": "data.attributes.perception.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Skill Practice: Perception",
+  "origin": "Item.nocmFOOAHnn401vg",
+  "transfer": true,
+  "flags": {},
+  "tint": "",
+  "_key": "!items.effects!BB0dnlx4TAHBLh9z.WTzDPJHTWXF1UQpD"
+}

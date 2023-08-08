@@ -1,0 +1,43 @@
+{
+  "name": "Jewel of the Firefly",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your Hate by +1. All [Dim Light] [Night] and [Darkness] effects within range are negated. This effect ends when the scene does. (Fate 1): This item's Hate cost is reduced to 0.</p>",
+    "timing": "setup",
+    "check": {
+      "type": "automatic",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "widea",
+      "value": "20",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "1",
+      "addsr": false
+    },
+    "tags": "Gem, Consumable",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 40
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "HNpi2rnIpY8IzA4j",
+  "_key": "!items!HNpi2rnIpY8IzA4j"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Knight Shield",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A metal shield large enough to hide the upper body. Beautifully crafted.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 11
+      },
+      "mdef": {
+        "bonus": 10
+      }
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 18,
+    "quantity": 1,
+    "size": 1,
+    "price": 740
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "zIIOlq6OFHeblVOd",
+  "effects": [],
+  "_key": "!items!zIIOlq6OFHeblVOd"
+}

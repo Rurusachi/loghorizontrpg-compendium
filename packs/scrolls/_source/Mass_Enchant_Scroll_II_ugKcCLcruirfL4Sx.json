@@ -1,0 +1,39 @@
+{
+  "name": "Mass Enchant Scroll II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Choose one: [Flame] [Cold] [Shock] [Holy] [Blight] or [Spirit]. The target's [Weapon Attack] deal magical damage of the chosen tag type. Treat this effect as a Combat Status. You take [Fatigue: Base STR]. (CR27): This item has no effect.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 18,
+    "quantity": 1,
+    "size": 1,
+    "price": 520
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ugKcCLcruirfL4Sx",
+  "_key": "!items!ugKcCLcruirfL4Sx"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Kami Tatematsu Katana",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sword that a masterpiece trained with heartache pouring in order to dedicate to the godhead.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 24
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Katana",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 1700
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "nnQztpVczj5Og3c5",
+  "effects": [],
+  "_key": "!items!nnQztpVczj5Og3c5"
+}

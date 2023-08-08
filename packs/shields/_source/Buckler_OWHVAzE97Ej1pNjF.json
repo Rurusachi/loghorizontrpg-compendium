@@ -1,0 +1,30 @@
+{
+  "name": "Buckler",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Small circle shield. Easy to handle but low defense.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 3
+      },
+      "mdef": {
+        "bonus": 2
+      }
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 50
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "OWHVAzE97Ej1pNjF",
+  "effects": [],
+  "_key": "!items!OWHVAzE97Ej1pNjF"
+}

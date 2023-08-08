@@ -1,0 +1,26 @@
+{
+  "_id": "FITOwiqUae6haaj9",
+  "changes": [
+    {
+      "key": "data.attributes.disable.dice",
+      "mode": 2,
+      "value": "1"
+    },
+    {
+      "key": "data.attributes.analyze.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": true,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Explorer SR2",
+  "origin": "Compendium.loghorizontrpg.weapon-master-skills.PbDyCzwPaLoOxXhJ",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!PbDyCzwPaLoOxXhJ.FITOwiqUae6haaj9"
+}

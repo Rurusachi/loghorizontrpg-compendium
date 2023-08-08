@@ -1,0 +1,39 @@
+{
+  "name": "Crane Quinn",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Large crossbow with string hoisting mechanism.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 49
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -4
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1800
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "4wDrSI4seaVzwETx",
+  "effects": [],
+  "_key": "!items!4wDrSI4seaVzwETx"
+}

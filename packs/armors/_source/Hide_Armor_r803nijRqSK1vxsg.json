@@ -1,0 +1,33 @@
+{
+  "name": "Hide Armor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Leather armor made from large beast fur.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 6
+      },
+      "mdef": {
+        "bonus": 4
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Medium Armor",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 130
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "r803nijRqSK1vxsg",
+  "effects": [],
+  "_key": "!items!r803nijRqSK1vxsg"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Bowgun",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A crossbow with an aiming device. It is easy to aim and damages accurately.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 11
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -4
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 130
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "PqTr7pFAQ1i5p0sb",
+  "effects": [],
+  "_key": "!items!PqTr7pFAQ1i5p0sb"
+}

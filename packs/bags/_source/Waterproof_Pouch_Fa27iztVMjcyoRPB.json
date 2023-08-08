@@ -1,0 +1,25 @@
+{
+  "name": "Waterproof Pouch",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +2. Items inside the bag cannot be the target of effects that would normally cause items to vanish.</p>",
+    "other": {
+      "inventoryslots": 2
+    },
+    "tags": "Bag, Accessory",
+    "ir": 12,
+    "quantity": 1,
+    "size": 1,
+    "price": 320
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Fa27iztVMjcyoRPB",
+  "effects": [],
+  "_key": "!items!Fa27iztVMjcyoRPB"
+}

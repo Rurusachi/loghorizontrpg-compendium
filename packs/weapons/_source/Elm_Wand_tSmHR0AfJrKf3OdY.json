@@ -1,0 +1,39 @@
+{
+  "name": "Elm Wand",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Magician wand. A crystal is fitted at the tip.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 3
+      },
+      "matk": {
+        "bonus": 5
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Staff",
+    "ir": 3,
+    "quantity": 1,
+    "size": 1,
+    "price": 120
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "tSmHR0AfJrKf3OdY",
+  "effects": [],
+  "_key": "!items!tSmHR0AfJrKf3OdY"
+}

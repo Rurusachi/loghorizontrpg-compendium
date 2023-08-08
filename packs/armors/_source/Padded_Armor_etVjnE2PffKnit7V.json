@@ -1,0 +1,33 @@
+{
+  "name": "Padded Armor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Cloth armor with padding in the key points of thick clothes.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 3
+      },
+      "mdef": {
+        "bonus": 4
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 110
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "etVjnE2PffKnit7V",
+  "effects": [],
+  "_key": "!items!etVjnE2PffKnit7V"
+}

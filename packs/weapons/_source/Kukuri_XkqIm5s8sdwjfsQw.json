@@ -1,0 +1,39 @@
+{
+  "name": "Kukuri",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A dagger with a unique shape that is shallow and curved. Hill tribe has used its own evolution.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 18
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade, Light",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 890
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "XkqIm5s8sdwjfsQw",
+  "effects": [],
+  "_key": "!items!XkqIm5s8sdwjfsQw"
+}

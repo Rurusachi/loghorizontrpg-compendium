@@ -1,0 +1,39 @@
+{
+  "name": "Curse Poison II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Deal [2D + 17] magical damage to the target. This damage always has the [Blight] tag, even if another effect would overwrite it.</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "5",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable, Blight",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 60
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "FgDtDxg2WZO9fg6U",
+  "_key": "!items!FgDtDxg2WZO9fg6U"
+}

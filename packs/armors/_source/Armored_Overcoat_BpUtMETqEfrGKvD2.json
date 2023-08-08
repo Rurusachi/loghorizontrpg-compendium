@@ -1,0 +1,33 @@
+{
+  "name": "Armored Overcoat",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Chainmail made of high quality steel.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 47
+      },
+      "mdef": {
+        "bonus": 39
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Medium Armor",
+    "ir": 27,
+    "quantity": 1,
+    "size": 1,
+    "price": 3500
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "BpUtMETqEfrGKvD2",
+  "effects": [],
+  "_key": "!items!BpUtMETqEfrGKvD2"
+}

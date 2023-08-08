@@ -1,0 +1,39 @@
+{
+  "name": "Great repeater",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A large crossbow equipped with a new type hoisting mechanism, with improved shooting performance.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 74
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -4
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 4400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "f0YMAVwjsed9wVJj",
+  "effects": [],
+  "_key": "!items!f0YMAVwjsed9wVJj"
+}

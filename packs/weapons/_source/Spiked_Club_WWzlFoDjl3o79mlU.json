@@ -1,0 +1,39 @@
+{
+  "name": "Spiked Club",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A noisy club with several sharp metal spikes embedded.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 30
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Hafted",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 730
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WWzlFoDjl3o79mlU",
+  "effects": [],
+  "_key": "!items!WWzlFoDjl3o79mlU"
+}

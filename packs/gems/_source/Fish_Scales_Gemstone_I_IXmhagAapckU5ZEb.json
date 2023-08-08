@@ -1,0 +1,43 @@
+{
+  "name": "Fish Scales Gemstone I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your Hate by +1. The target gains the [Aquatic] tag. Treat this effect as a Combat Status. (Fate 1): You can use this item with [Target: Wide 2 (P)]. (CR12): This item has no effect.</p>",
+    "timing": "setup",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "1",
+      "addsr": false
+    },
+    "tags": "Gem, Consumable",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 45
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "IXmhagAapckU5ZEb",
+  "_key": "!items!IXmhagAapckU5ZEb"
+}

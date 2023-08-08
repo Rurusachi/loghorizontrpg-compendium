@@ -1,0 +1,33 @@
+{
+  "name": "Lorica Hamata",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A chainmail designed to cover most of the body. It has both defense and flexibility.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 41
+      },
+      "mdef": {
+        "bonus": 34
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Medium Armor",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 2500
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "qtCt7sZ3gsvVbqrs",
+  "effects": [],
+  "_key": "!items!qtCt7sZ3gsvVbqrs"
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "b5xjjcHMlnP2ex5J",
+  "changes": [
+    {
+      "key": "data.attributes.accuracy.bonus",
+      "mode": 2,
+      "value": "2"
+    },
+    {
+      "key": "data.attributes.evasion.dice",
+      "mode": 2,
+      "value": "1"
+    },
+    {
+      "key": "data.attributes.resistance.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Martial Arts",
+  "origin": "Compendium.loghorizontrpg.monk-skills.cVz8aPeOjCKLR9YO",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!cVz8aPeOjCKLR9YO.b5xjjcHMlnP2ex5J"
+}

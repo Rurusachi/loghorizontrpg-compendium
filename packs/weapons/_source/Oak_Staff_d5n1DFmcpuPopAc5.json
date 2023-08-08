@@ -1,0 +1,39 @@
+{
+  "name": "Oak Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Smooth stick-shaped cane. Minimal decoration.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 3
+      },
+      "matk": {
+        "bonus": 5
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Staff",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "d5n1DFmcpuPopAc5",
+  "effects": [],
+  "_key": "!items!d5n1DFmcpuPopAc5"
+}

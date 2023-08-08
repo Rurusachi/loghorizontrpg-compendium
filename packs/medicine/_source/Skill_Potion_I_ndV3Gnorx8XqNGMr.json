@@ -1,0 +1,39 @@
+{
+  "name": "Skill Potion I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>When you acquire this potion, select one: Athletics, Endurance, Disable, Operate, Perception, Negotiation, Analysis, Knowledge, and record this item as Skill Potion I: (Chosen Skill). The target gains a +1 bonus to the chosen skill. Treat this effect as a Combat Status. (CR10): This item has no effect.</p>",
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Medicine, Consumable, Rare, Preparation",
+    "ir": 3,
+    "quantity": 1,
+    "size": 1,
+    "price": 50
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ndV3Gnorx8XqNGMr",
+  "_key": "!items!ndV3Gnorx8XqNGMr"
+}

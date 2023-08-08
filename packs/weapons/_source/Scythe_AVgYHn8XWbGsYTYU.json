@@ -1,0 +1,39 @@
+{
+  "name": "Scythe",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A scythe for both hands with a long handle and a long blade.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 11
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -2
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Hafted",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "AVgYHn8XWbGsYTYU",
+  "effects": [],
+  "_key": "!items!AVgYHn8XWbGsYTYU"
+}

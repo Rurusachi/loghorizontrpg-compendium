@@ -1,0 +1,33 @@
+{
+  "name": "Combat Armor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>An instep stomach for infantry that uses plenty of metal parts to increase defense.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 36
+      },
+      "mdef": {
+        "bonus": 21
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "tags": "Heavy Armor",
+    "ir": 15,
+    "quantity": 1,
+    "size": 1,
+    "price": 1200
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "QbUPGSA9yDLyRzDV",
+  "effects": [],
+  "_key": "!items!QbUPGSA9yDLyRzDV"
+}

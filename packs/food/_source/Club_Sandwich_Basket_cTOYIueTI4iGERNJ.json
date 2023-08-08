@@ -1,0 +1,39 @@
+{
+  "name": "Club Sandwich Basket",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target's [Fatigue] rating decreases by -6.</p>",
+    "timing": "resttime",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Food, Consumable, Preparation, Rare",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 30
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "cTOYIueTI4iGERNJ",
+  "_key": "!items!cTOYIueTI4iGERNJ"
+}

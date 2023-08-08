@@ -1,0 +1,25 @@
+{
+  "name": "Master Pack",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots for [Consumables] items only by +12.</p>",
+    "other": {
+      "inventoryslots": 0
+    },
+    "tags": "Bag, Accessory",
+    "ir": 27,
+    "quantity": 1,
+    "size": 1,
+    "price": 1400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "XJ0jR6a96pDpGpU6",
+  "effects": [],
+  "_key": "!items!XJ0jR6a96pDpGpU6"
+}

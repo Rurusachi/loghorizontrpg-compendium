@@ -1,0 +1,33 @@
+{
+  "name": "Martial Arts Dress",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Cloth armor that won't get in the way even with intense movement. Many of them have fancy designs.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 4
+      },
+      "mdef": {
+        "bonus": 6
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 120
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "0QOxaDsNQVzuE4JN",
+  "effects": [],
+  "_key": "!items!0QOxaDsNQVzuE4JN"
+}

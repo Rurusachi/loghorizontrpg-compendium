@@ -1,0 +1,30 @@
+{
+  "name": "Wooden Round",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Wooden circle shield. Large enough to hide the upper body.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 5
+      },
+      "mdef": {
+        "bonus": 4
+      }
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "88XjtorsURkGD5mx",
+  "effects": [],
+  "_key": "!items!88XjtorsURkGD5mx"
+}

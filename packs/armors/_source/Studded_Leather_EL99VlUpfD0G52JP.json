@@ -1,0 +1,33 @@
+{
+  "name": "Studded Leather",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Armor with a number of spears in a mirror of skin.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 10
+      },
+      "mdef": {
+        "bonus": 7
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Medium Armor",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 180
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "EL99VlUpfD0G52JP",
+  "effects": [],
+  "_key": "!items!EL99VlUpfD0G52JP"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Crow's Handbag",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +10.</p>",
+    "other": {
+      "inventoryslots": 10
+    },
+    "tags": "Bag, One-Handed",
+    "ir": 17,
+    "quantity": 1,
+    "size": 1,
+    "price": 600
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "jOOTfGqKudGkyxXB",
+  "effects": [],
+  "_key": "!items!jOOTfGqKudGkyxXB"
+}

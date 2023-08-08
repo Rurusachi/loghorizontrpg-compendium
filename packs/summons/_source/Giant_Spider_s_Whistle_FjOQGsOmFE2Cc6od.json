@@ -1,0 +1,39 @@
+{
+  "name": "Giant Spider's Whistle",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You are put in the [Riding: Giant Spider] state. You can use EX power «Insect Move» and «Capture Nets».  (CR26): You gain [Cancel (Attacks from a target not in riding state): 10] during the [Riding: Giant Spider].</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Summon, Preparation, Rare, M2",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1000
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "FjOQGsOmFE2Cc6od",
+  "_key": "!items!FjOQGsOmFE2Cc6od"
+}

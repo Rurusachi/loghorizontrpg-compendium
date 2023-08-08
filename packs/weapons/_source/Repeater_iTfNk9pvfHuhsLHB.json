@@ -1,0 +1,39 @@
+{
+  "name": "Repeater",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A crossbow that can automatically load ammunition. Power increased by continuous fire.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 27
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -4
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 510
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "iTfNk9pvfHuhsLHB",
+  "effects": [],
+  "_key": "!items!iTfNk9pvfHuhsLHB"
+}

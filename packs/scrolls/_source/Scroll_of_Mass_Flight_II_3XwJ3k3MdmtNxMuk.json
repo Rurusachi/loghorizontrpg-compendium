@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Mass Flight II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target gains [Flying]. Treat this effect as a Combat Status. You take [Fatigue: (Base STR x 2)]. (CR26): This item has no effect.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 18,
+    "quantity": 1,
+    "size": 1,
+    "price": 570
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "3XwJ3k3MdmtNxMuk",
+  "_key": "!items!3XwJ3k3MdmtNxMuk"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Falchion",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A lightly curved, one-handed sword.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 4
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 70
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Kebx0mSBJRLEHEiT",
+  "effects": [],
+  "_key": "!items!Kebx0mSBJRLEHEiT"
+}

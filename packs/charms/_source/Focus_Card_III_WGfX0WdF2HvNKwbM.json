@@ -1,0 +1,39 @@
+{
+  "name": "Focus Card III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During the target's current Main Process, the target's [Normal Moves] become [Safe Moves].</p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 26,
+    "quantity": 1,
+    "size": 1,
+    "price": 1100
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WGfX0WdF2HvNKwbM",
+  "_key": "!items!WGfX0WdF2HvNKwbM"
+}

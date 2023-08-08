@@ -1,0 +1,39 @@
+{
+  "name": "Black Biped Dragon's Fist",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You are put in the [Riding: Dinosaur] state. You can use EX power «Sharp Sense», «Train Dash» and +1 Sq. (CR26): This item has no effect.</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Summon, Preparation, Rare, M2",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 750
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "lHSp61mOeHzxti99",
+  "_key": "!items!lHSp61mOeHzxti99"
+}

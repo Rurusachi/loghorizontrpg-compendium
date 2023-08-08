@@ -1,0 +1,39 @@
+{
+  "name": "Soft Glove",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Back with tanned leather and small metal pieces.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 10
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Martial Arts",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 140
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ItqtJzAAdQfD5LPl",
+  "effects": [],
+  "_key": "!items!ItqtJzAAdQfD5LPl"
+}

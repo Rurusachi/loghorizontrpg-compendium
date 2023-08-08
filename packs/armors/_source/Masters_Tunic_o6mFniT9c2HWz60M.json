@@ -1,0 +1,33 @@
+{
+  "name": "Masters Tunic",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Demon beast leather shorts with metal pieces sewn into the lining to reinforce the key points.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 17
+      },
+      "mdef": {
+        "bonus": 24
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 12,
+    "quantity": 1,
+    "size": 1,
+    "price": 760
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "o6mFniT9c2HWz60M",
+  "effects": [],
+  "_key": "!items!o6mFniT9c2HWz60M"
+}

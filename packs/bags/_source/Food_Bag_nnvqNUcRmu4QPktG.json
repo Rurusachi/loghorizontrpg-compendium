@@ -1,0 +1,25 @@
+{
+  "name": "Food Bag",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots for [Food] items only by +12.</p>",
+    "other": {
+      "inventoryslots": 0
+    },
+    "tags": "Bag",
+    "ir": 8,
+    "quantity": 1,
+    "size": 1,
+    "price": 170
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "nnvqNUcRmu4QPktG",
+  "effects": [],
+  "_key": "!items!nnvqNUcRmu4QPktG"
+}

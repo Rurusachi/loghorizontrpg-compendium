@@ -1,0 +1,39 @@
+{
+  "name": "Scimitar",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A katana sword for both hands with a wide blade that is curved like a moon.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 46
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Katana",
+    "ir": 24,
+    "quantity": 1,
+    "size": 1,
+    "price": 2700
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "tCGO12Cyj4G1yzxP",
+  "effects": [],
+  "_key": "!items!tCGO12Cyj4G1yzxP"
+}

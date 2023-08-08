@@ -1,0 +1,39 @@
+{
+  "name": "Zanbato",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A large-sized sword that was created with the intention of fighting against those on horseback.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 8
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Katana",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 130
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "lsTP9kUNKVchzDPc",
+  "effects": [],
+  "_key": "!items!lsTP9kUNKVchzDPc"
+}

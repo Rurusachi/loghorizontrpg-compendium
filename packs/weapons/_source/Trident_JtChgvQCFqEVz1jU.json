@@ -1,0 +1,39 @@
+{
+  "name": "Trident",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A one-handed spear with three tips.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 12
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Spear",
+    "ir": 10,
+    "quantity": 1,
+    "size": 1,
+    "price": 320
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "JtChgvQCFqEVz1jU",
+  "effects": [],
+  "_key": "!items!JtChgvQCFqEVz1jU"
+}

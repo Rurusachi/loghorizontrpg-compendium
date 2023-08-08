@@ -1,0 +1,25 @@
+{
+  "name": "Basket",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +3.</p>",
+    "other": {
+      "inventoryslots": 3
+    },
+    "tags": "Bag, One-Handed",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 50
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "387Oyo90Kdg5SCQ6",
+  "effects": [],
+  "_key": "!items!387Oyo90Kdg5SCQ6"
+}

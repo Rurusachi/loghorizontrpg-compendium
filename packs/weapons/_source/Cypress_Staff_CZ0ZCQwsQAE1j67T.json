@@ -1,0 +1,39 @@
+{
+  "name": "Cypress Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Long wand which refined processing by alchemy, further strengthened magical power.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 26
+      },
+      "matk": {
+        "bonus": 28
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Staff",
+    "ir": 14,
+    "quantity": 1,
+    "size": 1,
+    "price": 850
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "CZ0ZCQwsQAE1j67T",
+  "effects": [],
+  "_key": "!items!CZ0ZCQwsQAE1j67T"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Lee Seung-bow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A short bow with excellent portability made with whale beard.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 37
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "712KaJxff2y18WPp",
+  "effects": [],
+  "_key": "!items!712KaJxff2y18WPp"
+}

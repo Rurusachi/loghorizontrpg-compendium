@@ -1,0 +1,39 @@
+{
+  "name": "Jambya",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A double-edged dagger with a highly curved tip.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 11
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade, Light",
+    "ir": 10,
+    "quantity": 1,
+    "size": 1,
+    "price": 280
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "HCvAZEI0fGCo1foT",
+  "effects": [],
+  "_key": "!items!HCvAZEI0fGCo1foT"
+}

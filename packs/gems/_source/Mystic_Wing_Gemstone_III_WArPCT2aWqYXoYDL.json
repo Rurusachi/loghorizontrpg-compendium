@@ -1,0 +1,43 @@
+{
+  "name": "Mystic Wing Gemstone III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your Hate by +2. The target gains [Flight]. Treat this effect as a Combat Status.</p>",
+    "timing": "setup",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "2",
+      "addsr": false
+    },
+    "tags": "Gem, Consumable",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 930
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WArPCT2aWqYXoYDL",
+  "_key": "!items!WArPCT2aWqYXoYDL"
+}

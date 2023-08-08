@@ -1,0 +1,21 @@
+{
+  "_id": "3y8rkAVRk2VcTGTq",
+  "changes": [
+    {
+      "key": "data.fate.max",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Infravision",
+  "origin": "Compendium.loghorizontrpg.dwarf-skills.szINFxEi1qYP6KmO",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!szINFxEi1qYP6KmO.3y8rkAVRk2VcTGTq"
+}

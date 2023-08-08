@@ -1,0 +1,30 @@
+{
+  "name": "Kite Shield",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A large shield with a pointed bottom.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 7
+      },
+      "mdef": {
+        "bonus": 6
+      }
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 220
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "EsnWSacqR1QLEsTu",
+  "effects": [],
+  "_key": "!items!EsnWSacqR1QLEsTu"
+}

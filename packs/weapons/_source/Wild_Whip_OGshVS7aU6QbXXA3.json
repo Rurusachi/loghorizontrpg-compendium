@@ -1,0 +1,39 @@
+{
+  "name": "Wild Whip",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A supple whip made from monster leather.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 20
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Whip",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 810
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "OGshVS7aU6QbXXA3",
+  "effects": [],
+  "_key": "!items!OGshVS7aU6QbXXA3"
+}

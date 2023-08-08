@@ -1,0 +1,21 @@
+{
+  "_id": "fsJNQDomUr8rovqp",
+  "changes": [
+    {
+      "key": "data.attributes.analysis.bonus",
+      "mode": 2,
+      "value": "1d6"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Analysis Bonus",
+  "origin": "Compendium.loghorizontrpg.guardian-skills.tvwEf67kwPNygehM",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!tvwEf67kwPNygehM.fsJNQDomUr8rovqp"
+}

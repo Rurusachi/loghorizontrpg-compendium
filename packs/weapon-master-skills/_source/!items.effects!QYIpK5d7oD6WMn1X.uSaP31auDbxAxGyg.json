@@ -1,0 +1,21 @@
+{
+  "_id": "uSaP31auDbxAxGyg",
+  "changes": [
+    {
+      "key": "data.attributes.disable.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Six Fingers",
+  "origin": "Compendium.loghorizontrpg.weapon-master-skills.QYIpK5d7oD6WMn1X",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!QYIpK5d7oD6WMn1X.uSaP31auDbxAxGyg"
+}

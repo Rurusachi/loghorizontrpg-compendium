@@ -1,0 +1,39 @@
+{
+  "name": "Partisan",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A spear with a large triangular tip.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 19
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Spear",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 350
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "UMeJ8i9n7dxoAXar",
+  "effects": [],
+  "_key": "!items!UMeJ8i9n7dxoAXar"
+}

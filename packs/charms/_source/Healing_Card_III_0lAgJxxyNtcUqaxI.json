@@ -1,0 +1,39 @@
+{
+  "name": "Healing Card III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During this main process, increase the [Recovery] of the target by +20. The effect of healing word (regardless of grade) is not cumulative even if multiple effects are used.</p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable, Rare",
+    "ir": 24,
+    "quantity": 1,
+    "size": 1,
+    "price": 970
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "0lAgJxxyNtcUqaxI",
+  "_key": "!items!0lAgJxxyNtcUqaxI"
+}

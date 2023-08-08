@@ -1,0 +1,39 @@
+{
+  "name": "Dai Naginata",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A giant katana with a long handle attached. Push the enemy by the momentum depending on the weight and length.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 29
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Katana",
+    "ir": 14,
+    "quantity": 1,
+    "size": 1,
+    "price": 1000
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "vzLVqiq0LeNtj1lo",
+  "effects": [],
+  "_key": "!items!vzLVqiq0LeNtj1lo"
+}

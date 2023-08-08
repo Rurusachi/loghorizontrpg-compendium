@@ -1,0 +1,21 @@
+{
+  "_id": "4URQ0PuWyvTmNiuI",
+  "changes": [
+    {
+      "key": "data.attributes.analyze.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Maester's Eye",
+  "origin": "Compendium.loghorizontrpg.dwarf-skills.mNJq6NIS235XCWGS",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!mNJq6NIS235XCWGS.4URQ0PuWyvTmNiuI"
+}

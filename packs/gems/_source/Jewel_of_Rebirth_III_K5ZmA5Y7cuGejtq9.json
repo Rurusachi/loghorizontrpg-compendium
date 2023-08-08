@@ -1,0 +1,43 @@
+{
+  "name": "Jewel of Rebirth III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your Hate by +2. The target removes the [Incapacitated] condition, and recovers [Target's CR + 20] HP. (Fate 1): This item's Hate cost is reduced to 0.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "2",
+      "addsr": false
+    },
+    "tags": "Gem, Consumable",
+    "ir": 21,
+    "quantity": 1,
+    "size": 1,
+    "price": 790
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "K5ZmA5Y7cuGejtq9",
+  "_key": "!items!K5ZmA5Y7cuGejtq9"
+}

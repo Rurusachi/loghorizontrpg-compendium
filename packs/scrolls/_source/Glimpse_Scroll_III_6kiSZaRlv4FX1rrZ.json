@@ -1,0 +1,39 @@
+{
+  "name": "Glimpse Scroll III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>This scroll targets the next scene. Compare your check result against the [Identification Difficulty] of each enemy appearing in the next scene. For each success, you learn the name and appearance of that enemy. You take [Fatigue: Base STR]. (Fumble): The enemy notices your scouting.</p>",
+    "timing": "briefing",
+    "check": {
+      "type": "basic",
+      "caster": "none",
+      "bonus": "11",
+      "addsr": false,
+      "target": "identification"
+    },
+    "range": {
+      "type": "",
+      "value": "Refer"
+    },
+    "target": {
+      "type": "refer",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Scout",
+    "ir": 15,
+    "quantity": 1,
+    "size": 1,
+    "price": 370
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "6kiSZaRlv4FX1rrZ",
+  "_key": "!items!6kiSZaRlv4FX1rrZ"
+}

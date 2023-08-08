@@ -1,0 +1,39 @@
+{
+  "name": "Long Javelin",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A straight hand with little ornament. The handle is long, reach and power are excellent.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 17
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Spear",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 740
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "xAvwWvFbAm74pQMI",
+  "effects": [],
+  "_key": "!items!xAvwWvFbAm74pQMI"
+}

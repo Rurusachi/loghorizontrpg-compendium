@@ -1,0 +1,39 @@
+{
+  "name": "Chain Whip",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Metal whip. Heavier and more destructive.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 7
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Whip",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "EfJojP9BIrfD0oHm",
+  "effects": [],
+  "_key": "!items!EfJojP9BIrfD0oHm"
+}

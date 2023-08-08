@@ -1,0 +1,42 @@
+{
+  "name": "Water Horse's Flute",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>(Fate 1): You are put in the [Riding: Kelpie] state. You gain [Aquatic] tag while in this state.</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 1
+    },
+    "tags": "Summon, Preparation, M2",
+    "ir": 3,
+    "quantity": 1,
+    "size": 1,
+    "price": 90
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "HcAJr4Sj1plTL3gP",
+  "_key": "!items!HcAJr4Sj1plTL3gP"
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "MfUMeR0nPMomlbiD",
+  "changes": [
+    {
+      "key": "data.combatstats.recovery.bonus",
+      "mode": 2,
+      "value": "@data.abilities.int.mod"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Treatment Skills",
+  "origin": "Compendium.loghorizontrpg.weapon-master-skills.M8YCHZsDvnxPfWjq",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!M8YCHZsDvnxPfWjq.MfUMeR0nPMomlbiD"
+}

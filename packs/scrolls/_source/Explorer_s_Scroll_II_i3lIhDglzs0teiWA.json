@@ -1,0 +1,39 @@
+{
+  "name": "Explorer's Scroll II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Choose one: [Flame] [Cold] [Shock] [Blight] [Spirit]. The target takes no damage from Props with the chosen tag. Treat this effect as a Combat Status. You take [Fatigue: (Base STR x 2)]. (CR22): This item has no effect. </p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 12,
+    "quantity": 1,
+    "size": 1,
+    "price": 250
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "i3lIhDglzs0teiWA",
+  "_key": "!items!i3lIhDglzs0teiWA"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Punching Dagger",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A dagger held like a fist.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 7
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Martial Arts",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "KHJLE0ICAu7nEDYy",
+  "effects": [],
+  "_key": "!items!KHJLE0ICAu7nEDYy"
+}

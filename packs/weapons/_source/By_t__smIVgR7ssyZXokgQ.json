@@ -1,0 +1,39 @@
+{
+  "name": "Byōtō",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A lightweight Japanese sword made on the continent based on a samurai sword.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 15
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Katana",
+    "ir": 13,
+    "quantity": 1,
+    "size": 1,
+    "price": 600
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "smIVgR7ssyZXokgQ",
+  "effects": [],
+  "_key": "!items!smIVgR7ssyZXokgQ"
+}

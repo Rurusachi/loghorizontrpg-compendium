@@ -1,0 +1,39 @@
+{
+  "name": "Dragon Hand Grenade",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A pair of sharp and sturdy hands made with dragon material.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 47
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Martial Arts",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 3300
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "2mqC8oBLDJBsT2rW",
+  "effects": [],
+  "_key": "!items!2mqC8oBLDJBsT2rW"
+}

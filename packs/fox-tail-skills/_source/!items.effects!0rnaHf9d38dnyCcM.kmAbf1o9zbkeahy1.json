@@ -1,0 +1,21 @@
+{
+  "_id": "kmAbf1o9zbkeahy1",
+  "changes": [
+    {
+      "key": "data.fate.max",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Five-Tailed Sublimation",
+  "origin": "Compendium.loghorizontrpg.fox-tail-skills.0rnaHf9d38dnyCcM",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!0rnaHf9d38dnyCcM.kmAbf1o9zbkeahy1"
+}

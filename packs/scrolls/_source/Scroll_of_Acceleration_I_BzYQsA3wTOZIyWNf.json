@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Acceleration I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target gains a +4 bonus to [Initiative]. Treat this effect as a Combat Status. You take [Fatigue: Base STR]. (CR13): This item has no effect.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 3,
+    "quantity": 1,
+    "size": 1,
+    "price": 45
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "BzYQsA3wTOZIyWNf",
+  "_key": "!items!BzYQsA3wTOZIyWNf"
+}

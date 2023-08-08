@@ -1,0 +1,33 @@
+{
+  "name": "Hermit Quilt",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A simple but strong cloth armor worn by what is called a hermit or sage.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 31
+      },
+      "mdef": {
+        "bonus": 46
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 2500
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "50SONUBw9Acq5H34",
+  "effects": [],
+  "_key": "!items!50SONUBw9Acq5H34"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Yakisoba Bread",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target's [Fatigue] rating decreases by -30.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Food, Consumable, Preparation",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 150
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "F4sdXU63N2FnkC5Q",
+  "_key": "!items!F4sdXU63N2FnkC5Q"
+}

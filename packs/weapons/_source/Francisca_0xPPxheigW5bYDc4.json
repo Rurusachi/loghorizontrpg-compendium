@@ -1,0 +1,39 @@
+{
+  "name": "Francisca",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Hand axes characterized by large curved blades.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 49
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Hafted",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 1700
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "0xPPxheigW5bYDc4",
+  "effects": [],
+  "_key": "!items!0xPPxheigW5bYDc4"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Small Shield",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A small shield. The cover range is a little unsettling.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 4
+      },
+      "mdef": {
+        "bonus": 3
+      }
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 3,
+    "quantity": 1,
+    "size": 1,
+    "price": 70
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "CJEei9DwjBPmXTOO",
+  "effects": [],
+  "_key": "!items!CJEei9DwjBPmXTOO"
+}

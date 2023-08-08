@@ -1,0 +1,39 @@
+{
+  "name": "Kodachi",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A somewhat short sword. Easy to handle and sharply cut into the key points.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 8
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Katana",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 180
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "BDLTwift1cPEfImO",
+  "effects": [],
+  "_key": "!items!BDLTwift1cPEfImO"
+}

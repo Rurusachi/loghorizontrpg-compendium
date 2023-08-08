@@ -1,0 +1,39 @@
+{
+  "name": "Cursed Iron",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>While this item is in your inventory, you take a -1 penalty to [Dodge Checks].</p>",
+    "timing": "none",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "-"
+    },
+    "target": {
+      "type": "none",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Rare",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "CTCRsGQpWmwCjnNw",
+  "_key": "!items!CTCRsGQpWmwCjnNw"
+}

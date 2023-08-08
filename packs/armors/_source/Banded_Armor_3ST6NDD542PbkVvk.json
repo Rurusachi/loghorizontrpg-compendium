@@ -1,0 +1,33 @@
+{
+  "name": "Banded Armor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Armor reinforced by attatching a thick leather band over the chain.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 35
+      },
+      "mdef": {
+        "bonus": 29
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Medium Armor",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1700
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "3ST6NDD542PbkVvk",
+  "effects": [],
+  "_key": "!items!3ST6NDD542PbkVvk"
+}

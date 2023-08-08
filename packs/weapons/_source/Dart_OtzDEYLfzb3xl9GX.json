@@ -1,0 +1,39 @@
+{
+  "name": "Dart",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A small arrow for investment. Power is low.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 3
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "2 sq",
+    "tags": "One-Handed, Throwing",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 50
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "OtzDEYLfzb3xl9GX",
+  "effects": [],
+  "_key": "!items!OtzDEYLfzb3xl9GX"
+}

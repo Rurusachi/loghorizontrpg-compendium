@@ -1,0 +1,33 @@
+{
+  "name": "Chain Shirt",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Metal armor woven with fine chains.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 17
+      },
+      "mdef": {
+        "bonus": 13
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Medium Armor",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 490
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "0aDBNPv6wZZCFTx9",
+  "effects": [],
+  "_key": "!items!0aDBNPv6wZZCFTx9"
+}

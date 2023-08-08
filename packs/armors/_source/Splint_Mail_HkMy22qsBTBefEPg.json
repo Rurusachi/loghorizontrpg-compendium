@@ -1,0 +1,33 @@
+{
+  "name": "Splint Mail",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A full-length armor made from countless slender boards.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 14
+      },
+      "mdef": {
+        "bonus": 6
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "tags": "Heavy Armor",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 200
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "HkMy22qsBTBefEPg",
+  "effects": [],
+  "_key": "!items!HkMy22qsBTBefEPg"
+}

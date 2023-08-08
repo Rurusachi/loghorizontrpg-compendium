@@ -1,0 +1,39 @@
+{
+  "name": "Catalpa Bow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A festival bow that is also used for magic.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 31
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 1000
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "M1P1vZ802DYpznGB",
+  "effects": [],
+  "_key": "!items!M1P1vZ802DYpznGB"
+}

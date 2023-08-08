@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Protection II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Choose one: [Flame] [Cold] [Shock] [Holy] [Blight] or [Spirit]. The target gains [Cancel (Chosen Tag): 20]. You take [Fatigue: Base STR]. (CR25): This item has no effect.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 15,
+    "quantity": 1,
+    "size": 1,
+    "price": 370
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "0CyIqhm964ZLPFQc",
+  "_key": "!items!0CyIqhm964ZLPFQc"
+}

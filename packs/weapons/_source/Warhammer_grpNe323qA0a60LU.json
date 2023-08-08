@@ -1,0 +1,39 @@
+{
+  "name": "Warhammer",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A mallet for battle made to be able to give a strong shock with a compact hammerhead.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 39
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Hafted",
+    "ir": 24,
+    "quantity": 1,
+    "size": 1,
+    "price": 1100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "grpNe323qA0a60LU",
+  "effects": [],
+  "_key": "!items!grpNe323qA0a60LU"
+}

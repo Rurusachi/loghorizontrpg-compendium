@@ -1,0 +1,33 @@
+{
+  "name": "Academia Robe",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A simple but strong robe for academics.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 12
+      },
+      "mdef": {
+        "bonus": 18
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 480
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "whF6AAgxnJd7HbOH",
+  "effects": [],
+  "_key": "!items!whF6AAgxnJd7HbOH"
+}

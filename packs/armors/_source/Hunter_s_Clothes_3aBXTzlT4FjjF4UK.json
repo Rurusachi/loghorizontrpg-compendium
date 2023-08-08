@@ -1,0 +1,33 @@
+{
+  "name": "Hunter's Clothes",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Armor worn by hunters. You can't buy beast fangs easily.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 7
+      },
+      "mdef": {
+        "bonus": 10
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 180
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "3aBXTzlT4FjjF4UK",
+  "effects": [],
+  "_key": "!items!3aBXTzlT4FjjF4UK"
+}

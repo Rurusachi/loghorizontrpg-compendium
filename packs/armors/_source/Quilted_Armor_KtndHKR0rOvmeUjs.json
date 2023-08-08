@@ -1,0 +1,33 @@
+{
+  "name": "Quilted Armor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Fabric armor reinforced with magic by filling with thick cloth armor.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 20
+      },
+      "mdef": {
+        "bonus": 30
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Light Armor",
+    "ir": 15,
+    "quantity": 1,
+    "size": 1,
+    "price": 1100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "KtndHKR0rOvmeUjs",
+  "effects": [],
+  "_key": "!items!KtndHKR0rOvmeUjs"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Iron Carriage Whistle",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You are put in the [Riding: Horse-drawn Carriage] state. You can use EX power «Carriage Drive» and «Carriage Armor». Increase the rating of the barrier by «Carriage Armor» by +[INT base].\n(CR26): You gain [Cancel (Attacks from a target not in riding state): 10] during the [Riding: Horse-drawn Carriage].</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Summon, Preparation, M2",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 750
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "717rbV2Ko8JtCpNE",
+  "_key": "!items!717rbV2Ko8JtCpNE"
+}

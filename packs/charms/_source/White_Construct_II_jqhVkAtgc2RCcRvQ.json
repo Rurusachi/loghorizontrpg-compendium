@@ -1,0 +1,39 @@
+{
+  "name": "White Construct II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>When the target next applies a [Barrier], increase the rating of that [Barrier] by +4D. The effect of multiple White Constructs (regardless of rank) do not stack, and this effect is removed after being applied once, or at the end of the scene.</p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 230
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "jqhVkAtgc2RCcRvQ",
+  "_key": "!items!jqhVkAtgc2RCcRvQ"
+}

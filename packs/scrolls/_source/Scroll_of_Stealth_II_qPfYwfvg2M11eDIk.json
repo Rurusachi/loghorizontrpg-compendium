@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Stealth II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>When the target appears in the next scene, they will have the [Hidden] status. You take [Fatigue: (Base STR) x 2]. (CR26): This item has no effect.</p>",
+    "timing": "briefing",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 460
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "qPfYwfvg2M11eDIk",
+  "_key": "!items!qPfYwfvg2M11eDIk"
+}

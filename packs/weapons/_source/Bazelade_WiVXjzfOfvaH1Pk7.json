@@ -1,0 +1,39 @@
+{
+  "name": "Bazelade",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A dagger for a piercing with a tapered double-edged sword body.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 14
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade, Light",
+    "ir": 13,
+    "quantity": 1,
+    "size": 1,
+    "price": 440
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WiVXjzfOfvaH1Pk7",
+  "effects": [],
+  "_key": "!items!WiVXjzfOfvaH1Pk7"
+}

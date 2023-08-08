@@ -1,0 +1,26 @@
+{
+  "_id": "F7JWFIXiz0GVhyVi",
+  "changes": [
+    {
+      "key": "data.attributes.accuracy.bonus",
+      "mode": 2,
+      "value": "2"
+    },
+    {
+      "key": "data.attributes.resistance.bonus",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Grace of Faith",
+  "origin": "Compendium.loghorizontrpg.cleric-skills.6iumobqxNCnV6eUC",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!6iumobqxNCnV6eUC.F7JWFIXiz0GVhyVi"
+}

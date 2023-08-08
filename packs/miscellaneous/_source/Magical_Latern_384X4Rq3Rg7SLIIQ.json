@@ -1,0 +1,39 @@
+{
+  "name": "Magical Latern",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A lighting fixture that burns a Magic Catalyst. [Activate: Set Up] Remove the prop [Dim Light], [Darkness], and [Curtain of Darkness] which is within the range of [Wide 20]. This effect lasts until the end of the scene.</p>",
+    "timing": "setup",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Rare, Magic Item",
+    "ir": 8,
+    "quantity": 1,
+    "size": 1,
+    "price": 160
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "384X4Rq3Rg7SLIIQ",
+  "_key": "!items!384X4Rq3Rg7SLIIQ"
+}

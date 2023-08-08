@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Sight III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target recognizes and may act against characters with the [Hidden] effect as if they did not have that effect (however, this effect does not remove the [Hidden] condition from the character). Treat this effect as a Combat Status. You take [Fatigue: Base STR].</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 25,
+    "quantity": 1,
+    "size": 1,
+    "price": 970
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "w2VfkuMbBY0D3jdQ",
+  "_key": "!items!w2VfkuMbBY0D3jdQ"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Light Lance",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Originally made for use in the saddle while horse riding it was later adjusted for walking use.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 8
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Spear",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 150
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "vimZnbJSp4d5RLMW",
+  "effects": [],
+  "_key": "!items!vimZnbJSp4d5RLMW"
+}

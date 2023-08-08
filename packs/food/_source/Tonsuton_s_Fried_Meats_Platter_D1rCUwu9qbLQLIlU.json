@@ -1,0 +1,39 @@
+{
+  "name": "Tonsuton's Fried Meats Platter",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target's [Fatigue] rating decreases by -20.</p>",
+    "timing": "resttime",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Food, Consumable, Preparation, Rare",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 120
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "D1rCUwu9qbLQLIlU",
+  "_key": "!items!D1rCUwu9qbLQLIlU"
+}

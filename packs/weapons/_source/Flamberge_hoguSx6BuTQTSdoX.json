@@ -1,0 +1,39 @@
+{
+  "name": "Flamberge",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A two-handed sword with a wavy blade like a flame.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 13
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Blade",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 150
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "hoguSx6BuTQTSdoX",
+  "effects": [],
+  "_key": "!items!hoguSx6BuTQTSdoX"
+}

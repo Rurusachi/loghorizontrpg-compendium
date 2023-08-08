@@ -1,0 +1,21 @@
+{
+  "_id": "fZMFV7D54a4ZCEKZ",
+  "changes": [
+    {
+      "key": "data.attributes.negotiation.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "New Effect",
+  "origin": "Compendium.loghorizontrpg.subclass-skills.nCqQk0gUDgG9jEMF",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!nCqQk0gUDgG9jEMF.fZMFV7D54a4ZCEKZ"
+}

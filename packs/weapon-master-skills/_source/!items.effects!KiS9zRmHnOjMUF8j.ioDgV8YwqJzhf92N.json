@@ -1,0 +1,21 @@
+{
+  "_id": "ioDgV8YwqJzhf92N",
+  "changes": [
+    {
+      "key": "data.combatstats.patk.bonus",
+      "mode": 2,
+      "value": "@data.abilities.dex.mod"
+    }
+  ],
+  "disabled": true,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Twin Arm Style II SR3",
+  "origin": "Compendium.loghorizontrpg.weapon-master-skills.KiS9zRmHnOjMUF8j",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!KiS9zRmHnOjMUF8j.ioDgV8YwqJzhf92N"
+}

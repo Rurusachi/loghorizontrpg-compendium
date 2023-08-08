@@ -1,0 +1,39 @@
+{
+  "name": "Heavy Trident",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A spear that the tip parted into three branches. Metal parts increase, weight, power and suitability are rising.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 28
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Spear",
+    "ir": 27,
+    "quantity": 1,
+    "size": 1,
+    "price": 1900
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "kF8uJI2EBa3Oss0d",
+  "effects": [],
+  "_key": "!items!kF8uJI2EBa3Oss0d"
+}

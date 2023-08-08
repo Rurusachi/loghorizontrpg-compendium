@@ -1,0 +1,39 @@
+{
+  "name": "Shin'uchi-gatana",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sword of a point made by a sword artist repeating several studies.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 17
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Katana",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 870
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "HW5a1IBJKQrKzk0T",
+  "effects": [],
+  "_key": "!items!HW5a1IBJKQrKzk0T"
+}

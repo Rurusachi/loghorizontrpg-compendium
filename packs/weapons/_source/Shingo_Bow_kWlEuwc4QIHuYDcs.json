@@ -1,0 +1,39 @@
+{
+  "name": "Shingo Bow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Bamboo bundled multiple wood, wrapped Fujibari from the top and coated with lacquer.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 50
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 27,
+    "quantity": 1,
+    "size": 1,
+    "price": 2900
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "kWlEuwc4QIHuYDcs",
+  "effects": [],
+  "_key": "!items!kWlEuwc4QIHuYDcs"
+}

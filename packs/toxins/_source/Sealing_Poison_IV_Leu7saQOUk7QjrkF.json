@@ -1,0 +1,39 @@
+{
+  "name": "Sealing Poison IV",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target is unable to inflict Bad Statuses with its actions. Treat this effect as a Bad Status that is removed at the end of the target's next Main Process.</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "7",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable, Rare",
+    "ir": 24,
+    "quantity": 1,
+    "size": 1,
+    "price": 690
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Leu7saQOUk7QjrkF",
+  "_key": "!items!Leu7saQOUk7QjrkF"
+}

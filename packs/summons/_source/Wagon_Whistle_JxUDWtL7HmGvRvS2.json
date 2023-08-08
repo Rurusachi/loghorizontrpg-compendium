@@ -1,0 +1,39 @@
+{
+  "name": "Wagon Whistle",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You are put in the [Riding: Horse-drawn Carriage] state. You can use EX power «Carriage Drive» and «Carriage Armor». \n(CR16): This item has no effect.</p>",
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Summon, Preparation, M2",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 45
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "JxUDWtL7HmGvRvS2",
+  "_key": "!items!JxUDWtL7HmGvRvS2"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Masterwork Instrument",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A instrument made by a skilled craftsmen.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 0
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "-",
+    "tags": "Two-Handed, Instrument",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 280
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ignR34uPXrL95oFL",
+  "effects": [],
+  "_key": "!items!ignR34uPXrL95oFL"
+}

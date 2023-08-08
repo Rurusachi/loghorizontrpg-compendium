@@ -1,0 +1,39 @@
+{
+  "name": "Maple Wand",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A wand with jewels fitted to enhance the magical power by using selected branches of maple.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 15
+      },
+      "matk": {
+        "bonus": 31
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Staff",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "A4w3r7IJIySVZcIo",
+  "effects": [],
+  "_key": "!items!A4w3r7IJIySVZcIo"
+}

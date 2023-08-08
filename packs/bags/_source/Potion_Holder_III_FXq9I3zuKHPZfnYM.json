@@ -1,0 +1,25 @@
+{
+  "name": "Potion Holder III",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots for [Medicine] and [Toxin] items only by +10.</p>",
+    "other": {
+      "inventoryslots": 0
+    },
+    "tags": "Bag, Accessory",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 540
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "FXq9I3zuKHPZfnYM",
+  "effects": [],
+  "_key": "!items!FXq9I3zuKHPZfnYM"
+}

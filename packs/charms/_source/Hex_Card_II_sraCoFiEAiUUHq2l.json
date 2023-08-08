@@ -1,0 +1,39 @@
+{
+  "name": "Hex Card II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During this Main Process, the target gains a +4D bonus to [Magic Attack] damage rolls. The effect of multiple Hex Cards (regardless of rank) do not stack.</p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 230
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "sraCoFiEAiUUHq2l",
+  "_key": "!items!sraCoFiEAiUUHq2l"
+}

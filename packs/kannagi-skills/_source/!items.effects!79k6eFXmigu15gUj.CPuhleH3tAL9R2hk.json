@@ -1,0 +1,26 @@
+{
+  "_id": "CPuhleH3tAL9R2hk",
+  "changes": [
+    {
+      "key": "data.attributes.athletics.dice",
+      "mode": 2,
+      "value": "1"
+    },
+    {
+      "key": "data.attributes.perception.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": true,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Summon Shikigami SR2",
+  "origin": "Compendium.loghorizontrpg.kannagi-skills.79k6eFXmigu15gUj",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!79k6eFXmigu15gUj.CPuhleH3tAL9R2hk"
+}

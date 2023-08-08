@@ -1,0 +1,39 @@
+{
+  "name": "Clockwork Bird",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Clockwork that assists the surrounding observation by the user. [Activate: Initiative] +1 for actions used at the same time as actions with the [Scout] tag. If you fumble the action relating to [Scout] tag you may reroll that fumble.</p>",
+    "timing": "initiative",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "-"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Rare, Magic Item",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 70
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "sH8JkO5FjOXgZyIT",
+  "_key": "!items!sH8JkO5FjOXgZyIT"
+}

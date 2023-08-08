@@ -1,0 +1,26 @@
+{
+  "_id": "GCb9j1SSXAqFbg9a",
+  "changes": [
+    {
+      "key": "data.abilities.dex.bonus",
+      "mode": 2,
+      "value": "2"
+    },
+    {
+      "key": "data.abilities.pow.bonus",
+      "mode": 2,
+      "value": "2"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Elven Teachings",
+  "origin": "Compendium.loghorizontrpg.elf-skills.SMrQIqLa5sUOdNOX",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!SMrQIqLa5sUOdNOX.GCb9j1SSXAqFbg9a"
+}

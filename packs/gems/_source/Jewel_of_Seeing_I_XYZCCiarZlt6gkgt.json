@@ -1,0 +1,43 @@
+{
+  "name": "Jewel of Seeing I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your Hate by +1. This jewel targets all Props within range that have the [Nature] tag as well as a [Detection Difficulty]. The target's [Concealed] status is removed. (Fate 1): All targeted Props also take a -2 penalty to their [Analysis Difficulty] and [Disable Difficulty]. (CR15): This item has no effect.</p>",
+    "timing": "setup",
+    "check": {
+      "type": "automatic",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "widea",
+      "value": "20",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "1",
+      "addsr": false
+    },
+    "tags": "Gem, Consumable",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 80
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "XYZCCiarZlt6gkgt",
+  "_key": "!items!XYZCCiarZlt6gkgt"
+}

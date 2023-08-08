@@ -1,0 +1,25 @@
+{
+  "name": "Pouch",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +3.</p>",
+    "other": {
+      "inventoryslots": 3
+    },
+    "tags": "Bag, Accessory",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 110
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "nHi24faeyYLi9MZX",
+  "effects": [],
+  "_key": "!items!nHi24faeyYLi9MZX"
+}

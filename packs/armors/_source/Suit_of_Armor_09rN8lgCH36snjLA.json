@@ -1,0 +1,33 @@
+{
+  "name": "Suit of Armor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Sheet metal armor that covers the entire body without any gaps and protects the userfrom any attacks.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 46
+      },
+      "mdef": {
+        "bonus": 28
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "tags": "Heavy Armor",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1900
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "09rN8lgCH36snjLA",
+  "effects": [],
+  "_key": "!items!09rN8lgCH36snjLA"
+}

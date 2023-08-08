@@ -1,0 +1,200 @@
+{
+  "_id": "fjaAZrOMKj4gZvHc",
+  "name": "Force Bracelet",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>[Magic Power] +10. Bracelet with jewels that amplify magic.</p>",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 1400,
+    "equipped": false,
+    "combatstats": {
+      "patk": {
+        "bonus": 0
+      },
+      "matk": {
+        "bonus": 10
+      },
+      "pdef": {
+        "bonus": 0
+      },
+      "mdef": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      },
+      "speed": {
+        "bonus": 0
+      },
+      "recovery": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "athletics": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "endurance": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "disable": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "operate": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "perception": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "negotiation": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "knowledge": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "analyze": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "accuracy": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "evasion": {
+        "bonus": 0,
+        "dice": 0
+      },
+      "resistance": {
+        "bonus": 0,
+        "dice": 0
+      }
+    },
+    "other": {
+      "inventoryslots": 0
+    },
+    "limit": {
+      "min": 0,
+      "value": 1,
+      "max": 1,
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "none",
+    "check": {
+      "type": "none",
+      "caster": "",
+      "bonus": "",
+      "addsr": false,
+      "target": "",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": ""
+    },
+    "target": {
+      "type": "self",
+      "value": 1,
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": "Accessory, Gloves",
+    "hasAction": false,
+    "hasaction": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!fjaAZrOMKj4gZvHc"
+}

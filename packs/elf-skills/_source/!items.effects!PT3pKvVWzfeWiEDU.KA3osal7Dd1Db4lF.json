@@ -1,0 +1,21 @@
+{
+  "_id": "KA3osal7Dd1Db4lF",
+  "changes": [
+    {
+      "key": "data.fate.max",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Deepwood Scout",
+  "origin": "Compendium.loghorizontrpg.elf-skills.PT3pKvVWzfeWiEDU",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!PT3pKvVWzfeWiEDU.KA3osal7Dd1Db4lF"
+}

@@ -1,0 +1,458 @@
+{
+  "_id": "56zezY5C6OLihV9e",
+  "name": "Samurai",
+  "type": "class",
+  "img": "Samurai_Logo.png",
+  "data": {
+    "description": "<p>At character creation, Samurai characters obtain the following three skills for free: Eternal Battlefield, Warrior's Challenge, and Split-Second Awareness.</p>",
+    "hp": {
+      "value": 50,
+      "modifier": 8
+    },
+    "abilities": {
+      "str": {
+        "value": 4
+      },
+      "dex": {
+        "value": 2
+      },
+      "pow": {
+        "value": 2
+      },
+      "int": {
+        "value": 2
+      }
+    },
+    "skills": [
+      {
+        "_id": "EbsZah3LgkgxKRi3",
+        "name": "Eternal Battlefield",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>You gain a +2 bonus to [Accuracy]. During the first round of a scene, you gain a +5 bonus to [Initiative].</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "constant",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "Close"
+          },
+          "target": {
+            "type": "self",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [
+          {
+            "_id": "4l6t7Ncop91xaImF",
+            "changes": [
+              {
+                "key": "data.attributes.accuracy.bonus",
+                "mode": 2,
+                "value": "2"
+              }
+            ],
+            "disabled": false,
+            "duration": {
+              "startTime": null
+            },
+            "icon": "icons/svg/aura.svg",
+            "label": "Accuracy",
+            "origin": "Compendium.loghorizontrpg.samurai-skills.1AivmsxaEox84Jax",
+            "tint": null,
+            "transfer": true,
+            "flags": {}
+          }
+        ],
+        "folder": "Mn2tm1YxrhSafDtt",
+        "sort": 375000,
+        "permission": {
+          "default": 0,
+          "kH30kyBVeJe6zIts": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.samurai-skills.1AivmsxaEox84Jax"
+          }
+        }
+      },
+      {
+        "_id": "lFUmer5LDQ9MvAql",
+        "name": "Warrior's Challenge",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>This skill may only target an ally other than yourself. The target may reduce their [Hate] by -3.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): This skill can be used with [Range: 20 Sq.]</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "setup",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "2 Sq."
+          },
+          "target": {
+            "type": "single",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "1",
+            "addsr": false,
+            "total": 1
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [],
+        "folder": "Mn2tm1YxrhSafDtt",
+        "sort": 475000,
+        "permission": {
+          "default": 0,
+          "kH30kyBVeJe6zIts": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.samurai-skills.h5ydrCrVD2bokRUM"
+          }
+        }
+      },
+      {
+        "_id": "UWpgwiZdZHDTP8wV",
+        "name": "Split-Second Awareness",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>When damage would be applied to you, instead treat all damage as having no effect, as if your [Dodge Check] had been successful.</p>\n<p>&nbsp;</p>\n<p>(Hate Top): You recover 20 HP.</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 1,
+            "addsr": "none",
+            "type": "scene"
+          },
+          "timing": "beforedamage",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "Close"
+          },
+          "target": {
+            "type": "self",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [],
+        "folder": "Mn2tm1YxrhSafDtt",
+        "sort": 0,
+        "permission": {
+          "default": 0,
+          "kH30kyBVeJe6zIts": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.samurai-skills.NzGMSjPzreUXrySX"
+          }
+        }
+      }
+    ],
+    "equippabletags": "[Katana] [Spear] [Hafted] [Bow] [Heavy Armor] [Medium Armor] [Light Armor] [Accessory] [Bag]"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "ZUUkEZycgIRSncDu": 3,
+    "kCCLU79fwope7zbH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.6dPPeAJFMwmqHwun"
+    }
+  },
+  "_key": "!items!56zezY5C6OLihV9e"
+}

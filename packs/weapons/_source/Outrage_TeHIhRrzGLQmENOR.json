@@ -1,0 +1,39 @@
+{
+  "name": "Outrage",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>An extremely large sword that strikes the target with its mass.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 24
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Blade",
+    "ir": 10,
+    "quantity": 1,
+    "size": 1,
+    "price": 480
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "TeHIhRrzGLQmENOR",
+  "effects": [],
+  "_key": "!items!TeHIhRrzGLQmENOR"
+}

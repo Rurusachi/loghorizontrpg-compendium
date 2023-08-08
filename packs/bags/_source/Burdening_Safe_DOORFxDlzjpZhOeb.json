@@ -1,0 +1,25 @@
+{
+  "name": "Burdening Safe",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +18. You can not use «Dash».</p>",
+    "other": {
+      "inventoryslots": 18
+    },
+    "tags": "Bag",
+    "ir": 22,
+    "quantity": 1,
+    "size": 1,
+    "price": 980
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "DOORFxDlzjpZhOeb",
+  "effects": [],
+  "_key": "!items!DOORFxDlzjpZhOeb"
+}

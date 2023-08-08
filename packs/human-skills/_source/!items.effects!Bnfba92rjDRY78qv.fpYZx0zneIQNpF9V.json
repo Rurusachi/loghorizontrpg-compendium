@@ -1,0 +1,21 @@
+{
+  "_id": "fpYZx0zneIQNpF9V",
+  "changes": [
+    {
+      "key": "data.attributes.analyze.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Skill Practice: Analyze",
+  "origin": "Item.hF0RHoeM3A2yFFDi",
+  "transfer": true,
+  "flags": {},
+  "tint": "",
+  "_key": "!items.effects!Bnfba92rjDRY78qv.fpYZx0zneIQNpF9V"
+}

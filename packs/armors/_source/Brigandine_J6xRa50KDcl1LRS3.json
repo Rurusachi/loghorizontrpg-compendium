@@ -1,0 +1,33 @@
+{
+  "name": "Brigandine",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Armor to protect the torso, sewn a small piece of metal to the back of the leather.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 27
+      },
+      "mdef": {
+        "bonus": 22
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "tags": "Medium Armor",
+    "ir": 15,
+    "quantity": 1,
+    "size": 1,
+    "price": 1100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "J6xRa50KDcl1LRS3",
+  "effects": [],
+  "_key": "!items!J6xRa50KDcl1LRS3"
+}

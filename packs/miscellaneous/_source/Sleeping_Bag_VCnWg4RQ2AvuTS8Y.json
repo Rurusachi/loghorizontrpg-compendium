@@ -1,0 +1,39 @@
+{
+  "name": "Sleeping Bag",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Camping essential. It promises a good night's sleep.</p>",
+    "timing": "resttime",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 20
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "VCnWg4RQ2AvuTS8Y",
+  "_key": "!items!VCnWg4RQ2AvuTS8Y"
+}

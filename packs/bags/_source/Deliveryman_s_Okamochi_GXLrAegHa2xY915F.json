@@ -1,0 +1,25 @@
+{
+  "name": "Deliveryman's Okamochi",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots for [Food] items only by +16.</p>",
+    "other": {
+      "inventoryslots": 0
+    },
+    "tags": "Bag, One-Handed",
+    "ir": 20,
+    "quantity": 1,
+    "size": 1,
+    "price": 820
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "GXLrAegHa2xY915F",
+  "effects": [],
+  "_key": "!items!GXLrAegHa2xY915F"
+}

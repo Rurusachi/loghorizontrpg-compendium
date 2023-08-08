@@ -1,0 +1,21 @@
+{
+  "_id": "TRUWaQFht5dPYhYZ",
+  "changes": [
+    {
+      "key": "data.combatstats.initiative.bonus",
+      "mode": 2,
+      "value": "4"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Forest Dancer",
+  "origin": "Compendium.loghorizontrpg.elf-skills.8YyBPIwK3Jc0a3Sa",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!8YyBPIwK3Jc0a3Sa.TRUWaQFht5dPYhYZ"
+}

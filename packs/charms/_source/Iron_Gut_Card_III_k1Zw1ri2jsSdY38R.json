@@ -1,0 +1,39 @@
+{
+  "name": "Iron Gut Card III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The next time the target would take damage, reduce the damage by -20. The effect of multiple Iron Gut Cards (regardless of grade) do not stack, and the effect is removed after being applied once, or at the end of the scene. </p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable, Rare",
+    "ir": 22,
+    "quantity": 1,
+    "size": 1,
+    "price": 820
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "k1Zw1ri2jsSdY38R",
+  "_key": "!items!k1Zw1ri2jsSdY38R"
+}

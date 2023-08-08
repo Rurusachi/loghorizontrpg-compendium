@@ -1,0 +1,39 @@
+{
+  "name": "Healing Potion II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target recovers 50 HP.</p>",
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Medicine, Consumable, Rare",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 260
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "DNT9Jxnpwfz7ZvWM",
+  "_key": "!items!DNT9Jxnpwfz7ZvWM"
+}

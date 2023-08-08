@@ -1,0 +1,39 @@
+{
+  "name": "Hand Crossbow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A crossbow made up of small pieces at the expense of power.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 8
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -4
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 120
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "LIruHvozl856v6YI",
+  "effects": [],
+  "_key": "!items!LIruHvozl856v6YI"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Eagle Card II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During this Main Process, the target gains [Flying]. (CR28): This item has no effect. </p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 18,
+    "quantity": 1,
+    "size": 1,
+    "price": 620
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "w3nws5rR4l6HE6iZ",
+  "_key": "!items!w3nws5rR4l6HE6iZ"
+}

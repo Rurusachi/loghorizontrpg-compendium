@@ -1,0 +1,39 @@
+{
+  "name": "Bō Shuriken",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Shuriken with a straight shape. It is superior in secrecy and power.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 20
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "2 sq",
+    "tags": "One-Handed, Throwing",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 860
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "IIDLgHFlcnkIvw5e",
+  "effects": [],
+  "_key": "!items!IIDLgHFlcnkIvw5e"
+}

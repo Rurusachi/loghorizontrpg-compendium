@@ -1,0 +1,39 @@
+{
+  "name": "Stiletto",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sword dedicated to piercing with no flats on either side of the blade.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 25
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade, Light",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 90
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "vsLKETIpXtYyK7iE",
+  "effects": [],
+  "_key": "!items!vsLKETIpXtYyK7iE"
+}

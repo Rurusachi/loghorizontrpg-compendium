@@ -1,0 +1,39 @@
+{
+  "name": "Oxtongue",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A one-handed spear for infantry with a solid structure.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 10
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Spear",
+    "ir": 8,
+    "quantity": 1,
+    "size": 1,
+    "price": 230
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Y4bgkwOiuBgtAHYK",
+  "effects": [],
+  "_key": "!items!Y4bgkwOiuBgtAHYK"
+}

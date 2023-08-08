@@ -1,0 +1,39 @@
+{
+  "name": "Chinquedea",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A wide sword dagger with grooves carved in the sword body.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 22
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade, Light",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 1200
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "aKp2dxWL0vt4MSFq",
+  "effects": [],
+  "_key": "!items!aKp2dxWL0vt4MSFq"
+}

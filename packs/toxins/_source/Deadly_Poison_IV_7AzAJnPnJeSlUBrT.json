@@ -1,0 +1,39 @@
+{
+  "name": "Deadly Poison IV",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>This item only has an effect if the target is a [Mob] enemy. The target becomes [Incapacitated] or [Dead] (your choice).</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "8",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable",
+    "ir": 24,
+    "quantity": 1,
+    "size": 1,
+    "price": 690
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "7AzAJnPnJeSlUBrT",
+  "_key": "!items!7AzAJnPnJeSlUBrT"
+}

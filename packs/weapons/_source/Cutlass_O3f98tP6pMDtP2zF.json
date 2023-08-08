@@ -1,0 +1,39 @@
+{
+  "name": "Cutlass",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sword with a curved blade that emphasizes cutting.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 9
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade, Light",
+    "ir": 8,
+    "quantity": 1,
+    "size": 1,
+    "price": 200
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "O3f98tP6pMDtP2zF",
+  "effects": [],
+  "_key": "!items!O3f98tP6pMDtP2zF"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Five Person Bow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A very hard and strong long bow, so to say 'We need five people to pull the strings.'</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 55
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 3500
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "AqIPOJuqaTbgWojC",
+  "effects": [],
+  "_key": "!items!AqIPOJuqaTbgWojC"
+}

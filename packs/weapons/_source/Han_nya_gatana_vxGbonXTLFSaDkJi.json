@@ -1,0 +1,39 @@
+{
+  "name": "Han'nya-gatana",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sword of unknown origin whose carved surface was carved into a blade.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 20
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Katana",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1200
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "vxGbonXTLFSaDkJi",
+  "effects": [],
+  "_key": "!items!vxGbonXTLFSaDkJi"
+}

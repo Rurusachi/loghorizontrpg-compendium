@@ -1,0 +1,39 @@
+{
+  "name": "Polonia Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Long cane polished and long engraved with magical silver engraving on the surface.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 54
+      },
+      "matk": {
+        "bonus": 56
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Staff",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 3500
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "lze0GkePpAqjEfpX",
+  "effects": [],
+  "_key": "!items!lze0GkePpAqjEfpX"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Pilum",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Spear with a characteristic diamond-shaped tip and thin neck.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 6
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Spear",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 100
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "dLpT9EmqQmT7Nzu9",
+  "effects": [],
+  "_key": "!items!dLpT9EmqQmT7Nzu9"
+}

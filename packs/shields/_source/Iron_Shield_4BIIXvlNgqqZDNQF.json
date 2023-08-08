@@ -1,0 +1,30 @@
+{
+  "name": "Iron Shield",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>It is quite heavy, but it takes the attack well.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 6
+      },
+      "mdef": {
+        "bonus": 5
+      }
+    },
+    "tags": "One-Handed, Shield",
+    "ir": 7,
+    "quantity": 1,
+    "size": 1,
+    "price": 150
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "4BIIXvlNgqqZDNQF",
+  "effects": [],
+  "_key": "!items!4BIIXvlNgqqZDNQF"
+}

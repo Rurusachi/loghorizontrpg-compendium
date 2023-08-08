@@ -1,0 +1,39 @@
+{
+  "name": "Exhausting Poison I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target takes [Fatigue: 20].</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "3",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable, Rare",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 50
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "6H69GycFlr2Ja3wj",
+  "_key": "!items!6H69GycFlr2Ja3wj"
+}

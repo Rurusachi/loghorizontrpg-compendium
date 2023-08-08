@@ -1,0 +1,21 @@
+{
+  "_id": "eKgk4sS0mRcZwad6",
+  "changes": [
+    {
+      "key": "data.inventory.max",
+      "mode": 2,
+      "value": "@item.sr.value * 4"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Payload",
+  "origin": "Compendium.loghorizontrpg.warrior-skills.sTArEFUfTWqoytSE",
+  "transfer": true,
+  "flags": {},
+  "tint": "",
+  "_key": "!items.effects!sTArEFUfTWqoytSE.eKgk4sS0mRcZwad6"
+}

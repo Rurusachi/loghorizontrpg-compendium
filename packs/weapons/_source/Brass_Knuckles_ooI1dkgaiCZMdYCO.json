@@ -1,0 +1,39 @@
+{
+  "name": "Brass Knuckles",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sturdier piece of metal that protects and strengthens the fist.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 12
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Martial Arts",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 210
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ooI1dkgaiCZMdYCO",
+  "effects": [],
+  "_key": "!items!ooI1dkgaiCZMdYCO"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Sweeping IV",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>This scroll only produces an effect against [Mob] enemies. The target is [Incapacitated] or [Dead] (your choice). As a cost, you take [Fatigue: Base STR] for using this scroll.</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "12",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "4 Sq"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 570
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "QXLnTmLu1C5ZnVkS",
+  "_key": "!items!QXLnTmLu1C5ZnVkS"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "9u2mx4QbQzPTuhoA",
+  "name": "Wolf Fang",
+  "type": "race",
+  "img": "Genjirou_sng.png",
+  "data": {
+    "description": "",
+    "hp": {
+      "value": 16
+    },
+    "abilities": {
+      "str": {
+        "value": 2
+      },
+      "dex": {
+        "value": 0
+      },
+      "pow": {
+        "value": 0
+      },
+      "int": {
+        "value": 0
+      }
+    },
+    "fate": {
+      "value": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "ZUUkEZycgIRSncDu": 3,
+    "kCCLU79fwope7zbH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.N1v8CkgXPTjRNm45"
+    }
+  },
+  "_key": "!items!9u2mx4QbQzPTuhoA"
+}

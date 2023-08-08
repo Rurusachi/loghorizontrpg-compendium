@@ -1,0 +1,21 @@
+{
+  "_id": "a1wOInVaQNsmF4mw",
+  "changes": [
+    {
+      "key": "data.fate.max",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Siesta",
+  "origin": "Compendium.loghorizontrpg.werecat-skills.kfz2ZDCpeKxXXmWl",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!kfz2ZDCpeKxXXmWl.a1wOInVaQNsmF4mw"
+}

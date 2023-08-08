@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Clairvoyance II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>This scroll targets the next scene. You learn the name, rank, and tags of every Prop with [Detection Difficulty: Automatic] in that scene. As a cost, you take [Fatigue: Base STR] for using this scroll. (CR21): This item has no effect.</p>",
+    "timing": "briefing",
+    "check": {
+      "type": "automatic",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Refer"
+    },
+    "target": {
+      "type": "refer",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Scout",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 210
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "R5g85FecCNjIAbWT",
+  "_key": "!items!R5g85FecCNjIAbWT"
+}

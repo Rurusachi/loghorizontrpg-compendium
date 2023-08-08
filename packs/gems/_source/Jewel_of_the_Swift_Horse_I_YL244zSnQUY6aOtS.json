@@ -1,0 +1,43 @@
+{
+  "name": "Jewel of the Swift Horse I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your Hate by +1. The target gains a +1 bonus to [Speed]. Treat this effect as a Combat Status that lasts until the end of the round. (Fate 1): This effect lasts until the end of the scene instead. (CR18): This item has no effect.</p>",
+    "timing": "setup",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "1",
+      "addsr": false
+    },
+    "tags": "Gem, Consumable, Rare",
+    "ir": 8,
+    "quantity": 1,
+    "size": 1,
+    "price": 140
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "YL244zSnQUY6aOtS",
+  "_key": "!items!YL244zSnQUY6aOtS"
+}

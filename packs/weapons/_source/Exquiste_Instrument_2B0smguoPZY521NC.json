@@ -1,0 +1,39 @@
+{
+  "name": "Exquiste Instrument",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The musical instrument of choice among masters.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 0
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "-",
+    "tags": "Two-Handed, Instrument",
+    "ir": 21,
+    "quantity": 1,
+    "size": 1,
+    "price": 900
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "2B0smguoPZY521NC",
+  "effects": [],
+  "_key": "!items!2B0smguoPZY521NC"
+}

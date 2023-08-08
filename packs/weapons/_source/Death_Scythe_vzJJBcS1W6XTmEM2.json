@@ -1,0 +1,39 @@
+{
+  "name": "Death Scythe",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sickle with long hands and sharp hands, like the sickle of the dead god.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 78
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -2
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Hafted",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 3400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "vzJJBcS1W6XTmEM2",
+  "effects": [],
+  "_key": "!items!vzJJBcS1W6XTmEM2"
+}

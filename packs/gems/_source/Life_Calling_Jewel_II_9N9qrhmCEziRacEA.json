@@ -1,0 +1,43 @@
+{
+  "name": "Life-Calling Jewel II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your Hate by +1. This jewel only produces an effect when the target is of the Healer Archetype. The target removes the [Incapacitated] condition, and recovers [Target's CR + 10] HP. (Fate 1): This item's Hate cost is reduced to 0. (CR21): This item has no effect.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "1",
+      "addsr": false
+    },
+    "tags": "Gem, Consumable",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 120
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "9N9qrhmCEziRacEA",
+  "_key": "!items!9N9qrhmCEziRacEA"
+}

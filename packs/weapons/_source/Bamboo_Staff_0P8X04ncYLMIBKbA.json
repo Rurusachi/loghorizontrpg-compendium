@@ -1,0 +1,39 @@
+{
+  "name": "Bamboo Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Magician wand. Characterized by a precious metal pattern that has been inscribed.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 12
+      },
+      "matk": {
+        "bonus": 12
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Staff",
+    "ir": 5,
+    "quantity": 1,
+    "size": 1,
+    "price": 180
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "0P8X04ncYLMIBKbA",
+  "effects": [],
+  "_key": "!items!0P8X04ncYLMIBKbA"
+}

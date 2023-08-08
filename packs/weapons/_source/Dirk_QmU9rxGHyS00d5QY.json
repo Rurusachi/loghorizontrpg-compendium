@@ -1,0 +1,39 @@
+{
+  "name": "Dirk",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A single-edged dagger that the highland warrior is always wearing from everyday to battle.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 15
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade, Light",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 640
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "QmU9rxGHyS00d5QY",
+  "effects": [],
+  "_key": "!items!QmU9rxGHyS00d5QY"
+}

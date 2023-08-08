@@ -1,0 +1,33 @@
+{
+  "name": "Plate Mail",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Armor that covers the whole body with sheet metal punched along the body.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 17
+      },
+      "mdef": {
+        "bonus": 9
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "tags": "Heavy Armor",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 300
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "SvOvFm9WcvVGpngG",
+  "effects": [],
+  "_key": "!items!SvOvFm9WcvVGpngG"
+}

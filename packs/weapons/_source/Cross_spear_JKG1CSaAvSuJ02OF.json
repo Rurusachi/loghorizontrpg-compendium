@@ -1,0 +1,39 @@
+{
+  "name": "Cross spear",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Hands with a cross braid and increased power.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 44
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Spear",
+    "ir": 24,
+    "quantity": 1,
+    "size": 1,
+    "price": 2000
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "JKG1CSaAvSuJ02OF",
+  "effects": [],
+  "_key": "!items!JKG1CSaAvSuJ02OF"
+}

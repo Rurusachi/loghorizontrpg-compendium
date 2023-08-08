@@ -1,0 +1,21 @@
+{
+  "_id": "VawwMeAvZ41Psq1O",
+  "changes": [
+    {
+      "key": "data.fate.max",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Forcible Recovery",
+  "origin": "Compendium.loghorizontrpg.warrior-skills.RfdfDlw0tKjBdh9n",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!RfdfDlw0tKjBdh9n.VawwMeAvZ41Psq1O"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Short Bow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A small bow for battle.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 8
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "3 sq",
+    "tags": "Two-Handed, Bow",
+    "ir": 2,
+    "quantity": 1,
+    "size": 1,
+    "price": 110
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "7v94a1UZ13EAe1MU",
+  "effects": [],
+  "_key": "!items!7v94a1UZ13EAe1MU"
+}

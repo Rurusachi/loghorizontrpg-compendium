@@ -1,0 +1,39 @@
+{
+  "name": "High Rapier",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Premium sword sword made of fine material. Although it is lightweight, its power exceeds that of conventional products.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 22
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade",
+    "ir": 19,
+    "quantity": 1,
+    "size": 1,
+    "price": 1000
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "aWY8wyilSBeN64xl",
+  "effects": [],
+  "_key": "!items!aWY8wyilSBeN64xl"
+}

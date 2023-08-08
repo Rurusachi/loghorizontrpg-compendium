@@ -1,0 +1,33 @@
+{
+  "name": "Steel Silhouette",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>It is a full body armor that has been reduced in weight while keeping its defensive power, but it is still light weight and durable.</p>",
+    "combatstats": {
+      "pdef": {
+        "bonus": 62
+      },
+      "mdef": {
+        "bonus": 38
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "tags": "Heavy Armor",
+    "ir": 27,
+    "quantity": 1,
+    "size": 1,
+    "price": 3800
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "2ZlGirKgVSgYmyIp",
+  "effects": [],
+  "_key": "!items!2ZlGirKgVSgYmyIp"
+}

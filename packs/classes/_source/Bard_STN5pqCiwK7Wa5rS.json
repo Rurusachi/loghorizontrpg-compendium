@@ -1,0 +1,327 @@
+{
+  "_id": "STN5pqCiwK7Wa5rS",
+  "name": "Bard",
+  "type": "class",
+  "img": "Bard_Logo.png",
+  "data": {
+    "description": "<p>At character creation, Bard characters obtain the following three skills for free: Blade Artist, Maestro Echo, and any one skill with the [Harmony] tag on the Bard skill list. Note that the Blade Artist skill is found on the Weapon Master Archetype skill list.</p>",
+    "hp": {
+      "value": 40,
+      "modifier": 5
+    },
+    "abilities": {
+      "str": {
+        "value": 2
+      },
+      "dex": {
+        "value": 4
+      },
+      "pow": {
+        "value": 2
+      },
+      "int": {
+        "value": 2
+      }
+    },
+    "skills": [
+      {
+        "_id": "CGdsrS64FjURpJ3b",
+        "name": "Blade Artist",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>You gain a +1D bonus to [Hit Checks].</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 0,
+            "addsr": "none",
+            "type": "None"
+          },
+          "timing": "constant",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "Close"
+          },
+          "target": {
+            "type": "self",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 1
+          }
+        },
+        "effects": [
+          {
+            "_id": "2gxqK8EuLtWHwLUD",
+            "changes": [
+              {
+                "key": "data.attributes.accuracy.dice",
+                "mode": 2,
+                "value": "1"
+              }
+            ],
+            "disabled": false,
+            "duration": {
+              "startTime": null
+            },
+            "icon": "icons/svg/aura.svg",
+            "label": "Accuracy Bonus",
+            "origin": "Compendium.loghorizontrpg.weapon-master-skills.iH6uFC9DRbxX207A",
+            "tint": null,
+            "transfer": true,
+            "flags": {}
+          }
+        ],
+        "folder": null,
+        "sort": 300000,
+        "permission": {
+          "default": 0,
+          "ZUUkEZycgIRSncDu": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.weapon-master-skills.iH6uFC9DRbxX207A"
+          }
+        }
+      },
+      {
+        "_id": "IyDfvroj1OoUXOp3",
+        "name": "Maestro Echo",
+        "type": "skill",
+        "img": "icons/svg/item-bag.svg",
+        "data": {
+          "description": "<p>You cannot target yourself with this skill. When using this skill, you may spend up to three [Fate Points] (0 is okay). You gain a +[(Spent [Fate Points] + SR) x 5] bonus to damage rolls.</p>\n<p>&nbsp;</p>\n<p>(CR11): The multiplier bonus becomes x10.</p>\n<p>(CR21): The multiplier bonus becomes x15.</p>",
+          "limit": {
+            "min": 0,
+            "value": 0,
+            "max": 1,
+            "bonus": 1,
+            "addsr": "none",
+            "type": "scene"
+          },
+          "timing": "damageroll",
+          "check": {
+            "type": "none",
+            "caster": "accuracy",
+            "bonus": "",
+            "addsr": false,
+            "target": "evasion",
+            "targetbonus": ""
+          },
+          "range": {
+            "type": "",
+            "value": "4 Sq."
+          },
+          "target": {
+            "type": "single",
+            "value": "0",
+            "addsr": false,
+            "total": 0
+          },
+          "hatecost": {
+            "value": "1",
+            "addsr": false,
+            "total": 1
+          },
+          "fatecost": {
+            "value": 0
+          },
+          "formula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "secondformula": {
+            "value": "",
+            "bonus": {
+              "srd": false,
+              "sr": false,
+              "strbase": false,
+              "dexbase": false,
+              "powbase": false,
+              "intbase": false,
+              "strmod": false,
+              "dexmod": false,
+              "powmod": false,
+              "intmod": false,
+              "patk": false,
+              "matk": false,
+              "recovery": false,
+              "cr": false
+            },
+            "bonusmultiplier": {
+              "srd": null,
+              "sr": null,
+              "strbase": null,
+              "dexbase": null,
+              "powbase": null,
+              "intbase": null,
+              "strmod": null,
+              "dexmod": null,
+              "powmod": null,
+              "intmod": null,
+              "patk": null,
+              "matk": null,
+              "recovery": null,
+              "cr": null
+            }
+          },
+          "tags": "Auto, Combat, -, -",
+          "sr": {
+            "value": 1,
+            "max": 3
+          }
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 400000,
+        "permission": {
+          "default": 0,
+          "ZUUkEZycgIRSncDu": 3
+        },
+        "flags": {
+          "core": {
+            "sourceId": "Compendium.loghorizontrpg.bard-skills.bMImOrF2c8N2hHK1"
+          }
+        }
+      }
+    ],
+    "equippabletags": "[Blade] [Spear] [Hafted] [Whip] [Bow] [Instrument] [Medium Armor] [Light Armor] [Accessory] [Bag]"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0,
+    "ZUUkEZycgIRSncDu": 3,
+    "kCCLU79fwope7zbH": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.Yp4sgPjl9bUaxDjb"
+    }
+  },
+  "_key": "!items!STN5pqCiwK7Wa5rS"
+}

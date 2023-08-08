@@ -1,0 +1,39 @@
+{
+  "name": "Adroit Hand Card II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The next time the target performs Prop Disable, they gain a +1D bonus to the check. The effect of multiple Adroit Hand Cards (regardless of grade) do not stack, and the effect is removed after being applied once, or at the end of the scene. (CR16): This item has no effect. </p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 230
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "VK52gKNfBGFnpnBa",
+  "_key": "!items!VK52gKNfBGFnpnBa"
+}

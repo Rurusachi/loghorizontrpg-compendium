@@ -1,0 +1,39 @@
+{
+  "name": "Boiled Mystery Bird",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The target's [Fatigue] rating decreases by -35.</p>",
+    "timing": "resttime",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "areap",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Food, Consumable, Preparation, Rare",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 210
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "VUmPaKLRiMAZFXYo",
+  "_key": "!items!VUmPaKLRiMAZFXYo"
+}

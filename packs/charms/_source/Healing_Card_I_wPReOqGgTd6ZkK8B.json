@@ -1,0 +1,39 @@
+{
+  "name": "Healing Card I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>During the current Main Process, the target gains a +10 bonus to [Recovery]. The effect of multiple Healing Cards (regardless of grade) do not stack. </p>",
+    "timing": "move",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Charm, Consumable, Rare",
+    "ir": 4,
+    "quantity": 1,
+    "size": 1,
+    "price": 60
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "wPReOqGgTd6ZkK8B",
+  "_key": "!items!wPReOqGgTd6ZkK8B"
+}

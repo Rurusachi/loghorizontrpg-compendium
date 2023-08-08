@@ -1,0 +1,39 @@
+{
+  "name": "Owazamono",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A sword of katana that can be seen at a glance at a distance. Not only beauty but also its sharpness is top class.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 56
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Katana",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 4300
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "xksS6cIaU3oBJHmL",
+  "effects": [],
+  "_key": "!items!xksS6cIaU3oBJHmL"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Dark Vision Potion I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>You gain the [Dark Vision] tag. Treat this effect as a Combat Status. (CR13): This item has no effect.</p>",
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Medicine, Consumable, Preparation",
+    "ir": 3,
+    "quantity": 1,
+    "size": 1,
+    "price": 40
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "PdqYUjyGq45I7hNl",
+  "_key": "!items!PdqYUjyGq45I7hNl"
+}

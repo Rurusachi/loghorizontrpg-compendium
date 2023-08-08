@@ -1,0 +1,39 @@
+{
+  "name": "Cedar Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A cane with a beautiful pattern carved on the surface.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 20
+      },
+      "matk": {
+        "bonus": 19
+      },
+      "initiative": {
+        "bonus": -2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Staff",
+    "ir": 9,
+    "quantity": 1,
+    "size": 1,
+    "price": 400
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Ziz3ePOhzXwbOLHr",
+  "effects": [],
+  "_key": "!items!Ziz3ePOhzXwbOLHr"
+}

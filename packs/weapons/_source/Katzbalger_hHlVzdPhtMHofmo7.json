@@ -1,0 +1,39 @@
+{
+  "name": "Katzbalger",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A wide straight sword featuring an S-shaped or 8-shaped collar and a patterned head of fish tailored shape.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 33
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Blade",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 2500
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "hHlVzdPhtMHofmo7",
+  "effects": [],
+  "_key": "!items!hHlVzdPhtMHofmo7"
+}

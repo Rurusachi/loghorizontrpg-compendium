@@ -1,0 +1,39 @@
+{
+  "name": "Chain sickle",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>The destructive power was increased by attaching a small blade to the tip of a metal whip.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 15
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": -1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Whip",
+    "ir": 14,
+    "quantity": 1,
+    "size": 1,
+    "price": 460
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "z2eSLnRkUkiMNcMn",
+  "effects": [],
+  "_key": "!items!z2eSLnRkUkiMNcMn"
+}

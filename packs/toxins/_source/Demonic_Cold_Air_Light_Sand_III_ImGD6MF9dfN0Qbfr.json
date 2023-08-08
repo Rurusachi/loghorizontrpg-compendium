@@ -1,0 +1,39 @@
+{
+  "name": "Demonic Cold Air Light Sand III",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Deal [2D + 11] magical damage to the target. This damage always has the [Cold] tag, even if another effect would overwrite it.</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "11",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable",
+    "ir": 22,
+    "quantity": 1,
+    "size": 1,
+    "price": 580
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ImGD6MF9dfN0Qbfr",
+  "_key": "!items!ImGD6MF9dfN0Qbfr"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Demonic Electric Shock Light Sand II",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Deal [2D + 7] magical damage to the target. This damage always has the [Shock] tag, even if another effect would overwrite it.</p>",
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "none",
+      "bonus": "7",
+      "addsr": false,
+      "target": "resistance"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Toxin, Consumable",
+    "ir": 12,
+    "quantity": 1,
+    "size": 1,
+    "price": 190
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "36iNi4YOYZvmS04U",
+  "_key": "!items!36iNi4YOYZvmS04U"
+}

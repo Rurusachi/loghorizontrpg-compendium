@@ -1,0 +1,39 @@
+{
+  "name": "Adventurer's Kit",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Contains: chalk, flint, writing implement, spade, hammer & chisel, ten meters of rope.</p>",
+    "timing": "none",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "-"
+    },
+    "target": {
+      "type": "none",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "",
+    "ir": 1,
+    "quantity": 1,
+    "size": 1,
+    "price": 5
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "8SmWdwyLjHzatIP3",
+  "_key": "!items!8SmWdwyLjHzatIP3"
+}

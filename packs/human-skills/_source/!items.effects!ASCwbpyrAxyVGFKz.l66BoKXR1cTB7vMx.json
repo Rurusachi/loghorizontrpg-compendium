@@ -1,0 +1,21 @@
+{
+  "_id": "l66BoKXR1cTB7vMx",
+  "changes": [
+    {
+      "key": "data.attributes.knowledge.dice",
+      "mode": 2,
+      "value": "1"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Skill Practice: Knowledge",
+  "origin": "Item.BZkR5Z0tr3qELLkS",
+  "transfer": true,
+  "flags": {},
+  "tint": "",
+  "_key": "!items.effects!ASCwbpyrAxyVGFKz.l66BoKXR1cTB7vMx"
+}

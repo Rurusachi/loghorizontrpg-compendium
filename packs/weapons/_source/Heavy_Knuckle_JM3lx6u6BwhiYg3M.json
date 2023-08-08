@@ -1,0 +1,39 @@
+{
+  "name": "Heavy Knuckle",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Knuckle guard for striking made of heavy and sturdy metal.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 37
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Martial Arts",
+    "ir": 23,
+    "quantity": 1,
+    "size": 1,
+    "price": 1900
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "JM3lx6u6BwhiYg3M",
+  "effects": [],
+  "_key": "!items!JM3lx6u6BwhiYg3M"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Kōkoku Gigei Ryō Uchimono",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A masterpiece created by smiths selected from the empire. Proof that the inscription is a dish in the world.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 31
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": -1
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "One-Handed, Katana",
+    "ir": 30,
+    "quantity": 1,
+    "size": 1,
+    "price": 2800
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "I5ft0U5f2bEMYQFH",
+  "effects": [],
+  "_key": "!items!I5ft0U5f2bEMYQFH"
+}

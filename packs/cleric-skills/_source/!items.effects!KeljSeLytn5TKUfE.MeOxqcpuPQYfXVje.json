@@ -1,0 +1,21 @@
+{
+  "_id": "MeOxqcpuPQYfXVje",
+  "changes": [
+    {
+      "key": "data.attributes.bonus",
+      "mode": 2,
+      "value": "@item.sr.value*3"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Recovery Bonus",
+  "origin": "Compendium.loghorizontrpg.cleric-skills.KeljSeLytn5TKUfE",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!KeljSeLytn5TKUfE.MeOxqcpuPQYfXVje"
+}

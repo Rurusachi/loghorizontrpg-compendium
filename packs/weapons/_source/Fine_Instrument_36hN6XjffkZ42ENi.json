@@ -1,0 +1,39 @@
+{
+  "name": "Fine Instrument",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>An instrument made by an artisan.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 0
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 0
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 0
+      }
+    },
+    "weaponrange": "-",
+    "tags": "Two-Handed, Instrument",
+    "ir": 6,
+    "quantity": 1,
+    "size": 1,
+    "price": 110
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "36hN6XjffkZ42ENi",
+  "effects": [],
+  "_key": "!items!36hN6XjffkZ42ENi"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Qatar",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>A special dagger used in the south. Pierce with the same action as pushing with a fist.</p>",
+    "combatstats": {
+      "patk": {
+        "bonus": 26
+      },
+      "matk": {
+        "bonus": 0
+      },
+      "initiative": {
+        "bonus": 2
+      }
+    },
+    "attributes": {
+      "accuracy": {
+        "bonus": 1
+      }
+    },
+    "weaponrange": "Close",
+    "tags": "Two-Handed, Martial Arts",
+    "ir": 16,
+    "quantity": 1,
+    "size": 1,
+    "price": 1000
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ivkLhdaYGaxASU8Z",
+  "effects": [],
+  "_key": "!items!ivkLhdaYGaxASU8Z"
+}

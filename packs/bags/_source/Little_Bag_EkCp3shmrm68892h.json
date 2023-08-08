@@ -1,0 +1,25 @@
+{
+  "name": "Little Bag",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Increase your number of Inventory Slots by +6.</p>",
+    "other": {
+      "inventoryslots": 6
+    },
+    "tags": "Bag, Accessory",
+    "ir": 11,
+    "quantity": 1,
+    "size": 1,
+    "price": 280
+  },
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "EkCp3shmrm68892h",
+  "effects": [],
+  "_key": "!items!EkCp3shmrm68892h"
+}

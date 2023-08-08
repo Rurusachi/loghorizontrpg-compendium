@@ -1,0 +1,21 @@
+{
+  "_id": "HYei6QZm2ddSlNPU",
+  "changes": [
+    {
+      "key": "data.combatstats.patk.total",
+      "mode": 2,
+      "value": "@abilities.dex.mod * 2"
+    }
+  ],
+  "disabled": false,
+  "duration": {
+    "startTime": null
+  },
+  "icon": "icons/svg/aura.svg",
+  "label": "Black Widow Style",
+  "origin": "Compendium.loghorizontrpg.assassin-skills.flXxsgy0c6xvagYR",
+  "transfer": true,
+  "flags": {},
+  "tint": null,
+  "_key": "!items.effects!flXxsgy0c6xvagYR.HYei6QZm2ddSlNPU"
+}

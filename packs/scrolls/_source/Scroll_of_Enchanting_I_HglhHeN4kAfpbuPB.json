@@ -1,0 +1,39 @@
+{
+  "name": "Scroll of Enchanting I",
+  "type": "consumable",
+  "img": "icons/svg/item-bag.svg",
+  "data": {
+    "description": "<p>Choose one: [Flame] [Cold] [Shock] [Holy] [Blight] or [Spirit]. The target's [Weapon Attack] deal magical damage of the chosen tag type. Treat this effect as a Combat Status. You take [Fatigue: Base STR]. (CR13): This item has no effect.</p>",
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion"
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "tags": "Scroll, Consumable, Preparation",
+    "ir": 3,
+    "quantity": 1,
+    "size": 1,
+    "price": 45
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "HglhHeN4kAfpbuPB",
+  "_key": "!items!HglhHeN4kAfpbuPB"
+}
