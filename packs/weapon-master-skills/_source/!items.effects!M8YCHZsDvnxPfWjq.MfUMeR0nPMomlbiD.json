@@ -2,9 +2,9 @@
   "_id": "MfUMeR0nPMomlbiD",
   "changes": [
     {
-      "key": "data.combatstats.recovery.bonus",
+      "key": "system.combatstats.recovery.bonus",
       "mode": 2,
-      "value": "@data.abilities.int.mod"
+      "value": "@system.abilities.int.mod"
     }
   ],
   "disabled": false,

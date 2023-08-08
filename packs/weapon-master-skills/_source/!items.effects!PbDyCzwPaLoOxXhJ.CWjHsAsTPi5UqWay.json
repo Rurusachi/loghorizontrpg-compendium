@@ -2,12 +2,12 @@
   "_id": "CWjHsAsTPi5UqWay",
   "changes": [
     {
-      "key": "data.attributes.analyze.bonus",
+      "key": "system.attributes.analyze.bonus",
       "mode": 2,
       "value": "2"
     },
     {
-      "key": "data.attributes.disable.bonus",
+      "key": "system.attributes.disable.bonus",
       "mode": 2,
       "value": "2"
     }

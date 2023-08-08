@@ -2,17 +2,17 @@
   "_id": "b5xjjcHMlnP2ex5J",
   "changes": [
     {
-      "key": "data.attributes.accuracy.bonus",
+      "key": "system.attributes.accuracy.bonus",
       "mode": 2,
       "value": "2"
     },
     {
-      "key": "data.attributes.evasion.dice",
+      "key": "system.attributes.evasion.dice",
       "mode": 2,
       "value": "1"
     },
     {
-      "key": "data.attributes.resistance.dice",
+      "key": "system.attributes.resistance.dice",
       "mode": 2,
       "value": "1"
     }

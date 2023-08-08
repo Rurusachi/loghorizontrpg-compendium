@@ -2,7 +2,7 @@
   "_id": "fpYZx0zneIQNpF9V",
   "changes": [
     {
-      "key": "data.attributes.analyze.dice",
+      "key": "system.attributes.analyze.dice",
       "mode": 2,
       "value": "1"
     }

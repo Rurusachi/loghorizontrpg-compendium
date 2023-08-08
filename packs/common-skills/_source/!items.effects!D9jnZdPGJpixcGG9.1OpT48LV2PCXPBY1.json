@@ -2,7 +2,7 @@
   "_id": "1OpT48LV2PCXPBY1",
   "changes": [
     {
-      "key": "data.attributes.knowledge.bonus",
+      "key": "system.attributes.knowledge.bonus",
       "mode": 2,
       "value": "1d6"
     }

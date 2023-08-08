@@ -2,12 +2,12 @@
   "_id": "UCW0ST3fBJg0Ljvu",
   "changes": [
     {
-      "key": "data.attributes.operate.dice",
+      "key": "system.attributes.operate.dice",
       "mode": 2,
       "value": "1"
     },
     {
-      "key": "data.attributes.negotiation.dice",
+      "key": "system.attributes.negotiation.dice",
       "mode": 2,
       "value": "1"
     }

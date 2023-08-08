@@ -2,7 +2,7 @@
   "_id": "93w42kjMBlJLvvhO",
   "changes": [
     {
-      "key": "data.combatstats.speed.bonus",
+      "key": "system.combatstats.speed.bonus",
       "mode": 2,
       "value": "1"
     }

@@ -2,7 +2,7 @@
   "_id": "2isEDNyrWqomlKV1",
   "changes": [
     {
-      "key": "data.attributes.disable.dice",
+      "key": "system.attributes.disable.dice",
       "mode": 2,
       "value": "1"
     }

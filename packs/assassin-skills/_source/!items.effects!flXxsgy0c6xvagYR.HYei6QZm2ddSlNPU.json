@@ -2,7 +2,7 @@
   "_id": "HYei6QZm2ddSlNPU",
   "changes": [
     {
-      "key": "data.combatstats.patk.total",
+      "key": "system.combatstats.patk.total",
       "mode": 2,
       "value": "@abilities.dex.mod * 2"
     }

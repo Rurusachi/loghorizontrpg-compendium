@@ -2,12 +2,12 @@
   "_id": "YWgoeftAHZ6FLR7G",
   "changes": [
     {
-      "key": "data.abilities.str.bonus",
+      "key": "system.abilities.str.bonus",
       "mode": 2,
       "value": "2"
     },
     {
-      "key": "data.abilities.pow.bonus",
+      "key": "system.abilities.pow.bonus",
       "mode": 2,
       "value": "2"
     }

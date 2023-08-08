@@ -2,7 +2,7 @@
   "_id": "eKgk4sS0mRcZwad6",
   "changes": [
     {
-      "key": "data.inventory.max",
+      "key": "system.inventory.max",
       "mode": 2,
       "value": "@item.sr.value * 4"
     }

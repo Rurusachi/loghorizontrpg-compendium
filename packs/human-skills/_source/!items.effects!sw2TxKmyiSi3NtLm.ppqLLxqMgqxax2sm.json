@@ -2,22 +2,22 @@
   "_id": "ppqLLxqMgqxax2sm",
   "changes": [
     {
-      "key": "data.abilities.str.bonus",
+      "key": "system.abilities.str.bonus",
       "mode": 2,
       "value": "1"
     },
     {
-      "key": "data.abilities.dex.bonus",
+      "key": "system.abilities.dex.bonus",
       "mode": 2,
       "value": "1"
     },
     {
-      "key": "data.abilities.pow.bonus",
+      "key": "system.abilities.pow.bonus",
       "mode": 2,
       "value": "1"
     },
     {
-      "key": "data.abilities.int.bonus",
+      "key": "system.abilities.int.bonus",
       "mode": 2,
       "value": "1"
     }

@@ -2,7 +2,7 @@
   "_id": "fKk2hWsnrEcPj7Yv",
   "changes": [
     {
-      "key": "data.combatstats.mdef.total",
+      "key": "system.combatstats.mdef.total",
       "mode": 2,
       "value": "@abilities.str.mod"
     }

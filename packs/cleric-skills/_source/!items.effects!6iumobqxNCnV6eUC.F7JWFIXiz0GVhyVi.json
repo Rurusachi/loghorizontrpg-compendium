@@ -2,12 +2,12 @@
   "_id": "F7JWFIXiz0GVhyVi",
   "changes": [
     {
-      "key": "data.attributes.accuracy.bonus",
+      "key": "system.attributes.accuracy.bonus",
       "mode": 2,
       "value": "2"
     },
     {
-      "key": "data.attributes.resistance.bonus",
+      "key": "system.attributes.resistance.bonus",
       "mode": 2,
       "value": "1"
     }

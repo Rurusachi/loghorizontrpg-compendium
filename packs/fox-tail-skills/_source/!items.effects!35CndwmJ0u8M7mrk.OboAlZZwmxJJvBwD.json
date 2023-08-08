@@ -2,7 +2,7 @@
   "_id": "OboAlZZwmxJJvBwD",
   "changes": [
     {
-      "key": "data.abilities.pow.bonus",
+      "key": "system.abilities.pow.bonus",
       "mode": 2,
       "value": "4"
     }

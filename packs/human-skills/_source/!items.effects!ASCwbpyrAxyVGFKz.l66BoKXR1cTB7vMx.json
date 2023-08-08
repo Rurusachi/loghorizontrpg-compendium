@@ -2,7 +2,7 @@
   "_id": "l66BoKXR1cTB7vMx",
   "changes": [
     {
-      "key": "data.attributes.knowledge.dice",
+      "key": "system.attributes.knowledge.dice",
       "mode": 2,
       "value": "1"
     }

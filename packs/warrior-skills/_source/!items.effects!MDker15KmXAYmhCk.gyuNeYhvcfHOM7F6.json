@@ -2,7 +2,7 @@
   "_id": "gyuNeYhvcfHOM7F6",
   "changes": [
     {
-      "key": "data.attributes.endurance.dice",
+      "key": "system.attributes.endurance.dice",
       "mode": 2,
       "value": "1"
     }

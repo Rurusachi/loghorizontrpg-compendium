@@ -2,12 +2,12 @@
   "_id": "CPuhleH3tAL9R2hk",
   "changes": [
     {
-      "key": "data.attributes.athletics.dice",
+      "key": "system.attributes.athletics.dice",
       "mode": 2,
       "value": "1"
     },
     {
-      "key": "data.attributes.perception.dice",
+      "key": "system.attributes.perception.dice",
       "mode": 2,
       "value": "1"
     }

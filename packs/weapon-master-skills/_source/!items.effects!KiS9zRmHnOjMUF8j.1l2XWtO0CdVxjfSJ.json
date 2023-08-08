@@ -2,7 +2,7 @@
   "_id": "1l2XWtO0CdVxjfSJ",
   "changes": [
     {
-      "key": "data.combatstats.patk.bonus",
+      "key": "system.combatstats.patk.bonus",
       "mode": 2,
       "value": "6"
     }

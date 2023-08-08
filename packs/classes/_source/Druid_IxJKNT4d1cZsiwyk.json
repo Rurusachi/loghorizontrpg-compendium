@@ -147,14 +147,14 @@
             "_id": "bxV1OU3qLY9YjjOt",
             "changes": [
               {
-                "key": "data.attributes.accuracy.bonus",
+                "key": "system.attributes.accuracy.bonus",
                 "mode": 2,
                 "value": "3"
               },
               {
-                "key": "data.combatstats.pdef.total",
+                "key": "system.combatstats.pdef.total",
                 "mode": 2,
-                "value": "@data.abilites.pow.mod"
+                "value": "@system.abilites.pow.mod"
               }
             ],
             "disabled": false,

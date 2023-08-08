@@ -2,12 +2,12 @@
   "_id": "s6yMrkJRtQQTQviF",
   "changes": [
     {
-      "key": "data.attributes.athletics.bonus",
+      "key": "system.attributes.athletics.bonus",
       "mode": 2,
       "value": "2"
     },
     {
-      "key": "data.attributes.perception.bonus",
+      "key": "system.attributes.perception.bonus",
       "mode": 2,
       "value": "2"
     }

@@ -2,7 +2,7 @@
   "_id": "usvfueyKd3tBbmRD",
   "changes": [
     {
-      "key": "data.attributes.perception.dice",
+      "key": "system.attributes.perception.dice",
       "mode": 2,
       "value": "1"
     }

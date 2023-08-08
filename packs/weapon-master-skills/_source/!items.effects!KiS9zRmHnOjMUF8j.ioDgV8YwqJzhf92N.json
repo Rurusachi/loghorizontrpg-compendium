@@ -2,9 +2,9 @@
   "_id": "ioDgV8YwqJzhf92N",
   "changes": [
     {
-      "key": "data.combatstats.patk.bonus",
+      "key": "system.combatstats.patk.bonus",
       "mode": 2,
-      "value": "@data.abilities.dex.mod"
+      "value": "@system.abilities.dex.mod"
     }
   ],
   "disabled": true,

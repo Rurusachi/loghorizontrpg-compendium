@@ -2,7 +2,7 @@
   "_id": "9o8VscnN2RD6vvwK",
   "changes": [
     {
-      "key": "data.attributes.athletics.dice",
+      "key": "system.attributes.athletics.dice",
       "mode": 2,
       "value": "1"
     }

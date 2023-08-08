@@ -2,12 +2,12 @@
   "_id": "41porhIRPfNjyhhH",
   "changes": [
     {
-      "key": "data.abilities.dex.bonus",
+      "key": "system.abilities.dex.bonus",
       "mode": 2,
       "value": "2"
     },
     {
-      "key": "data.abilities.int.bonus",
+      "key": "system.abilities.int.bonus",
       "mode": 2,
       "value": "2"
     }

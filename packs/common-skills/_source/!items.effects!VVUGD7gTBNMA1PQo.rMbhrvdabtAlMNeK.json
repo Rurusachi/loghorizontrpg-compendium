@@ -2,7 +2,7 @@
   "_id": "rMbhrvdabtAlMNeK",
   "changes": [
     {
-      "key": "data.abilities.int.bonus",
+      "key": "system.abilities.int.bonus",
       "mode": 2,
       "value": "3"
     }

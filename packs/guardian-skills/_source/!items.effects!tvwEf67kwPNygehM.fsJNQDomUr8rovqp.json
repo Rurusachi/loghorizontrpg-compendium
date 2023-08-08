@@ -2,7 +2,7 @@
   "_id": "fsJNQDomUr8rovqp",
   "changes": [
     {
-      "key": "data.attributes.analysis.bonus",
+      "key": "system.attributes.analysis.bonus",
       "mode": 2,
       "value": "1d6"
     }

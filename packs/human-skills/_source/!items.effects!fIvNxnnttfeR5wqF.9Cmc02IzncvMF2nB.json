@@ -2,7 +2,7 @@
   "_id": "9Cmc02IzncvMF2nB",
   "changes": [
     {
-      "key": "data.attributes.negotiation.dice",
+      "key": "system.attributes.negotiation.dice",
       "mode": 2,
       "value": "1"
     }

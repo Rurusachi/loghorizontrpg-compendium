@@ -147,7 +147,7 @@
             "_id": "4l6t7Ncop91xaImF",
             "changes": [
               {
-                "key": "data.attributes.accuracy.bonus",
+                "key": "system.attributes.accuracy.bonus",
                 "mode": 2,
                 "value": "2"
               }

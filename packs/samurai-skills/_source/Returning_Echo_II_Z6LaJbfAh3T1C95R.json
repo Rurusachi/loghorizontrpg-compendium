@@ -39,7 +39,7 @@
       "value": 0
     },
     "formula": {
-      "value": "@item.sr.value*@data.abilities.dex.mod",
+      "value": "@item.sr.value*@system.abilities.dex.mod",
       "bonus": {
         "srd": false,
         "sr": false,

@@ -2,12 +2,12 @@
   "_id": "6Kzm1Cm5KFTSEWZ9",
   "changes": [
     {
-      "key": "data.attributes.negotiation.bonus",
+      "key": "system.attributes.negotiation.bonus",
       "mode": 2,
       "value": "2"
     },
     {
-      "key": "data.attributes.operate.bonus",
+      "key": "system.attributes.operate.bonus",
       "mode": 2,
       "value": "2"
     }

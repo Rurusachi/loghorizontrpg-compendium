@@ -2,12 +2,12 @@
   "_id": "5uUs9qqe9yTpEkVS",
   "changes": [
     {
-      "key": "data.combatstats.pdef.total",
+      "key": "system.combatstats.pdef.total",
       "mode": 2,
       "value": "@cr+@abilities.dex.mod"
     },
     {
-      "key": "data.combatstats.mdef.total",
+      "key": "system.combatstats.mdef.total",
       "mode": 2,
       "value": "@cr+@abilities.dex.mod"
     }

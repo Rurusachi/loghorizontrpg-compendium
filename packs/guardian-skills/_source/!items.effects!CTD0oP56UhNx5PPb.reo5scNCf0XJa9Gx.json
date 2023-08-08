@@ -2,7 +2,7 @@
   "_id": "reo5scNCf0XJa9Gx",
   "changes": [
     {
-      "key": "data.attributes.accuracy.bonus",
+      "key": "system.attributes.accuracy.bonus",
       "mode": 2,
       "value": "2"
     }

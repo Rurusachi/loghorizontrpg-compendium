@@ -2,7 +2,7 @@
   "_id": "q24CPM97MzQrtQHj",
   "changes": [
     {
-      "key": "data.attributes.operate.dice",
+      "key": "system.attributes.operate.dice",
       "mode": 2,
       "value": "1"
     }

@@ -2,7 +2,7 @@
   "_id": "TRUWaQFht5dPYhYZ",
   "changes": [
     {
-      "key": "data.combatstats.initiative.bonus",
+      "key": "system.combatstats.initiative.bonus",
       "mode": 2,
       "value": "4"
     }

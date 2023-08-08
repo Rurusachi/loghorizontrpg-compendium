@@ -2,7 +2,7 @@
   "_id": "2lFQX9DllmIogBZC",
   "changes": [
     {
-      "key": "data.base.hp",
+      "key": "system.base.hp",
       "mode": 2,
       "value": "8"
     }

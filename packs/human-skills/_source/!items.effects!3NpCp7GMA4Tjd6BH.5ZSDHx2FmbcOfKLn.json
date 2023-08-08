@@ -2,7 +2,7 @@
   "_id": "5ZSDHx2FmbcOfKLn",
   "changes": [
     {
-      "key": "data.fate.max",
+      "key": "system.fate.max",
       "mode": 2,
       "value": "2"
     }

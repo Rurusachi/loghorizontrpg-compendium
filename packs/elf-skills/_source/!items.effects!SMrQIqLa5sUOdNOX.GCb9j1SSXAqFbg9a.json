@@ -2,12 +2,12 @@
   "_id": "GCb9j1SSXAqFbg9a",
   "changes": [
     {
-      "key": "data.abilities.dex.bonus",
+      "key": "system.abilities.dex.bonus",
       "mode": 2,
       "value": "2"
     },
     {
-      "key": "data.abilities.pow.bonus",
+      "key": "system.abilities.pow.bonus",
       "mode": 2,
       "value": "2"
     }
