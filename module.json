@@ -364,6 +364,83 @@
       "lang": ["en"]
     }
   ],
+  "packFolders": [
+	{
+	  "name": "Classes",
+	  "sorting": "m",
+	  "color": "#000000",
+	  "packs": ["classes"]
+	},
+	{
+	  "name": "Races",
+	  "sorting": "m",
+	  "color": "#000000",
+	  "packs": ["races"]
+	},
+	{
+	  "name": "Skills",
+	  "sorting": "m",
+	  "packs": [],
+	  "color": "#000000",
+	  "folders": [
+		{
+		  "name": "Basic",
+		  "sorting": "m",
+		  "color": "#000000",
+		  "packs": ["basic-skills"]
+		},
+		{
+		  "name": "Common",
+		  "sorting": "m",
+		  "color": "#000000",
+		  "packs": ["common-skills"]
+		},
+		{
+		  "name": "Racial",
+		  "sorting": "m",
+		  "color": "#000000",
+		  "packs": ["human-skills", "dwarf-skills", "elf-skills", "half-alv-skills", "wolf-fang-skills", "werecat-skills", "fox-tail-skills", "race-of-ritual-skills"]
+		},
+		{
+		  "name": "Subclass",
+		  "sorting": "m",
+		  "color": "#000000",
+		  "packs": ["subclass-skills"]
+		},
+		{
+		  "name": "Warriors",
+		  "sorting": "m",
+		  "color": "#c80000",
+		  "packs": ["warrior-skills", "guardian-skills", "samurai-skills", "monk-skills"]
+		},
+		{
+		  "name": "Healers",
+		  "sorting": "m",
+		  "color": "#00c800",
+		  "packs": ["healer-skills", "cleric-skills", "druid-skills", "kannagi-skills"]
+		},
+		{
+		  "name": "Weapon Masters",
+		  "sorting": "m",
+		  "color": "#8b4513",
+		  "packs": ["weapon-master-skills", "assassin-skills", "swashbuckler-skills", "bard-skills"]
+		},
+		{
+		  "name": "Mages",
+		  "sorting": "m",
+		  "color": "#0000c8",
+		  "packs": ["mage-skills", "sorcerer-skills", "summoner-skills", "enchanter-skills"]
+		}
+	  ]
+	},
+	{
+	  "name": "Items",
+	  "sorting": "m",
+	  "color": "#000000",
+	  "packs": ["weapons", "armors", "shields", "accessories", "bags", "food", "medicine", "scrolls", "gems", "toxins", "charms", "summons", "miscellaneous"]
+	}
+	
+  ],
   "url": "",
   "authors": [
     {

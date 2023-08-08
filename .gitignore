@@ -9,3 +9,4 @@
 !*.json
 !.gitignore
 !*.sh
+!README.md
