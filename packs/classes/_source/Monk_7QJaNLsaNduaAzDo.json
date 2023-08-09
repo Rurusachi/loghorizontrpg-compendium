@@ -3,7 +3,15 @@
   "name": "Monk",
   "type": "class",
   "img": "Monk_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.5dYAdnCXwJeJ4kfu"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Monk characters obtain the following three skills for free: Martial Arts, Laughing Taunt, and Shadowless Kick.</p>",
     "hp": {
       "value": 55,
@@ -23,21 +31,34 @@
         "value": 0
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.monk-skills.Item.cVz8aPeOjCKLR9YO"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.monk-skills.Item.wgljFZhG9jMa8SlF"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.monk-skills.Item.fQlCXH8PNwLwgyqK"
+      }
+    ],
     "equippabletags": "[Martial Arts] [Throwing] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.5dYAdnCXwJeJ4kfu"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593780553,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!7QJaNLsaNduaAzDo"
 }

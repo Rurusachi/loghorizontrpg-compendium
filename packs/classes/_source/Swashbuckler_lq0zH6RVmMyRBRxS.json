@@ -3,7 +3,15 @@
   "name": "Swashbuckler",
   "type": "class",
   "img": "Swashbuckler_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.oxFXH5STqNTp9LWK"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Swashbuckler characters obtain the following three skills for free: Blade Artist, End of Act, and either Opening Gambit or Danse Macabre. Note that the Blade Artist skill is found on the Weapon Master Archetype skill list.</p>",
     "hp": {
       "value": 40,
@@ -23,21 +31,30 @@
         "value": 1
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.weapon-master-skills.Item.iH6uFC9DRbxX207A"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.swashbuckler-skills.Item.3S1GGkGbIX8vmY3W"
+      }
+    ],
     "equippabletags": "[Blade] [Hafted] [Whip] [Throwing] [Shield] [Medium Armor] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.oxFXH5STqNTp9LWK"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593610164,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!lq0zH6RVmMyRBRxS"
 }

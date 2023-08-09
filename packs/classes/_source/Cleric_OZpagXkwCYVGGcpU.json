@@ -3,7 +3,15 @@
   "name": "Cleric",
   "type": "class",
   "img": "Cleric_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.hl8If0msRz5EvOoX"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Cleric characters obtain the following three skills for free: Grace of Faith, Reactive Heal, and Heal. Note that the Heal skill is found on the Healer Archetype skill list.</p>",
     "hp": {
       "value": 40,
@@ -23,21 +31,34 @@
         "value": 3
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.healer-skills.Item.My7Fi20fnbLi6g8O"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.cleric-skills.Item.6iumobqxNCnV6eUC"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.cleric-skills.Item.JiYLGzf71VqKkYEr"
+      }
+    ],
     "equippabletags": "[Blade] [Hafted] [Magic Stone] [Shield] [Heavy Armor] [Medium Armor] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.hl8If0msRz5EvOoX"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593637755,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!OZpagXkwCYVGGcpU"
 }

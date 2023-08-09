@@ -3,7 +3,15 @@
   "name": "Summoner",
   "type": "class",
   "img": "Summoner_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.owLJnPUuaPwWj1Hs"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Summoner characters obtain the following skills for free: Ultimagica, Servant Combination, and any one skill with the [Servant Summon] tag in the Summoner list. Note that the Ultimagica skill is found in the Mage Archetype skill list.</p>",
     "hp": {
       "value": 35,
@@ -23,21 +31,30 @@
         "value": 4
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.mage-skills.Item.sC6QBI3chyutSrMu"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.summoner-skills.Item.lEMlSUwG07AqJTBS"
+      }
+    ],
     "equippabletags": "[Staff] [Whip] [Light] [Magic Stone] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.owLJnPUuaPwWj1Hs"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593738325,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!rr3bkqNNz88M00Cx"
 }

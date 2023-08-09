@@ -3,7 +3,15 @@
   "name": "Bard",
   "type": "class",
   "img": "Bard_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.Yp4sgPjl9bUaxDjb"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Bard characters obtain the following three skills for free: Blade Artist, Maestro Echo, and any one skill with the [Harmony] tag on the Bard skill list. Note that the Blade Artist skill is found on the Weapon Master Archetype skill list.</p>",
     "hp": {
       "value": 40,
@@ -23,21 +31,30 @@
         "value": 2
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.weapon-master-skills.Item.iH6uFC9DRbxX207A"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.bard-skills.Item.bMImOrF2c8N2hHK1"
+      }
+    ],
     "equippabletags": "[Blade] [Spear] [Hafted] [Whip] [Bow] [Instrument] [Medium Armor] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.Yp4sgPjl9bUaxDjb"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593591046,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!STN5pqCiwK7Wa5rS"
 }

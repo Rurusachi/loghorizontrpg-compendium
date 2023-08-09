@@ -3,7 +3,15 @@
   "name": "Druid",
   "type": "class",
   "img": "Druid_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.owLJnPUuaPwWj1Hs"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Druid characters obtain the following three skills for free: Totem Grace, Heartbeat Healing, and Heal. Note that the Heal skill is found on the Healer Archetype skill list.</p>",
     "hp": {
       "value": 35,
@@ -23,21 +31,34 @@
         "value": 3
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.healer-skills.Item.My7Fi20fnbLi6g8O"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.druid-skills.Item.F0EGYIbF6WbAiY4q"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.druid-skills.Item.IHL7bkqShKRL4NAs"
+      }
+    ],
     "equippabletags": "[Spear] [Hafted] [Whip] [Magic Stone] [Medium Armor] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.owLJnPUuaPwWj1Hs"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593656368,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!IxJKNT4d1cZsiwyk"
 }

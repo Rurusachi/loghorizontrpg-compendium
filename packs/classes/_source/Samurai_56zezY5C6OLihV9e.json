@@ -3,7 +3,15 @@
   "name": "Samurai",
   "type": "class",
   "img": "Samurai_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.6dPPeAJFMwmqHwun"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Samurai characters obtain the following three skills for free: Eternal Battlefield, Warrior's Challenge, and Split-Second Awareness.</p>",
     "hp": {
       "value": 50,
@@ -23,21 +31,34 @@
         "value": 2
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.samurai-skills.Item.1AivmsxaEox84Jax"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.samurai-skills.Item.h5ydrCrVD2bokRUM"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.samurai-skills.Item.NzGMSjPzreUXrySX"
+      }
+    ],
     "equippabletags": "[Katana] [Spear] [Hafted] [Bow] [Heavy Armor] [Medium Armor] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.6dPPeAJFMwmqHwun"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593790530,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!56zezY5C6OLihV9e"
 }

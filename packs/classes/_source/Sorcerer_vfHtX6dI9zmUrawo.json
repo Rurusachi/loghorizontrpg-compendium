@@ -3,7 +3,15 @@
   "name": "Sorcerer",
   "type": "class",
   "img": "Sorcerer_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.4O366D3q74DmbLwr"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Sorcerer characters obtain the following three skills for free: Ultimagica, Spell Maximize, and Death Cloud. Note that the Ultimagica skill is found on the Mage Archetype skill list.</p>",
     "hp": {
       "value": 35,
@@ -23,21 +31,34 @@
         "value": 4
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.mage-skills.Item.sC6QBI3chyutSrMu"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.sorcerer-skills.Item.7xBHFZFEYEPT8r5a"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.sorcerer-skills.Item.7pmfWYKZOHoJQgyk"
+      }
+    ],
     "equippabletags": "[Staff] [Light] [Magic Stone] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.4O366D3q74DmbLwr"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593719163,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!vfHtX6dI9zmUrawo"
 }

@@ -3,7 +3,15 @@
   "name": "Enchanter",
   "type": "class",
   "img": "Enchanter_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.jdN7QVDDQnDsIjwo"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Enchanter characters obtain the following three skills for free: Ultimagica, Infinity Force, and any one skill with the [Enchantment] tag from the Enchanter skill list. Note that the Ultimagica skill is found on the Mage Archetype skill list.</p>",
     "hp": {
       "value": 35,
@@ -23,21 +31,30 @@
         "value": 4
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.mage-skills.Item.sC6QBI3chyutSrMu"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.enchanter-skills.Item.KDWRcWsx0bYktFEf"
+      }
+    ],
     "equippabletags": "[Staff] [Light] [Magic Stone] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.jdN7QVDDQnDsIjwo"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593696314,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!feMaIPRGTsq0tPqH"
 }

@@ -3,7 +3,15 @@
   "name": "Assassin",
   "type": "class",
   "img": "Assassin_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.bWClUzqzoztoGi4H"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Assassin characters obtain the following three skills for free: Assassinate, Sweeper, and Blade Artist. Note that the Blade Artist skill is found on the Weapon Master Archetype skill list.</p>",
     "hp": {
       "value": 40,
@@ -23,21 +31,34 @@
         "value": 1
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.assassin-skills.Item.zKGr8TQEexRJvw00"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.assassin-skills.Item.OYwnr22XmbjOYxUG"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.weapon-master-skills.Item.iH6uFC9DRbxX207A"
+      }
+    ],
     "equippabletags": "[Blade] [Katana] [Whip] [Bow] [Light] [Medium Armor] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.bWClUzqzoztoGi4H"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593572652,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!1qeerVA354mkXXtD"
 }

@@ -3,7 +3,15 @@
   "name": "Guardian",
   "type": "class",
   "img": "Guardian_Logo.png",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.5dYAdnCXwJeJ4kfu"
+    }
+  },
+  "system": {
     "description": "<p>At character creation, Guardian characters obtain the following three skills for free: Battle Master, Anchor Howl, and Decoy Action.</p>",
     "hp": {
       "value": 50,
@@ -23,21 +31,34 @@
         "value": 3
       }
     },
-    "skills": [],
+    "skills": [
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.guardian-skills.Item.CTD0oP56UhNx5PPb"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.guardian-skills.Item.RymjeeYH2Qm4oHVf"
+      },
+      {
+        "type": "skill",
+        "uuid": "Compendium.loghorizontrpg-compendium.guardian-skills.Item.5y3USMEu31b8Siof"
+      }
+    ],
     "equippabletags": "[Blade] [Spear] [Hafted] [Bow] [Shield] [Heavy Armor] [Medium Armor] [Light Armor] [Accessory] [Bag]"
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "ZUUkEZycgIRSncDu": 3,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.5dYAdnCXwJeJ4kfu"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.307",
+    "createdTime": null,
+    "modifiedTime": 1691593762850,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!G0tlCaAdK6ubvFTf"
 }
