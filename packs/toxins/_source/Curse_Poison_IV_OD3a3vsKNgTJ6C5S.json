@@ -21,7 +21,11 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Toxin, Consumable, Blight",
+    "tags": [
+      "Toxin",
+      "Consumable",
+      "Blight"
+    ],
     "ir": 24,
     "quantity": 1,
     "size": 1,

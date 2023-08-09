@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Special Attack, Shield, -",
+    "tags": [
+      "Combat",
+      "Special Attack",
+      "Shield"
+    ],
     "sr": {
       "value": 1,
       "max": 1

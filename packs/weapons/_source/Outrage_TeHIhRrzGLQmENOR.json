@@ -21,7 +21,10 @@
       }
     },
     "weaponrange": "Close",
-    "tags": "Two-Handed, Blade",
+    "tags": [
+      "Two-Handed",
+      "Blade"
+    ],
     "ir": 10,
     "quantity": 1,
     "size": 1,

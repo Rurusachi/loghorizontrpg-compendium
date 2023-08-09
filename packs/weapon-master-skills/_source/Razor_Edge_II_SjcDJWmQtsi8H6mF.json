@@ -108,7 +108,10 @@
         "cr": null
       }
     },
-    "tags": "Combat, Weapon, -, -",
+    "tags": [
+      "Combat",
+      "Weapon"
+    ],
     "sr": {
       "value": 1,
       "max": 1

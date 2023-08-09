@@ -21,7 +21,11 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Food, Consumable, Preparation",
+    "tags": [
+      "Food",
+      "Consumable",
+      "Preparation"
+    ],
     "ir": 1,
     "quantity": 1,
     "size": 1,

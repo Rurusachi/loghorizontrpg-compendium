@@ -112,7 +112,12 @@
         "cr": null
       }
     },
-    "tags": "Food, Consumable, Preparation, Rare"
+    "tags": [
+      "Food",
+      "Consumable",
+      "Preparation",
+      "Rare"
+    ]
   },
   "effects": [],
   "folder": null,

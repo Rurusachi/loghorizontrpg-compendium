@@ -21,7 +21,10 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Rare, Magic Item",
+    "tags": [
+      "Rare",
+      "Magic Item"
+    ],
     "ir": 8,
     "quantity": 1,
     "size": 1,

@@ -21,7 +21,10 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Medicine, Consumable",
+    "tags": [
+      "Medicine",
+      "Consumable"
+    ],
     "ir": 11,
     "quantity": 1,
     "size": 1,

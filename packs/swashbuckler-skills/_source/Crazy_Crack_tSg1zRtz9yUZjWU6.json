@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Weapon Attack, Dual Wield, -",
+    "tags": [
+      "Combat",
+      "Weapon Attack",
+      "Dual Wield"
+    ],
     "sr": {
       "value": 1,
       "max": 5

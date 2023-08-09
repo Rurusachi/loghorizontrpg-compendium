@@ -176,7 +176,10 @@
         "cr": null
       }
     },
-    "tags": "Accessory, Cloak",
+    "tags": [
+      "Accessory",
+      "Cloak"
+    ],
     "hasAction": false,
     "hasaction": false
   },

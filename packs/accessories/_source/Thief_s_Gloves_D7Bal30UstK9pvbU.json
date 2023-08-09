@@ -176,7 +176,10 @@
         "cr": null
       }
     },
-    "tags": "Accessory, Gloves",
+    "tags": [
+      "Accessory",
+      "Gloves"
+    ],
     "hasAction": false,
     "hasaction": false
   },

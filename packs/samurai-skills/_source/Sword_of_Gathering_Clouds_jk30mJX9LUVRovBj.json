@@ -106,7 +106,10 @@
         "cr": null
       }
     },
-    "tags": "Combat, Katana, -, -",
+    "tags": [
+      "Combat",
+      "Katana"
+    ],
     "sr": {
       "value": 1,
       "max": 5

@@ -7,7 +7,9 @@
     "other": {
       "inventoryslots": 18
     },
-    "tags": "Bag",
+    "tags": [
+      "Bag"
+    ],
     "ir": 22,
     "quantity": 1,
     "size": 1,

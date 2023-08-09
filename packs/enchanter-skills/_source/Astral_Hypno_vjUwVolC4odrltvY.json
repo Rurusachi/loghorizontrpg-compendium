@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Special Attack, Spirit, -",
+    "tags": [
+      "Combat",
+      "Special Attack",
+      "Spirit"
+    ],
     "sr": {
       "value": 1,
       "max": 1

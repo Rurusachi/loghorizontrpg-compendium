@@ -176,7 +176,9 @@
         "cr": null
       }
     },
-    "tags": "Accessory",
+    "tags": [
+      "Accessory"
+    ],
     "hasAction": false,
     "hasaction": false
   },

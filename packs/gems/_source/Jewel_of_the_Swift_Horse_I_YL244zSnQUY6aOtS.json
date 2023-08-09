@@ -25,7 +25,11 @@
       "value": "1",
       "addsr": false
     },
-    "tags": "Gem, Consumable, Rare",
+    "tags": [
+      "Gem",
+      "Consumable",
+      "Rare"
+    ],
     "ir": 8,
     "quantity": 1,
     "size": 1,

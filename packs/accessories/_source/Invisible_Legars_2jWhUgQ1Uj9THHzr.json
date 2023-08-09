@@ -176,7 +176,10 @@
         "cr": null
       }
     },
-    "tags": "Accessory, Boots",
+    "tags": [
+      "Accessory",
+      "Boots"
+    ],
     "hasAction": false,
     "hasaction": false
   },

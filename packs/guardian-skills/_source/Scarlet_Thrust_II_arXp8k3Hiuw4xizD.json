@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Weapon Attack, Spear, -",
+    "tags": [
+      "Combat",
+      "Weapon Attack",
+      "Spear"
+    ],
     "sr": {
       "value": 1,
       "max": 1

@@ -108,7 +108,12 @@
         "cr": null
       }
     },
-    "tags": "Combat, Special Attack, Spirit, Instrument",
+    "tags": [
+      "Combat",
+      "Special Attack",
+      "Spirit",
+      "Instrument"
+    ],
     "sr": {
       "value": 1,
       "max": 1

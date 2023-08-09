@@ -21,7 +21,12 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Food, Consumable, Preparation, Rare",
+    "tags": [
+      "Food",
+      "Consumable",
+      "Preparation",
+      "Rare"
+    ],
     "ir": 11,
     "quantity": 1,
     "size": 1,

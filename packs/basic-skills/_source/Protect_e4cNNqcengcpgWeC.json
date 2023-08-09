@@ -108,7 +108,9 @@
         "cr": null
       }
     },
-    "tags": "Basic",
+    "tags": [
+      "Basic"
+    ],
     "sr": {
       "value": 1,
       "max": 1

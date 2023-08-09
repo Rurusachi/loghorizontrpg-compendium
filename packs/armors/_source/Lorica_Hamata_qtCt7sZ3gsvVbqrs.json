@@ -15,7 +15,9 @@
         "bonus": 0
       }
     },
-    "tags": "Medium Armor",
+    "tags": [
+      "Medium Armor"
+    ],
     "ir": 23,
     "quantity": 1,
     "size": 1,

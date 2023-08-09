@@ -7,7 +7,10 @@
     "other": {
       "inventoryslots": 0
     },
-    "tags": "One-Handed, Shield",
+    "tags": [
+      "One-Handed",
+      "Shield"
+    ],
     "ir": 12,
     "quantity": 1,
     "size": 1,

@@ -21,7 +21,10 @@
       }
     },
     "weaponrange": "Close",
-    "tags": "One-Handed, Staff",
+    "tags": [
+      "One-Handed",
+      "Staff"
+    ],
     "ir": 1,
     "quantity": 1,
     "size": 1,

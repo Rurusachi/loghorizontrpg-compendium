@@ -21,7 +21,11 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Summon, Preparation, M2",
+    "tags": [
+      "Summon",
+      "Preparation",
+      "M2"
+    ],
     "ir": 16,
     "quantity": 1,
     "size": 1,

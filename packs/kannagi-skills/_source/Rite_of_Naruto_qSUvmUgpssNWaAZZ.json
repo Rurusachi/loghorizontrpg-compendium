@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Special Attack, Katana, -",
+    "tags": [
+      "Combat",
+      "Special Attack",
+      "Katana"
+    ],
     "sr": {
       "value": 1,
       "max": 1

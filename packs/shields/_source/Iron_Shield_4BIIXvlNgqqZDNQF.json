@@ -12,7 +12,10 @@
         "bonus": 5
       }
     },
-    "tags": "One-Handed, Shield",
+    "tags": [
+      "One-Handed",
+      "Shield"
+    ],
     "ir": 7,
     "quantity": 1,
     "size": 1,

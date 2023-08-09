@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Auto, Combat, Preparation, -",
+    "tags": [
+      "Auto",
+      "Combat",
+      "Preparation"
+    ],
     "sr": {
       "value": 1,
       "max": 1

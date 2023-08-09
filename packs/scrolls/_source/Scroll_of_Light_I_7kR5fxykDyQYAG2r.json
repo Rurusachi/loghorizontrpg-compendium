@@ -21,7 +21,11 @@
       "value": "20",
       "addsr": false
     },
-    "tags": "Scroll, Consumable, Preparation",
+    "tags": [
+      "Scroll",
+      "Consumable",
+      "Preparation"
+    ],
     "ir": 2,
     "quantity": 1,
     "size": 1,

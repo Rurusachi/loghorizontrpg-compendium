@@ -108,7 +108,10 @@
         "cr": null
       }
     },
-    "tags": "Combat, Special Attack, -, -",
+    "tags": [
+      "Combat",
+      "Special Attack"
+    ],
     "sr": {
       "value": 1,
       "max": 5

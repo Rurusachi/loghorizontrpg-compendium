@@ -21,7 +21,10 @@
       }
     },
     "weaponrange": "-",
-    "tags": "Two-Handed, Instrument",
+    "tags": [
+      "Two-Handed",
+      "Instrument"
+    ],
     "ir": 11,
     "quantity": 1,
     "size": 1,

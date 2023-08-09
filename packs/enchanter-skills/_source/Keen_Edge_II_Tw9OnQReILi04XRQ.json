@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Enchantment, Preparation, -",
+    "tags": [
+      "Combat",
+      "Enchantment",
+      "Preparation"
+    ],
     "sr": {
       "value": 1,
       "max": 4

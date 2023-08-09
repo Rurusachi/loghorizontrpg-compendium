@@ -112,7 +112,9 @@
         "cr": null
       }
     },
-    "tags": ""
+    "tags": [
+      ""
+    ]
   },
   "effects": [],
   "folder": null,

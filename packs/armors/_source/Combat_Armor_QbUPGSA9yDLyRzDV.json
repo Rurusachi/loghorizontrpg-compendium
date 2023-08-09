@@ -15,7 +15,9 @@
         "bonus": -2
       }
     },
-    "tags": "Heavy Armor",
+    "tags": [
+      "Heavy Armor"
+    ],
     "ir": 15,
     "quantity": 1,
     "size": 1,

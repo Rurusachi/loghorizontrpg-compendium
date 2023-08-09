@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Ranged Attack, Shock",
+    "tags": [
+      "Combat",
+      "Ranged Attack",
+      "Shock"
+    ],
     "sr": {
       "value": 1,
       "max": 5

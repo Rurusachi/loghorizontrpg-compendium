@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Weapon Attack, Two-Handed, -",
+    "tags": [
+      "Combat",
+      "Weapon Attack",
+      "Two-Handed"
+    ],
     "sr": {
       "value": 1,
       "max": 5

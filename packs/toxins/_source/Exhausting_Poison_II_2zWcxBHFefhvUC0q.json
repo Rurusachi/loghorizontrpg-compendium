@@ -21,7 +21,11 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Toxin, Consumable, Rare",
+    "tags": [
+      "Toxin",
+      "Consumable",
+      "Rare"
+    ],
     "ir": 10,
     "quantity": 1,
     "size": 1,

@@ -21,7 +21,10 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Scroll, Consumable",
+    "tags": [
+      "Scroll",
+      "Consumable"
+    ],
     "ir": 1,
     "quantity": 1,
     "size": 1,

@@ -7,7 +7,10 @@
     "other": {
       "inventoryslots": 0
     },
-    "tags": "Accessory, One-Handed",
+    "tags": [
+      "Accessory",
+      "One-Handed"
+    ],
     "ir": 13,
     "quantity": 1,
     "size": 1,

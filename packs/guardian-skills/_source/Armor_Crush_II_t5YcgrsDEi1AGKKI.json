@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Weapon Attack, Hafted, -",
+    "tags": [
+      "Combat",
+      "Weapon Attack",
+      "Hafted"
+    ],
     "sr": {
       "value": 1,
       "max": 1

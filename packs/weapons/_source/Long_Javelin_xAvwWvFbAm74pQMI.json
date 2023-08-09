@@ -21,7 +21,10 @@
       }
     },
     "weaponrange": "Close",
-    "tags": "One-Handed, Spear",
+    "tags": [
+      "One-Handed",
+      "Spear"
+    ],
     "ir": 16,
     "quantity": 1,
     "size": 1,

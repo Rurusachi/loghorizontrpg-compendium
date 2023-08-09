@@ -21,7 +21,10 @@
       }
     },
     "weaponrange": "2 sq",
-    "tags": "One-Handed, Throwing",
+    "tags": [
+      "One-Handed",
+      "Throwing"
+    ],
     "ir": 9,
     "quantity": 1,
     "size": 1,

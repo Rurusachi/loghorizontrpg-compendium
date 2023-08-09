@@ -107,7 +107,9 @@
         "cr": null
       }
     },
-    "tags": "General, -, -, -",
+    "tags": [
+      "General"
+    ],
     "sr": {
       "value": 1,
       "max": 1

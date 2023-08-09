@@ -21,7 +21,10 @@
       }
     },
     "weaponrange": "Close",
-    "tags": "One-Handed, Whip",
+    "tags": [
+      "One-Handed",
+      "Whip"
+    ],
     "ir": 9,
     "quantity": 1,
     "size": 1,

@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Magic Attack, Blade, -",
+    "tags": [
+      "Combat",
+      "Magic Attack",
+      "Blade"
+    ],
     "sr": {
       "value": 1,
       "max": 5

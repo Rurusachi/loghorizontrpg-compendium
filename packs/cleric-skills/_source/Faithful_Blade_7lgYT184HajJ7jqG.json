@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Melee Attack, Blade, -",
+    "tags": [
+      "Combat",
+      "Melee Attack",
+      "Blade"
+    ],
     "sr": {
       "value": 1,
       "max": 5

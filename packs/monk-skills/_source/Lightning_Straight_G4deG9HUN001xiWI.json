@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Physical, Shock, -",
+    "tags": [
+      "Combat",
+      "Physical",
+      "Shock"
+    ],
     "sr": {
       "value": 1,
       "max": 3

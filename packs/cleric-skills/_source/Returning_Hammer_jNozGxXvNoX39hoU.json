@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Melee Attack, Hafted, -",
+    "tags": [
+      "Combat",
+      "Melee Attack",
+      "Hafted"
+    ],
     "sr": {
       "value": 1,
       "max": 5

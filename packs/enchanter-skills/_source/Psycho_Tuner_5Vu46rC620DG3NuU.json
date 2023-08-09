@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Training, CR11, -",
+    "tags": [
+      "Combat",
+      "Training",
+      "CR11"
+    ],
     "sr": {
       "value": 1,
       "max": 2

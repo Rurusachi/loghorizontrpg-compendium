@@ -24,7 +24,11 @@
     "fatecost": {
       "value": 1
     },
-    "tags": "Summon, Preparation, M2",
+    "tags": [
+      "Summon",
+      "Preparation",
+      "M2"
+    ],
     "ir": 3,
     "quantity": 1,
     "size": 1,

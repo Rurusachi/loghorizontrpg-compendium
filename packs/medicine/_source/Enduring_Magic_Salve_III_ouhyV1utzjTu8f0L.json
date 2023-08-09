@@ -21,7 +21,11 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Medicine, Consumable, Preparation",
+    "tags": [
+      "Medicine",
+      "Consumable",
+      "Preparation"
+    ],
     "ir": 26,
     "quantity": 1,
     "size": 1,

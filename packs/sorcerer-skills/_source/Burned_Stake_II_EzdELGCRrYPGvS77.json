@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Magic Attack , Flame , -",
+    "tags": [
+      "Combat",
+      "Magic Attack",
+      "Flame"
+    ],
     "sr": {
       "value": 1,
       "max": 1

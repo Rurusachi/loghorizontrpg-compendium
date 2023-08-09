@@ -21,7 +21,10 @@
       }
     },
     "weaponrange": "3 sq",
-    "tags": "Two-Handed, Bow",
+    "tags": [
+      "Two-Handed",
+      "Bow"
+    ],
     "ir": 2,
     "quantity": 1,
     "size": 1,

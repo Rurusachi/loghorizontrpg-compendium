@@ -21,7 +21,11 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Scroll, Consumable, Scout",
+    "tags": [
+      "Scroll",
+      "Consumable",
+      "Scout"
+    ],
     "ir": 8,
     "quantity": 1,
     "size": 1,

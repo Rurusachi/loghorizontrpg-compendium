@@ -21,7 +21,10 @@
       }
     },
     "weaponrange": "Close",
-    "tags": "One-Handed, Katana",
+    "tags": [
+      "One-Handed",
+      "Katana"
+    ],
     "ir": 13,
     "quantity": 1,
     "size": 1,

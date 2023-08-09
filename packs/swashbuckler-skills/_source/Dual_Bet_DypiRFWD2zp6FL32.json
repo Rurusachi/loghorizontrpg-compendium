@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Melee Attack, Dual Wield, -",
+    "tags": [
+      "Combat",
+      "Melee Attack",
+      "Dual Wield"
+    ],
     "sr": {
       "value": 1,
       "max": 5

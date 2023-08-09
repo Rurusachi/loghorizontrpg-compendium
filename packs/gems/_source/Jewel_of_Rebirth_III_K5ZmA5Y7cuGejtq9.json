@@ -25,7 +25,10 @@
       "value": "2",
       "addsr": false
     },
-    "tags": "Gem, Consumable",
+    "tags": [
+      "Gem",
+      "Consumable"
+    ],
     "ir": 21,
     "quantity": 1,
     "size": 1,

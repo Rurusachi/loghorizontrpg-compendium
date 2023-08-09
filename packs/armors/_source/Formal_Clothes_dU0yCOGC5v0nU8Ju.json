@@ -15,7 +15,9 @@
         "bonus": 0
       }
     },
-    "tags": "Light Armor",
+    "tags": [
+      "Light Armor"
+    ],
     "ir": 1,
     "quantity": 1,
     "size": 1,

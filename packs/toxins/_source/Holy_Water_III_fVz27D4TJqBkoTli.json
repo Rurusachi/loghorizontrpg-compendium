@@ -21,7 +21,11 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Toxin, Consumable, Holy",
+    "tags": [
+      "Toxin",
+      "Consumable",
+      "Holy"
+    ],
     "ir": 14,
     "quantity": 1,
     "size": 1,

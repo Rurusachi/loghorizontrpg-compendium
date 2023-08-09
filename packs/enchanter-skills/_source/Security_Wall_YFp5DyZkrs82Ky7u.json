@@ -108,7 +108,10 @@
         "cr": null
       }
     },
-    "tags": "General, Preparation, -, -",
+    "tags": [
+      "General",
+      "Preparation"
+    ],
     "sr": {
       "value": 1,
       "max": 1

@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Weapon, Flame, -",
+    "tags": [
+      "Combat",
+      "Weapon",
+      "Flame"
+    ],
     "sr": {
       "value": 1,
       "max": 1

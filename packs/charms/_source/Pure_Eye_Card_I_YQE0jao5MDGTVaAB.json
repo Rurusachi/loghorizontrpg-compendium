@@ -21,7 +21,10 @@
       "value": "0",
       "addsr": false
     },
-    "tags": "Charm, Consumable",
+    "tags": [
+      "Charm",
+      "Consumable"
+    ],
     "ir": 2,
     "quantity": 1,
     "size": 1,

@@ -21,7 +21,11 @@
       }
     },
     "weaponrange": "Close",
-    "tags": "One-Handed, Blade, Light",
+    "tags": [
+      "One-Handed",
+      "Blade",
+      "Light"
+    ],
     "ir": 10,
     "quantity": 1,
     "size": 1,

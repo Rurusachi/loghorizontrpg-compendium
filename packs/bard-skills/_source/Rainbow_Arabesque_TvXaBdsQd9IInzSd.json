@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Harmony, Preparation, -",
+    "tags": [
+      "Combat",
+      "Harmony",
+      "Preparation"
+    ],
     "sr": {
       "value": 1,
       "max": 1

@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Weapon Attack, Blight, -",
+    "tags": [
+      "Combat",
+      "Weapon Attack",
+      "Blight"
+    ],
     "sr": {
       "value": 1,
       "max": 1

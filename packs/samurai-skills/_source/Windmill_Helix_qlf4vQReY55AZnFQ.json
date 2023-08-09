@@ -108,7 +108,11 @@
         "cr": null
       }
     },
-    "tags": "Combat, Melee Attack, Spear, -",
+    "tags": [
+      "Combat",
+      "Melee Attack",
+      "Spear"
+    ],
     "sr": {
       "value": 1,
       "max": 5

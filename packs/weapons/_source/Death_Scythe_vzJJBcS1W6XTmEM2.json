@@ -21,7 +21,10 @@
       }
     },
     "weaponrange": "Close",
-    "tags": "Two-Handed, Hafted",
+    "tags": [
+      "Two-Handed",
+      "Hafted"
+    ],
     "ir": 30,
     "quantity": 1,
     "size": 1,
