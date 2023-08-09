@@ -8,5 +8,6 @@
 !*/
 !*.json
 !.gitignore
+!.gitattributes
 !*.sh
 !README.md
