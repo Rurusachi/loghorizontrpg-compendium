@@ -29,7 +29,7 @@ jobs:
       # 4. Configure the datapath as the github workspace variable.
     - run: fvtt configure set "dataPath" ${GITHUB_WORKSPACE}
       # 5. Package each folder of source json files into the appropriate LevelDB pack.
-    - run: bash ./packall.sh
+    - run: bash .github/pack.sh
       # 6. get part of the tag after the `v`
     - name: Extract tag version number
       id: get_version
