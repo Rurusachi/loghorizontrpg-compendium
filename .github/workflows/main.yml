@@ -45,7 +45,7 @@ jobs:
         version: ${{steps.get_version.outputs.version-without-v}}
         url: https://github.com/${{github.repository}}
         manifest: https://github.com/${{github.repository}}/releases/latest/download/module.json
-        download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/lhrpg-${{github.event.release.tag_name}}.zip
+        download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/loghorizontrpg-compendium-${{github.event.release.tag_name}}.zip
       # 8. Zip up the branch with the LevelDB packs.
     - name: Zip 
       # Exclude the source json files from the final package, as well as any git folders.
