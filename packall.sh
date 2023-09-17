@@ -1,6 +1,6 @@
 #!/bin/bash
 
-fvtt package workon loghorizontrpg-compendium
+fvtt package workon "loghorizontrpg-compendium" --type "Module"
 
 for p in packs/*
 do
