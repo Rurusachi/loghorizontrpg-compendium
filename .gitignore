@@ -7,3 +7,4 @@
 *.py
 *.sh
 !packall.sh
+!.github/pack.sh
