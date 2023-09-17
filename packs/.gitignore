@@ -4,6 +4,6 @@
 
 # Foundry
 *.lock
-*.py
-*.sh
-!packall.sh
+*
+!*.json
+!.gitignore
