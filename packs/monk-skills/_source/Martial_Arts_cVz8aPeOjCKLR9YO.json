@@ -3,7 +3,13 @@
   "name": "Martial Arts",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [
+    "b5xjjcHMlnP2ex5J"
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>You gain a +2 bonus to [Accuracy]. Your [Evasion Checks] and [Resistance Checks] gain a +1D bonus.</p>",
     "limit": {
       "min": 0,
@@ -117,14 +123,16 @@
       "max": 1
     }
   },
-  "effects": [
-    "b5xjjcHMlnP2ex5J"
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.308",
+    "createdTime": 1694957545689,
+    "modifiedTime": 1694958436479,
+    "lastModifiedBy": "ZUUkEZycgIRSncDu"
+  },
   "_key": "!items!cVz8aPeOjCKLR9YO"
 }
