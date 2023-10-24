@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "Jm2ZYTQYEq5QrgDT"
+    {
+      "_id": "Jm2ZYTQYEq5QrgDT",
+      "changes": [
+        {
+          "key": "system.combatstats.patk.total",
+          "mode": 2,
+          "value": "@abilities.dex.mod*@item.sr.value"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Killer Bee Style",
+      "origin": "Compendium.loghorizontrpg-compendium.assassin-skills.U6bQo0UjmlxkQOOL",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!U6bQo0UjmlxkQOOL.Jm2ZYTQYEq5QrgDT"
+    }
   ],
   "folder": null,
   "sort": 0,

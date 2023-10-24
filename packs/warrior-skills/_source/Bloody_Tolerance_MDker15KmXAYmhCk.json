@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "gyuNeYhvcfHOM7F6"
+    {
+      "_id": "gyuNeYhvcfHOM7F6",
+      "changes": [
+        {
+          "key": "system.attributes.endurance.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Bloody Tolerance",
+      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.MDker15KmXAYmhCk",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!MDker15KmXAYmhCk.gyuNeYhvcfHOM7F6"
+    }
   ],
   "folder": null,
   "sort": 0,

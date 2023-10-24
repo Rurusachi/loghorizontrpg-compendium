@@ -117,8 +117,58 @@
     }
   },
   "effects": [
-    "6Kzm1Cm5KFTSEWZ9",
-    "UCW0ST3fBJg0Ljvu"
+    {
+      "_id": "6Kzm1Cm5KFTSEWZ9",
+      "changes": [
+        {
+          "key": "system.attributes.negotiation.bonus",
+          "mode": 2,
+          "value": "2"
+        },
+        {
+          "key": "system.attributes.operate.bonus",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Troubadour SR1",
+      "origin": "Compendium.loghorizontrpg-compendium.bard-skills.wKWffYZHuI3SwE4e",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!wKWffYZHuI3SwE4e.6Kzm1Cm5KFTSEWZ9"
+    },
+    {
+      "_id": "UCW0ST3fBJg0Ljvu",
+      "changes": [
+        {
+          "key": "system.attributes.operate.dice",
+          "mode": 2,
+          "value": "1"
+        },
+        {
+          "key": "system.attributes.negotiation.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": true,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Troubadour SR2",
+      "origin": "Compendium.loghorizontrpg-compendium.bard-skills.wKWffYZHuI3SwE4e",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!wKWffYZHuI3SwE4e.UCW0ST3fBJg0Ljvu"
+    }
   ],
   "folder": null,
   "sort": 0,

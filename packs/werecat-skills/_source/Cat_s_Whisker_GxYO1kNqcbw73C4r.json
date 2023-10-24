@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "usvfueyKd3tBbmRD"
+    {
+      "_id": "usvfueyKd3tBbmRD",
+      "changes": [
+        {
+          "key": "system.attributes.perception.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Cat's Whisker",
+      "origin": "Compendium.loghorizontrpg-compendium.werecat-skills.GxYO1kNqcbw73C4r",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!GxYO1kNqcbw73C4r.usvfueyKd3tBbmRD"
+    }
   ],
   "folder": null,
   "sort": 0,

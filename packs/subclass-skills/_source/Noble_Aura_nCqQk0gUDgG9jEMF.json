@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "fZMFV7D54a4ZCEKZ"
+    {
+      "_id": "fZMFV7D54a4ZCEKZ",
+      "changes": [
+        {
+          "key": "system.attributes.negotiation.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "New Effect",
+      "origin": "Compendium.loghorizontrpg-compendium.subclass-skills.nCqQk0gUDgG9jEMF",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!nCqQk0gUDgG9jEMF.fZMFV7D54a4ZCEKZ"
+    }
   ],
   "folder": null,
   "sort": 0,

@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "oUxxTVnVtE8ySJdW"
+    {
+      "_id": "oUxxTVnVtE8ySJdW",
+      "changes": [
+        {
+          "key": "system.attributes.operate.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Skill Practice: Operate",
+      "origin": "Item.4jDfNd2yeFwjwxAK",
+      "transfer": true,
+      "flags": {},
+      "tint": "",
+      "_key": "!items.effects!RMvosDdyJKtFrbj6.oUxxTVnVtE8ySJdW"
+    }
   ],
   "folder": null,
   "sort": 0,

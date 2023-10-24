@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "nwa0F6EAlCt1EWeQ"
+    {
+      "_id": "nwa0F6EAlCt1EWeQ",
+      "changes": [
+        {
+          "key": "system.combatstats.patk.bonus",
+          "mode": 2,
+          "value": "@item.sr.value*2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Attack Mastery",
+      "origin": "Compendium.loghorizontrpg-compendium.common-skills.RDtqx1G1b5UrfV95",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!RDtqx1G1b5UrfV95.nwa0F6EAlCt1EWeQ"
+    }
   ],
   "folder": null,
   "sort": 0,

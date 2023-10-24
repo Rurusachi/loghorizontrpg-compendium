@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "f3Kxy7WxLgpEdzrr"
+    {
+      "_id": "f3Kxy7WxLgpEdzrr",
+      "changes": [
+        {
+          "key": "system.fate.max",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Fate Bonus",
+      "origin": "Compendium.loghorizontrpg-compendium.common-skills.02k1UTGs1zTWCh7D",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!02k1UTGs1zTWCh7D.f3Kxy7WxLgpEdzrr"
+    }
   ],
   "folder": null,
   "sort": 0,

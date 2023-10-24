@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "TCfDPM5sXKQFAnuR"
+    {
+      "_id": "TCfDPM5sXKQFAnuR",
+      "changes": [
+        {
+          "key": "system.combatstats.mdef.bonus",
+          "mode": 2,
+          "value": "4"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Evergreen",
+      "origin": "Compendium.loghorizontrpg-compendium.elf-skills.KeCvdW9ycjQHkDha",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!KeCvdW9ycjQHkDha.TCfDPM5sXKQFAnuR"
+    }
   ],
   "folder": null,
   "sort": 0,

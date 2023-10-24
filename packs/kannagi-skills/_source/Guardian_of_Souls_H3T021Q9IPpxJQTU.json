@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "nnSzIyAv95OE0Jxc"
+    {
+      "_id": "nnSzIyAv95OE0Jxc",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.bonus",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Bonus Accuracy",
+      "origin": "Compendium.loghorizontrpg-compendium.kannagi-skills.H3T021Q9IPpxJQTU",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!H3T021Q9IPpxJQTU.nnSzIyAv95OE0Jxc"
+    }
   ],
   "folder": null,
   "sort": 0,

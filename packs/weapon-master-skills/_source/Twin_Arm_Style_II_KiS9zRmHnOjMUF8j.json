@@ -118,8 +118,48 @@
     }
   },
   "effects": [
-    "1l2XWtO0CdVxjfSJ",
-    "ioDgV8YwqJzhf92N"
+    {
+      "_id": "1l2XWtO0CdVxjfSJ",
+      "changes": [
+        {
+          "key": "system.combatstats.patk.bonus",
+          "mode": 2,
+          "value": "6"
+        }
+      ],
+      "disabled": true,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Twin Arm Style II SR 2",
+      "origin": "Compendium.loghorizontrpg-compendium.weapon-master-skills.KiS9zRmHnOjMUF8j",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!KiS9zRmHnOjMUF8j.1l2XWtO0CdVxjfSJ"
+    },
+    {
+      "_id": "ioDgV8YwqJzhf92N",
+      "changes": [
+        {
+          "key": "system.combatstats.patk.bonus",
+          "mode": 2,
+          "value": "@system.abilities.dex.mod"
+        }
+      ],
+      "disabled": true,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Twin Arm Style II SR3",
+      "origin": "Compendium.loghorizontrpg-compendium.weapon-master-skills.KiS9zRmHnOjMUF8j",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!KiS9zRmHnOjMUF8j.ioDgV8YwqJzhf92N"
+    }
   ],
   "folder": null,
   "sort": 0,

@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "eKgk4sS0mRcZwad6"
+    {
+      "_id": "eKgk4sS0mRcZwad6",
+      "changes": [
+        {
+          "key": "system.inventory.max",
+          "mode": 2,
+          "value": "@item.sr.value * 4"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Payload",
+      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.sTArEFUfTWqoytSE",
+      "transfer": true,
+      "flags": {},
+      "tint": "",
+      "_key": "!items.effects!sTArEFUfTWqoytSE.eKgk4sS0mRcZwad6"
+    }
   ],
   "folder": null,
   "sort": 0,

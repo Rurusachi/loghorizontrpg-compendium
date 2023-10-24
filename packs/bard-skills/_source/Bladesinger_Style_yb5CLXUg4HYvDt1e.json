@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "rWyWnSBOPt8MVXTI"
+    {
+      "_id": "rWyWnSBOPt8MVXTI",
+      "changes": [
+        {
+          "key": "system.combatstats.patk.total",
+          "mode": 2,
+          "value": "@abilities.pow.mod*2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Bladesinger Style",
+      "origin": "Compendium.loghorizontrpg-compendium.bard-skills.yb5CLXUg4HYvDt1e",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!yb5CLXUg4HYvDt1e.rWyWnSBOPt8MVXTI"
+    }
   ],
   "folder": null,
   "sort": 0,

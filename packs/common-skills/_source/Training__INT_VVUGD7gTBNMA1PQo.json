@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "rMbhrvdabtAlMNeK"
+    {
+      "_id": "rMbhrvdabtAlMNeK",
+      "changes": [
+        {
+          "key": "system.abilities.int.bonus",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Training: INT",
+      "origin": "Item.5Dgs5ddxSiMzqlaP",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!VVUGD7gTBNMA1PQo.rMbhrvdabtAlMNeK"
+    }
   ],
   "folder": null,
   "sort": 0,

@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "zMMbeYfXNgzJtIFu"
+    {
+      "_id": "zMMbeYfXNgzJtIFu",
+      "changes": [
+        {
+          "key": "system.abilities.dex.bonus",
+          "mode": 2,
+          "value": "4"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Cat's Grace",
+      "origin": "Compendium.loghorizontrpg-compendium.werecat-skills.4SDwHdM9abRE8IpP",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!4SDwHdM9abRE8IpP.zMMbeYfXNgzJtIFu"
+    }
   ],
   "folder": null,
   "sort": 0,

@@ -118,7 +118,32 @@
     }
   },
   "effects": [
-    "F7JWFIXiz0GVhyVi"
+    {
+      "_id": "F7JWFIXiz0GVhyVi",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.bonus",
+          "mode": 2,
+          "value": "2"
+        },
+        {
+          "key": "system.attributes.resistance.bonus",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Grace of Faith",
+      "origin": "Compendium.loghorizontrpg-compendium.cleric-skills.6iumobqxNCnV6eUC",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!6iumobqxNCnV6eUC.F7JWFIXiz0GVhyVi"
+    }
   ],
   "folder": null,
   "sort": 0,

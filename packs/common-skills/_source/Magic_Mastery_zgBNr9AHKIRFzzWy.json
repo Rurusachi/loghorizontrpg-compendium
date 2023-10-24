@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "bojzcq1SOMfdVq3O"
+    {
+      "_id": "bojzcq1SOMfdVq3O",
+      "changes": [
+        {
+          "key": "system.combatstats.matk.bonus",
+          "mode": 2,
+          "value": "@item.sr.value*2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Magic Mastery",
+      "origin": "Compendium.loghorizontrpg-compendium.common-skills.zgBNr9AHKIRFzzWy",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!zgBNr9AHKIRFzzWy.bojzcq1SOMfdVq3O"
+    }
   ],
   "folder": null,
   "sort": 0,

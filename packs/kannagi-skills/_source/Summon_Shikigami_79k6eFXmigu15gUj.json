@@ -117,8 +117,58 @@
     }
   },
   "effects": [
-    "s6yMrkJRtQQTQviF",
-    "CPuhleH3tAL9R2hk"
+    {
+      "_id": "s6yMrkJRtQQTQviF",
+      "changes": [
+        {
+          "key": "system.attributes.athletics.bonus",
+          "mode": 2,
+          "value": "2"
+        },
+        {
+          "key": "system.attributes.perception.bonus",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Summon Shikigami SR1",
+      "origin": "Compendium.loghorizontrpg-compendium.kannagi-skills.79k6eFXmigu15gUj",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!79k6eFXmigu15gUj.s6yMrkJRtQQTQviF"
+    },
+    {
+      "_id": "CPuhleH3tAL9R2hk",
+      "changes": [
+        {
+          "key": "system.attributes.athletics.dice",
+          "mode": 2,
+          "value": "1"
+        },
+        {
+          "key": "system.attributes.perception.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": true,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Summon Shikigami SR2",
+      "origin": "Compendium.loghorizontrpg-compendium.kannagi-skills.79k6eFXmigu15gUj",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!79k6eFXmigu15gUj.CPuhleH3tAL9R2hk"
+    }
   ],
   "folder": null,
   "sort": 0,

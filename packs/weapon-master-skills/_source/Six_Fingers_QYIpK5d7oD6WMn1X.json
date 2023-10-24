@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "uSaP31auDbxAxGyg"
+    {
+      "_id": "uSaP31auDbxAxGyg",
+      "changes": [
+        {
+          "key": "system.attributes.disable.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Six Fingers",
+      "origin": "Compendium.loghorizontrpg-compendium.weapon-master-skills.QYIpK5d7oD6WMn1X",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!QYIpK5d7oD6WMn1X.uSaP31auDbxAxGyg"
+    }
   ],
   "folder": null,
   "sort": 0,

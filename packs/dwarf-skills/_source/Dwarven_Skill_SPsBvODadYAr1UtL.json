@@ -118,7 +118,32 @@
     }
   },
   "effects": [
-    "YWgoeftAHZ6FLR7G"
+    {
+      "_id": "YWgoeftAHZ6FLR7G",
+      "changes": [
+        {
+          "key": "system.abilities.str.bonus",
+          "mode": 2,
+          "value": "2"
+        },
+        {
+          "key": "system.abilities.pow.bonus",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Dwarven Skill",
+      "origin": "Compendium.loghorizontrpg-compendium.dwarf-skills.SPsBvODadYAr1UtL",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!SPsBvODadYAr1UtL.YWgoeftAHZ6FLR7G"
+    }
   ],
   "folder": null,
   "sort": 0,

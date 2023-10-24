@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "MfUMeR0nPMomlbiD"
+    {
+      "_id": "MfUMeR0nPMomlbiD",
+      "changes": [
+        {
+          "key": "system.combatstats.recovery.bonus",
+          "mode": 2,
+          "value": "@system.abilities.int.mod"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Treatment Skills",
+      "origin": "Compendium.loghorizontrpg-compendium.weapon-master-skills.M8YCHZsDvnxPfWjq",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!M8YCHZsDvnxPfWjq.MfUMeR0nPMomlbiD"
+    }
   ],
   "folder": null,
   "sort": 0,

@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "YgTMzdPUDFMmeBzp"
+    {
+      "_id": "YgTMzdPUDFMmeBzp",
+      "changes": [
+        {
+          "key": "system.attributes.perception.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Cold Stare",
+      "origin": "Compendium.loghorizontrpg-compendium.assassin-skills.ziFlMkYrVGYNz8Q1",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!ziFlMkYrVGYNz8Q1.YgTMzdPUDFMmeBzp"
+    }
   ],
   "folder": null,
   "sort": 0,

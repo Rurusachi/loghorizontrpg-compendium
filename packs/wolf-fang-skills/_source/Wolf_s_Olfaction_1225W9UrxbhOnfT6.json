@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "CbczbkIpqbof8fI9"
+    {
+      "_id": "CbczbkIpqbof8fI9",
+      "changes": [
+        {
+          "key": "system.fate.max",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Wolf's Olfaction",
+      "origin": "Compendium.loghorizontrpg-compendium.wolf-fang-skills.1225W9UrxbhOnfT6",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!1225W9UrxbhOnfT6.CbczbkIpqbof8fI9"
+    }
   ],
   "folder": null,
   "sort": 0,

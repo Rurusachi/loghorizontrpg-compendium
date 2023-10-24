@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "fgKiswneBxVVJr9G"
+    {
+      "_id": "fgKiswneBxVVJr9G",
+      "changes": [
+        {
+          "key": "system.combatstats.patk.total",
+          "mode": 5,
+          "value": "@abilities.dex.mod*2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Black Widow Style II",
+      "origin": "Compendium.loghorizontrpg-compendium.assassin-skills.gAGn5K6OoKVdUxwm",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!gAGn5K6OoKVdUxwm.fgKiswneBxVVJr9G"
+    }
   ],
   "folder": null,
   "sort": 0,

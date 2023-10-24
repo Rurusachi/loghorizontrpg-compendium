@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "Eb9H5i2VxsEYZUdY"
+    {
+      "_id": "Eb9H5i2VxsEYZUdY",
+      "changes": [
+        {
+          "key": "system.hp.base",
+          "mode": 2,
+          "value": "8"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Bonus HP",
+      "origin": "Compendium.loghorizontrpg-compendium.monk-skills.2IxE3O5GHqOpcQ5v",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!2IxE3O5GHqOpcQ5v.Eb9H5i2VxsEYZUdY"
+    }
   ],
   "folder": null,
   "sort": 0,

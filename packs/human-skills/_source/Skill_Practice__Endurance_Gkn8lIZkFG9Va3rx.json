@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "JFplNkVM59Vb6mkX"
+    {
+      "_id": "JFplNkVM59Vb6mkX",
+      "changes": [
+        {
+          "key": "system.attributes.endurance.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Skill Practice: Endurance",
+      "origin": "Item.Z62ooA9GmuJNX4MC",
+      "transfer": true,
+      "flags": {},
+      "tint": "",
+      "_key": "!items.effects!Gkn8lIZkFG9Va3rx.JFplNkVM59Vb6mkX"
+    }
   ],
   "folder": null,
   "sort": 0,

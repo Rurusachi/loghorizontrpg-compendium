@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "1OpT48LV2PCXPBY1"
+    {
+      "_id": "1OpT48LV2PCXPBY1",
+      "changes": [
+        {
+          "key": "system.attributes.knowledge.bonus",
+          "mode": 2,
+          "value": "1d6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Knowledge Bonus",
+      "origin": "Compendium.loghorizontrpg-compendium.common-skills.D9jnZdPGJpixcGG9",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!D9jnZdPGJpixcGG9.1OpT48LV2PCXPBY1"
+    }
   ],
   "folder": null,
   "sort": 0,

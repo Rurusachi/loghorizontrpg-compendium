@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "4l6t7Ncop91xaImF"
+    {
+      "_id": "4l6t7Ncop91xaImF",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.bonus",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Accuracy",
+      "origin": "Compendium.loghorizontrpg-compendium.samurai-skills.1AivmsxaEox84Jax",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!1AivmsxaEox84Jax.4l6t7Ncop91xaImF"
+    }
   ],
   "folder": null,
   "sort": 0,

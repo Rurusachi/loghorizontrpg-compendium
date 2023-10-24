@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "VmSqeIilm4UWy4Yk"
+    {
+      "_id": "VmSqeIilm4UWy4Yk",
+      "changes": [
+        {
+          "key": "system.attributes.athletics.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Skill Practice: Athletics",
+      "origin": "Item.VsNEz3ll63w8n2Yw",
+      "transfer": true,
+      "flags": {},
+      "tint": "",
+      "_key": "!items.effects!nOX6sR2tyonkjlo6.VmSqeIilm4UWy4Yk"
+    }
   ],
   "folder": null,
   "sort": 0,

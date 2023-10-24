@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "wuynwB52UxvV7woS"
+    {
+      "_id": "wuynwB52UxvV7woS",
+      "changes": [
+        {
+          "key": "system.hp.base",
+          "mode": 2,
+          "value": "8"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Brownie Bonus HP",
+      "origin": "Compendium.loghorizontrpg-compendium.summoner-skills.WoillmTMdSljbc7U",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!WoillmTMdSljbc7U.wuynwB52UxvV7woS"
+    }
   ],
   "folder": null,
   "sort": 0,

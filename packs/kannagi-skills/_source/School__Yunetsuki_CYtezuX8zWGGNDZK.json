@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "fKk2hWsnrEcPj7Yv"
+    {
+      "_id": "fKk2hWsnrEcPj7Yv",
+      "changes": [
+        {
+          "key": "system.combatstats.mdef.total",
+          "mode": 2,
+          "value": "@abilities.str.mod"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "School: Yunetsuki",
+      "origin": "Compendium.loghorizontrpg-compendium.kannagi-skills.CYtezuX8zWGGNDZK",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!CYtezuX8zWGGNDZK.fKk2hWsnrEcPj7Yv"
+    }
   ],
   "folder": null,
   "sort": 0,

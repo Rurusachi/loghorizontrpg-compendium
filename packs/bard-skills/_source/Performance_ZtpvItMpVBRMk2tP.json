@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "6Mq9PQtfAQsyAgEp"
+    {
+      "_id": "6Mq9PQtfAQsyAgEp",
+      "changes": [
+        {
+          "key": "system.attributes.athletics.bonus",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Performance",
+      "origin": "Compendium.loghorizontrpg-compendium.bard-skills.ZtpvItMpVBRMk2tP",
+      "transfer": true,
+      "flags": {},
+      "tint": "",
+      "_key": "!items.effects!ZtpvItMpVBRMk2tP.6Mq9PQtfAQsyAgEp"
+    }
   ],
   "folder": null,
   "sort": 0,

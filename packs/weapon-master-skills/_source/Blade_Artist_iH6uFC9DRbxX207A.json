@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "2gxqK8EuLtWHwLUD"
+    {
+      "_id": "2gxqK8EuLtWHwLUD",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Accuracy Bonus",
+      "origin": "Compendium.loghorizontrpg-compendium.weapon-master-skills.iH6uFC9DRbxX207A",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!iH6uFC9DRbxX207A.2gxqK8EuLtWHwLUD"
+    }
   ],
   "folder": null,
   "sort": 0,

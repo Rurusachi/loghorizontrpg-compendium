@@ -117,8 +117,58 @@
     }
   },
   "effects": [
-    "CWjHsAsTPi5UqWay",
-    "FITOwiqUae6haaj9"
+    {
+      "_id": "CWjHsAsTPi5UqWay",
+      "changes": [
+        {
+          "key": "system.attributes.analyze.bonus",
+          "mode": 2,
+          "value": "2"
+        },
+        {
+          "key": "system.attributes.disable.bonus",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Explorer SR1",
+      "origin": "Compendium.loghorizontrpg-compendium.weapon-master-skills.PbDyCzwPaLoOxXhJ",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!PbDyCzwPaLoOxXhJ.CWjHsAsTPi5UqWay"
+    },
+    {
+      "_id": "FITOwiqUae6haaj9",
+      "changes": [
+        {
+          "key": "system.attributes.disable.dice",
+          "mode": 2,
+          "value": "1"
+        },
+        {
+          "key": "system.attributes.analyze.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": true,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Explorer SR2",
+      "origin": "Compendium.loghorizontrpg-compendium.weapon-master-skills.PbDyCzwPaLoOxXhJ",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!PbDyCzwPaLoOxXhJ.FITOwiqUae6haaj9"
+    }
   ],
   "folder": null,
   "sort": 0,

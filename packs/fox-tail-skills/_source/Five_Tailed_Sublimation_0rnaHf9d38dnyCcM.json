@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "kmAbf1o9zbkeahy1"
+    {
+      "_id": "kmAbf1o9zbkeahy1",
+      "changes": [
+        {
+          "key": "system.fate.max",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Five-Tailed Sublimation",
+      "origin": "Compendium.loghorizontrpg-compendium.fox-tail-skills.0rnaHf9d38dnyCcM",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!0rnaHf9d38dnyCcM.kmAbf1o9zbkeahy1"
+    }
   ],
   "folder": null,
   "sort": 0,

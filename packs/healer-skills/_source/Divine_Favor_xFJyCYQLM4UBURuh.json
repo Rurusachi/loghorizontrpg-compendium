@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "pJOKX5roKzgudvr2"
+    {
+      "_id": "pJOKX5roKzgudvr2",
+      "changes": [
+        {
+          "key": "system.fate.max",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Divine Favor",
+      "origin": "Compendium.loghorizontrpg-compendium.healer-skills.xFJyCYQLM4UBURuh",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!xFJyCYQLM4UBURuh.pJOKX5roKzgudvr2"
+    }
   ],
   "folder": null,
   "sort": 0,

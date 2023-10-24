@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "gIJlyidBwJxM0px3"
+    {
+      "_id": "gIJlyidBwJxM0px3",
+      "changes": [
+        {
+          "key": "system.attributes.athletics.dice",
+          "mode": 2,
+          "value": "@item.sr.value"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Kung-fu Action",
+      "origin": "Compendium.loghorizontrpg-compendium.monk-skills.a95Ee0e7OlRrP9Zo",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!a95Ee0e7OlRrP9Zo.gIJlyidBwJxM0px3"
+    }
   ],
   "folder": null,
   "sort": 0,

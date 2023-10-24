@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "V0VwxepOx4WUGAR4"
+    {
+      "_id": "V0VwxepOx4WUGAR4",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Accuracy Bonus",
+      "origin": "Compendium.loghorizontrpg-compendium.mage-skills.sC6QBI3chyutSrMu",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!sC6QBI3chyutSrMu.V0VwxepOx4WUGAR4"
+    }
   ],
   "folder": null,
   "sort": 0,

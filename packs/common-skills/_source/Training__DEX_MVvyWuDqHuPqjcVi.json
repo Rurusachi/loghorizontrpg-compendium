@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "TNEzaVt6mfxxrme0"
+    {
+      "_id": "TNEzaVt6mfxxrme0",
+      "changes": [
+        {
+          "key": "system.abilities.dex.bonus",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Training: DEX",
+      "origin": "Item.sXVNrTyaIJNrhweq",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!MVvyWuDqHuPqjcVi.TNEzaVt6mfxxrme0"
+    }
   ],
   "folder": null,
   "sort": 0,

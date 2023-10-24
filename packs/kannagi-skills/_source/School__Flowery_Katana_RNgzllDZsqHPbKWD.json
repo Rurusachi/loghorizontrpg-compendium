@@ -118,7 +118,32 @@
     }
   },
   "effects": [
-    "5uUs9qqe9yTpEkVS"
+    {
+      "_id": "5uUs9qqe9yTpEkVS",
+      "changes": [
+        {
+          "key": "system.combatstats.pdef.total",
+          "mode": 2,
+          "value": "@cr+@abilities.dex.mod"
+        },
+        {
+          "key": "system.combatstats.mdef.total",
+          "mode": 2,
+          "value": "@cr+@abilities.dex.mod"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Phy/Mag Defense Calc",
+      "origin": "Compendium.loghorizontrpg-compendium.kannagi-skills.RNgzllDZsqHPbKWD",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!RNgzllDZsqHPbKWD.5uUs9qqe9yTpEkVS"
+    }
   ],
   "folder": null,
   "sort": 0,

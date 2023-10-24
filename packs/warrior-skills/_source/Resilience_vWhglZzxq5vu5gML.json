@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "26z3uJyX26S5AHnG"
+    {
+      "_id": "26z3uJyX26S5AHnG",
+      "changes": [
+        {
+          "key": "system.combatstats.recovery.total",
+          "mode": 2,
+          "value": "@abilities.pow.mod"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Resilience",
+      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.vWhglZzxq5vu5gML",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!vWhglZzxq5vu5gML.26z3uJyX26S5AHnG"
+    }
   ],
   "folder": null,
   "sort": 0,

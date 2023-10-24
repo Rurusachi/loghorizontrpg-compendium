@@ -117,7 +117,27 @@
     }
   },
   "effects": [
-    "S9Ngn1nT4picYuYC"
+    {
+      "_id": "S9Ngn1nT4picYuYC",
+      "changes": [
+        {
+          "key": "system.attributes.negotiation.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Preacher Bonus",
+      "origin": "Compendium.loghorizontrpg-compendium.healer-skills.frH2RFx5dHEcreMA",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!frH2RFx5dHEcreMA.S9Ngn1nT4picYuYC"
+    }
   ],
   "folder": null,
   "sort": 0,

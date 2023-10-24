@@ -118,7 +118,27 @@
     }
   },
   "effects": [
-    "IWQ2mVKGTjMfBnWD"
+    {
+      "_id": "IWQ2mVKGTjMfBnWD",
+      "changes": [
+        {
+          "key": "system.abilities.str.bonus",
+          "mode": 2,
+          "value": "4"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Wolf's Constitution",
+      "origin": "Compendium.loghorizontrpg-compendium.wolf-fang-skills.ulLirFvfJiDzmjCx",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!ulLirFvfJiDzmjCx.IWQ2mVKGTjMfBnWD"
+    }
   ],
   "folder": null,
   "sort": 0,
