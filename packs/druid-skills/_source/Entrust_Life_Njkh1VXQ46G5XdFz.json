@@ -3,8 +3,12 @@
   "name": "Entrust Life",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Consume [HP] of [(CRx3)+15] points as cost. The target [HP] recovers as much as [HP] consumed as the cost of this feat.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>As a cost consume [HP] equal to [(CRx3)+15]. The target recovers as much as the [HP] consumed as the cost of this skill.<br><br>A special skill that puts your vitality in the air that circulates through the earth and atmosphere, and takes over the wounds inflicted on the target.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704932122258,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!Njkh1VXQ46G5XdFz"
 }

@@ -3,8 +3,12 @@
   "name": "Call Storm",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Effect): You gain a +[SRx4] bonus to damage rolls with the [Cold] and [Shock] tags. Treat this effect as a Combat Status.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target.<br><br>(Effect): You gain a +[SRx4] bonus to damage rolls with the [Cold] and [Shock] tags. Treat this effect as a Combat Status.<br><br>An offensive spell that summons a powerful storm to strike down enemies in a wide area. The storm lingers for a while, empowering the storms and thunder you control. As long as the storm does not dissipate, the battlefield is your domain.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929778647,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!a9TikU1eiilB2eb2"
 }

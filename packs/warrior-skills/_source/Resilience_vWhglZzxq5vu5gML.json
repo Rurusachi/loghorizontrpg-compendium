@@ -3,8 +3,34 @@
   "name": "Resilience",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Increase your [Recovery] by +[POW mod].</p>",
+  "effects": [
+    {
+      "_id": "26z3uJyX26S5AHnG",
+      "changes": [
+        {
+          "key": "system.combatstats.recovery.total",
+          "mode": 2,
+          "value": "@abilities.pow.mod"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Resilience",
+      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.vWhglZzxq5vu5gML",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!vWhglZzxq5vu5gML.26z3uJyX26S5AHnG"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Increase your [Recovery] by +[POW Mod].<br><br>You have mastered techniques that further enhance the natural healing abilities of the Adventurer's body. If it's just a little scratch, it's probably healed without even knowing it.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,34 +143,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "26z3uJyX26S5AHnG",
-      "changes": [
-        {
-          "key": "system.combatstats.recovery.total",
-          "mode": 2,
-          "value": "@abilities.pow.mod"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Resilience",
-      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.vWhglZzxq5vu5gML",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!vWhglZzxq5vu5gML.26z3uJyX26S5AHnG"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919955985,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!vWhglZzxq5vu5gML"
 }

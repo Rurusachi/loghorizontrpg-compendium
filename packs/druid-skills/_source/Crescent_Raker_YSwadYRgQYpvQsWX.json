@@ -3,8 +3,12 @@
   "name": "Crescent Raker",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Extra): Secondary targets (excluding the initial target) within a range of [Target: Two / Range: 2 Sq.] from you take 10 direct damage. This damage triggers [Pursuit] once on the secondary target, as if they had failed their [Dodge Check].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target.<br><br>(Extra): Secondary targets (excluding the initial target) within a range of [Target: Two / Range: 2 Sq.] from you take 10 direct damage. This damage triggers [Pursuit] once on the secondary target, as if they had failed their [Defense Check].<br><br>A special skill that makes the wind an ally and releases a shock wave along with the attack. A crescent-shaped wave spreads out and engulfs many enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929666477,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!YSwadYRgQYpvQsWX"
 }

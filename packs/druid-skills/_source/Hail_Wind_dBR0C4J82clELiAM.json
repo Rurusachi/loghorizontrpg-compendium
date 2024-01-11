@@ -3,8 +3,12 @@
   "name": "Hail Wind",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Dazed].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Dazed].<br><br>Attack magic that blows a gust of hail over a wide area to freeze the enemy. A strong headwind temporarily slows down enemy reactions.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929757670,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!dBR0C4J82clELiAM"
 }

@@ -3,8 +3,12 @@
   "name": "Resurrection",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill may only target a character with [Incapacitated]. The target removes their [Incapacitated] condition, and recovers [(Magic Power) + (Recovery)] HP.</p>\n<p>&nbsp;</p>\n<p>(Hate 1): The target may reduce their [Hate] by -2.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill may only target a character with [Incapacitated]. The target removes their [Incapacitated] condition, and recovers [(Magic Power) + (Recovery)] HP.<br><br>(Hate 1): The target may reduce their [Hate] by -2.<br><br>Magic that revitalizes life with magical power and gives the power to rise again to those who have fallen. Basic resurrection magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704924374037,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!AFWCqXOU1rlUkAoE"
 }

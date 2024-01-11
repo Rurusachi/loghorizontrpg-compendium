@@ -3,8 +3,12 @@
   "name": "Heartbeat Healing II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Replace Heartbeat Healing with this feat with CR 11 or higher. Give the target [Regen: [Magic Power] x 2].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Replace Heartbeat Healing with this feat at CR 11 or higher. Give the target [Regen: [Magic Power] x2].<br><br>Magic that activates the target's vitality and gradually heals wounds. The effectiveness of the basic pulsation recovery magic also increases greatly with proficiency.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704930044084,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!my4hSMciVrUE72tU"
 }

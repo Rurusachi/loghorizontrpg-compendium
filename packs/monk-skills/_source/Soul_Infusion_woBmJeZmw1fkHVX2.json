@@ -3,8 +3,34 @@
   "name": "Soul Infusion",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Energy], they may roll twice and use either result.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 Starting Fate Point.</p>",
+  "effects": [
+    {
+      "_id": "tIi2qXdpwiU2Z472",
+      "changes": [
+        {
+          "key": "system.fate.max",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Soul Infusion",
+      "origin": "Compendium.loghorizontrpg-compendium.monk-skills.woBmJeZmw1fkHVX2",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!woBmJeZmw1fkHVX2.tIi2qXdpwiU2Z472"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Energy], they may roll twice and use either result.<br><br>(Bonus): You gain +1 Starting Fate Point.<br><br>You can minimize the consumption of everyone's physical strength and energy by integrating the circulation of energy with your friends. You will be able to traverse even the toughest and longest roads without getting out of breath.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,34 +142,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "tIi2qXdpwiU2Z472",
-      "changes": [
-        {
-          "key": "system.fate.max",
-          "mode": 2,
-          "value": "1"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Soul Infusion",
-      "origin": "Compendium.loghorizontrpg-compendium.monk-skills.woBmJeZmw1fkHVX2",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!woBmJeZmw1fkHVX2.tIi2qXdpwiU2Z472"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922332360,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!woBmJeZmw1fkHVX2"
 }

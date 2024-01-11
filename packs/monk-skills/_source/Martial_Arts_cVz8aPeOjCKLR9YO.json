@@ -40,7 +40,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +2 bonus to [Accuracy]. Your [Evasion Checks] and [Resistance Checks] gain a +1D bonus.</p>",
+    "description": "<p>You gain a +2 bonus to [Accuracy]. Your [Evasion Checks] and [Resistance Checks] gain a +1D bonus.<br><br>You are practicing martial arts that uses your body as a weapon to get close to your enemies. The technique of self-defense, which emphasizes evasion rather than wearing armor and being attacked, is unique to &lt;Monks&gt; even among the warrior classes.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -159,10 +159,10 @@
   "_stats": {
     "systemId": "loghorizontrpg",
     "systemVersion": "0.5.0",
-    "coreVersion": "11.308",
+    "coreVersion": "11.315",
     "createdTime": 1694957545689,
-    "modifiedTime": 1694958436479,
-    "lastModifiedBy": "ZUUkEZycgIRSncDu"
+    "modifiedTime": 1704921720686,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!cVz8aPeOjCKLR9YO"
 }

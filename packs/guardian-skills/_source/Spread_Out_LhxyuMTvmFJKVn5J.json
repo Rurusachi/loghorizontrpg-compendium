@@ -3,8 +3,12 @@
   "name": "Spread Out",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill just after you make an enemy [Incapacitated] or [Dead]. The target may immediately [Normal Move] up to 1 Sq. You can not target yourself with this skill.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill just after you make an enemy [Incapacitated] or [Dead]. The target may immediately [Normal Move] up to 1 Sq. You can not target yourself with this skill.<br><br>A special skill that draws the enemy's attention with the momentum gained by defeating an enemy and creates a gap for allies to close the distance.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921434397,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!LhxyuMTvmFJKVn5J"
 }

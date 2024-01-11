@@ -3,8 +3,12 @@
   "name": "Gaia Beat Healing",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target gains [Regen: (Magic Power)].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target gains [Regen: (Magic Power)].<br><br>High rank recovery magic that applies pulsating regen to multiple allies at once. The protection of the heartbeat of the earth protects you.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929433110,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!jg5g3VXqP04f6xrA"
 }

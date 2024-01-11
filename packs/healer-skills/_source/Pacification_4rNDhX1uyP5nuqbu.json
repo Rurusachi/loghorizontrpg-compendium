@@ -2,8 +2,13 @@
   "name": "Pacification",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target may reduce their [Hate] by -3.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "4rNDhX1uyP5nuqbu",
+  "system": {
+    "description": "<p>The target may reduce their [Hate] by -3.<br><br>A magic that calms down the surrounding hostility and diminishes interest in yourself and your friends.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "4rNDhX1uyP5nuqbu",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704924341727,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!4rNDhX1uyP5nuqbu"
 }

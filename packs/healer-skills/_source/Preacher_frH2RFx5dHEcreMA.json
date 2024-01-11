@@ -3,8 +3,34 @@
   "name": "Preacher",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +1D bonus to [Negotiation Checks].</p>",
+  "effects": [
+    {
+      "_id": "S9Ngn1nT4picYuYC",
+      "changes": [
+        {
+          "key": "system.attributes.negotiation.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Preacher Bonus",
+      "origin": "Compendium.loghorizontrpg-compendium.healer-skills.frH2RFx5dHEcreMA",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!frH2RFx5dHEcreMA.S9Ngn1nT4picYuYC"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a +1D bonus to [Negotiation Checks].<br><br>You have the skillful storytelling skills of an evangelist. It is also one of the qualities of a healer, separate from magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,34 +142,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "S9Ngn1nT4picYuYC",
-      "changes": [
-        {
-          "key": "system.attributes.negotiation.dice",
-          "mode": 2,
-          "value": "1"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Preacher Bonus",
-      "origin": "Compendium.loghorizontrpg-compendium.healer-skills.frH2RFx5dHEcreMA",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!frH2RFx5dHEcreMA.S9Ngn1nT4picYuYC"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925144030,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!frH2RFx5dHEcreMA"
 }

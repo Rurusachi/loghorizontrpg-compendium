@@ -2,8 +2,13 @@
   "name": "Adoration",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You may only target willing characters with this skill. Exchange your [HP] with the target's [HP].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "1HkD8RtcjST3R6dW",
+  "system": {
+    "description": "<p>You may only target willing characters with this skill. Exchange your [HP] with the target's [HP].<br><br>Magic that recites a scripture that shows praise for life and adapts the target and life force. Your prayers and beliefs transcend the boundaries of your physical body.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "1HkD8RtcjST3R6dW",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704927037801,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!1HkD8RtcjST3R6dW"
 }

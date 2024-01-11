@@ -2,8 +2,13 @@
   "name": "Lattice Syntax",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>During your first Main Process this round, your [Magic Attacks] with [Target: Single (or more), Area (P)] change to [Target: Wide 1 (P)].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "Gnre6nZR5rLC5e14",
+  "system": {
+    "description": "<p>During your first Main Process this round, your [Magic Attacks] with [Target: Single (or more), Area (P)] change to [Target: Wide 1 (P)].<br><br>A special skill that spreads magic widely on the ground to develop a huge planar magic circle, and by it reacting with the range attack magic used next, it will spread the effect over a wide area.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "Gnre6nZR5rLC5e14",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704991816189,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!Gnre6nZR5rLC5e14"
 }

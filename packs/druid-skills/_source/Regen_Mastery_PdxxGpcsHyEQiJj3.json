@@ -3,8 +3,12 @@
   "name": "Regen Mastery",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a bonus to the [Regen] rating of \"Heart Beat Healing\" and \"Gaia Beat Healing\" equal to your [Recovery].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a bonus to the [Regen] rating of &laquo;Heart Beat Healing&raquo; and &laquo;Gaia Beat Healing&raquo; equal to your [Recovery].<br><br>You are proficient with the Druid's unique healing spell, Heartbeat Healing. Deeper sympathy with nature heals deep wounds while watching.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929942888,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!PdxxGpcsHyEQiJj3"
 }

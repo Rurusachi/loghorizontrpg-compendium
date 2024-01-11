@@ -3,8 +3,34 @@
   "name": "Hermit Blood",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill when you receive the effect of Healing Potion (any grade). Reduce your [Fatigue] rating by an amount equal to the HP you recovered.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +8 Max HP.</p>",
+  "effects": [
+    {
+      "_id": "Eb9H5i2VxsEYZUdY",
+      "changes": [
+        {
+          "key": "system.hp.base",
+          "mode": 2,
+          "value": "8"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Bonus HP",
+      "origin": "Compendium.loghorizontrpg-compendium.monk-skills.2IxE3O5GHqOpcQ5v",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!2IxE3O5GHqOpcQ5v.Eb9H5i2VxsEYZUdY"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill when you receive the effect of Healing Potion (any grade). Reduce your [Fatigue] rating by an amount equal to the HP you recovered.<br><br>(Bonus): You gain +8 Max HP.<br><br>You are well versed in the art of conditioning yourself with medicine and food.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,34 +142,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "Eb9H5i2VxsEYZUdY",
-      "changes": [
-        {
-          "key": "system.hp.base",
-          "mode": 2,
-          "value": "8"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Bonus HP",
-      "origin": "Compendium.loghorizontrpg-compendium.monk-skills.2IxE3O5GHqOpcQ5v",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!2IxE3O5GHqOpcQ5v.Eb9H5i2VxsEYZUdY"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922301404,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!2IxE3O5GHqOpcQ5v"
 }

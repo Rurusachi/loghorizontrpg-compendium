@@ -3,8 +3,42 @@
   "name": "White Robe Style",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill only produces an effect when you are not equipped with [Heavy Armor] or a [Shield]. You gain a +[SRx3] bonus to [Recovery], and a +[SRx3] bonus to the amount of HP recovered when using \"Reactive Heal\" or \"Reactive Area Heal\".</p>",
+  "effects": [
+    {
+      "_id": "MeOxqcpuPQYfXVje",
+      "changes": [
+        {
+          "key": "system.combatstats.recovery.bonus",
+          "mode": 2,
+          "value": "@item.sr.value*3"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.loghorizontrpg-compendium.cleric-skills.KeljSeLytn5TKUfE",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "name": "Recovery Bonus",
+      "description": "",
+      "statuses": [],
+      "_key": "!items.effects!KeljSeLytn5TKUfE.MeOxqcpuPQYfXVje"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill only produces an effect when you are not equipped with [Heavy Armor] or a [Shield]. You gain a +[SR x 3] bonus to [Recovery], and a +[SR x 3] bonus to the amount of HP recovered when using \"Reactive Heal\" and \"Reactive Area Heal\".<br><br>A battle style that uses simple clothing without armor or shields, devotes itself to prayer, and wields powerful healing powers.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,34 +151,16 @@
       "max": 3
     }
   },
-  "effects": [
-    {
-      "_id": "MeOxqcpuPQYfXVje",
-      "changes": [
-        {
-          "key": "system.attributes.bonus",
-          "mode": 2,
-          "value": "@item.sr.value*3"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Recovery Bonus",
-      "origin": "Compendium.loghorizontrpg-compendium.cleric-skills.KeljSeLytn5TKUfE",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!KeljSeLytn5TKUfE.MeOxqcpuPQYfXVje"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": 1704926574479,
+    "modifiedTime": 1704926574479,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!KeljSeLytn5TKUfE"
 }

@@ -3,8 +3,12 @@
   "name": "Stamina Save",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Energy or Money]. Reduce the result of that roll by -3.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Energy or Money]. Reduce the result of that roll by -3.<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>A special skill that conserves the physical strength and energy of allies and reduces wear and tear by walking while carrying them on their backs, taking on heavy loads, etc.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921075233,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!ZIpTyaWygPjwEoVo"
 }

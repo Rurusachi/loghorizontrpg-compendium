@@ -2,8 +2,13 @@
   "name": "Lightning Reflexes",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill when you are attacked while [Pre-Action]. You may immediately begin your Main Process. Also, you may not declare [Standby] during this round. If already in the [Standby] state, the [Standby] is canceled immediately.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "4cZk1sxWWe7oX3Qn",
+  "system": {
+    "description": "<p>Use this skill when you are attacked while [Pre-Action]. You are treated as the character with the highest [Initiative] score for this round's initiative process. Also, you may not declare [Standby] during this round. If already in the [Standby] state, the [Standby] is canceled immediately.<br><br>A special skill that uses the momentum of an enemy's attack to immediately prepare for a counterattack. The reaction is lightning-fast.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "4cZk1sxWWe7oX3Qn",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704916160342,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!4cZk1sxWWe7oX3Qn"
 }

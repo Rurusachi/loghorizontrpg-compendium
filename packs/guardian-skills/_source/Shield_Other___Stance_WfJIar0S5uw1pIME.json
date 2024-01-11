@@ -3,8 +3,12 @@
   "name": "Shield Other - Stance",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target gains [Cancel]. You gain [Weakness]. Both [Cancel] and [Weakness] rating are equal to [(INT Mod) x SR]. This [Cancel] and [Weakness] are canceled only by ending this skill.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target gains [Cancel]. You gain [Weakness].<br>Both [Cancel] and [Weakness] rating are equal to [(INT Mod) x SR].<br>This [Cancel] and [Weakness] are canceled only by ending this skill.<br><br>A stance to focus on protecting others without regard for their own danger. With this stance, you become a shield for someone.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921300238,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!WfJIar0S5uw1pIME"
 }

@@ -3,8 +3,12 @@
   "name": "Argent Shine",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Staggered].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Staggered].<br><br>An offensive magic that envelops the enemy in a dazzling silvery glow, blinding them and burning their entire body.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926133039,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!fAbEu12xd8gk1BrR"
 }

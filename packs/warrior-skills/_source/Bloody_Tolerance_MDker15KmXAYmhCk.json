@@ -3,8 +3,34 @@
   "name": "Bloody Tolerance",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +1D bonus to [Endurance Checks].</p>",
+  "effects": [
+    {
+      "_id": "gyuNeYhvcfHOM7F6",
+      "changes": [
+        {
+          "key": "system.attributes.endurance.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Bloody Tolerance",
+      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.MDker15KmXAYmhCk",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!MDker15KmXAYmhCk.gyuNeYhvcfHOM7F6"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a +1D bonus to [Endurance Checks].<br><br>Your well-trained mind and body have a high resistance to extreme conditions.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,34 +142,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "gyuNeYhvcfHOM7F6",
-      "changes": [
-        {
-          "key": "system.attributes.endurance.dice",
-          "mode": 2,
-          "value": "1"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Bloody Tolerance",
-      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.MDker15KmXAYmhCk",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!MDker15KmXAYmhCk.gyuNeYhvcfHOM7F6"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919869507,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!MDker15KmXAYmhCk"
 }

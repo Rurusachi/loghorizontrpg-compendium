@@ -3,8 +3,12 @@
   "name": "Great Wall Style",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>It is only active when you have two [Shields] in your [Hand Slots]. The [Accuracy] bonus of [Block Missile] you use will be + 1D instead of + 2.</p>\n<p>&nbsp;</p>\n<p>(SR 2) 1 [Shield] You are equipped with will get + 3 to [Physical Defense].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>It is only active when you have two [Shields] in your [Hand Slots]. The [Accuracy] bonus of [Block Missile] you use will be + 1D instead of + 2.<br><br>(SR 2) 1 [Shield] You are equipped with will get + 3 to [Physical Defense].<br><br>A fighting style that stands in front of the enemy with shields in both hands. The figure that repels arrows and catches the sword is an immovable iron wall.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 2
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921524874,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!4CStAcv545fZBPPg"
 }

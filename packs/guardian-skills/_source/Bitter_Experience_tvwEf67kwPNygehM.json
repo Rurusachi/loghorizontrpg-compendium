@@ -3,8 +3,34 @@
   "name": "Bitter Experience",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +1D bonus to [Analysis Checks].</p>",
+  "effects": [
+    {
+      "_id": "fsJNQDomUr8rovqp",
+      "changes": [
+        {
+          "key": "system.attributes.analysis.bonus",
+          "mode": 2,
+          "value": "1d6"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Analysis Bonus",
+      "origin": "Compendium.loghorizontrpg-compendium.guardian-skills.tvwEf67kwPNygehM",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!tvwEf67kwPNygehM.fsJNQDomUr8rovqp"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a +1D bonus to [Analysis Checks].<br><br>Special ability to infer the structure of traps and tricks from past experience. Bitter experience learned by yourself will not betray you.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,34 +142,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "fsJNQDomUr8rovqp",
-      "changes": [
-        {
-          "key": "system.attributes.analysis.bonus",
-          "mode": 2,
-          "value": "1d6"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Analysis Bonus",
-      "origin": "Compendium.loghorizontrpg-compendium.guardian-skills.tvwEf67kwPNygehM",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!tvwEf67kwPNygehM.fsJNQDomUr8rovqp"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921100739,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!tvwEf67kwPNygehM"
 }

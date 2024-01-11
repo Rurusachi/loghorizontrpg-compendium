@@ -3,8 +3,12 @@
   "name": "Drag-in Territory",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. When you end your movement, if there are enemies in any adjacent square, you may choose one to make a [Safe Move (Forced)] to the square you are in.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. When you end your movement, if there are enemies in any adjacent square, you may choose one to make a [Safe Move (forced)] to the square you are in.<br><br>A special skill that moves in a posture as if to ram the enemy and set up a feint. Enemies deluded by your movements will take a step forward to catch you.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920911669,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!vtHQzyDalNQaUee1"
 }

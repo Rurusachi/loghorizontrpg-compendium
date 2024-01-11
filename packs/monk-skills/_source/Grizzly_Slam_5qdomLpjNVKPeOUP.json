@@ -3,8 +3,12 @@
   "name": "Grizzly Slam",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target. You may make the target make a [Safe Move (Forced)] of 1 Sq.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target. You may make the target make a [Safe Move (Forced)] of 1 Sq.<br><br>Like a grizzly bear, a throwing technique that grabs the enemy firmly with both arms and slams it into the ground. You can also throw the enemy far away to get out of range.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921977201,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!5qdomLpjNVKPeOUP"
 }

@@ -3,8 +3,12 @@
   "name": "Punisher",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [2D + [Magic Power]] magical damage to the targets.</p>\n<p>&nbsp;</p>\n<p>(Fate 2): The targets take [Confusion].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [2D + [Magic Power]] magical damage to the targets.<br><br>(Fate 2): The targets take [Confusion].<br><br>An offensive magic that rains down brilliance that judges the sins of the earth and can defeat countless enemies. The light of damnation ruthlessly pierces through all hostile beings.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704927156279,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!0VeHmX3UNe5Gqktk"
 }

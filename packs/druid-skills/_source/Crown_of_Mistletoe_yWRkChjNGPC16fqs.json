@@ -3,8 +3,12 @@
   "name": "Crown of Mistletoe",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill only produces an effect if the target already has [Regen]. The target's [Regen] rating increases by +[Magic Power].</p>\n<p>&nbsp;</p>\n<p>(Fate 1) It can be reused.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill only produces an effect if the target has [Regen]. The target's [Regen] rating increases by +[Magic Power].<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>Magic that enhances the regenerative power that circulates within the target's body. With the divine protection of mistletoe, the thing that binds it, it connects and resonates the life force of the earth with the target, giving life force that seems infinite.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704930195624,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!yWRkChjNGPC16fqs"
 }

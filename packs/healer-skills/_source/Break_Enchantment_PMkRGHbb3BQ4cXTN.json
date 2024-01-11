@@ -3,8 +3,12 @@
   "name": "Break Enchantment",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Choose one of the following effects: [Check: Opposed (Accuracy vs Resistance) / Effect: Remove all Combat Statuses or [Check: Basic (Accuracy vs. Disable Difficulty) / Effect: Remove one Prop with the [Magical] tag.]</p>\n<p>&nbsp;</p>\n<p>(Fate 1): This skill's timing changes to [Timing: Setup].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Choose one of the following effects:</p>\n<ul>\n<li>\"[Check: Opposed (Accuracy vs Resistance) / Effect: Remove all Combat Statuses]\"</li>\n<li>\"[Check: Basic (Accuracy vs. Disable Difficulty) / Effect: Remove Prop with the [Magical] tag.]\"</li>\n</ul>\n<p><br>(Fate 1): This skill's timing changes to [Timing: Setup].<br><br>A powerful disenchantment spell that negates various enchantment spells applied to the target. It is also possible to apply this to stop magic devices.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926182529,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!PMkRGHbb3BQ4cXTN"
 }

@@ -3,8 +3,12 @@
   "name": "Reactive Heal",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Target a character who has just received HP Damage from an attack. The target recovers 2D HP. This skill may only be used once in response to a single attack.</p>\n<p>&nbsp;</p>\n<p>(Hate Top): You may reduce the [Hate] cost of this skill to 0.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You may target a character who has just received HP Damage from an attack with this skill. The target recovers 2D HP. This skill may only be used once in response to a single attack.<br><br>(Hate Top): You may reduce the [Hate] cost of this skill to 0.<br><br>Magic that responds to an enemy's attack and heals allies' recent injuries. It is a &lt;Cleric&gt;-specific recovery magic called Reactive Heal.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925942616,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!JiYLGzf71VqKkYEr"
 }

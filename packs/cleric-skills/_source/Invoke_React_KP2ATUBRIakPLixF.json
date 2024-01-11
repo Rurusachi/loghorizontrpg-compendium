@@ -3,8 +3,12 @@
   "name": "Invoke React",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +[Magic Power] bonus to the amount of HP recovered when you use \"Reactive Heal\" or \"Reactive Area Heal\". This effect lasts until the end of the round.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p>(Hate 2): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a +[Magic Power] bonus to the amount of HP recovered when you use \"Reactive Heal\" or \"Reactive Area Heal\". This effect lasts until the end of the round.<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br>(Hate 2): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>Magic that amplifies the effects of reaction-activated recovery by performing informal rituals with prayer words and signs.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926893746,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!KP2ATUBRIakPLixF"
 }

@@ -3,8 +3,12 @@
   "name": "Monkey Step",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You may make a [Normal Move] of 1 Sq.</p>\n<p>&nbsp;</p>\n<p>(Hate 1): Increase the distance moved by +1 Sq.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You may make a [Normal Move] of 1 Sq.<br><br>(Hate 1): Increase the distance moved by +1 Sq.<br><br>A special skill that moves quickly while provoking the enemy with agile jumping movements like a monkey.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921806472,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!BIsXHjfiO0MR3YOO"
 }

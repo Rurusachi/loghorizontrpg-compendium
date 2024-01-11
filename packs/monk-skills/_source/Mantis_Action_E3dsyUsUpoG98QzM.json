@@ -2,8 +2,13 @@
   "name": "Mantis Action",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>During your first Main Process of this round, you gain an additional Minor Action.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "E3dsyUsUpoG98QzM",
+  "system": {
+    "description": "<p>During your first Main Process of this round, you gain an additional Minor Action.<br><br>A special skill that takes a stance that imitates a praying mantis that pounces on its prey and unleashes a rapid succession of attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -115,13 +121,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "E3dsyUsUpoG98QzM",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921830508,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!E3dsyUsUpoG98QzM"
 }

@@ -3,8 +3,12 @@
   "name": "Keep the Team",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>When the target rolls on the [Exhaustion Table: Stamina or Energy], reduce the result of that roll by -1.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +10 [Max HP].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>When the target rolls on the [Exhaustion Table: Stamina or Energy], reduce the result of that roll by -1.<br><br>(Bonus): You gain +10 [Max HP].<br><br>You are good at managing groups efficiently. It will alleviate the mental and physical exhaustion that comes from various predicaments.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925163926,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!DEzLZb9b7eyQnP1w"
 }

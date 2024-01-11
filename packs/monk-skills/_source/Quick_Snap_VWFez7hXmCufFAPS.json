@@ -2,8 +2,13 @@
   "name": "Quick Snap",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Choose from your inventory one [Throwing] weapon you can equip with IR [CR-5 (at least 1)] or more. During this main process, you can use the range of the selected [Throwing] weapon to do a Ranged Attack as if you had a [Throwing] tag.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "VWFez7hXmCufFAPS",
+  "system": {
+    "description": "<p>Choose from your inventory one [Throwing] weapon you can equip with IR [CR-5 (at least 1)] or more. During this main process, you can use the range of the selected [Throwing] weapon to do a Ranged Attack as if you had a [Throwing] tag.<br><br>A special skill that draws and shoots throwing weapons at a speed that does not catch the eye. You are good at striking and throwing.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "VWFez7hXmCufFAPS",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922722737,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!VWFez7hXmCufFAPS"
 }

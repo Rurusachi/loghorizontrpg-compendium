@@ -3,8 +3,12 @@
   "name": "Merciless Strike",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Target: Decay): The target immediately takes direct damage equal to the rating of their [Decay].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target.<br><br>(Target: Decay): The target immediately takes direct damage equal to the rating of their [Decay].<br><br>A special skill that unleashes an attack that strikes a weakened enemy. Its merciless blow mercilessly shatters the weakened parts of the opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920739273,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!bgOtf5a18mzpRpuy"
 }

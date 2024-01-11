@@ -2,8 +2,43 @@
   "name": "Healing Mastery",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +[SRx3] bonus to [Recovery].</p>",
+  "effects": [
+    {
+      "name": "Healing Mastery",
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.loghorizontrpg-compendium.healer-skills.Item.ao0OITH5EcFpJVom",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "kSLe11umGyVGJCZ9",
+      "changes": [
+        {
+          "key": "system.combatstats.recovery.bonus",
+          "mode": 2,
+          "value": "@item.sr.value*3"
+        }
+      ],
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!ao0OITH5EcFpJVom.kSLe11umGyVGJCZ9"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "ao0OITH5EcFpJVom",
+  "system": {
+    "description": "<p>You gain a +[SRx3] bonus to [Recovery].<br><br>You are devoted to studying recovery magic. Above all, this power, which is directly linked to the life and death of his allies, is never enough no matter how much he polishes it.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +53,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -115,13 +151,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "ao0OITH5EcFpJVom",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": 1704924913589,
+    "modifiedTime": 1704924929683,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!ao0OITH5EcFpJVom"
 }

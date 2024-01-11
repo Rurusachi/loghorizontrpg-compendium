@@ -3,8 +3,12 @@
   "name": "School: Blazing Katana",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>It is effective when you are equipped with only one [One-Handed] weapon capable of [Weapon Attacks] in the [Hand Slot]. Your [Attack Power] is +[[Weapon Attack Power] x 2]. Only for the first round of the scene, your [Evasion] and [Resistance] is incremented by +1.</p>\n<p>&nbsp;</p>\n<p>(SR 2) Always +1 to [Evasion] and [Resistance], not just the first round.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>It is effective when you are equipped with only one [One-Handed] weapon capable of [Weapon Attacks] in your [Hand Slots]. Your [Attack Power] is +[[Weapon's [Attack Power]] x 2]. Only for the first round of the scene, your [Evasion] and [Resistance] is incremented by +1.<br><br>(SR 2) Always +1 to [Evasion] and [Resistance], not just the first round.<br><br>A fighting style that makes full use of easy-to-handle weapons and uses agile movements to attack the enemy like a raging fire.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 2
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704917883009,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!fxoUOOGjLweuaMwn"
 }

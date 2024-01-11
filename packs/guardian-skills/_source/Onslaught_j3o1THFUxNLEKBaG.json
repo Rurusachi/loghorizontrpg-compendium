@@ -3,8 +3,12 @@
   "name": "Onslaught",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR+4)D + (Attack Power)] physical damage to the target. You gain a +1D bonus to your next [Hit Check]. Treat this effect as a Combat Status that is removed after being applied once.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR+4)D + (Attack Power)] physical damage to the target. You gain a +1D bonus to your next [Hit Check]. Treat this effect as a Combat Status that is removed after being applied once.<br><br>A special skill that wields a large two-handed weapon and performs a tremendous onslaught. Enemies lose their balance due to its momentum and impact, and subsequent attacks will easily hit.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920756826,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!j3o1THFUxNLEKBaG"
 }

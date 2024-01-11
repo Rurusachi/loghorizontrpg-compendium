@@ -2,8 +2,13 @@
   "name": "Cool Defense",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill when you are hit with an attack. You ignore any Hate Damage, or damage from [Pursuit] or [Weakness] that attack would have dealt.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "jc1x1lSxaQ7b9Ivk",
+  "system": {
+    "description": "<p>Use this skill when you are attacked. You ignore any Hate Damage, or damage from [Pursuit] or [Weakness] that attack would have dealt.<br><br>A special skill that calmly discerns and defends against the opponent's attacks without being overwhelmed by the hostility directed at them. By controlling your fear and anger, you become a cold and indestructible wall.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "jc1x1lSxaQ7b9Ivk",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919659564,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!jc1x1lSxaQ7b9Ivk"
 }

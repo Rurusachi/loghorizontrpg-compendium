@@ -3,8 +3,39 @@
   "name": "Grace of Faith",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +2 bonus to [Accuracy], and a +1 bonus to [Resistance].</p>",
+  "effects": [
+    {
+      "_id": "F7JWFIXiz0GVhyVi",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.bonus",
+          "mode": 2,
+          "value": "2"
+        },
+        {
+          "key": "system.attributes.resistance.bonus",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Grace of Faith",
+      "origin": "Compendium.loghorizontrpg-compendium.cleric-skills.6iumobqxNCnV6eUC",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!6iumobqxNCnV6eUC.F7JWFIXiz0GVhyVi"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a +2 bonus to [Accuracy], and a +1 bonus to [Resistance].<br><br>Through the power of your faith, you have been endowed with the power to fight and ward off demons and calamities.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,39 +148,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "F7JWFIXiz0GVhyVi",
-      "changes": [
-        {
-          "key": "system.attributes.accuracy.bonus",
-          "mode": 2,
-          "value": "2"
-        },
-        {
-          "key": "system.attributes.resistance.bonus",
-          "mode": 2,
-          "value": "1"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Grace of Faith",
-      "origin": "Compendium.loghorizontrpg-compendium.cleric-skills.6iumobqxNCnV6eUC",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!6iumobqxNCnV6eUC.F7JWFIXiz0GVhyVi"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925922292,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!6iumobqxNCnV6eUC"
 }

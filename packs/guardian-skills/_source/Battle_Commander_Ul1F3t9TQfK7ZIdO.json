@@ -3,8 +3,12 @@
   "name": "Battle Commander",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You may not target yourself with this skill. The target must immediately perform one [Timing: Major] action with the [Weapon Attack] [Magic Attack] or [Special Attack] tag. Reduce the [Hate] cost of that action by -2 (minimum 0).</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You may not target yourself with this skill. The target must immediately perform one [Timing: Major] action with the [Weapon Attack] [Magic Attack] or [Special Attack] tag. Reduce the [Hate] cost of that action by -2 (minimum 0).<br><br>A special skill that gives accurate instructions to allies and makes them attack on your behalf.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920813282,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!Ul1F3t9TQfK7ZIdO"
 }

@@ -2,8 +2,13 @@
   "name": "Archspell",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>During your first Main Process this round, reduce the [Hate] cost of all actions you perform to 0.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "g14fNUPDpCLfa2eL",
+  "system": {
+    "description": "<p>During your first Main Process this round, reduce the [Hate] cost of all actions you perform to 0.<br><br>By creating a box-shaped barrier that blocks magical power and placing yourself inside it, you can make the surge of magical power that accompanies spell chanting unaffected. This allows you to wield great magic without attracting the attention of your enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "g14fNUPDpCLfa2eL",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704991789521,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!g14fNUPDpCLfa2eL"
 }

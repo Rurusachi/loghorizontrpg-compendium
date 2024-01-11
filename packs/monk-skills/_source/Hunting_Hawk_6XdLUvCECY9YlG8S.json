@@ -3,8 +3,12 @@
   "name": "Hunting Hawk",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target. You may make the target make a [Safe Move (Forced)] of 1 Sq.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target. You may make the target make a [Safe Move (Forced)] of up to [Target: [Speed]] Sq.<br><br>A special skill that allows a throwing weapon filled with fighting spirit to dance freely in the air like a bird of prey in falconry. Its strike, which mimics the shape of a shining bird, drives its prey in all directions and tosses it.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922482744,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!6XdLUvCECY9YlG8S"
 }

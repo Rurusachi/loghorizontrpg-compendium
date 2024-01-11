@@ -3,8 +3,12 @@
   "name": "Returning Echo II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Acquired with CR11 or higher. Use this skill just after you are attacked. Deal [(SR) x (DEX Mod)] direct damage to the character who made the attack.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): Increase the damage by +[CR].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Available at CR11 or higher. Use this skill just after you are attacked. Deal [(SR) x (DEX Mod)] direct damage to the character who made the attack.<br><br>(Fate 1): Increase the damage by +[CR].<br><br>A special skill that unleashes an unavoidable counterattack that traces back the trajectory of the enemy's attack. Its sharpness has reached the speed of sound in a echo-like manner through refinement.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704917772196,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!Z6LaJbfAh3T1C95R"
 }

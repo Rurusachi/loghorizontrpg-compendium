@@ -2,8 +2,13 @@
   "name": "Rushing",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Your [Speed] increases by 1. This effect is treated as Combat Status and lasts until the end of the round.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "8pXm6RW7YItVPNK1",
+  "system": {
+    "description": "<p>Your [Speed] increases by +1. Lasts until the end of the round.<br><br>A special skill that runs through the battlefield faster than anyone else and cuts into enemy lines. A one-on-one race is the flower of battle. It's the true heart of a samurai.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "8pXm6RW7YItVPNK1",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704917902796,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!8pXm6RW7YItVPNK1"
 }

@@ -3,8 +3,34 @@
   "name": "Payload",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Increase your [Inventory Slots] by +[SRx4].</p>",
+  "effects": [
+    {
+      "_id": "eKgk4sS0mRcZwad6",
+      "changes": [
+        {
+          "key": "system.inventory.max",
+          "mode": 2,
+          "value": "@item.sr.value * 4"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Payload",
+      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.sTArEFUfTWqoytSE",
+      "transfer": true,
+      "flags": {},
+      "tint": "",
+      "_key": "!items.effects!sTArEFUfTWqoytSE.eKgk4sS0mRcZwad6"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Increase your [Inventory Slots] by +[SRx4].<br><br>You can carry a lot of luggage. The body trained as a protector is useful even in such a place.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,34 +142,16 @@
       "max": 3
     }
   },
-  "effects": [
-    {
-      "_id": "eKgk4sS0mRcZwad6",
-      "changes": [
-        {
-          "key": "system.inventory.max",
-          "mode": 2,
-          "value": "@item.sr.value * 4"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Payload",
-      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.sTArEFUfTWqoytSE",
-      "transfer": true,
-      "flags": {},
-      "tint": "",
-      "_key": "!items.effects!sTArEFUfTWqoytSE.eKgk4sS0mRcZwad6"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919858694,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!sTArEFUfTWqoytSE"
 }

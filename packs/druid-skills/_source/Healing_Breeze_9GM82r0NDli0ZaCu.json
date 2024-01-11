@@ -2,8 +2,13 @@
   "name": "Healing Breeze",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target recovers HP. The recovery amount is equal to the rating of the [Regen] currently affecting them.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "9GM82r0NDli0ZaCu",
+  "system": {
+    "description": "<p>Restores the target's HP. The recovery amount is equal to the rating of the [Regen] currently affecting them.<br><br>Magic that converts the power of pulsating recovery that works on the target into a healing breeze, instantly recovering.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "9GM82r0NDli0ZaCu",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704930455877,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!9GM82r0NDli0ZaCu"
 }

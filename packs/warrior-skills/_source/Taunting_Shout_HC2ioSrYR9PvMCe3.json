@@ -2,8 +2,13 @@
   "name": "Taunting Shout",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Target an ally other than yourself who was just damaged by an attack. The target may reduce their [Hate] by -1.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "HC2ioSrYR9PvMCe3",
+  "system": {
+    "description": "<p>Target an ally other than yourself who was just damaged by an attack. The target may reduce their [Hate] by -1.<br><br>A feat that diverts attention from the enemy to the allies by yelling at the enemies attacking allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "HC2ioSrYR9PvMCe3",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919684994,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!HC2ioSrYR9PvMCe3"
 }

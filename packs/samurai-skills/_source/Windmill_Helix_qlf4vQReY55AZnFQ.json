@@ -3,8 +3,12 @@
   "name": "Windmill Helix",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Hate Top): You can use this skill with [Target: Line 1 (P)].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR + 1)D + (Attack Power)] physical damage to the target.<br><br>(Hate Top): You can use this skill with [Target: Line 1 (P)].<br><br>A skill that swivels the spear like a windmill and unleashes a powerful stab, attacking surrounding enemies at once. A tornado-shaped shock wave engulfs many enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704915603832,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!qlf4vQReY55AZnFQ"
 }

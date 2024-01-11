@@ -3,8 +3,12 @@
   "name": "Valkyrie Shield",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You can use this immediately after you become [Incapacitated].\nImmediately lose [Incapacitated] status and recover [HP] equal to [One (Shield) you are equipped with's (Physical Defense) x10].\nAfter that,  add a [Damaged] tag to the [Shield] used for this effect.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You can use this immediately after you become [Incapacitated].<br>Immediately lose [Incapacitated] status and recover [HP] equal to [One (Shield) you are equipped with's (Physical Defense) x10].<br>After that, add a [Damaged] tag to the [Shield] used for this effect.<br><br>A special skill that instantly protects a vital point with a shield and avoids a fatal injury. Pick up a life with a single shield. Not cheap, but a well worth the exchange.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921458174,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!tUGdS8P9YIVTeS1Y"
 }

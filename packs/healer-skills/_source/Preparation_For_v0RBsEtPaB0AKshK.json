@@ -3,8 +3,12 @@
   "name": "Preparation For",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>In this main process, give 2 stacks of [Pursuit] when using \"Assist Attack\" instead of 1.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>During this main process, give 2 stacks of [Pursuit] when using \"Assist Attack\" instead of 1.<br><br>A special skill that accurately breaks the enemy's balance by effectively cooperating with allies and keeping the enemy in check. Attacking the enemy directly and using recovery magic are not your only battles.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925407198,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!v0RBsEtPaB0AKshK"
 }

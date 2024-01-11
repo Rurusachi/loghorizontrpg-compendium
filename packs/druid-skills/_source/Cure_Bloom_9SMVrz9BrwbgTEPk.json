@@ -3,8 +3,12 @@
   "name": "Cure Bloom",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target removes one Bad Status currently affecting them.</p>\n<p>&nbsp;</p>\n<p>(Hate 1): This skill can be used with [Target: Two].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target removes one Bad Status currently affecting them.<br><br>(Hate 1): This skill can be used with [Target: Two].<br><br>Magic that spreads the scent of flowers with healing power and cures allies of status ailments. It can also be used as a substitute for perfume.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929557053,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!9SMVrz9BrwbgTEPk"
 }

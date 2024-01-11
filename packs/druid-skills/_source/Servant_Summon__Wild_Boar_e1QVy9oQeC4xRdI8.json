@@ -3,8 +3,12 @@
   "name": "Servant Summon: Wild Boar",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain the [Nature] tag. You gain a +1 bonus to [Speed].</p>\n<p>&nbsp;</p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes [SRx4] direct damage.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain the [Nature] tag. You gain a +1 bonus to [Speed].<br><br>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes [SRx4] direct damage.<br><br>A special skill that summons and uses a Wild Boar, an ancestral spirit that embodies the wildness of nature. The big boar carries you around the battlefield.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -119,12 +123,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929491927,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!e1QVy9oQeC4xRdI8"
 }

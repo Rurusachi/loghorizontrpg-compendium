@@ -3,8 +3,12 @@
   "name": "Early Bird's Cry",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target removes [Dazed] [Staggered] and [Rigor].</p>\n<p>&nbsp;</p>\n<p>(Fate 1): This skill's [Hate] cost becomes 0.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target removes [Dazed] [Staggered] and [Rigor].<br><br>(Fate 1): This skill's [Hate] cost becomes 0.<br><br>A special skill that awakens nearby allies by using magic to evoke the chirping of birds announcing the arrival of the morning.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929544383,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!PXt3KceViPSzFs8a"
 }

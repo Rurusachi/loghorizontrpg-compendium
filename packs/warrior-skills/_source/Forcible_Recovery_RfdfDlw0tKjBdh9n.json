@@ -3,8 +3,34 @@
   "name": "Forcible Recovery",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill just after the target rolls on the [Exhaustion Table: Stamina, Items]. The result of the roll becomes 0.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+  "effects": [
+    {
+      "_id": "VawwMeAvZ41Psq1O",
+      "changes": [
+        {
+          "key": "system.fate.max",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Forcible Recovery",
+      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.RfdfDlw0tKjBdh9n",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!RfdfDlw0tKjBdh9n.VawwMeAvZ41Psq1O"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill just after the target rolls on the [Exhaustion Table: Stamina, Items]. The result of the roll becomes 0.<br><br>(Bonus): You gain +1 [Starting Fate Point].<br><br>A skill that protects friends and property from danger along the way. You are a shield for your allies not only in combat.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,34 +142,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "VawwMeAvZ41Psq1O",
-      "changes": [
-        {
-          "key": "system.fate.max",
-          "mode": 2,
-          "value": "1"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Forcible Recovery",
-      "origin": "Compendium.loghorizontrpg-compendium.warrior-skills.RfdfDlw0tKjBdh9n",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!RfdfDlw0tKjBdh9n.VawwMeAvZ41Psq1O"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919830959,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!RfdfDlw0tKjBdh9n"
 }

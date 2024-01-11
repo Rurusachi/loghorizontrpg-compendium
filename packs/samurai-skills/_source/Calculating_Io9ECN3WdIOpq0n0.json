@@ -3,8 +3,12 @@
   "name": "Calculating",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Money], they may roll twice and take either result.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Money], they may roll twice and take either result.<br><br>(Bonus): You gain +1 [Starting Fate Point].<br><br>You are good at both literary and military arts. It is a pillar that can protect both the wallet and life of allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704916606066,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!Io9ECN3WdIOpq0n0"
 }

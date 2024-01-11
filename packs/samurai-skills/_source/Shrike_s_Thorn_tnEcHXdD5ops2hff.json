@@ -3,8 +3,12 @@
   "name": "Shrike's Thorn",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Target: Post-Action): The target takes [Weakness: 10].</p>\n<p>(Target: Pre-Action): The target's [Initiative] becomes 0. This effect lasts until the end of the round.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.<br><br>(Target: Post-Action): The target takes [Decay: 10].<br>(Target: Pre-Action): The target's [Initiative] becomes 0. This effect lasts until the end of the round.<br><br>A special skill that impedes action by striking the enemy's head, throat, etc. with a two-handed weapon. The effect is great if you aim at an enemy that is exposed.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704915465800,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!tnEcHXdD5ops2hff"
 }

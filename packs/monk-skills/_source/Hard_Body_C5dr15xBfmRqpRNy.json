@@ -3,8 +3,12 @@
   "name": "Hard Body",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill at the same time you use \"Protect\" \"Covering\" \"Long Range Cover\" or \"Trap Cover\". Reduce the amount of substituted HP Damage by -[SRx5].</p>\n<p>&nbsp;</p>\n<p>(Hate Top): Calculate the effect of this skill as if it had +2 SR (you may exceed the Max SR).</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill at the same time you use \"Protect\", \"Covering\", \"Long Range Cover\", or \"Trap Cover\". Reduce the amount of substituted HP Damage by -[SRx5].<br><br>(Hate Top): Calculate the effect of this skill as if it had +2 SR (you may exceed the Max SR).<br><br>A skill that raises one's defensive power by paying attention to the whole body and making the body as hard as iron.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922174585,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!C5dr15xBfmRqpRNy"
 }

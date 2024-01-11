@@ -3,8 +3,12 @@
   "name": "Healing Wind",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target recovers [(Recovery) + (SRx4)] HP.</p>\n<p>&nbsp;</p>\n<p>(Minor): Before this skill takes effect, you may make a [Normal Move] to your [Speed] Sq. This additional effect cannot be activated if you have [Rigor].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target recovers [(Recovery) + (SRx4)] HP. <br><br>(Minor): Before this skill takes effect, you may make a [Normal Move] up to your [Speed] Sq. This additional effect cannot be activated if you have [Rigor].<br><br>Magic that creates a healing wind that heals nearby allies. By manipulating the direction of the wind, it can also carry your own body.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929864243,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!VHkTLWRh5KGylhH0"
 }

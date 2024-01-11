@@ -3,8 +3,43 @@
   "name": "Saint Style",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill only produces an effect when you have nothing equipped to either of your [Hand Slots]. When you use a skill with a [Hate] cost of 3 or higher, reduce the [Hate] cost of that skill by -1 (minimum 0).</p>\n<p>&nbsp;</p>\n<p>(SR2): You gain a +2 bonus to [Accuracy].</p>",
+  "effects": [
+    {
+      "name": "Saint Style SR2",
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.loghorizontrpg-compendium.healer-skills.Item.D2dgACrYAPBPJ0JE",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": true,
+      "_id": "8kL1r4Bi6VZ0xYoZ",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!D2dgACrYAPBPJ0JE.8kL1r4Bi6VZ0xYoZ"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill only produces an effect when you have nothing equipped to either of your [Hand Slots]. When you use a skill with a [Hate] cost of 3 or higher, reduce the [Hate] cost of that skill by -1 (minimum 0).<br><br>(SR2): You gain a +2 bonus to [Accuracy].<br><br>A combat style that does not carry weapons or shields, and concentrates on praying without anything in your hands. It becomes difficult for the other enemies to turn hostile toward you.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +152,16 @@
       "max": 2
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": 1704924605412,
+    "modifiedTime": 1704924636450,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!D2dgACrYAPBPJ0JE"
 }

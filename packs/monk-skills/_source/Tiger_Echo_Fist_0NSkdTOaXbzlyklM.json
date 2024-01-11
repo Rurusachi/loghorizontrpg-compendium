@@ -3,8 +3,12 @@
   "name": "Tiger Echo Fist",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Target: Pursuit): [Pursuit] triggered by this attack is not removed.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target.<br><br>(Target: Pursuit): [Pursuit] triggered by this attack is not removed.<br><br>An attack that destroys the enemy from the inside and outside by sending a special vibration from the fist that hits the opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921906537,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!0NSkdTOaXbzlyklM"
 }

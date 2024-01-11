@@ -3,8 +3,12 @@
   "name": "Combat Summon: Myconid",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Target a single square. You may target characters in the targeted square with [Hinder]. This effect lasts until the end of the round.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): You may use this skill with [Timing: Initiative].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Target a single square. You can target characters in the targeted square with [Hinder]. This effect lasts until the end of the round.<br><br>(Fate 1): You may use this skill with [Timing: Initiative].<br><br>A special skill that summons myconids, ancestral spirits that embody the diversity of nature. Mushrooms with charming faces grow to hinder enemy movement.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929529995,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!XJUv11bYwzlYfQUJ"
 }

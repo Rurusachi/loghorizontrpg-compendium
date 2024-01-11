@@ -3,8 +3,12 @@
   "name": "Shrike's Thorn II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Acquired with CR11 or higher. Deal [2D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Target: Post-Action): The target takes [Decay: (Base INT)].</p>\n<p>(Target: Pre-Action): The target's [Initiative] becomes 0. This effect lasts until the end of the round.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Available at CR11 or higher. Deal [2D + (Attack Power)] physical damage to the target.<br><br>(Target: Post-Action): The target takes [Decay: (Base INT)].<br>(Target: Pre-Action): The target's [Initiative] becomes 0. This effect lasts until the end of the round.<br><br>A special skill that pierces the enemy's vital points with precision as if a needle were being passed through them, hindering their actions. An enemy deprived of liberty becomes a premature sacrifice of a shrike waiting to be pierced and pecked by a branch.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704916698039,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!PGwenegaAQTWA3Sc"
 }

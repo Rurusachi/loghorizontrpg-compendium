@@ -2,8 +2,13 @@
   "name": "Hate Exchange",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Target an ally with higher [Hate] than yourself. You trade [Hate] values with the target.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "CuITE3t8kKqtXmcv",
+  "system": {
+    "description": "<p>Target an ally with higher [Hate] than yourself. You trade [Hate] values with the target.<br><br>A special skill that intimidates the enemy as if to protect an ally who has attracted too much attention from the enemy, and accepts all hostility instead.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "CuITE3t8kKqtXmcv",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919449413,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!CuITE3t8kKqtXmcv"
 }

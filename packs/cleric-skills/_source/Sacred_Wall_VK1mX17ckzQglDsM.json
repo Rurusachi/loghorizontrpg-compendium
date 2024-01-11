@@ -3,8 +3,12 @@
   "name": "Sacred Wall",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Reduce the amount of expected HP Damage the target would receive by -[Magic Power]. This skill may only be used once in response to a single attack.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Reduce the amount of expected HP Damage the target would receive by -[Magic Power]. This skill may only be used once in response to a single attack.<br><br>A magic that creates a dome-shaped protective wall around allies to reduce damage from enemy attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926357814,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!VK1mX17ckzQglDsM"
 }

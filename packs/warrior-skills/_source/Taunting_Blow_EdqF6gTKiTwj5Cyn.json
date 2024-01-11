@@ -3,8 +3,12 @@
   "name": "Taunting Blow",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Success): A secondary target within a range of [Target: Single / Range: (SRx2) Sq.] from you may reduce their [Hate] by -2.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.<br><br>(Success): A secondary target within a range of [Target: Single / Range: (SRx2) Sq.] from you may reduce their [Hate] by -2.<br><br>A special skill that attracts the enemy's consciousness to itself with a grand attack accompanied by provocation, and diminishes the attention of allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919495570,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!EdqF6gTKiTwj5Cyn"
 }

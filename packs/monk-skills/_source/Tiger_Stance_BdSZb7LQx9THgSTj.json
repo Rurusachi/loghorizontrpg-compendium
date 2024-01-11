@@ -3,8 +3,12 @@
   "name": "Tiger Stance",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The rating of [Pursuit] you give is + [SR x 2]. You gain [Weakness (Boss, Raid)] with rating is equal to your [DEX Mod].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The rating of [Pursuit] you give is + [SRx2]. You gain [Weakness (Boss, Raid)] with rating is equal to your [DEX Mod].<br><br>A special skill that takes a stance to unleash a wild attack like a tiger's claws tearing apart prey. Your defense will be a little weaker, but you won't be able to take advantage of your half-hearted enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922713859,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!BdSZb7LQx9THgSTj"
 }

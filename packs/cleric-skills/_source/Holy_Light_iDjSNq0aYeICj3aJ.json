@@ -3,8 +3,12 @@
   "name": "Holy Light",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SRx2)D + (Magic Power)] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Target: Undead, Blight): The damage becomes penetrating.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR x 2)D + (Magic Power)] magical damage to the target.<br><br>(Target: Undead, Blight): The damage becomes penetrating.<br><br>An offensive spell that emits a converging beam of light and pierces the enemy. That sacred light is a natural enemy to impure beings.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926159336,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!iDjSNq0aYeICj3aJ"
 }

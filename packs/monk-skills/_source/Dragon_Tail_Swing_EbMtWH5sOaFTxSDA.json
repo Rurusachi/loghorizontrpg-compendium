@@ -3,8 +3,12 @@
   "name": "Dragon Tail Swing",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Hate 1): The target also takes [Staggered]. This additional effect may only be used [SR] times per scenario.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.<br><br>(Hate 1): The target also takes [Staggered]. This additional effect may only be used [SR] times per scenario.<br><br>A special skill that uses its limbs as a dragon's tail and unleashes a spinning attack that sweeps away surrounding enemies all at once. By releasing it carefully, the enemy will stop moving as if pressured by the power of the dragon.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921883398,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!EbMtWH5sOaFTxSDA"
 }

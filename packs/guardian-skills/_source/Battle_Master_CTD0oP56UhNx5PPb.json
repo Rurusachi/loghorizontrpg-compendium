@@ -3,8 +3,34 @@
   "name": "Battle Master",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +2 bonus to [Accuracy]. When combat begins,  increase your [Hate] by +1.</p>",
+  "effects": [
+    {
+      "_id": "reo5scNCf0XJa9Gx",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.bonus",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Accuracy Bonus",
+      "origin": "Compendium.loghorizontrpg-compendium.guardian-skills.CTD0oP56UhNx5PPb",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!CTD0oP56UhNx5PPb.reo5scNCf0XJa9Gx"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a +2 bonus to [Accuracy]. When combat begins, increase your [Hate] by +1.<br><br>You are good at fighting to attract the enemy's attention. Being able to freely manipulate both weapons and enemies is representative of a first-class &lt;Guardian&gt;.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,34 +143,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "reo5scNCf0XJa9Gx",
-      "changes": [
-        {
-          "key": "system.attributes.accuracy.bonus",
-          "mode": 2,
-          "value": "2"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Accuracy Bonus",
-      "origin": "Compendium.loghorizontrpg-compendium.guardian-skills.CTD0oP56UhNx5PPb",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!CTD0oP56UhNx5PPb.reo5scNCf0XJa9Gx"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920642512,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!CTD0oP56UhNx5PPb"
 }

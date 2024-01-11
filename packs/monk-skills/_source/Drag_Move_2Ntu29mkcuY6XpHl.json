@@ -3,8 +3,12 @@
   "name": "Drag Move",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill may only be used when you and no more than one enemy are in the same square. You may make a [Normal Move] up to your [Speed] Sq (the target may not [Hinder] this movement). At the same time as your movement, the target makes a [Safe Move (Forced)] to the same square.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill may only be used when you and no more than one enemy are in the same square. You may make a [Normal Move] up to your [Speed] Sq (the target may not [Hinder] this movement). At the same time as your movement, the target makes a [Safe Move (Forced)] to the same square.<br><br>A special skill that breaks the center of gravity of the target and pushes or pulls it, allowing it to move freely along with the opposing enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922044752,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!2Ntu29mkcuY6XpHl"
 }

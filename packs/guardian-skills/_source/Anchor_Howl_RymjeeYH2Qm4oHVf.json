@@ -3,8 +3,12 @@
   "name": "Anchor Howl",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain [Cancel: (STR Mod)]. This effect lasts until the end of the round.</p>\n<p>&nbsp;</p>\n<p>(Hate Top): You recover 5 HP.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain [Cancel: (STR Mod)]. This cancel lasts until the end of the round.<br><br>(Hate Top): You recover 5 HP.<br><br>A special skill that raises a loud roar and stirs the enemy's hostility towards himself. It also has the effect of preparing for enemy attacks by encouraging oneself.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920651571,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!RymjeeYH2Qm4oHVf"
 }

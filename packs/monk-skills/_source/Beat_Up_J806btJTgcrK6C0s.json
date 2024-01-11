@@ -2,8 +2,13 @@
   "name": "Beat Up",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use it when you make an Enemy [Incapacitated] or [Dead]. Only enemies can be targeted. Give 5 points of direct damage to the target. You [Move: Teleport] to the same Sq as the target.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "J806btJTgcrK6C0s",
+  "system": {
+    "description": "<p>Use it when you make an Enemy [Incapacitated] or [Dead]. Only enemies can be targeted. Give 5 points of direct damage to the target. You [Move: Teleport] to the same Sq as the target.<br><br>When an enemy is defeated, it does not interrupt the flow, and it is a special skill that immediately closes in on the next target and delivers a blow.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "J806btJTgcrK6C0s",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922765239,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!J806btJTgcrK6C0s"
 }

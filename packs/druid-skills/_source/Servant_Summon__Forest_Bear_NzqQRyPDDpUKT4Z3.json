@@ -3,8 +3,12 @@
   "name": "Servant Summon: Forest Bear",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain the [Nature] tag. Gain + [SR x 4] to the physical damage rolls you do.</p>\n<p>&nbsp;</p>\n<p>(Effect): You gain [Barrier: [Base STR ]].</p>\n<p>(CR 11): Becomes + [SR x 5] instead of + [SR x 4].</p>\n<p>(CR 21): + [SR x 7].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain the [Nature] tag. Gain +[SR x 4] to physical damage rolls. <br><br>(Effect): You gain [Barrier: [Base STR]].<br>(CR 11): Damage bonus is +[SR x 5] instead of +[SR x 4]. <br>(CR 21): +[SR x 7].<br><br>A special skill that summons and uses an ancestral spirit, the Forest Bear, which embodies the magnificence of nature and the calmness of the forest. A raging guardian, the Forest Bear will protect you and slay your foes.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -119,12 +123,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704930120990,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!NzqQRyPDDpUKT4Z3"
 }

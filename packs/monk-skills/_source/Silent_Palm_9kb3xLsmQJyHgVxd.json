@@ -3,8 +3,12 @@
   "name": "Silent Palm",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill when the target would leave your square due to a [Normal Move] or [Safe Move]. Deal [SRx5] direct damage to the target. The target's move fails, and they remain in the square you are in.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill when the target would leave your square due to a [Normal Move] or [Safe Move]. Deal [SRx5] direct damage to the target. The target's move fails, and they remain in the square you are in.<br><br>A special skill that thwarts the movement of the enemy by hitting the palm in response to the movement of the enemy trying to release the distance.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922245220,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!9kb3xLsmQJyHgVxd"
 }

@@ -3,8 +3,12 @@
   "name": "Phantom Step",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>After the current Main Process ends, you may make a [Normal Move] up to your [Speed] Sq.</p>\n<p>&nbsp;</p>\n<p>(Minor): The [Normal Move] becomes a [Safe Move] instead.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>After the current Main Process ends, you may make a [Normal Move] up to your [Speed] Sq. <br><br>(Minor): The [Normal Move] becomes a [Safe Move] instead.<br><br>A special skill that makes full use of sharp steps and jumps to move as if sewing between the enemy's perceptions, dodging obstacles and moving. From the enemy's point of view, the movement appears elusive, like a ghost.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922281419,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!EYWNN4YebYuCNmrV"
 }

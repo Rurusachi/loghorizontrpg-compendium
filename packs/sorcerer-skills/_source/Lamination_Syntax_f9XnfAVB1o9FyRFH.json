@@ -2,8 +2,13 @@
   "name": "Lamination Syntax",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>During your first Main Process this round, your [Magic Attacks] with [Target: Single] change to [Target: Three].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "f9XnfAVB1o9FyRFH",
+  "system": {
+    "description": "<p>During your first Main Process this round, your [Magic Attacks] with [Target: Single] change to [Target: Three].<br><br>A special skill that deploys magical power in space to build a pillar-shaped layered magic circle around you, and deploys multiple attack magic for the next use. The completed magic attacks multiple enemies at the same time.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "f9XnfAVB1o9FyRFH",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704991831176,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!f9XnfAVB1o9FyRFH"
 }

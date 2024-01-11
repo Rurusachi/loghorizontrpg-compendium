@@ -3,8 +3,12 @@
   "name": "Servant Summon: Alraune",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain the [Nature] tag. You gain a +[SRx3] bonus to [Recovery].</p>\n<p>&nbsp;</p>\n<p>(Effect): Secondary targets with [Mob] within a range of [Target: Wide 4 (P) / Range: Close] centered on you take [Staggered].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain the [Nature] tag. You gain a +[SRx3] bonus to [Recovery].<br><br>(Effect): Secondary targets with [Mob] within a range of [Target: Wide 4 (P) / Range: Close] centered on you take [Staggered].<br><br>A special skill that summons an ancestral spirit, Alraune, who embodies the fertility and fascination of nature, and uses it. Alraune takes the form of a beautiful girl leaning out of various kinds of petals.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -119,12 +123,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929465855,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!F8Lqj8GZGInKJCKF"
 }

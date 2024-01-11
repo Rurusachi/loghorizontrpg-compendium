@@ -3,8 +3,12 @@
   "name": "Reactive Area Heal",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Target all characters who have just received HP Damage from an attack. The target recovers 2D HP. This skill may only be used once in response to a single attack.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): Increase the amount of HP recovered by +5.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You may target all characters who have just received HP Damage from an attack with this skill. The target recovers 2D HP. This skill may only be used once in response to a single attack.<br><br>(Fate 1): Increase the amount of HP recovered by +5.<br><br>A magic that spreads a healing force field over a wide area in response to enemy attacks. High rank magic of reaction activation recovery.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926404444,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!e121kbEEsFrhagkw"
 }

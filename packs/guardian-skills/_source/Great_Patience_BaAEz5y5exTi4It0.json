@@ -3,8 +3,34 @@
   "name": "Great Patience",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You remove any [Fatigue] you are currently affected by. However, at the end of the scene, you take [Fatigue]. The rating of this [Fatigue] is equal to [Removed (Fatigue) Rating + 10].</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +8 [Max HP].</p>",
+  "effects": [
+    {
+      "_id": "8hT2K6J5N6R0vbDq",
+      "changes": [
+        {
+          "key": "system.hp.base",
+          "mode": 2,
+          "value": "8"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Bonus HP",
+      "origin": "Compendium.loghorizontrpg-compendium.guardian-skills.BaAEz5y5exTi4It0",
+      "transfer": true,
+      "flags": {},
+      "tint": "",
+      "_key": "!items.effects!BaAEz5y5exTi4It0.8hT2K6J5N6R0vbDq"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You remove any [Fatigue] you are currently affected by. However, at the end of the scene, you take [Fatigue]. The rating of this [Fatigue] is equal to [Removed (Fatigue) Rating + 10].<br><br>(Bonus): You gain +8 [Max HP].<br><br>A special skill that demonstrates extraordinary physical strength and pushes away fatigue to forcefully move the body. For a while, you can move around energetically, but fatigue will hit you later.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,34 +143,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "8hT2K6J5N6R0vbDq",
-      "changes": [
-        {
-          "key": "system.hp.base",
-          "mode": 2,
-          "value": "8"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Bonus HP",
-      "origin": "Compendium.loghorizontrpg-compendium.guardian-skills.BaAEz5y5exTi4It0",
-      "transfer": true,
-      "flags": {},
-      "tint": "",
-      "_key": "!items.effects!BaAEz5y5exTi4It0.8hT2K6J5N6R0vbDq"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921052949,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!BaAEz5y5exTi4It0"
 }

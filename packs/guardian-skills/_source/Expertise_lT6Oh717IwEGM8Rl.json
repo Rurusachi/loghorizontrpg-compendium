@@ -3,8 +3,12 @@
   "name": "Expertise",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Only acquired with CR 11 or higher. The [Dodge Check] penalty for Assault Stance becomes -1 instead of -2.</p>\n<p>&nbsp;</p>\n<p>(SR2 &amp; CR16): The penalty is removed.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Only acquired with CR 11 or higher. The [Defense Check] penalty for \"Assault Stance\" becomes -1 instead of -2.<br><br>(SR2 &amp; CR16): The penalty is removed.<br><br>Even though you take a stance that emphasizes attack, you have mastered the movement of offense and defense that does not neglect defense.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 2
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921505353,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!lT6Oh717IwEGM8Rl"
 }

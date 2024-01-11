@@ -2,8 +2,13 @@
   "name": "Orion Delay Blow",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target takes [SR] stacks of [Pursuit: 10].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "AGqexfIspnnhdiEN",
+  "system": {
+    "description": "<p>The target takes [SR] stacks of [Pursuit: 10].<br><br>A special skill that unleashes countless attacks as if tracing the \"stars\" that are the key to the circulation of energy. After a while, the wound opens from the inside of the body of the enemy whose air veins are cut off.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "AGqexfIspnnhdiEN",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922058369,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!AGqexfIspnnhdiEN"
 }

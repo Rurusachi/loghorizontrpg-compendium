@@ -3,8 +3,12 @@
   "name": "Iron Bounce",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill when you would receive HP Damage. Reduce the expected HP Damage by -[SRx3].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill when you would receive HP Damage. Reduce the expected HP Damage by -[SRx3].<br><br>A special skill that reduces damage by blocking enemy attacks with a strong part of the equipment. Instead of avoiding, receiving is the fighting style of &lt;Guardians&gt;.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -32,7 +36,7 @@
       "addsr": false
     },
     "hatecost": {
-      "value": 1,
+      "value": "1",
       "addsr": false
     },
     "fatecost": {
@@ -116,12 +120,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920931358,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!NKZv0Ygx6vWSgF3l"
 }

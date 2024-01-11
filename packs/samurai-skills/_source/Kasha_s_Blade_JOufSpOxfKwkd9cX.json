@@ -3,8 +3,12 @@
   "name": "Kasha's Blade",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target. If there are no other enemies in the same square as you except the target, increase the damage by +5.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target. If there are no other enemies in the same square as you except the target, increase the damage by +5.<br><br>A special skill that moves in a circle around the enemy and attacks continuously. Shows its true value in situations where you can move around freely</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704915507738,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!JOufSpOxfKwkd9cX"
 }

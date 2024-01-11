@@ -3,8 +3,12 @@
   "name": "Technical Arts",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Requires CR11 or higher. Increase the damage of \"Shadowless Kick\", \"Silent Palm\", and \"Beat Up\" by +[DEX Mod].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Requires CR11 or higher. Increase the damage of \"Shadowless Kick\", \"Silent Palm\", and \"Beat Up\" by +[DEX Mod].<br><br>With your physical abilities honed through many battles, your fists and legs will become even more powerful.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922796906,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!VfgBv39JM1j4iXmb"
 }

@@ -3,8 +3,12 @@
   "name": "Fierce Mold",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Success): Give target [Weakness (Magic): 10]. Treat this [Weakness] as a Bad status.</p>\n<p>(CR 16): The [Weakness] increases to 15.</p>\n<p>(Fate 1): The rating of [Weakness] is doubled.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target.<br><br>(Success): Give target [Weakness (Magic): 10] (treat this [Weakness] as a Bad Status).<br>(CR 16): The [Weakness] increases to 15.<br>(Fate 1): The rating of the [Weakness] is doubled.<br><br>A special skill that envelops poisonous-colored spores in weapon attacks and erodes the target's body with the blow. Enemies infested with spores lose much of their resistance to magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704930349544,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!maz4GVdDcNKjWtzp"
 }

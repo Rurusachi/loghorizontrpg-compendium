@@ -3,8 +3,12 @@
   "name": "Water Breathing II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Acquired with CR11 or higher. The target gains the [Aquatic] tag, and [Cancel (Aquatic): 20]. Treat this effect as a Combat Status.</p>\n<p>&nbsp;</p>\n<p>(CR21): Increase the [Cancel] to 30.</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Available at CR11 or higher. The target gains the [Aquatic] tag, and [Cancel (Aquatic): 20]. Treat this effect as a Combat Status.<br><br>(CR21): Increase the [Cancel] to 30.<br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>A magic that grants the protection of water to your friends and yourself, allowing them to move freely in the water as well as on land, if not more.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925873149,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!UEqW1PV3UP2bkBze"
 }

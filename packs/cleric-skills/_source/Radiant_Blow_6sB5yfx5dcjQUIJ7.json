@@ -2,8 +2,13 @@
   "name": "Radiant Blow",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>During this Main Process, you gain a + [SR] bonus to [Hit Checks] and + [(SR)D] bonus to the damage rolls. In addition to that damage add a [Holy] tag.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "6sB5yfx5dcjQUIJ7",
+  "system": {
+    "description": "<p>During this Main Process, you gain a + [SR] bonus to [Hit Checks] and + [(SR)D] bonus to the damage rolls. In addition to that damage add a [Holy] tag.<br><br>A special skill that envelops weapons and magic with holy brilliance and unleashes a powerful blow.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "6sB5yfx5dcjQUIJ7",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704927374211,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!6sB5yfx5dcjQUIJ7"
 }

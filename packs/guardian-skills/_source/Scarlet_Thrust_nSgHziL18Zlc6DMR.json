@@ -3,8 +3,12 @@
   "name": "Scarlet Thrust",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [3D + (Attack Power)] physical damage to the target. You recover [(Recovery] + (SRx3)] HP.</p>\n<p>&nbsp;</p>\n<p>(Hate Top): You recover an additional 5 HP.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [3D + (Attack Power)] physical damage to the target. You recover [(Recovery] + (SRx3)] HP. <br><br>(Hate Top): You recover an additional 5 HP.<br><br>A special skill that pierces the body of the enemy with a spear and absorbs physical strength through blood. The crimson flash that is unleashed gives wounds to the enemy and heals you.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920791766,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!nSgHziL18Zlc6DMR"
 }

@@ -2,8 +2,13 @@
   "name": "Grandstand",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You may make an target [Safe Move (Forced)] up to 1 Sq. This movement is specified so that the subject must approach you.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "NEaQnZfdzxNQkRU6",
+  "system": {
+    "description": "<p>You may make a target take a [Safe Move (Forced)] up to 1 Sq. This movement must have the target approach you.<br><br>A skill that draws the attention of the enemy by carrying your weapon on your shoulder in the middle of a battle and making a flashy appearance. Those around you will be captivated by its power, and will be drawn towards you.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -26,7 +32,7 @@
     },
     "target": {
       "type": "widep",
-      "value": "1",
+      "value": 1,
       "addsr": false
     },
     "hatecost": {
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "NEaQnZfdzxNQkRU6",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704915633623,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!NEaQnZfdzxNQkRU6"
 }

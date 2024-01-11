@@ -3,8 +3,34 @@
   "name": "Eternal Battlefield",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +2 bonus to [Accuracy]. During the first round of a scene, you gain a +5 bonus to [Initiative].</p>",
+  "effects": [
+    {
+      "_id": "4l6t7Ncop91xaImF",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.bonus",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Accuracy",
+      "origin": "Compendium.loghorizontrpg-compendium.samurai-skills.1AivmsxaEox84Jax",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!1AivmsxaEox84Jax.4l6t7Ncop91xaImF"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a +2 bonus to [Accuracy]. During the first round of a scene, you gain a +5 bonus to [Initiative].<br><br>As a Samurai, you are always ready for battle, no matter where you are or what you are doing. That attitude is especially apparent in the reaction immediately after the start of the battle.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,34 +143,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "4l6t7Ncop91xaImF",
-      "changes": [
-        {
-          "key": "system.attributes.accuracy.bonus",
-          "mode": 2,
-          "value": "2"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Accuracy",
-      "origin": "Compendium.loghorizontrpg-compendium.samurai-skills.1AivmsxaEox84Jax",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!1AivmsxaEox84Jax.4l6t7Ncop91xaImF"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704914824909,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!1AivmsxaEox84Jax"
 }

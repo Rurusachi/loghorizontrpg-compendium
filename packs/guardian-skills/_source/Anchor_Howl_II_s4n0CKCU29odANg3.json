@@ -3,8 +3,12 @@
   "name": "Anchor Howl II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Replace [Anchor Howl] with this skill at CR11 or higher. You gain [Cancel: (STR Mod)]. This effect lasts until the end of the round.</p>\n<p>&nbsp;</p>\n<p>(Hate Top): You recover [Base STR] HP.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Replace Anchor Howl with this skill at CR11 or higher. You gain [Cancel: (STR Mod)]. This effect lasts until the end of the round.<br><br>(Hate Top): You recover [Base STR] HP.<br><br>A special skill that raises a loud roar and stirs the enemy's hostility towards oneself. The way you motivate yourself and keep an eye on your enemies will make you look like an insurmountable wall.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921122323,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!s4n0CKCU29odANg3"
 }

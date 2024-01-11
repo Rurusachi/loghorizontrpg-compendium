@@ -3,8 +3,12 @@
   "name": "Nature's Revival",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You must have \"Resurrection\" in order to acquire this skill. You immediately use \"Resurrection\" with [Range: 6 Sq.]</p>\n<p>&nbsp;</p>\n<p>(SR2): When you use this skill, the target of \"Resurrection\" gains [Regen: (Magic Power) + (Recovery) + 10].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You must have &laquo;Resurrection&raquo; in order to acquire this skill. You immediately use &laquo;Resurrection&raquo; with [Range: 6 Sq.]<br><br>(SR2): When you use this skill, the target of &laquo;Resurrection&raquo; gains [Regen: (Magic Power) + (Recovery) + 10].<br><br>Magic that revives allies and uses pulsation recovery magic at the same time. A resurrection magic unique to &lt;Druids&gt;, which converges the abundant vitality of nature into a single point and activates it.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -52,7 +56,7 @@
         "powmod": false,
         "intmod": false,
         "patk": false,
-        "matk": false,
+        "matk": true,
         "recovery": false,
         "cr": false
       },
@@ -74,7 +78,7 @@
       }
     },
     "secondformula": {
-      "value": "",
+      "value": "10",
       "bonus": {
         "srd": false,
         "sr": false,
@@ -87,8 +91,8 @@
         "powmod": false,
         "intmod": false,
         "patk": false,
-        "matk": false,
-        "recovery": false,
+        "matk": true,
+        "recovery": true,
         "cr": false
       },
       "bonusmultiplier": {
@@ -103,8 +107,8 @@
         "powmod": null,
         "intmod": null,
         "patk": null,
-        "matk": null,
-        "recovery": null,
+        "matk": 1,
+        "recovery": 1,
         "cr": null
       }
     },
@@ -116,12 +120,16 @@
       "max": 2
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929621756,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!Z6GuoSN1e9irUBiC"
 }

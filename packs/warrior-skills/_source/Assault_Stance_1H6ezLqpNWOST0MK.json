@@ -3,8 +3,12 @@
   "name": "Assault Stance",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>While in this stance, you gain a +[SRx4] bonus to damage rolls. You take a -2 penalty to [Dodge Checks].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>While in this stance, you gain a +[SRx4] bonus to damage rolls. You take a -2 penalty to [Defense Checks].<br><br>A special skill that takes an offensive stance that emphasizes the power of a single blow rather than dodging.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919560565,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!1H6ezLqpNWOST0MK"
 }

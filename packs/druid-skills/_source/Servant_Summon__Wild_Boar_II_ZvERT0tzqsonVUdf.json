@@ -3,8 +3,12 @@
   "name": "Servant Summon: Wild Boar II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Acquired with CR 11 or higher. You gain the [Nature] tag. You gain a +1 bonus to [Speed].</p>\n<p>&nbsp;</p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes [SRx7] direct damage.</p>\n<p>(CR21): Increase the damage to [SRx10].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Available at CR 11 or higher. You gain the [Nature] tag. You gain a +1 bonus to [Speed].<br><br>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes [SR x 7] direct damage.<br><br>(CR21): Increase the damage to [SR x 10].<br><br>A special skill that makes a high-level pact with Wild Boar, an ancestral spirit that embodies the wildness of nature, and commands it. The giant boar runs around the battlefield with its momentum and crushes enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -119,12 +123,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704930168734,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!ZvERT0tzqsonVUdf"
 }

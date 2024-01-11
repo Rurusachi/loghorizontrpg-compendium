@@ -3,8 +3,34 @@
   "name": "Nightingale",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>When the target rolls on [Exhaustion Table: Energy or Money], they may roll twice and take either result.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +8 [Max HP].</p>",
+  "effects": [
+    {
+      "_id": "FtmqVTeaAB47Gkmh",
+      "changes": [
+        {
+          "key": "system.hp.base",
+          "mode": 2,
+          "value": "8"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Bonus HP",
+      "origin": "Compendium.loghorizontrpg-compendium.cleric-skills.GFoLcZvbvnRAw6X3",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!GFoLcZvbvnRAw6X3.FtmqVTeaAB47Gkmh"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>When the target rolls on [Exhaustion Table: Energy or Money], they may roll twice and take either result.<br><br>(Bonus): You gain +8 [Max HP].<br><br>You never forget your attention to detail even on the battlefield. That appearance will soften the feelings of your comrades.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,34 +142,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "FtmqVTeaAB47Gkmh",
-      "changes": [
-        {
-          "key": "system.hp.base",
-          "mode": 2,
-          "value": "8"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Bonus HP",
-      "origin": "Compendium.loghorizontrpg-compendium.cleric-skills.GFoLcZvbvnRAw6X3",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!GFoLcZvbvnRAw6X3.FtmqVTeaAB47Gkmh"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926808583,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!GFoLcZvbvnRAw6X3"
 }

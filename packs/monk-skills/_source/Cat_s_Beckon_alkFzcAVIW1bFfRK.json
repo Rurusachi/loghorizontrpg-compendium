@@ -2,8 +2,13 @@
   "name": "Cat's Beckon",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You cause a target other than you to [Safe Move (Forced)] up to [SR] Sq. They must move towards you. The Hate cost is equal the the amount of Squares moved.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "alkFzcAVIW1bFfRK",
+  "system": {
+    "description": "<p>You cause a target other than you to [Safe Move (Forced)] up to [SR] Sq. They must move towards you. The Hate cost is equal the the amount of Squares moved.<br><br>A special skill that draws the opponent to its own bosom with arm movements that imitate the spirit cat that governs confusion and ridicule.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "alkFzcAVIW1bFfRK",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922352783,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!alkFzcAVIW1bFfRK"
 }

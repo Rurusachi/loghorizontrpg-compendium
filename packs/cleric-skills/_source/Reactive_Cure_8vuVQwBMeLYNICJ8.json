@@ -3,8 +3,12 @@
   "name": "Reactive Cure",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill at the same time as \"Reactive Heal\" or \"Reactive Area Heal\". Remove any Bad Status the target of \"Reactive Heal\" or \"Reactive Area Heal\" just received from an attack.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill at the same time as \"Reactive Heal\" or \"Reactive Area Heal\". Remove any Bad Status the target of \"Reactive Heal\" or \"Reactive Area Heal\" just received from an attack.<br><br>Magic that emits a purifying light that heals allies' ailments at the same time as reaction-activated recovery.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926429679,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!8vuVQwBMeLYNICJ8"
 }

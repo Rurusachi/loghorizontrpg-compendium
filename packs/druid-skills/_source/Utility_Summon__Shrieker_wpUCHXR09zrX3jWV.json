@@ -3,8 +3,12 @@
   "name": "Utility Summon: Shrieker",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Target a square. If there are any [Hidden] characters in the targeted square, immediately remove their [Hidden] status. During each Cleanup Process, if there are any [Hidden] characters in the target square, you may apply the removal effect again. This effect lasts until the end of the scene.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Target a square. If there are any [Hidden] characters in the targeted square, immediately remove their [Hidden] status. During each Cleanup Process, if there are any [Hidden] characters in the target square, you may apply the removal effect again. This effect lasts until the end of the scene.<br><br>A special skill that summons a Shrieker, an ancestral spirit that embodies the hustle and bustle of the forest. Mushrooms that scream like the roar of the wind warn of hidden existences.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704930015284,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!wpUCHXR09zrX3jWV"
 }

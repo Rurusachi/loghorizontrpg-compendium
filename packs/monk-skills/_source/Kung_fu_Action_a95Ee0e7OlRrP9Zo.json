@@ -3,8 +3,34 @@
   "name": "Kung-fu Action",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +[(SR)D] bonus to [Athletics Checks].</p>",
+  "effects": [
+    {
+      "_id": "gIJlyidBwJxM0px3",
+      "changes": [
+        {
+          "key": "system.attributes.athletics.dice",
+          "mode": 2,
+          "value": "@item.sr.value"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Kung-fu Action",
+      "origin": "Compendium.loghorizontrpg-compendium.monk-skills.a95Ee0e7OlRrP9Zo",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!a95Ee0e7OlRrP9Zo.gIJlyidBwJxM0px3"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a +[(SR)D] bonus to [Athletics Checks].<br><br>You can move around like an action movie hero. Scenes that require agility, such as cliffs with bad footing and swaying suspension bridges, are in your own hands.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,34 +142,16 @@
       "max": 3
     }
   },
-  "effects": [
-    {
-      "_id": "gIJlyidBwJxM0px3",
-      "changes": [
-        {
-          "key": "system.attributes.athletics.dice",
-          "mode": 2,
-          "value": "@item.sr.value"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Kung-fu Action",
-      "origin": "Compendium.loghorizontrpg-compendium.monk-skills.a95Ee0e7OlRrP9Zo",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!a95Ee0e7OlRrP9Zo.gIJlyidBwJxM0px3"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922313201,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!a95Ee0e7OlRrP9Zo"
 }

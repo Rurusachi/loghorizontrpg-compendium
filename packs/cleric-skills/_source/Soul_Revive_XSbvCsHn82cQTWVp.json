@@ -3,8 +3,12 @@
   "name": "Soul Revive",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You must have \"Resurrection\" in order to acquire this skill. You immediately use \"Resurrection\".</p>\n<p>&nbsp;</p>\n<p>(SR2): When you use this skill, \"Resurrection\" is used with [Range: 4 Sq.]</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You must have \"Resurrection\" in order to acquire this skill. You immediately use \"Resurrection\".<br><br>(SR2): When you use this skill, \"Resurrection\" is used with [Range: 4 Sq.]<br><br><br>A magic that simplifies the resurrection magic chant ritual and resurrects allies at any time. You can assess the battle situation, take advantage of the enemy's gaps, and summon the souls of your allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 2
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925978560,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!XSbvCsHn82cQTWVp"
 }

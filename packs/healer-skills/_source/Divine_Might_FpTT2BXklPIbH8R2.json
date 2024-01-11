@@ -3,8 +3,12 @@
   "name": "Divine Might",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>During this Main Process, you gain a +2D bonus to [Weapon Attack] damage rolls.</p>\n<p>&nbsp;</p>\n<p>(CR11): The bonus changes to +4D.</p>\n<p>(CR21): The bonus changes to +6D.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>During this Main Process, you gain a +2D bonus to [Weapon Attack] damage rolls.<br><br>(CR11): The bonus changes to +4D.<br>(CR21): The bonus changes to +6D.<br><br>A special skill that gives prayers to sacred beings and gains the power of divine protection that drives away enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704924452640,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!FpTT2BXklPIbH8R2"
 }

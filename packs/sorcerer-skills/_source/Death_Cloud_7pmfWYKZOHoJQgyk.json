@@ -3,8 +3,12 @@
   "name": "Death Cloud",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill only produces an effect against [Mob] enemies that do not have the [Undead] or [Inorganic] tags. The target becomes [Incapacitated] or [Dead] (your choice).</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill only produces an effect against [Mob] enemies that do not have the [Undead] or [Artificial] tags. The target becomes [Incapacitated] or [Dead] (your choice).<br><br>Attack magic that generates a poisonous fog of magical power that stops the circulation of life force and magical power. Instantly neutralizes weak enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704991782623,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!7pmfWYKZOHoJQgyk"
 }

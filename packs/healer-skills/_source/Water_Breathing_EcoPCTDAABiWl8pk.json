@@ -3,8 +3,12 @@
   "name": "Water Breathing",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target gains the [Aquatic] tag, and [Cancel (Aquatic): 10]. Treat this effect as a Combat Status.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target gains the [Aquatic] tag, and [Cancel (Aquatic): 10]. Treat this effect as a Combat Status.<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>A magic that allows you to freely move around in the water just like you can on land, by granting the protection of water to your friends and yourself.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925030815,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!EcoPCTDAABiWl8pk"
 }

@@ -3,8 +3,12 @@
   "name": "Cure",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target removes all Bad Statuses currently affecting them.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): This skill can be used with [Timing: Instant].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target removes all Bad Statuses currently affecting them.<br><br>(Fate 1): This skill can be used with [Timing: Instant].<br><br>A magic that envelops you in pure magic and heals your allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704924353245,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!eG1h0z9B163fkCXo"
 }

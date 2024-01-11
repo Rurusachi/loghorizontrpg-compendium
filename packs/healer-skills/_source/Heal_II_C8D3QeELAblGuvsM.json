@@ -3,8 +3,12 @@
   "name": "Heal II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Replace \"Heal\" with this skill at CR11 or higher. The target recovers [3D + (Magic Power) + (Recovery)] HP.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): Increase the amount of HP recovered by +[POW base].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Replace \"Heal\" with this skill at CR11 or higher. The target recovers [3D + (Magic Power) + (Recovery)] HP.<br><br>(Fate 1): Increase the amount of HP recovered by +[Base POW].<br><br>A spell that rains down light particles and heals the wounds of allies. Although it is the most basic healing magic, your healing power is greatly increased by proficiency.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -32,14 +36,14 @@
       "addsr": false
     },
     "hatecost": {
-      "value": "0",
+      "value": "1",
       "addsr": false
     },
     "fatecost": {
       "value": 0
     },
     "formula": {
-      "value": "",
+      "value": "3d6",
       "bonus": {
         "srd": false,
         "sr": false,
@@ -52,8 +56,8 @@
         "powmod": false,
         "intmod": false,
         "patk": false,
-        "matk": false,
-        "recovery": false,
+        "matk": true,
+        "recovery": true,
         "cr": false
       },
       "bonusmultiplier": {
@@ -68,19 +72,19 @@
         "powmod": null,
         "intmod": null,
         "patk": null,
-        "matk": null,
-        "recovery": null,
+        "matk": 1,
+        "recovery": 1,
         "cr": null
       }
     },
     "secondformula": {
-      "value": "",
+      "value": "0",
       "bonus": {
         "srd": false,
         "sr": false,
         "strbase": false,
         "dexbase": false,
-        "powbase": false,
+        "powbase": true,
         "intbase": false,
         "strmod": false,
         "dexmod": false,
@@ -96,7 +100,7 @@
         "sr": null,
         "strbase": null,
         "dexbase": null,
-        "powbase": null,
+        "powbase": 1,
         "intbase": null,
         "strmod": null,
         "dexmod": null,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925343586,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!C8D3QeELAblGuvsM"
 }

@@ -2,8 +2,13 @@
   "name": "Flanker Fang",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill just before the target makes a [Dodge Check]. Reduce the result of that check by -2. This skill may only be used when you have a [Servant Summon] skill in effect.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "vP4GXUSKZekwclX6",
+  "system": {
+    "description": "<p>Use this skill just before the target makes a [Defense Check]. Reduce the result of that check by -2. This skill may only be used when you have a [Servant Summon] skill in effect.<br><br>A special skill that gives instructions to the current servant to perform a synchronized pincer attack. The cooperation will surely capture the prey.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "vP4GXUSKZekwclX6",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929919490,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!vP4GXUSKZekwclX6"
 }

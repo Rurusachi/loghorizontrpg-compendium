@@ -3,8 +3,12 @@
   "name": "Nature's Wrath",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Self: Summon Servant): Increase the damage by +[Active Summon Servant's SR x 6].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target.<br><br>(Self: Servant Summon): Increase the damage by +[Active Servant Summon's SR x 6].<br><br>Attack magic that manipulates the surrounding nature and hits an enemy with trees and rocks. Its power doubles when you use the ancestral spirits that embody nature.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704929726207,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!Pa2rBVtZ7hBvhCDp"
 }

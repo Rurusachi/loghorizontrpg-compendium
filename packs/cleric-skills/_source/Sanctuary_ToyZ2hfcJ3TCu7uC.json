@@ -3,8 +3,12 @@
   "name": "Sanctuary",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target gains a +[SRx2] bonus to [Physical Defense] and [Magical Defense]. This effect lasts until the beginning of your next Main Process, or until the target leaves the square you are in.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target gains a +[SR x 2] bonus to [Physical Defense] and [Magical Defense]. This effect lasts until the beginning of your next Main Process, or until the target leaves the square you are in.<br><br>Magic that creates a sanctuary that wards off disasters and protects nearby allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926319596,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!ToyZ2hfcJ3TCu7uC"
 }

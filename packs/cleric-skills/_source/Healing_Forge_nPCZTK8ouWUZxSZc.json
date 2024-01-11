@@ -3,8 +3,12 @@
   "name": "Healing Forge",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target. Secondary targets within a range of [Target: Area (P) / Range: Close] centered on yourself regain [(Recovery) + (SRx3)] HP.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target. Secondary targets within a range of [Target: Area (P) / Range: Close] centered on yourself regain [(Recovery) + (SR x 3)] [HP].<br><br>The act of wielding a weapon is likened to the movement of forging, which is a symbol of creation, creating a healing power, and healing the wounds of surrounding allies along with the attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926007396,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!nPCZTK8ouWUZxSZc"
 }

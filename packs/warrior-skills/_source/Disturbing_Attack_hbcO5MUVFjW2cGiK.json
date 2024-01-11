@@ -3,8 +3,12 @@
   "name": "Disturbing Attack",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill when [Accuracy Check] of an attack of [Target: Single] targets an ally other then you. Deal your [Attack Power] as direct damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Hate Top): Do not consume the number of uses of this skill.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill when [Accuracy Check] for an attack of [Target: Single] that targets an ally other then you. Deal your [Attack Power] as direct damage to the target. <br><br>(Hate Top): Do not consume the number of uses of this skill.<br><br>A special skill that immediately strikes an enemy who is trying to attack an ally. With your pride, you cannot overlook an enemy who ignores you.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919943910,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!hbcO5MUVFjW2cGiK"
 }

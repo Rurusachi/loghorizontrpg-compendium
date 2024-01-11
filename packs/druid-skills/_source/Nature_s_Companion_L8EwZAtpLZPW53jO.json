@@ -3,8 +3,12 @@
   "name": "Nature's Companion",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You immediately use the [Special Summon] feat once. However, you can not use the [Special Summon] feat that is currently active.</p>\n<p>&nbsp;</p>\n<p>(Fate 1) You can also use [Special Summon] featuring the effect.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You immediately use a [Servant Summon] feat once. However, you can not use a [Servant Summon] feat that is currently active.<br><br>(Fate 1): You can use [Servant Summon] that is active.<br><br>You are familiar with the various aspects of nature and skillfully use the ancestral spirits that embody them.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704930425670,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!L8EwZAtpLZPW53jO"
 }

@@ -3,8 +3,16 @@
   "name": "Iron Bounce II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Acquired with CR 11 or higher. Use this skill when you would receive HP Damage. Reduce the expected HP Damage by -[SRx5].</p>\n<p>&nbsp;</p>\n<p>(CR21): Change [SRx5] to [SRx7]</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.yduoOn8QzTK0f85K"
+    }
+  },
+  "system": {
+    "description": "<p>Available at CR 11 or higher. Used when you take HP Damage. Reduce the expected HP Damage by -[SR x 5].<br><br>(CR21): Change [SR x 5] to [SR x 7]<br><br>A special skill that reduces damage by blocking enemy attacks with a strong part of the equipment. The proof of a superior &lt;Guardian&gt; is the ability to dare to step into the line of death to minimize injuries.</p>",
     "limit": {
       "min": 0,
       "value": 1,
@@ -32,7 +40,7 @@
       "addsr": false
     },
     "hatecost": {
-      "value": 1,
+      "value": "1",
       "addsr": false
     },
     "fatecost": {
@@ -116,17 +124,17 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0,
     "kCCLU79fwope7zbH": 3
   },
-  "flags": {
-    "core": {
-      "sourceId": "Item.yduoOn8QzTK0f85K"
-    }
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921323284,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!zNc7wMxSykCtiauG"
 }

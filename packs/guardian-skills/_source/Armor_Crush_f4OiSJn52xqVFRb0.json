@@ -3,8 +3,12 @@
   "name": "Armor Crush",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target. The target takes a -5 penalty to [Physical Defense]. Treat this effect as a Bad Status.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): The penalty changes to -10.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target. The target takes a -5 penalty to [Physical Defense]. Treat this effect as a Bad Status.<br><br>(Fate 1): The penalty changes to -10.<br><br>A skill that destroys the enemy's armor and skin with a powerful blow, dealing damage and lowering defensive power. It is a technique that makes use of the weight of axes and hammers.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920774729,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!f4OiSJn52xqVFRb0"
 }

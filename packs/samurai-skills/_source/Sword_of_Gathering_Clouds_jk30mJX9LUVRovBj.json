@@ -2,8 +2,13 @@
   "name": "Sword of Gathering Clouds",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill just after the target makes a damage roll. Reduce the result of the target's damage roll by -[Your (Attack Power)].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "jk30mJX9LUVRovBj",
+  "system": {
+    "description": "<p>Use this skill just after the target makes a damage roll. Reduce the result of the target's damage roll by -[Your (Attack Power)].<br><br>A special skill that cuts off the enemy's attack with your own weapon and offsets it. Your katana banishes misfortune to your allies, like a divine sword that quelled a raging wildfire.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -115,13 +121,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "jk30mJX9LUVRovBj",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704916077309,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!jk30mJX9LUVRovBj"
 }

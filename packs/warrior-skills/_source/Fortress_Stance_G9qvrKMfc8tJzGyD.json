@@ -2,8 +2,13 @@
   "name": "Fortress Stance",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>While in this stance, [Pursuit] and [Weakness] effects on you never trigger, and you cannot be subjected to forced movement. You take a -2 penalty to [Hit Checks].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "G9qvrKMfc8tJzGyD",
+  "system": {
+    "description": "<p>While in this stance, [Pursuit] and [Weakness] effects on you never trigger, and you cannot be subjected to forced movement. You take a -2 penalty to [Hit Checks].<br><br>A special skill that takes a defensive stance that emphasizes stable defense rather than offense.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -116,13 +122,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "G9qvrKMfc8tJzGyD",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919572664,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!G9qvrKMfc8tJzGyD"
 }

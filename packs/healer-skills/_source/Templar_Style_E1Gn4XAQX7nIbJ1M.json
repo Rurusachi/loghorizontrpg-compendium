@@ -3,8 +3,12 @@
   "name": "Templar Style",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill only produces an effect when you are equipped with a [Two-Handed] weapon. You gain a +1 bonus to [Evasion] and [Resistance].</p>\n<p>&nbsp;</p>\n<p>(SR2): You gain a +[STR Mod] bonus to [Physical Defense].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill only produces an effect when you are equipped with a [Two-Handed] weapon. You gain a +1 bonus to [Evasion] and [Resistance].<br><br>(SR2): You gain a +[STR Mod] bonus to [Physical Defense].<br><br>A fighting style in which you defend yourself with a long weapon in your hand.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 2
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704924485515,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!E1Gn4XAQX7nIbJ1M"
 }

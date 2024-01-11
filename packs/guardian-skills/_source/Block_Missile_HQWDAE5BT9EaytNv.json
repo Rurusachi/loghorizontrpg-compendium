@@ -3,8 +3,12 @@
   "name": "Block Missile",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill when you make an [Evasion Check] against an attack from outside of close range. Add +2 to the result of the check. No effect can reduce the result of this check or the number of dice rolled for it.</p>\n<p>&nbsp;</p>\n<p>(Hate Top): You may also use this skill making a [Resistance Check].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill when you make an [Evasion Check] against an attack from outside of [Range: Close]. Add +2 to the result of the check. No effect can reduce the result of this check or the number of dice rolled for it.<br><br>(Hate Top): You may also use this skill making a [Resistance Check].<br><br>A skill that blocks incoming arrows by holding a shield in front of the body. If it attacks from the front, it is possible to repel even magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921001055,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!HQWDAE5BT9EaytNv"
 }

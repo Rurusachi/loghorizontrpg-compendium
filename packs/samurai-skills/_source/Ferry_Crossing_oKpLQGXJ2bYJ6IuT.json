@@ -3,8 +3,12 @@
   "name": "Ferry Crossing",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. During this Main Process, [Dodge Checks] made in opposition to your attacks take a -1D penalty.</p>\n<p>&nbsp;</p>\n<p>(Minor): Increase the distance moved by +1 Sq.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. During this Main Process, [Defense Checks] made in opposition to your attacks take a -1D penalty.<br><br>(Minor): Increase the distance moved by +1 Sq.<br><br>A special ability to move with a stable gait that does not shake even on a ship that is rocking by the waves. It is difficult to dodge a blow that is delivered from a sure foot.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704915701813,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!oKpLQGXJ2bYJ6IuT"
 }

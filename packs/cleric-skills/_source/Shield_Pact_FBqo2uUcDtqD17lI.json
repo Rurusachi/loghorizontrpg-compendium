@@ -2,8 +2,13 @@
   "name": "Shield Pact",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target gains [Cancel]. The rating of this [Cancel] is equal to [One [Shield] you are equipped with's (Physical Defense)]. This [Cancel] effect lasts until the end of the round.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "FBqo2uUcDtqD17lI",
+  "system": {
+    "description": "<p>The target gains [Cancel]. The rating of this [Cancel] is equal to [One [Shield] you are equipped with's (Physical Defense)]. This [Cancel] effect lasts until the end of the round.<br><br>A special skill that emits light from a consecrated shield and grants protection to allies for a short period of time.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -115,13 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "FBqo2uUcDtqD17lI",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704925963477,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!FBqo2uUcDtqD17lI"
 }

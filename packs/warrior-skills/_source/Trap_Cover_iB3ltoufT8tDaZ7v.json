@@ -2,8 +2,13 @@
   "name": "Trap Cover",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill when a target other than yourself receives damage from a Prop or [Gimmick]. During the [Damage Apply Step], you receive the expected HP damage that the target would have received. The target receives no damage. You can only use this skill once in response to any given attack.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "iB3ltoufT8tDaZ7v",
+  "system": {
+    "description": "<p>Use this skill when a target other than yourself receives damage from a Prop or [Gimmick]. During the [Damage Apply Step], you receive the expected HP damage that the target would have received. The target receives no damage. You can only use this skill once in response to any given attack.<br><br>A special skill that protects allies from damage caused by traps and the like, and accepts the damage instead.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "iB3ltoufT8tDaZ7v",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919794475,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!iB3ltoufT8tDaZ7v"
 }

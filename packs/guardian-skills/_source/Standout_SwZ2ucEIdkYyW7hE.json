@@ -3,8 +3,12 @@
   "name": "Standout",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill may only target an ally with [Hate Top]. Increase your [Hate] to [Target's (Hate) + 1].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill may only target an ally with [Hate Top]. Increase your [Hate] to [Target's (Hate) + 1].<br><br>A special skill that attracts the attention of the battlefield by standing on the spot and provoking loudly. Enraged enemies will forget to attack your allies and rush towards you.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920718094,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!SwZ2ucEIdkYyW7hE"
 }

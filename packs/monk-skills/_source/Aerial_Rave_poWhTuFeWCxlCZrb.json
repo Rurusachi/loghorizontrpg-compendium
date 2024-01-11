@@ -2,8 +2,13 @@
   "name": "Aerial Rave",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You may make a [Safe Move] of 1 Sq. If your attacks this round trigger [Pursuit], trigger all [Pursuit] stacks instead of just one.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "poWhTuFeWCxlCZrb",
+  "system": {
+    "description": "<p>You may make a [Safe Move] of 1 Sq. If your attacks this Main Process trigger [Pursuit], trigger all [Pursuit] stacks instead of just one.<br><br>A special skill that launches the enemy into the air with a jumping attack that looks like they are scooping up from a low position, leaving them defenseless.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -115,13 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "poWhTuFeWCxlCZrb",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922001689,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!poWhTuFeWCxlCZrb"
 }

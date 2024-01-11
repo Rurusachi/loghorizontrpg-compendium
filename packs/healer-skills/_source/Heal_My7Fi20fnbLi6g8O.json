@@ -3,8 +3,12 @@
   "name": "Heal",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>The target recovers [3D + (Magic Power) + (Recovery)] HP.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): Increase the amount of HP recovered by +10.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target recovers [3D + (Magic Power) + (Recovery)] HP.<br><br>(Fate 1): Increase the amount of HP recovered by +10.<br><br>A spell that rains down light particles and heals the wounds of allies. It is the most basic recovery magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704924289775,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!My7Fi20fnbLi6g8O"
 }

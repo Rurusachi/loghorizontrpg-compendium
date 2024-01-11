@@ -3,8 +3,12 @@
   "name": "School: Kazamori Thunder",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill only produces an effect when you are equipped with two [One-Handed] melee weapons. You gain the [Dual-Wield] condition, and every round at the beginning of the Setup Process, you gain [Barrier]. The rating of this [Barrier] is equal to [Weapon you don't use to attack's (Attack Power)].</p>\n<p>&nbsp;</p>\n<p>(SR2): Increase the [Barrier] rating by your [Evasion].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill only produces an effect when you are equipped with two [One-Handed] weapons capable of [Melee Attack]. You gain the [Dual-Wield] condition, and every round at the beginning of the Setup Process, you gain [Barrier]. The rating of this [Barrier] is equal to [Weapon you don't use to attack's (Attack Power)]. <br><br>(SR2): Increase the [Barrier] rating by your [Recovery].<br><br>A battle style that combines both offense and defense, holding weapons in the left and right hands, solidifying defense with the reverse hand, and attacking with the dominant hand.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 2
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704916218197,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!goM0IbXxmJXfBsoz"
 }

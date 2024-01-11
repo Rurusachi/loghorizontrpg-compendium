@@ -3,8 +3,12 @@
   "name": "Nature's Wrath II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Acquired with CR 11 or higher. Deal [2D + (Magic Power)] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Self: Summon Servant): Increase the damage by +[Active Summon Servant's SR x [POW mod]].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Available at CR 11 or higher. Deal [2D + (Magic Power)] magical damage to the target.<br><br>(Self: Servant Summon): Increase the damage by +[Active Servant Summon's SR x [POW Mod]].<br><br>Attack magic that manipulates surrounding natural objects and strikes enemies one after another. By synchronizing with an ancestral spirit, its power is dramatically increased.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704930402790,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!xDMAO38TbVuCvbyy"
 }

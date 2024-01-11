@@ -3,8 +3,12 @@
   "name": "Turning Swallow",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target, and the target takes [Dazed].</p>\n<p>&nbsp;</p>\n<p>(Target: Flying): Increase the damage by +10.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target, and the target takes [Dazed].<br><br>(Target: Flying): Increase the damage by +10.<br><br>A special skill that changes the trajectory of the attack with a movement like a swiftly flipping swallow, taking the enemy by surprise. In particular, enemies flying in the air will be at the mercy of their behavior and will suffer great damage.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921866904,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!v4Edk6TNPFH5CEtZ"
 }

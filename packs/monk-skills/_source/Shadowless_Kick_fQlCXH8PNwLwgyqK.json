@@ -3,8 +3,12 @@
   "name": "Shadowless Kick",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill just after you have successfully made a [Dodge Check] against an attack from the target.</p>\n<p>&nbsp;</p>\n<p>(Target: Mob): After the current Main Process ends, the target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p>(Hate Top): Deal 5 direct damage to the target.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill just after you have successfully made a [Defense Check] against an attack from the target. <br><br>(Target: Mob): After the current Main Process ends, the target becomes [Incapacitated] or [Dead] (your choice).<br>(Hate Top): Deal 5 direct damage to the target.<br><br>A special skill that counterattacks while dodging attacks. A high-speed kick that doesn't even leave a trace, instantly incapacitates a seemingly insignificant enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704921790298,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!fQlCXH8PNwLwgyqK"
 }

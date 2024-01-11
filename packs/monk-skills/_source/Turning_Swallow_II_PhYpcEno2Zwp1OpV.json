@@ -3,8 +3,12 @@
   "name": "Turning Swallow II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Acquired with CR 11 or Higher. Deal [3D + (Attack Power)] physical damage to the target, and the target takes [Dazed].</p>\n<p>&nbsp;</p>\n<p>(Target: Flying): Increase the damage by +[Base STR].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Available at CR 11 or Higher. Deal [3D + (Attack Power)] physical damage to the target, and the target takes [Dazed].<br><br>(Target: Flying): Increase the damage by +[Base STR].<br><br>A special skill that changes the trajectory of the attack with a movement like a swiftly flipping swallow, taking the enemy by surprise. Your body perfectly reproduces the movement of Hien, which was difficult even for an ancient swordsman to capture.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922441824,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!PhYpcEno2Zwp1OpV"
 }

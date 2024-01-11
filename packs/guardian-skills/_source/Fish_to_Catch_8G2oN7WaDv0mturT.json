@@ -3,8 +3,12 @@
   "name": "Fish to Catch",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill when you receive damage from the target. You may make the target make a [Safe Move (Forced)] of 1 Sq. This movement must bring the target closer to you.</p>\n<p>&nbsp;</p>\n<p>(Hate Top): Increase the distance the target moves by +1 Sq.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill when you receive damage from the target. You may make the target make a [Safe Move (forced)] of 1 Sq. This movement must bring the target closer to you.<br><br>(Hate Top): Increase the distance the target moves by +1 Sq.<br><br>A special skill that pulls the enemy closer to you while restraining them with your weapon when attacked. In the case of a bow, the enemy is guided by a warning shot.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920965569,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!8G2oN7WaDv0mturT"
 }

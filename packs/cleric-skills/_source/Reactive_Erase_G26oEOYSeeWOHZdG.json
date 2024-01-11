@@ -3,8 +3,12 @@
   "name": "Reactive Erase",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill at the same time as \"Reactive Heal\" or \"Reactive Area Heal\". Remove one Combat Status from the Enemy that triggered \"Reactive Heal\" or \"Reactive Area Heal\".</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You can use this skill at the same time as \"Reactive Heal\" and \"Reactive Area Heal\". Remove 1 Combat Status from the Enemy that triggered \"Reactive Heal\" or \"Reactive Area Heal\".<br><br>A special skill that aggressively applies reaction-activated recovery magic and \"restores\" the situation that is advantageous to the attacking side to its original state.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704927992534,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!G26oEOYSeeWOHZdG"
 }

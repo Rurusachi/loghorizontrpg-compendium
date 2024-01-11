@@ -2,8 +2,13 @@
   "name": "Mind's Eye",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You are not affected by [Darkness] or other similar unwanted effects. In addition, you may treat characters with [Hidden] as if they did not have that condition, and may recognize and target them with actions.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "JhZR3lcHaqn2uToX",
+  "system": {
+    "description": "<p>You are not affected by [Darkness] or other similar effects. You can also perceive and target characters in the [Hidden] state as if they were not.<br><br>You can detect your enemies with your mind's eye, not your sight.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "JhZR3lcHaqn2uToX",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704916440303,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!JhZR3lcHaqn2uToX"
 }

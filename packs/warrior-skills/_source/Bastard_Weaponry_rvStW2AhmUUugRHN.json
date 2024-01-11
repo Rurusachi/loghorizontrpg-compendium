@@ -2,8 +2,13 @@
   "name": "Bastard Weaponry",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Choose a skill with the tag [Blade] [Spear] [Hafted] [Martial Arts] tag from the skills you have acquired.\nRemove the [Blade] [Spear] [Hafted] [Martial Arts] tag from the selected skill. This effect lasts until the end of the scenario.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "rvStW2AhmUUugRHN",
+  "system": {
+    "description": "<p>Choose a skill with the tag [Blade] [Katana] [Spear] [Hafted] [Martial Arts] tag from the skills you have acquired.<br>Remove the [Blade] [Katana] [Spear] [Hafted] [Martial Arts] tag from the selected skill. This effect lasts until the end of the scenario.<br><br>Through inspiration and practice, you can develop unique talents and use weapon-type-limited feats with other weapons.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "rvStW2AhmUUugRHN",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919994693,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!rvStW2AhmUUugRHN"
 }

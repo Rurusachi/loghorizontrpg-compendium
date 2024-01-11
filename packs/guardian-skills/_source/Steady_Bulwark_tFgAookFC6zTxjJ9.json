@@ -3,8 +3,12 @@
   "name": "Steady Bulwark",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill just after the target makes a damage roll for an attack with [Target: Area,  Wide,  Line] that targets the square you are in. Reduce the result of the target's damage roll by -[One (Shield) you are equipped with's (Physical Defense) x2].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill just after the target makes a damage roll for an attack with [Target: Area, Wide, Line] that targets the square you are in. Reduce the result of the target's damage roll by -[One (Shield) you are equipped with's (Physical Defense) x2].<br><br>A special skill that raises a shield and assumes a defensive posture, reducing the damage of attacks inflicted on you and your allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704920950657,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!tFgAookFC6zTxjJ9"
 }

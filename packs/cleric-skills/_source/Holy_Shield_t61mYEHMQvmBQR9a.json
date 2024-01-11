@@ -3,8 +3,12 @@
   "name": "Holy Shield",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(Reactive Mastery's SR) + 1)D + (One [Shield] you are equipped with's (Magical Defense))] penetrating damage to the target.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [1D +((One [Shield] you have equipped)'s (Magical Defense))] penetrating damage to the target.<br><br>(SR2) Inflict [Pursuit] on the target. Its rating is equal to the ([Magical Defense) of one [Shield] you have equipped).<br><br>A special skill that applies the shield's concept of \"reflecting attacks\" to reverse the effect of reaction-activated recovery and scrape away the target's vitality.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704927309188,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!t61mYEHMQvmBQR9a"
 }

@@ -3,8 +3,12 @@
   "name": "Lightning Straight",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Deal [(SR x 2)D + (Attack Power)] physical damage.</p>\n<p>&nbsp;</p>\n<p>(Success &amp; Target: Barrier): Instead of damaging the target with this attack, you can cancel the target's [Barrier].</p>\n<p>(Sucess &amp; Target Regen): The target's [Regen] does not work for this round.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Deal [(SRx2)D + (Attack Power)] physical damage.<br><br>(Success &amp; Target: Barrier): Instead of damaging the target with this attack, you can cancel the target's [Barrier].<br>(Sucess &amp; Target: Regen): The target's [Regen] does not work for this round.<br><br>A special skill that puts purple electricity in the fist and thrusts it straight. It doesn't just deal damage, it can also break buffs on enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -118,12 +122,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704922461811,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!G4deG9HUN001xiWI"
 }

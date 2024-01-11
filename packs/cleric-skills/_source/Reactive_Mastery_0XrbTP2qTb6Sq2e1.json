@@ -3,8 +3,12 @@
   "name": "Reactive Mastery",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>You gain a +[(SR)D] bonus to the amount of HP recovered when using \"Reactive Heal\" or \"Reactive Area Heal\".</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain a +[(SR)D] bonus to the amount of HP recovered when using \"Reactive Heal\" or \"Reactive Area Heal\".<br><br>You specialize in reaction activation recovery, which is the unique magic of &lt;Cleric&gt;. Your prayers invoke greater healing power.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704926449668,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!0XrbTP2qTb6Sq2e1"
 }

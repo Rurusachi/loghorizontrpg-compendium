@@ -43,7 +43,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +3 bonus to [Accuracy], and a +[POW Mod] bonus to [Physical Defense].</p>",
+    "description": "<p>You gain a +3 bonus to [Accuracy], and a +[POW Mod] bonus to [Physical Defense].<br><br>By the grace of your ancestors, you possess the power to hunt your enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -159,9 +159,9 @@
   "_stats": {
     "systemId": "loghorizontrpg",
     "systemVersion": "0.5.0",
-    "coreVersion": "11.307",
+    "coreVersion": "11.315",
     "createdTime": 1691515036721,
-    "modifiedTime": 1691516666496,
+    "modifiedTime": 1704929408170,
     "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!F0EGYIbF6WbAiY4q"

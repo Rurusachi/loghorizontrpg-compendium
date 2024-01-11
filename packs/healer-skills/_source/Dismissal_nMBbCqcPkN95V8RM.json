@@ -3,8 +3,12 @@
   "name": "Dismissal",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill only produces an effect if it targets enemies with [Mob]. The target becomes [Incapacitated] or [Dead] (your choice).</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill only produces an effect if it targets enemies with [Mob]. The target becomes [Incapacitated] or [Dead] (your choice).<br><br>A magic that borrows authority by praying to the existence that protects oneself, and neutralizes a lower-ranked opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,12 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704924322428,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!nMBbCqcPkN95V8RM"
 }

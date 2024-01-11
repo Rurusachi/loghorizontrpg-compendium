@@ -3,8 +3,12 @@
   "name": "Smash II",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Acquired with CR11 or higher. During this Main Process, you gain a +[SRx4] bonus to [Weapon Attack] damage rolls.</p>\n<p>&nbsp;</p>\n<p>(CR17): Increase the bonus to +[SRx5].</p>\n<p>(CR23): Increase the bonus to +[SRx7].</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Available at CR11 or higher. During this Main Process, you gain a +[SRx4] bonus to [Weapon Attack] damage rolls.<br><br>(CR17): Increase the bonus to +[SRx5].<br>(CR23): Increase the bonus to +[SRx6].<br>(CR29): Increase the bonus to +[SRx7]<br><br>A skill that raises the power of subsequent attacks by swinging the weapon around. Accumulated experience turns a mere preliminary movement into a deadly strategy.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704919906873,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!sXRkZ8vTwyPd2AC4"
 }

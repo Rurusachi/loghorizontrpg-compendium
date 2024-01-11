@@ -3,8 +3,12 @@
   "name": "Returning Echo",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Use this skill just after you are attacked. Deal [SRx4] direct damage to the character who made the attack.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): Increase the damage by +6.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Use this skill just after you are attacked. Deal [SR x 4] direct damage to the character who made the attack.<br><br>(Fate 1): Increase the damage by +6.<br><br>A skill that counterattacks an enemy's attack. The enemy will be wounded by a blow that returns like an echo.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -116,12 +120,16 @@
       "max": 3
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704916129823,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!g5ysFPJBPVsXXGdJ"
 }

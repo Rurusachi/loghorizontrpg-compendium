@@ -2,8 +2,13 @@
   "name": "Cut in Two",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>Your [Weapon Attack] damage rolls gain a +[(CRx2) + 10] bonus.</p>",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "fWXYM1cP4yjYRLcB",
+  "system": {
+    "description": "<p>Your [Weapon Attack] damage rolls gain a +[(CRx2)+10] bonus.<br><br>A special skill that draws out your own power to its limit by clearing away distractions and concentrating on a single blow. Techniques unleashed in this state exhibit power that is incomparably greater than usual, thereby cutting the enemy in two.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -114,13 +120,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "fWXYM1cP4yjYRLcB",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704915712316,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!fWXYM1cP4yjYRLcB"
 }
