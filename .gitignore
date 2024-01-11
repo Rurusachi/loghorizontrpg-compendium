@@ -8,3 +8,5 @@
 *.sh
 !packall.sh
 !.github/pack.sh
+*.xlsx
+secret
