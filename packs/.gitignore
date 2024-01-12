@@ -5,5 +5,6 @@
 # Foundry
 *.lock
 *
+!/**/
 !*.json
 !.gitignore
