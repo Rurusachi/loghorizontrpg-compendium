@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you have nothing equipped to your [Hand Slots]. You gain a +4 bonus to [Initiative].\n\n(SR2): You gain a +2 bonus to [Accuracy].\n(SR3): You gain a +4 bonus to [Magic Power].</p>",
+    "description": "<p>This skill only produces an effect when you have nothing equipped to your [Hand Slots]. You gain a + 4 bonus to [Initiative].</p>\n<p></p>\n<p>(SR2): You gain a + 2 bonus to [Accuracy].</p>\n<p>(SR3): You gain a + 4 bonus to [Magic Power].</p>\n<p></p>\n<p>A fighting style in which both hands are used to make a mark to stabilize the magic power. The magic is used quickly and accurately.</p>",
     "limit": {
       "min": 0,
       "value": 0,

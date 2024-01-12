@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may use this skill if your subclass is Negotiator, Courtesan, or Demon Lord. When you do an Opposed [Negotiation check], you use this skill on the person opposing. Choose one status [Dazed] or [Overconfident] and give it to the target.</p>\n<p>&nbsp;</p>\n<p>(Connection: Target): The limit of this skill is never used on this target and can even be used after it has been.</p>",
+    "description": "<p>You may use this skill if your subclass is Negotiator, Courtesan, or Demon King.</p>\n<p></p>\n<p>This skill targets the opposition of a [Negotiation Check]. Choose one Bad Status: [Dazed] or [Overconfident] and give it to the target. </p>\n<p></p>\n<p>(Connection: Target): The limit of this skill is not used and can be used if the number of uses has already been used up.</p>\n<p></p>\n<p>One has a special ability to guide the other person's psychology through skillful conversation and draw out the answer you want.</p>",
     "limit": {
       "min": 0,
       "value": 0,

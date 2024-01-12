@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill when you render an enemy [Incapacitated] or [Dead]. This skill may only target allies other than yourself. The target may reduce their [Hate] by -1.<br><br>A taunting skill that lets all enemies know of their threat, such as loudly announcing that they have defeated an enemy, or striking a flashy final blow.</p>",
+    "description": "<p>Use this skill when you render an enemy [Incapacitated] or [Dead]. This skill may only target allies other than yourself. The target may reduce their [Hate] by -1.</p>\n<p></p>\n<p>A taunting skill that lets all enemies know of their threat, such as loudly announcing that they have defeated an enemy, or striking a flashy final blow.</p>",
     "limit": {
       "min": 0,
       "value": 0,

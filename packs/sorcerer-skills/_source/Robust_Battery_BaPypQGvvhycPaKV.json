@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you gain a +[SRx5] bonus to [Magic Attack] damage rolls.</p>",
+    "description": "<p>During this Main Process, you gain a + [SR x 5] bonus to [Magic Attack] damage rolls.</p>\n<p></p>\n<p>A skill that allows you to stop your feet, concentrate, and accumulate magical power. Converged magical power greatly increases the power of attack magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

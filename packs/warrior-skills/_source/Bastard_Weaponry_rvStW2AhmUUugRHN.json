@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "rvStW2AhmUUugRHN",
   "system": {
-    "description": "<p>Choose a skill with the tag [Blade] [Katana] [Spear] [Hafted] [Martial Arts] tag from the skills you have acquired.<br>Remove the [Blade] [Katana] [Spear] [Hafted] [Martial Arts] tag from the selected skill. This effect lasts until the end of the scenario.<br><br>Through inspiration and practice, you can develop unique talents and use weapon-type-limited feats with other weapons.</p>",
+    "description": "<p>Choose a skill with the tag [Blade] [Katana] [Spear] [Hafted] [Martial Arts] tag from the skills you have acquired.</p>\n<p>Remove the [Blade] [Katana] [Spear] [Hafted] [Martial Arts] tag from the selected skill. This effect lasts until the end of the scenario.</p>\n<p></p>\n<p>Through inspiration and practice, you can develop unique talents and use weapon-type-limited skills with other weapons.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Extra): Secondary targets within a range of [Target: Area (P) / Range: Close] centered on the initial target take [DEX Mod] direct damage. This damage triggers [Weakness] on the secondary target, as if they had failed their [Dodge Check].</p>\n<p>&nbsp;</p>\n<p>A special skill that envelops an arrow in lightning and shoots it. When hit, lightning bursts like a spider's web and attacks the surroundings.</p>",
+    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Extra): Secondary targets within a range of [Target: Area (P) / Range: Close] centered on the initial target take [DEX Mod] direct damage. This damage triggers [Weakness] on the secondary target, as if they had failed their [Dodge Check].</p>\n<p></p>\n<p>A special skill that envelops an arrow in lightning and shoots it. When hit, lightning bursts like a spider's web and attacks the surroundings.</p>",
     "limit": {
       "min": 0,
       "value": 0,

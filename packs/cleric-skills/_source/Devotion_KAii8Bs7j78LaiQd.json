@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "KAii8Bs7j78LaiQd",
   "system": {
-    "description": "<p>During the [Damage Apply Step], you receive the expected HP damage that a target other than yourself would have received. The target receives no damage. You do not receive any Bad Statuses as a result of this substitution. You can only use this skill once in response to any given attack.<br><br>The moment an ally receives a wound, your devotion is a magic that transfers it to yourself instead. A devotional prayer can save a friend from danger.</p>",
+    "description": "<p>During the [Damage Apply Step], you receive the expected HP damage that a target other than yourself would have received. The target receives no damage. You do not receive any Bad Statuses as a result of this substitution. You can only use this skill once in response to any given attack.</p>\n<p></p>\n<p>The moment an ally receives a wound, your devotion is a magic that transfers it to yourself instead. A devotional prayer can save a friend from danger.</p>",
     "limit": {
       "min": 0,
       "value": 0,

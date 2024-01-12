@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Replace \"Reactive Heal\" with this skill at CR11 or higher. You may target a character who has just received HP Damage from an attack with this skill. The target recovers +[Magic Power] HP. This skill may only be used once in response to a single attack.<br><br>(Hate Top): You may reduce the [Hate] cost of this skill to 0.<br><br><br>Magic that responds to an enemy's attack and heals allies' recent injuries. By using higher-level techniques, you can exert a steady healing power.</p>",
+    "description": "<p>Replace \"Reactive Heal\" with this skill at CR11 or higher. You may target a character who has just received HP Damage from an attack with this skill. The target recovers +[Magic Power] HP. This skill may only be used once in response to a single attack.</p>\n<p></p>\n<p>(Hate Top): You may reduce the [Hate] cost of this skill to 0.</p>\n<p></p>\n<p></p>\n<p>Magic that responds to an enemy's attack and heals allies' recent injuries. By using higher-level techniques, you can exert a steady healing power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

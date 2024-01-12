@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "ATguZRXRTdr3PrLN",
   "system": {
-    "description": "<p>Available at CR 11 or higher. The target does not receive statuses with the [Seal] tag. This effect is treated as CS and lasts until the end of the round.<br><br>A magic that draws a symbol representing a sacred sacrament in the air and bestows protection against disaster.</p>",
+    "description": "<p>Available at CR 11 or higher. The target does not receive statuses with the [Seal] tag. This effect is treated as CS and lasts until the end of the round.</p>\n<p></p>\n<p>A magic that draws a symbol representing a sacred sacrament in the air and bestows protection against disaster.</p>",
     "limit": {
       "min": 0,
       "value": 0,

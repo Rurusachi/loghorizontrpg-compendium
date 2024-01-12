@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you are equipped with a [Bow]. You may reduce the [Hate] cost of \"Maestro Echo\" and \"Exceptional Blow\" to 0.</p>\n<p>&nbsp;</p>\n<p>(SR2): Increase the range of [Bows] you are equipped with by +1.</p>\n<p>(SR3): You can use \"Repeat Note\" with [Range: 4 Sq.]</p>",
+    "description": "<p>This skill only produces an effect when you are equipped with a [Bow]. You may reduce the [Hate] cost of \"Maestro Echo\" and \"Exceptional Blow\" to 0.</p>\n<p></p>\n<p>(SR2): Increase the range of [Bows] you are equipped with by +1.</p>\n<p>(SR3): You can use \"Repeat Note\" with [Range: 4 Sq.]</p>\n<p></p>\n<p>A fighting style in which the bow is handled with the elegance of plucking a lyre. The pure sound of strings echoes with each arrow that is fired, inspiring allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

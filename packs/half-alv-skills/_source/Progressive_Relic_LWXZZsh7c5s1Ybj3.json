@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You become able to use items that have the [Toxin] [Charm] [Scroll] and [Gem] tags with an Item Rank equal to your [CR+2] or lower.</p>",
+    "description": "<p>You become able to use items that have the [Toxin] [Charm] [Scroll] and [Gem] tags with an Item Rank equal to your [CR + 2] or lower.</p>\n<p></p>\n<p>You have a high affinity with magical consumables that are said to have originated from the ancient race of the Alv. You can freely use even complex things that other races cannot handle.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target chooses one [Pursuit], [Rigor], or [Afflicted] condition currently affecting them and removes it. This skill may be used multiple times in the same Main Process.</p>",
+    "description": "<p>The target chooses one [Pursuit], [Rigor], or [Afflicted] condition currently affecting them and removes it. This skill may be used multiple times in the same Main Process.</p>\n<p></p>\n<p>A magic that reverses spells that impart status ailments and restores the ailments of allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

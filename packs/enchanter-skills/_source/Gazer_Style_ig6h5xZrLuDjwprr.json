@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you are not equipped with items that have the [Helm] or [Cloak] tag. When you apply a Bad Status to a target, you may also deal [SRx2] direct damage to the target per Bad Status applied.</p>\n<p>&nbsp;</p>\n<p>(CR11): Increase the damage by +5.</p>\n<p>(CR21): Increase the damage by an additional +5.</p>",
+    "description": "<p>This skill only produces an effect when you are not equipped with items that have the [Helm] or [Cloak] tag. When you apply a Bad Status to a target, you may also deal [SR x 2] direct damage to the target per Bad Status applied.</p>\n<p></p>\n<p>(CR 11): Increase the damage by +5.</p>\n<p>(CR 21): Increase the damage by an additional +5.</p>\n<p></p>\n<p>A battle style that strengthens various curses through the medium of gaze. It is also called a magic eye or an evil eye user.</p>",
     "limit": {
       "min": 0,
       "value": 0,

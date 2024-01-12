@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a bonus +1D to [Perception Checks].</p>",
+    "description": "<p>You gain a bonus + 1D to [Perception Checks].</p>\n<p></p>\n<p>You have a good sense of what's around you. If something is wrong, the cat's whiskers will probably react.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Acquired with CR11 or higher. Deal [SR x (STR Mod)] direct damage to the target. This damage triggers [Weakness] on the secondary target, as if they had failed their [Dodge Check]. You may only use this skill when you have the [Fairy] tag.</p>",
+    "description": "<p>Available at CR11 or higher. Deal [SR x (STR Mod)] direct damage to the target. This damage triggers [Weakness] on the secondary target, as if they had failed their [Dodge Check]. You may only use this skill when you have the [Fairy] tag.</p>\n<p></p>\n<p>A special skill that commands the summoned fairies to attack the enemy with magic arrows. The attack of the fairies, which has increased its ability through synchronization, exhibits a power that is distinct from that of an ordinary one.</p>",
     "limit": {
       "min": 0,
       "value": 0,

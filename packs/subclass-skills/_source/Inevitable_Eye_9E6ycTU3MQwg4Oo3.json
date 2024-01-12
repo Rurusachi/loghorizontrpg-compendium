@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may use this skill if your subclass is Tracker, Spy, or Detective. [Boss], [Raid] appearing in the next scene, Set 1 enemy (selected by GM) to the [identified] state and get information. If there is no applicable enemy, the skill failed but does not count towards the limit.</p>\n<p>&nbsp;</p>\n<p>(Fumble): Enemy notices the scout.</p>",
+    "description": "<p>You may use this skill if your subclass is Tracker, Spy, or Detective.</p>\n<p></p>\n<p>Change 1 [Boss] or [Raid] enemy (selected by the GM) that is to appear in the next scene to the [Identified] state and obtain information on the target. If there is no corresponding enemy, the use of the skill will have failed, but will not count towards the use limit. </p>\n<p></p>\n<p>(Fumble): The enemy notices your scouting.</p>\n<p></p>\n<p>A special skill that allows you to sense the presence of a powerful enemy and research that enemy before a confrontation. No enemy can escape your eyes.</p>",
     "limit": {
       "min": 0,
       "value": 0,

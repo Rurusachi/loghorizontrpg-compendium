@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You immediately perform \"Detect Unusual\" as well as one other [Timing: Setup] action (you choose the order to perform them).</p>",
+    "description": "<p>You immediately perform \"Detect Unusual\" as well as one other [Timing: Setup] action (you choose the order to perform them).</p>\n<p></p>\n<p>A special skill that allows you to prepare for battle while paying attention to your surroundings. Even as you prepare yourself on the battlefield, you don't miss any changes or abnormalities in the situation.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Knowledge Checks].</p>",
+    "description": "<p>You gain a + 1D bonus to [Knowledge Checks].</p>\n<p></p>\n<p>You have a wealth of knowledge about Celdesia.</p>",
     "limit": {
       "min": 0,
       "value": 0,

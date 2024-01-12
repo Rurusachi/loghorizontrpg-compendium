@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "jk30mJX9LUVRovBj",
   "system": {
-    "description": "<p>Use this skill just after the target makes a damage roll. Reduce the result of the target's damage roll by -[Your (Attack Power)].<br><br>A special skill that cuts off the enemy's attack with your own weapon and offsets it. Your katana banishes misfortune to your allies, like a divine sword that quelled a raging wildfire.</p>",
+    "description": "<p>Use this skill just after the target makes a damage roll. Reduce the result of the target's damage roll by -[Your (Attack Power)].</p>\n<p></p>\n<p>A special skill that cuts off the enemy's attack with your own weapon and offsets it. Your katana banishes misfortune to your allies, like a divine sword that quelled a raging wildfire.</p>",
     "limit": {
       "min": 0,
       "value": 0,

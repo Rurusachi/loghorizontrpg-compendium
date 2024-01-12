@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Champion, Gladiator, or Duelist. Give the target a [Duel] tag. If a person with a [Duel] tag is included in the target of your attack, +5 to the damage roll. This effect lasts at the end of the scene or until you are in a [Hidden] state.</p>\n<p>&nbsp;</p>\n<p>(CR 11): Increase the damage by +5.</p>\n<p>(CR 21): Increase the damage by an additional +5.</p>",
+    "description": "<p>You may use this skill if your subclass is Champion, Gladiator, or Duelist.</p>\n<p></p>\n<p>Give the target a [Duel] tag. If your attack targets someone with the [Duel] tag, add + 5 to your damage roll. This effect lasts at the end of the scene or until you enter a [Hidden] state. </p>\n<p></p>\n<p>(CR 11): The damage bonus becomes + 10 instead of + 5.</p>\n<p>(CR 21): The damage becomes + 15.</p>\n<p></p>\n<p>A special skill that challenges opponents to a duel. A spectacular battle where you clash your powers head-on.</p>",
     "limit": {
       "min": 0,
       "value": 0,

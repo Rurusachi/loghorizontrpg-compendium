@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Only for Summoner. You gain the [Riding: Nightmare Horse] state. During the [Riding: Nightmare Horse] state, EX Power \"Nightmare Walk\" and \"Nightmare Shift\" becomes available. In addition when [Pursuit] or [Decay] is received, it is instantly removed. However, this can only occur a number of times equal to the SR of \"Servant Summon: Phantom\" for each use of this skill.</p>",
+    "description": "<p>You gain the [Riding: Nightmare] state. During the [Riding: Nightmare] state, EX Power \"Nightmare Walk\" and \"Nightmare Shift\" become available. In addition when [Pursuit] or [Decay] is received, they can be instantly removed. However, this can only occur a number of times equal to the SR of \"Servant Summon: Phantom\" for each use of this skill.</p>\n<p></p>\n<p>A special skill that straddles a jet-black nightmare horse and fights together. The nightmare servant will dispel the curse that haunts you.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The effect of this skill is determined by the tag received from a Summon.</p>\n<p>&nbsp;</p>\n<p>(Self: Fairy): +2 [Perception check].</p>\n<p>(Self: Mythic): +2 [Athletics Check].</p>\n<p>(Self: Undead): +2 [Endurance Check].</p>\n<p>(Self: Construct): +2 [Disable Check].</p>\n<p>(SR 2): The bonus becomes +1D.</p>",
+    "description": "<p>The effect of this skill is determined by the tag received from a Summon.</p>\n<p>(Self: Fairy): +2 [Perception check]. </p>\n<p>(Self: Mythic): +2 [Athletics Check]. </p>\n<p>(Self: Undead): +2 [Endurance Check]. </p>\n<p>(Self: Construct): +2 [Disable Check]. </p>\n<p></p>\n<p>(SR 2): The bonus becomes +1D.</p>\n<p></p>\n<p>A special skill that allows the summoned servant to help with various tasks. The field of specialty differs depending on the type of follower.</p>",
     "limit": {
       "min": 0,
       "value": 0,

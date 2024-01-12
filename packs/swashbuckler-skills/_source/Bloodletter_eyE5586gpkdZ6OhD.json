@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target. The number of [Pursuit] activated by this attack will be [SR + 1], instead of one.</p>\n<p>&nbsp;</p>\n<p>(Crit): [Pursuit] triggered by this attack is not be canceled and remains on the target.</p>",
+    "description": "<p>Inflict physical damage of [2D + (Attack Power)]. The number of [Pursuit] activated by this attack will be [SR + 1], instead of one.</p>\n<p></p>\n<p>(Crit) [Pursuit] triggered by this attack is not be canceled and remains on the target.</p>",
     "limit": {
       "min": 0,
       "value": 0,

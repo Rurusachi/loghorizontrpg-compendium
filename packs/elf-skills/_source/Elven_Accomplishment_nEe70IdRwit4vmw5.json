@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Out of items that you can normally equip, you become able to use items with the [One-Handed] and [Medium Armor] tags that have an Item Rank equal to your [CR+2] or lower.</p>",
+    "description": "<p>Out of items that you can normally equip, you become able to use items with the [One-Handed] and [Medium Armor] tags that have an Item Rank equal to your [CR + 2] or lower.</p>\n<p></p>\n<p>You prefer equipment that does not restrict your body movements, and you are skilled at using it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target takes [SR] stacks of [Pursuit: 7]. These [Pursuit] stacks may be divided amongst characters within range as you please.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): Add +1 to the number of [Pursuit] stacks.</p>\n<p>(Fate 2): Add +2 to the number of [Pursuit] stacks.</p>\n<p>(CR11): The [Pursuit] rating increases to 15.</p>\n<p>(CR21): The [Pursuit] rating increases to 24.</p>",
+    "description": "<p>The target takes [SR] stacks of [Pursuit: 7]. These [Pursuit] stacks may be divided amongst characters within range as you please.</p>\n<p></p>\n<p>(Fate 1): Add +1 to the number of [Pursuit] stacks. </p>\n<p>(Fate 2): Add +2 to the number of [Pursuit] stacks. </p>\n<p>(CR11): The [Pursuit] rating increases to 15. </p>\n<p>(CR21): The [Pursuit] rating increases to 24.</p>",
     "limit": {
       "min": 0,
       "value": 0,

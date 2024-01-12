@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR + 1)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Success): You may make a [Safe Move] of 1 Sq.</p>\n<p>&nbsp;</p>\n<p>A special skill that quickly cuts through the enemy while running through. By hitting the attack, you can keep the distance while maintaining momentum.</p>",
+    "description": "<p>Deal [(SR + 1)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Success): You may make a [Safe Move] of 1 Sq.</p>\n<p></p>\n<p>A special skill that quickly cuts through the enemy while running through. By hitting the attack, you can keep the distance while maintaining momentum.</p>",
     "limit": {
       "min": 0,
       "value": 0,

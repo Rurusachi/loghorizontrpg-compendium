@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target,  and the target takes [Decay: 5]. This [Decay] does not overwrite [Decay] effect the target is already affected by,  and instead adds to its rating.</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Decay: 5]. This [Decay] does not overwrite [Decay] effect the target is already affected by, and instead adds to its rating.</p>\n<p></p>\n<p>An attack magic that summons a raging spirit from a formation that imitates a magatama to attack the enemy. Magatama leads to evil spirits. The spirit's resentment torments the enemy's soul and continues to inflict terrible pain.</p>",
     "limit": {
       "min": 0,
       "value": 0,

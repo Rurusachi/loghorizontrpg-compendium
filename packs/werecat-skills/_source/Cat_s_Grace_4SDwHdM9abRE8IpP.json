@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +4 [Base DEX].</p>",
+    "description": "<p>You gain + 4 [Base DEX].</p>\n<p></p>\n<p>You have taken the cat race's characteristic agility to the extreme through your ingenuity and talent.</p>",
     "limit": {
       "min": 0,
       "value": 0,

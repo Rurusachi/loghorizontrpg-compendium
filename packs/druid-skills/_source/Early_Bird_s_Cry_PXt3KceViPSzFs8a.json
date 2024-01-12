@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target removes [Dazed] [Staggered] and [Rigor].<br><br>(Fate 1): This skill's [Hate] cost becomes 0.<br><br>A special skill that awakens nearby allies by using magic to evoke the chirping of birds announcing the arrival of the morning.</p>",
+    "description": "<p>The target removes [Dazed] [Staggered] and [Rigor].</p>\n<p></p>\n<p>(Fate 1): This skill's [Hate] cost becomes 0.</p>\n<p></p>\n<p>A special skill that awakens nearby allies by using magic to evoke the chirping of birds announcing the arrival of the morning.</p>",
     "limit": {
       "min": 0,
       "value": 0,

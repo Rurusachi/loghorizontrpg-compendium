@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +16 [Max HP].</p>",
+    "description": "<p>You gain + 16 [Max HP].</p>\n<p></p>\n<p>You have a very tough body. No matter what adversity you face, if you stand until the end, you can make it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

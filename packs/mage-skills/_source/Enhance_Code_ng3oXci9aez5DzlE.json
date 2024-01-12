@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you gain a +[SRx3] bonus to [Magic Attack] damage rolls.</p>",
+    "description": "<p>During this Main Process, you gain a + [SR x 3] bonus to [Magic Attack] damage rolls.</p>\n<p></p>\n<p>A skill that increases the power of the spell cast immediately after using a spell that increases magical power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

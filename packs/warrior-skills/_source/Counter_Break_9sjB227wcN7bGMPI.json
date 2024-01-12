@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this when you take HP damage. Reduce the HP damage that you would receive by your [Attack Power]. <br><br>(Fate 1): Deal your [Attack Power] as direct damage to the target that damaged you.<br><br>A special skill that offsets the power of an approaching attack by throwing an attack from here as well. As a veteran warrior, it's easy for you to counterattack.</p>",
+    "description": "<p>Use this when you take HP damage. Reduce the HP damage that you would receive by your [Attack Power]. </p>\n<p></p>\n<p>(Fate 1): Deal your [Attack Power] as direct damage to the target that damaged you.</p>\n<p></p>\n<p>A special skill that offsets the power of an approaching attack by throwing an attack from here as well. As a veteran warrior, it's easy for you to counterattack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

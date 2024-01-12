@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may perform \"Enemy Identification\" against one enemy whose name you know. (Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+    "description": "<p>You may perform «Enemy Identification» against one enemy whose name you know.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that reveals the identity of the enemy that awaits in your path through magical illusions.</p>",
     "limit": {
       "min": 0,
       "value": 0,

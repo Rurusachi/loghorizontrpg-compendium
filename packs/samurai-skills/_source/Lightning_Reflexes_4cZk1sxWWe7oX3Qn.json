@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "4cZk1sxWWe7oX3Qn",
   "system": {
-    "description": "<p>Use this skill when you are attacked while [Pre-Action]. You are treated as the character with the highest [Initiative] score for this round's initiative process. Also, you may not declare [Standby] during this round. If already in the [Standby] state, the [Standby] is canceled immediately.<br><br>A special skill that uses the momentum of an enemy's attack to immediately prepare for a counterattack. The reaction is lightning-fast.</p>",
+    "description": "<p>Use this skill when you are attacked while [Pre-Action]. You are treated as the character with the highest [Initiative] score for this round's initiative process. Also, you may not declare [Standby] during this round. If already in the [Standby] state, the [Standby] is canceled immediately.</p>\n<p></p>\n<p>A special skill that uses the momentum of an enemy's attack to immediately prepare for a counterattack. The reaction is lightning-fast.</p>",
     "limit": {
       "min": 0,
       "value": 0,

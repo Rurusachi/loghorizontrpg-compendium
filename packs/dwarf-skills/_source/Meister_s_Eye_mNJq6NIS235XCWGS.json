@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +1D bonus to [Analyze Checks].</p>",
+    "description": "<p>You gain a + 1D bonus to [Analyze Checks].</p>\n<p></p>\n<p>You have a knack for seeing through the structure of objects. A race of dexterous craftsmen, the eyes of the dwarves keep an eye out for various contraptions.</p>",
     "limit": {
       "min": 0,
       "value": 0,

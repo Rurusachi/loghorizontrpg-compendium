@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "EQrFKjZFmOmTV9Cy",
   "system": {
-    "description": "<p>This skill only produces an effect when you have a [Bow] equipped. The range of your equipped [Bow] increases by +1 Sq. You become able to make [Ranged Attacks] in [Range: Close].<br><br>A fighting style that concentrates on shooting with a bow and freely shoots enemies from afar.</p>",
+    "description": "<p>This skill only produces an effect when you have a [Bow] equipped. The range of your equipped [Bow] increases by +1 Sq. You become able to make [Ranged Attacks] in [Range: Close].</p>\n<p></p>\n<p>A fighting style that concentrates on shooting with a bow and freely shoots enemies from afar.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

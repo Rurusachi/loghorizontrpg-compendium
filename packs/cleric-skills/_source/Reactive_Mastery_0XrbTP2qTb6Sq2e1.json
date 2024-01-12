@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +[(SR)D] bonus to the amount of HP recovered when using \"Reactive Heal\" or \"Reactive Area Heal\".<br><br>You specialize in reaction activation recovery, which is the unique magic of &lt;Cleric&gt;. Your prayers invoke greater healing power.</p>",
+    "description": "<p>You gain a +[(SR)D] bonus to the amount of HP recovered when using \"Reactive Heal\" or \"Reactive Area Heal\".</p>\n<p></p>\n<p>You specialize in reaction activation recovery, which is the unique magic of <Cleric>. Your prayers invoke greater healing power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR 11 or higher. Deal [3D + (Attack Power)] physical damage to the target. <br><br>(Success) The target takes [Weakness (Physical): 10]. Treat this effect as a Bad Status.<br>(CR21): Rating of the Weakness increases to 15 instead of 10.<br>(Fate 1): Double the rating of the Weakness.<br><br>A skill that destroys the enemy's armor and skin with a powerful blow, dealing damage and lowering defense power. Any defense is torn like paper in front of the blow.</p>",
+    "description": "<p>Available at CR 11 or higher. Deal [3D + (Attack Power)] physical damage to the target. </p>\n<p></p>\n<p>(Success) The target takes [Weakness (Physical): 10]. Treat this effect as a Bad Status.</p>\n<p>(CR21): Rating of the Weakness increases to 15 instead of 10.</p>\n<p>(Fate 1): Double the rating of the Weakness.</p>\n<p></p>\n<p>A skill that destroys the enemy's armor and skin with a powerful blow, dealing damage and lowering defense power. Any defense is torn like paper in front of the blow.</p>",
     "limit": {
       "min": 0,
       "value": 0,

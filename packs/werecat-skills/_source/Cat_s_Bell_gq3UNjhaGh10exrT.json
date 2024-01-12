@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill with any kind of action. During that action, you gain a +[Your (Hate) x 3] bonus to [Recovery].</p>\n<p>&nbsp;</p>\n<p>(CR16): The multiplier bonus becomes x4.</p>",
+    "description": "<p>Use this skill with any kind of action. During that action, you gain a + [Your (Hate) x 3] bonus to [Recovery].</p>\n<p></p>\n<p>(CR16): The multiplier bonus becomes x 4.</p>\n<p></p>\n<p>A special skill that converts hostility towards you into life force and wields powerful healing power. The shining cat bell emits a high and clear tone that attracts the attention of those around it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

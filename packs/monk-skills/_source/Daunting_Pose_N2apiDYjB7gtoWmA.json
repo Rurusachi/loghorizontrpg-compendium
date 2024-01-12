@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after the target makes an [Attack Check] for an attack with [Target: Area] that includes the square you are in. Change the target's attack to [Target: Single] with you as the target. <br><br>(Hate Top): You may use this skill against attacks with [Target: Wide, Line] as well.<br><br>A skill that protects allies behind the enemy by standing in front of them. Even an attack that involves the surroundings can be stopped by yourself.</p>",
+    "description": "<p>Use this skill just after the target makes an [Attack Check] for an attack with [Target: Area] that includes the square you are in. Change the target's attack to [Target: Single] with you as the target. </p>\n<p></p>\n<p>(Hate Top): You may use this skill against attacks with [Target: Wide, Line] as well.</p>\n<p></p>\n<p>A skill that protects allies behind the enemy by standing in front of them. Even an attack that involves the surroundings can be stopped by yourself.</p>",
     "limit": {
       "min": 0,
       "value": 0,

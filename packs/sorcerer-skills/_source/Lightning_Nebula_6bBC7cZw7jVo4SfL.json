@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+4)D + (Magic Power)] magical damage to the target.</p>",
+    "description": "<p>Deal [(SR + 4)D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>A wide-area attack magic that annihilates the enemy by covering the battlefield with swirling lightning reminiscent of a nebula. One of the magic that represents a simple yet powerful <Sorcerer> that overruns a wide area with high firepower.</p>",
     "limit": {
       "min": 0,
       "value": 0,

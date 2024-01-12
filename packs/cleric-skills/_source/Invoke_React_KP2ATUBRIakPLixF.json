@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +[Magic Power] bonus to the amount of HP recovered when you use \"Reactive Heal\" or \"Reactive Area Heal\". This effect lasts until the end of the round.<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br>(Hate 2): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>Magic that amplifies the effects of reaction-activated recovery by performing informal rituals with prayer words and signs.</p>",
+    "description": "<p>You gain a +[Magic Power] bonus to the amount of HP recovered when you use \"Reactive Heal\" or \"Reactive Area Heal\". This effect lasts until the end of the round.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p>(Hate 2): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>Magic that amplifies the effects of reaction-activated recovery by performing informal rituals with prayer words and signs.</p>",
     "limit": {
       "min": 0,
       "value": 0,

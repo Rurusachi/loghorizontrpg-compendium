@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Only effective while you are equipped with a [Two-Hander] weapon. You gain a bonus to the damage roll done on a round you declared [Standby] that is equal to your [POW mod].</p>\n<p>&nbsp;</p>\n<p>(SR 2): When you are in the [Standby] state you also get +1 to [Defense Checks].</p>\n<p>(SR 3): You can immediately get -1 to [Hate] when you declare [Standby].</p>",
+    "description": "<p>Only effective while you are equipped with a [Two-Hander] weapon. You gain a bonus to the damage roll done on a round you declared [Standby] that is equal to your [POW Mod].</p>\n<p></p>\n<p>(SR2) When you are in the [Standby] state you also get +1 to [Defense Checks].</p>\n<p>(SR3) You can immediately get -1 to [Hate] when you declare [Standby].</p>",
     "limit": {
       "min": 0,
       "value": 0,

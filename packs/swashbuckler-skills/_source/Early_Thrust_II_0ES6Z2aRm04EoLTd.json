@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Acquired with CR 11 or higher. The target takes [Pursuit: [INT Mod] x SR].</p>",
+    "description": "<p>Available at CR 11 or higher. [Pursuit: (INT Mod) x SR] is given to the target.</p>",
     "limit": {
       "min": 0,
       "value": 0,

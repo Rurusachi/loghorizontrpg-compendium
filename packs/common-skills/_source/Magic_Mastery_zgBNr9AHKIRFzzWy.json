@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +[SRx2] bonus to your [Magic Power].</p>",
+    "description": "<p>You gain a + [SR x 2] bonus to your [Magic Power].</p>\n<p></p>\n<p>You never miss your magic training. Your magic will be more powerful than other adventurers.</p>",
     "limit": {
       "min": 0,
       "value": 0,

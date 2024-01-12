@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target recovers [3D + (Magic Power) + (Recovery)] [HP].<br><br>A magic that spreads a healing magic force field over a wide area and heals the wounds of all allies within the range.</p>",
+    "description": "<p>The target recovers [3D + (Magic Power) + (Recovery)] [HP].</p>\n<p></p>\n<p>A magic that spreads a healing magic force field over a wide area and heals the wounds of all allies within the range.</p>",
     "limit": {
       "min": 0,
       "value": 0,

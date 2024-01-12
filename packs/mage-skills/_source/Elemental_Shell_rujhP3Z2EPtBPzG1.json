@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Select one from: [Flame] [Cold] [Shock] [Blight] [Holy] [Spirit]. The target gains [Cancel (Chosen Tag): 40]. This Cancel effect is removed after applying its effects once.\n\n(Fate 1): You can use this skill with [Timing: Instant].</p>",
+    "description": "<p>Select one from: [Flame] [Cold] [Shock] [Blight] [Holy] [Spirit]. The target gains [Cancel (Chosen Tag): 40]. This Cancel effect is removed after applying its effects once.</p>\n<p></p>\n<p>(Fate 1): You can use this skill with [Timing: Instant].</p>\n<p></p>\n<p>A magic that envelops the target with a barrier that cancels out various attributes. The attacks that can be prevented are limited, but it exhibits a high defensive effect against those that respond.</p>",
     "limit": {
       "min": 0,
       "value": 0,

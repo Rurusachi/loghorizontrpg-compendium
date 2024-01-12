@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target may make a [Teleport] up to 2 Sq.</p>",
+    "description": "<p>The target may make a [Teleport] up to 2 Sq.</p>\n<p></p>\n<p>Magic that guides allies in the direction of auspiciousness and moves them to more ideal positions.</p>",
     "limit": {
       "min": 0,
       "value": 0,

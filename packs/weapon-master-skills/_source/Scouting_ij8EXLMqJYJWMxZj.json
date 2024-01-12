@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill targets the next scene. Make your [Athletics Check] once. Compare the result to every enemy appearing in the next scene's [Identification Difficulty]. For each success, you learn that enemy's name, appearance, rank, and tags. You take [Fatigue: (Base STR)].</p>\n<p>&nbsp;</p>\n<p>(Fumble): The enemy notices your scouting.</p>",
+    "description": "<p>This skill targets the next scene. Make your [Athletics Check] once. Compare the result to every enemy appearing in the next scene's [Identification Difficulty]. For each success, you learn that enemy's name, appearance, rank, and tags. You take [Fatigue: (Base STR)].</p>\n<p></p>\n<p>(Fumble): The enemy notices your scouting.</p>\n<p></p>\n<p>A special skill that conducts preliminary reconnaissance before entering battle and conveys information about the enemy you encounter to your allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

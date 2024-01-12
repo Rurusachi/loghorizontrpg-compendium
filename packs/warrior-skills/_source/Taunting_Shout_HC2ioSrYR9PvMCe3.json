@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "HC2ioSrYR9PvMCe3",
   "system": {
-    "description": "<p>Target an ally other than yourself who was just damaged by an attack. The target may reduce their [Hate] by -1.<br><br>A feat that diverts attention from the enemy to the allies by yelling at the enemies attacking allies.</p>",
+    "description": "<p>Target an ally other than yourself who was just damaged by an attack. The target may reduce their [Hate] by - 1.</p>\n<p></p>\n<p>A skill that diverts attention from the enemy to the allies by yelling at the enemies attacking allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

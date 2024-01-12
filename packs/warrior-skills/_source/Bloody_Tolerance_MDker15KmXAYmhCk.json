@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +1D bonus to [Endurance Checks].<br><br>Your well-trained mind and body have a high resistance to extreme conditions.</p>",
+    "description": "<p>You gain a +1D bonus to [Endurance Checks].</p>\n<p></p>\n<p>Your well-trained mind and body have a high resistance to extreme conditions.</p>",
     "limit": {
       "min": 0,
       "value": 0,

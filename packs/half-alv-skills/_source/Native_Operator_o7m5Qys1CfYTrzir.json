@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Operate Checks].</p>",
+    "description": "<p>You gain a + 1D bonus to [Operate Checks].</p>\n<p></p>\n<p>You are good at operating various tools such as machines and instruments. Anything from driving a carriage to manipulating the defense mechanisms of an ancient ruin can be a subject of any complexity.</p>",
     "limit": {
       "min": 0,
       "value": 0,

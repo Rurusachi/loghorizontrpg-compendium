@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may immediately perform \"Prop Analyze\" or \"Prop Disable\".</p>",
+    "description": "<p>You may immediately perform \"Prop Analyze\" or \"Prop Disable\".</p>\n<p></p>\n<p>A special skill that investigates the structure of traps and tricks with sleight of hand, and neutralizes them. You can do tricks like disarming traps while wielding your weapon.</p>",
     "limit": {
       "min": 0,
       "value": 0,

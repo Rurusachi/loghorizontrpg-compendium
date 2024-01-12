@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +2 [Base DEX] and [Base INT].</p>",
+    "description": "<p>You gain + 2 [Base DEX] and [Base INT].</p>\n<p></p>\n<p>You have inherited the blood of the ancient Alv race, and therefore boast of high dexterity and intelligence.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Sq. up to the number equal to [SRx2], at the maximum is targeted. The target Sq must be connected and all Sq must be within range. Place prop [Poison Fog] on the target Sq. PR=[CR+[Deadly Poison's SR]].</p>\n<p>&nbsp;</p>\n<p>Poison Fog [Prop]: Mist of venom that is murky and purple. If you [Stay] in the poison it will deal 7 direct damage. Damage total goes up by +2 for every PR +1, with a maximum PR of 35.</p>\n<p>&nbsp;</p>\n<p>A skill that fills a space by spraying atomized poison.</p>",
+    "description": "<p>Sq. up to the number equal to [SRx2], at the maximum, is targeted. The target Sq.'s must be connected and all Sq. must be within range. Place prop [Poison Fog] on the target Sq. PR=[CR+[Deadly Poison's SR]].</p>\n<p></p>\n<p>Poison Fog [Prop]: Mist of venom that is murky and purple. If you [Stay] in the poison it will deal 7 direct damage. [Cancel: (Blight, Prop)] are effective against this damage. Damage total goes up by +2 for every PR +1, with no maximum PR.</p>\n<p></p>\n<p>A skill that fills a space by spraying atomized poison.</p>",
     "limit": {
       "min": 0,
       "value": 0,

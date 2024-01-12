@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Safe Move] up to 2 Sq.</p>\n<p>&nbsp;</p>\n<p>(Minor): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+    "description": "<p>You may make a [Safe Move] up to 2 Sq.</p>\n<p></p>\n<p>(Minor): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that moves through enemies and obstacles with movements that catch the opponent off guard.</p>",
     "limit": {
       "min": 0,
       "value": 0,

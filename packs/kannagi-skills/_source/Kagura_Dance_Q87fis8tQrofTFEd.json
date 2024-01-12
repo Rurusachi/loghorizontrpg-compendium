@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may immediately use two [Timing: Setup] Kannagi or Healer Archetype skills.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+    "description": "<p>You may immediately use two [Timing: Setup] Kannagi or Healer Archetype skills.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that activates two magics at once by performing different chants at the same time instead of casting magic by dancing kagura, which is a collection of actions with various meanings and prayers.</p>",
     "limit": {
       "min": 0,
       "value": 0,

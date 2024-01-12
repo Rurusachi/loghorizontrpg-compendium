@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "8pXm6RW7YItVPNK1",
   "system": {
-    "description": "<p>Your [Speed] increases by +1. Lasts until the end of the round.<br><br>A special skill that runs through the battlefield faster than anyone else and cuts into enemy lines. A one-on-one race is the flower of battle. It's the true heart of a samurai.</p>",
+    "description": "<p>Your [Speed] increases by +1. Lasts until the end of the round.</p>\n<p></p>\n<p>A special skill that runs through the battlefield faster than anyone else and cuts into enemy lines. A one-on-one race is the flower of battle. It's the true heart of a samurai.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +2 bonus to [Accuracy]. During the first round of a scene, you gain a +5 bonus to [Initiative].<br><br>As a Samurai, you are always ready for battle, no matter where you are or what you are doing. That attitude is especially apparent in the reaction immediately after the start of the battle.</p>",
+    "description": "<p>You gain a +2 bonus to [Accuracy]. During the first round of a scene, you gain a +5 bonus to [Initiative].</p>\n<p></p>\n<p>As a Samurai, you are always ready for battle, no matter where you are or what you are doing. That attitude is especially apparent in the reaction immediately after the start of the battle.</p>",
     "limit": {
       "min": 0,
       "value": 0,

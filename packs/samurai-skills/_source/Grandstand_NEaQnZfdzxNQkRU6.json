@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "NEaQnZfdzxNQkRU6",
   "system": {
-    "description": "<p>You may make a target take a [Safe Move (Forced)] up to 1 Sq. This movement must have the target approach you.<br><br>A skill that draws the attention of the enemy by carrying your weapon on your shoulder in the middle of a battle and making a flashy appearance. Those around you will be captivated by its power, and will be drawn towards you.</p>",
+    "description": "<p>You may make a target take a [Safe Move (Forced)] up to 1 Sq. This movement must have the target approach you.</p>\n<p></p>\n<p>A skill that draws the attention of the enemy by carrying your weapon on your shoulder in the middle of a battle and making a flashy appearance. Those around you will be captivated by its power, and will be drawn towards you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

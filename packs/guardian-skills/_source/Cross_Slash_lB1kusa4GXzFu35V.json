@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target takes two stacks of [Pursuit] with a rating equal to [(Attack Power) + (SRx2)].<br><br>A special skill that quickly swings the sword vertically and horizontally, slashing like drawing a cross. It's not flashy, but it consistently delivers effective hits even to well-protected enemies.</p>",
+    "description": "<p>The target takes two stacks of [Pursuit] with a rating equal to [(Attack Power) + (SRx2)].</p>\n<p></p>\n<p>A special skill that quickly swings the sword vertically and horizontally, slashing like drawing a cross. It's not flashy, but it consistently delivers effective hits even to well-protected enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

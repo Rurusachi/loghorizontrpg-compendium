@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain the [Nature] tag. Add + (INT Mod) to your [Recovery].<br><br>(Effect): [Mob] tagged secondary targets within a range of [Targets: (SR) / Range: 4 Sq.] centered on you must make a [Safe Move (Forced)] up to 2 Sq.<br><br>A special skill that summons and employs myconids, ancestral spirits that embody the diversity of nature. A swarm of charming mushroom spirits that scoop at the target's feet and sweeps them away at will.</p>",
+    "description": "<p>You gain the [Nature] tag. Add + (INT Mod) to your [Recovery].</p>\n<p></p>\n<p>(Effect): [Mob] tagged secondary targets within a range of [Targets: (SR) / Range: 4 Sq.] centered on you must make a [Safe Move (Forced)] up to 2 Sq.</p>\n<p></p>\n<p>A special skill that summons and employs myconids, ancestral spirits that embody the diversity of nature. A swarm of charming mushroom spirits that scoop at the target's feet and sweeps them away at will.</p>",
     "limit": {
       "min": 0,
       "value": 0,

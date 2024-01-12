@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Effect): You gain [Barrier: (Recovery) + 10].</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Effect): You gain [Barrier: (Recovery) + 10].</p>\n<p></p>\n<p>A special skill that envelops a milky-white barrier reminiscent of snake scales at the same time as attacking. The white snake scales, a symbol of good luck, protect you in the same way as damage blocking magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

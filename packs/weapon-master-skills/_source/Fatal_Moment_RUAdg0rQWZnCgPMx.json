@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When you Critical in an [Accuracy Check] of a [Weapon Attack], add +[Base STR] to the damage roll of that attack.</p>",
+    "description": "<p>When you Critical in an [Accuracy Check] of a [Weapon Attack], add +[Base STR] to the damage roll of that attack.</p>\n<p></p>\n<p>You can strike a fatal blow without missing the momentary gap that the enemy shows.</p>",
     "limit": {
       "min": 0,
       "value": 0,

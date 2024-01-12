@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When you acquire this skill, select one of the following: Athletics, Endurance, Disable, Operate, Perception, Negotiation, Knowledge, or Analyze. Change the name of this skill to be like \"Skill Practice: Athletics\". You can acquire this skill multiple times, but each time must be under a different name. You gain a +1D bonus to checks using the chosen attribute.</p>",
+    "description": "<p>When you acquire this skill, select one of the following: Athletics, Endurance, Disable, Operate, Perception, Negotiation, Knowledge, or Analyze. Change the name of this skill to be like \"Skill Practice: Athletics\". You can acquire this skill multiple times, but each time must be under a different name. You gain a + 1D bonus to checks using the chosen attribute.</p>\n<p></p>\n<p>You have a trick that you're good at. In that field, it will be unrivaled by others.</p>",
     "limit": {
       "min": 0,
       "value": 0,

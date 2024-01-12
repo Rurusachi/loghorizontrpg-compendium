@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target is immune to damage with the [Blight], [Cold], or [Shock] tags that comes from Props or [Gimmicks]. Treat this effect as a Combat Status. <br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>Magic that gathers the healing and protective powers of the forest and brings safety to allies. It is the shadow of a big tree if you come close to it.</p>",
+    "description": "<p>The target is immune to damage with the [Blight], [Cold], or [Shock] tags that comes from Props or [Gimmicks]. Treat this effect as a Combat Status. </p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>Magic that gathers the healing and protective powers of the forest and brings safety to allies. It is the shadow of a big tree if you come close to it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

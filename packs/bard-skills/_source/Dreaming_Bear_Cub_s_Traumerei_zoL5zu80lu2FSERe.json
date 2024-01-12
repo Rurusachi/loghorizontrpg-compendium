@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D] penetrating damage to the target. You may make the target make a [Safe Move (forced)] of up to 2 Sq. This skill's [Hate] cost is equal to [Number of Targets + 2].</p>",
+    "description": "<p>Deal [(SR)D] penetrating damage to the target. You may make the target make a [Safe Move (forced)] of up to 2 Sq. This skill's [Hate] cost is equal to [Number of Targets + 2].</p>\n<p></p>\n<p>A special skill that enchants the target's heart by playing a melody with confusion and fantasy. The target moves unsteadily, guided by the sound, still in a dreamy state.</p>",
     "limit": {
       "min": 0,
       "value": 0,

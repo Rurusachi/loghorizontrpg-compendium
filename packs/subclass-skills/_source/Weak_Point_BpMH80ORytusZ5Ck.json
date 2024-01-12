@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Arcanist/Magic Scholar, Trainer, or Tactician/Strategist.\n\nUse this skill when you put an Enemy in the [Identified] state. Give that enemy [Pursuit: (INT Mod)].</p>",
+    "description": "<p>You may use this skill if your subclass is Scholar, Trainer, or Strategist.</p>\n<p></p>\n<p>Use this skill when you put an enemy in the [Identified] state. You may give that enemy [Pursuit: (INT Mod)].</p>\n<p></p>\n<p>A special skill that allows you to discover the enemy's habits and weaknesses based on information about them. The knowledge and experience you accumulate can sometimes become a weapon more powerful than swords or magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

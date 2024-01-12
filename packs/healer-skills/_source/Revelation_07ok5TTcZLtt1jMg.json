@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "07ok5TTcZLtt1jMg",
   "system": {
-    "description": "<p>This skill targets the next scene. You learn the name, rank, and tags of all Props appearing in the next scene with [Detection Difficulty: Automatic].<br><br>A special skill that catches a glimpse of the future and reads the hardships that await from that spectacle.</p>",
+    "description": "<p>This skill targets the next scene. You learn the name, rank, and tags of all Props appearing in the next scene with [Detection Difficulty: Automatic].</p>\n<p></p>\n<p>A special skill that catches a glimpse of the future and reads the hardships that await from that spectacle.</p>",
     "limit": {
       "min": 0,
       "value": 0,

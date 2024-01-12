@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Target 1 prop with the [Nature] tag that also has the [Terrain], or [Trap] tag. Stops the undesirable effects of that prop till the end of the round.<br><br>Magic that summons wild vines that are entwined to cover quagmires or bridge cracks to temporarily nullify dangerous terrain.</p>",
+    "description": "<p>Target 1 prop with the [Nature] tag that also has the [Terrain], or [Trap] tag. Stops the undesirable effects of that prop till the end of the round.</p>\n<p></p>\n<p>Magic that summons wild vines that are entwined to cover quagmires or bridge cracks to temporarily nullify dangerous terrain.</p>",
     "limit": {
       "min": 0,
       "value": 0,

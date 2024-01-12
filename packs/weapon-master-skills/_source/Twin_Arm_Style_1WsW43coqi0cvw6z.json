@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you have two [One-Handed] melee weapons equipped. You gain the [Dual Wield] condition, and your [Attack Power] becomes [Both Weapons' (Attack Power) combined].</p>\n<p>&nbsp;</p>\n<p>(SR2): Increase your [Attack Power] by +3.</p>\n<p>(SR3): The bonus to [Attack Power] changes to +6.</p>",
+    "description": "<p>This skill only produces an effect when you have two [One-Handed] melee weapons equipped. You gain the [Dual Wield] condition, and your [Attack Power] becomes [Both Weapons' (Attack Power) combined].</p>\n<p></p>\n<p>(SR2): Increase your [Attack Power] by +3.</p>\n<p>(SR3): The bonus to [Attack Power] changes to +6.</p>\n<p></p>\n<p>A fighting style that emphasizes the number of moves and attack power, wielding two weapons with both arms at the same time.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR 11 or Higher. Deal [3D + (Attack Power)] physical damage to the target, and the target takes [Dazed].<br><br>(Target: Flying): Increase the damage by +[Base STR].<br><br>A special skill that changes the trajectory of the attack with a movement like a swiftly flipping swallow, taking the enemy by surprise. Your body perfectly reproduces the movement of Hien, which was difficult even for an ancient swordsman to capture.</p>",
+    "description": "<p>Available at CR 11 or Higher. Deal [3D + (Attack Power)] physical damage to the target, and the target takes [Dazed].</p>\n<p></p>\n<p>(Target: Flying): Increase the damage by +[Base STR].</p>\n<p></p>\n<p>A special skill that changes the trajectory of the attack with a movement like a swiftly flipping swallow, taking the enemy by surprise. Your body perfectly reproduces the movement of Hien, which was difficult even for an ancient swordsman to capture.</p>",
     "limit": {
       "min": 0,
       "value": 0,

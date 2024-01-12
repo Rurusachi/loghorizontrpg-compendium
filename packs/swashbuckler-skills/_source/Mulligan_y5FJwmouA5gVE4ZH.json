@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When the target rolls on [Exhaustion Table: Item or Money], they may roll twice and take either result.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +8 [Max HP].</p>",
+    "description": "<p>When the target rolls on [Exhaustion Table: Item or Money], they may roll twice and take either result. </p>\n<p></p>\n<p>(Bonus): You gain +8 [Max HP].</p>",
     "limit": {
       "min": 0,
       "value": 0,

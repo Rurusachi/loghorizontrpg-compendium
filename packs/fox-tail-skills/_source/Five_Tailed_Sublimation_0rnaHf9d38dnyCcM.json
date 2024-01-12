@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill while you are [Incapacitated] during a combat scene. The target gains +1 [Fate Point].</p>\n<p>&nbsp;</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+    "description": "<p>Use this skill while you are [Incapacitated] during a combat scene. The target gains + 1 [Fate Point]. </p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Point].</p>",
     "limit": {
       "min": 0,
       "value": 0,

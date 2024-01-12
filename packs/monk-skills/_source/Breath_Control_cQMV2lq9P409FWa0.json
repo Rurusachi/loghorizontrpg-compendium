@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You recover [(Recovery) + (SRx5)] HP.<br><br>(Hate Top): You may remove 1 Bad Status currently affecting you.<br><br>A special skill that instantly heals wounds and ailments by using a special breathing method to refine your energy and activate your vitality.</p>",
+    "description": "<p>You recover [(Recovery) + (SRx5)] HP.</p>\n<p></p>\n<p>(Hate Top): You may remove 1 Bad Status currently affecting you.</p>\n<p></p>\n<p>A special skill that instantly heals wounds and ailments by using a special breathing method to refine your energy and activate your vitality.</p>",
     "limit": {
       "min": 0,
       "value": 0,

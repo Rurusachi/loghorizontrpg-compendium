@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may re-roll the check you just made.</p>",
+    "description": "<p>You may re-roll the previous roll you just made.</p>\n<p></p>\n<p>A special skill that summons Clue Rat, a mythic beast of good omen that resembles a white mouse with crimson eyes, and invokes modest good luck.</p>",
     "limit": {
       "min": 0,
       "value": 0,

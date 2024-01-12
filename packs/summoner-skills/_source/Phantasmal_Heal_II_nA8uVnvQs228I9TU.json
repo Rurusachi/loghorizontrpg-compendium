@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target recovers [(Base INT) + (Recovery)] HP, and removes one Bad Status currently affecting them. You may only use this skill when you have the [Mythic] tag.</p>",
+    "description": "<p>Available at CR11 or higher. The target recovers [(Base INT) + (Recovery)] HP, and removes one Bad Status currently affecting them. You may only use this skill when you have the [Mythic] tag.</p>\n<p></p>\n<p>A special skill that heals the wounds of allies by ordering a mythic beast that is summoned as a follower. Its healing power, aligned with yours, will block even fatal wounds in a blink of an eye.</p>",
     "limit": {
       "min": 0,
       "value": 0,

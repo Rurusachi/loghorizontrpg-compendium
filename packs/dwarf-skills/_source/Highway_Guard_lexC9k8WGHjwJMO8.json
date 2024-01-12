@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Hit Checks], and checks made against a character's [Identification Difficulty], when those checks include characters with the [Humanoid] tag.</p>",
+    "description": "<p>You gain a + 1D bonus to [Hit Checks], and checks made against a character's [Identification Difficulty], when those checks include characters with the [Humanoid] tag.</p>\n<p></p>\n<p>You are adept at fighting evil demi-races. The blood of the dwarves, who have fought on the front lines for a long time as protectors of the human race, supports their power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

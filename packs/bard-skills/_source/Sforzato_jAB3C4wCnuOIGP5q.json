@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Change the skill of [Timing: Major / Target: Wide 1 (P)] with the [Instrument] tag you use in this main process to [Target: Wide 2 (P)].</p>",
+    "description": "<p>Change the skill of [Timing: Major / Target: Wide 1 (P)] with the [Instrument] tag you use in this main process to [Target: Wide 2 (P)].</p>\n<p></p>\n<p>A special skill that exerts the effect of a special skill more widely by making a strong sound with soul.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

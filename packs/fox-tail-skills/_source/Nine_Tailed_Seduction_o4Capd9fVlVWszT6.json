@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When you acquire this skill, select [Male] or [Female]. Change the name of this skill to be like \"Nine-Tailed Seduction: Male\". You can acquire this skill multiple times, but each time must be under a different name. When you make a [Negotiation Check] opposed by a character with the chosen tag, you gain a +2D bonus to that check. However, if the GM decides this skill isn't valid against the opponent, it cannot be used.</p>",
+    "description": "<p>When you acquire this skill, select [Male] or [Female]. Change the name of this skill to be like \"Nine-Tailed Seduction: Male\". You can acquire this skill multiple times, but each time must be under a different name. When you make a [Negotiation Check] opposed by a character with the chosen tag, you gain a + 2D bonus to that check. However, if the GM decides this skill isn't valid against the opponent, it cannot be used.</p>",
     "limit": {
       "min": 0,
       "value": 0,

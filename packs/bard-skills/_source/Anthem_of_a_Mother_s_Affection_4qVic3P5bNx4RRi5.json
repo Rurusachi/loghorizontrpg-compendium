@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target recovers [SRx5] HP during each Cleanup Process.</p>\n<p>&nbsp;</p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by +1 during the Cleanup Process of every round.</p>",
+    "description": "<p>The target recovers [SRx5] [HP] during each Cleanup Process.</p>\n<p></p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by +1 during the Cleanup Process of every round.</p>\n<p></p>\n<p>A support song that seals the wounds of allies by enveloping them in the warmth of a gentle hymn like a loving mother.</p>",
     "limit": {
       "min": 0,
       "value": 0,

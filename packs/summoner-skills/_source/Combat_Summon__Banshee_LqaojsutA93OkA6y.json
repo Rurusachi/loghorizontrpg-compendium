@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SRx2)D + (Magic Power)] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Hate 1 &amp; Target: Mob): The target becomes [Incapacitated] or [Dead] (your choice).</p>",
+    "description": "<p>Deal [(SRx2)D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>(Hate 1 & Target: Mob): The target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>An offensive spell that summons Banshee, the spirit of night and sorrow, and casts a death curse on the enemy. It can also instantly neutralize enemies with low resistance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

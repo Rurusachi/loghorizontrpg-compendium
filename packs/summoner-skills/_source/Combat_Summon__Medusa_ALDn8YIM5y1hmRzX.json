@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect against [Mob] enemies. The target becomes [Incapacitated] or [Dead] (your choice).</p>",
+    "description": "<p>This skill only produces an effect against [Mob] enemies. The target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>A special skill that summons Medusa, a fairy with poisonous snake hair, and turns enemies into stone statues with a cursed gaze.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +2 bonus to [Accuracy]. When combat begins, increase your [Hate] by +1.<br><br>You are good at fighting to attract the enemy's attention. Being able to freely manipulate both weapons and enemies is representative of a first-class &lt;Guardian&gt;.</p>",
+    "description": "<p>You gain a +2 bonus to [Accuracy]. When combat begins, increase your [Hate] by +1.</p>\n<p></p>\n<p>You are good at fighting to attract the enemy's attention. Being able to freely manipulate both weapons and enemies is representative of a first-class <Guardian>.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill may only target an ally other than yourself. The target may reduce their [Hate] by -2. <br><br>(Fate 1): You may make a [Normal Move] up to your [Speed] Sq. This additional effect may not be used if you have the [Rigor] status.<br><br>A special skill that dares to make a conspicuous move to act as a decoy and divert the enemy's attention away from his allies.</p>",
+    "description": "<p>This skill may only target an ally other than yourself. The target may reduce their [Hate] by -2. </p>\n<p></p>\n<p>(Fate 1): You may make a [Normal Move] up to your [Speed] Sq. This additional effect may not be used if you have the [Rigor] status.</p>\n<p></p>\n<p>A special skill that dares to make a conspicuous move to act as a decoy and divert the enemy's attention away from his allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

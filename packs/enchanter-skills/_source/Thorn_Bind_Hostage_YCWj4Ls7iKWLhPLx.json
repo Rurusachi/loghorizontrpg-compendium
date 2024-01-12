@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target takes two stacks of [Pursuit] with a rating equal to [[INT Mod] + 8].</p>\n<p>&nbsp;</p>\n<p>(Fate 1): The target takes three stacks of instead of two.</p>",
+    "description": "<p>The target takes two stacks of [Pursuit] with a rating equal to [(INT Mod) + 8].</p>\n<p></p>\n<p>(Fate 1): The target takes three stacks of instead of two.</p>\n<p></p>\n<p>Magic that binds the enemy with magical thorns that shine in azure color. It does not hinder movement at all, but the thorns pop off when attacked, sending a shock wave to the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

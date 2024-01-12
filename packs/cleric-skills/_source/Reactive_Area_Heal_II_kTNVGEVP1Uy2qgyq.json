@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR 11 or higher. You may target all characters who have just received HP Damage from an attack with this skill. The target recovers +[Magic Power] HP. This skill may only be used once in response to a single attack.<br><br>(Fate 1): Increase the amount of HP recovered by +[POW Mod].<br><br>A magic that spreads a healing force field over a wide area in response to enemy attacks. The healing power that can now be deployed over a wider area will enable the rebuilding of fighting strength against various troublesome attacks.</p>",
+    "description": "<p>Available at CR 11 or higher. You may target all characters who have just received HP Damage from an attack with this skill. The target recovers +[Magic Power] HP. This skill may only be used once in response to a single attack.</p>\n<p></p>\n<p>(Fate 1): Increase the amount of HP recovered by +[POW Mod].</p>\n<p></p>\n<p>A magic that spreads a healing force field over a wide area in response to enemy attacks. The healing power that can now be deployed over a wider area will enable the rebuilding of fighting strength against various troublesome attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may reduce your [Hate] by -1.<br><br>(Hate Top): You may reduce your [Hate] an additional -1.<br><br>A spell that distracts the enemy's attention by hiding in piles of rolled up leaves.</p>",
+    "description": "<p>You may reduce your [Hate] by -1.</p>\n<p></p>\n<p>(Hate Top): You may reduce your [Hate] an additional -1.</p>\n<p></p>\n<p>A spell that distracts the enemy's attention by hiding in piles of rolled up leaves.</p>",
     "limit": {
       "min": 0,
       "value": 0,

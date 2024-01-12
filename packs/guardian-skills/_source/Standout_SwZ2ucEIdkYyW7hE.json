@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill may only target an ally with [Hate Top]. Increase your [Hate] to [Target's (Hate) + 1].<br><br>A special skill that attracts the attention of the battlefield by standing on the spot and provoking loudly. Enraged enemies will forget to attack your allies and rush towards you.</p>",
+    "description": "<p>This skill may only target an ally with [Hate Top]. Increase your [Hate] to [Target's (Hate) + 1].</p>\n<p></p>\n<p>A special skill that attracts the attention of the battlefield by standing on the spot and provoking loudly. Enraged enemies will forget to attack your allies and rush towards you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

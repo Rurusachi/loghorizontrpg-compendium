@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR + 1)D + (Attack Power)] physical damage to the target.<br><br>(Hate Top): You can use this skill with [Target: Line 1 (P)].<br><br>A skill that swivels the spear like a windmill and unleashes a powerful stab, attacking surrounding enemies at once. A tornado-shaped shock wave engulfs many enemies.</p>",
+    "description": "<p>Deal [(SR + 1)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Hate Top): You can use this skill with [Target: Line 1 (P)].</p>\n<p></p>\n<p>A skill that swivels the spear like a windmill and unleashes a powerful stab, attacking surrounding enemies at once. A tornado-shaped shock wave engulfs many enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "_id": "shLVAqp2IX8FUDN9",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Can be used at the same time as \"Shrike's Thorn\" and \"Shrike's Thorn II\".</p>\n<p>Adds \"The target cannot perform actions with a [Magic Attack] tag.\" to \"Shrike's Thorn\" and \"Shrike's Thorn II\".<br>This effect is treated as BS and lasts until the target finishes their next main process. If \"Shrike's Thorn\" or \"Shrike's Thorn II\" fails to deal damage to its target, no uses of this skill are expended.<br><br>A special skill that hinders the use of magic by accurately damaging the throat, which is the key to casting spells, and the organ that converges magic power.</p>",
+    "description": "<p>Can be used at the same time as \"Shrike's Thorn\" and \"Shrike's Thorn II\". Adds \"The target cannot perform actions with a [Magic Attack] tag.\" to \"Shrike's Thorn\" and \"Shrike's Thorn II\". This effect is treated as BS and lasts until the target finishes their next main process. If \"Shrike's Thorn\" or \"Shrike's Thorn II\" fails to deal damage to its target, no uses of this skill are expended.</p>\n<p></p>\n<p>A special skill that hinders the use of magic by accurately damaging the throat, which is the key to casting spells, and the organ that converges magic power.</p>",
     "limit": {
       "min": 0,
       "value": 1,

@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use it when determining a result of the search table. The target gets +2 for that check.</p>",
+    "description": "<p>Use it when determining a result of the search table. The target gets + 2 for that check.</p>\n<p></p>\n<p>A spell that allows you to foresee what awaits in your path with the magic of distant vision. Any danger is easy to deal with if you know it in advance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

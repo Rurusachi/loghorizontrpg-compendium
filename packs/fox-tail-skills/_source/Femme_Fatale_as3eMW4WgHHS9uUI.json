@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Hit Checks], and checks made against a character's [Identification Difficulty], when those checks include characters with the [Human] tag.</p>",
+    "description": "<p>You gain a + 1D bonus to [Hit Checks], and checks made against a character's [Identification Difficulty], when those checks include characters with the [Human] tag.</p>",
     "limit": {
       "min": 0,
       "value": 0,

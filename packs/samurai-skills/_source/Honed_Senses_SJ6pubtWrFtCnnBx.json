@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "SJ6pubtWrFtCnnBx",
   "system": {
-    "description": "<p>Use this skill just before making a [Perception Check]. You gain a +2D bonus to the check.<br><br>A special skill that allows you to quickly detect various abnormalities and changes in signs by concentrating your mind.</p>",
+    "description": "<p>Use this skill just before making a [Perception Check]. You gain a +2D bonus to the check.</p>\n<p></p>\n<p>A special skill that allows you to quickly detect various abnormalities and changes in signs by concentrating your mind.</p>",
     "limit": {
       "min": 0,
       "value": 0,

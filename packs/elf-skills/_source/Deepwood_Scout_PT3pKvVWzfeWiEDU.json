@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to the checks of actions with the [Scout] tag.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+    "description": "<p>You gain a + 1D bonus to the checks of actions with the [Scout] tag.</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Point].</p>\n<p></p>\n<p>You have mastered the reconnaissance techniques unique to the elves, the guardians of the deep forest. Your movements take advantage of the surrounding environment, allowing you to see through the enemy's mood without being distracted by your opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,

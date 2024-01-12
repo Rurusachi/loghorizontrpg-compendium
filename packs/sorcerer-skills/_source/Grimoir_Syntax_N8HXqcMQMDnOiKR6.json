@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Your Initiative is 0 until the end of the round. From the viewpoint of you, specify Sq of [Target: Wide [SR x 2] (A) / Range: 4 Sq]. If you use [Target: Range] spraying attack in the first main process of this round, the target of that attack will be changed to [What exists in all designated Sq (A)].</p>",
+    "description": "<p>Your [Initiative] becomes 0 until the end of the Round. From your Sq, designate a Sq of [Target: Wide [SR x 2] (A) / Range: 4 Sq]. If you use a [Magic Attack] with [Target: Area] in the first main process of this round, the target of that attack will be changed to [Target: Things that exist in all designated Sq (A)].</p>\n<p></p>\n<p>A special skill that draws a three-dimensional magic formation by accumulating magical power around it while chanting. Dramatically increases the effective range of magic, but fine control becomes impossible.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When the target rolls on [Exhaustion Table: Energy or Money], they may roll twice and take either result.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+    "description": "<p>When the target rolls on [Exhaustion Table: Energy or Money], they may roll twice and take either result.</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Point].</p>\n<p></p>\n<p>You are protected by the spirit that wards off evil and attracts good fortune. The Spirit will transform a great calamity into a small one.</p>",
     "limit": {
       "min": 0,
       "value": 0,

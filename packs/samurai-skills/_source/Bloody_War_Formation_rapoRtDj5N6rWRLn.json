@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You and the target receive [Rigor]. You gain [Cancel (Attacks from targets with [Rigor]): SR x 5]. The [Rigor] &amp; [Cancel] are canceled at the end of the round, but can not be canceled by any other means.<br><br>(CR 11): The rating of [Cancel] becomes [SR x 10]. <br>(CR 21): The rating becomes [SR x 15].<br><br>A special skill that attracts surrounding enemies and lays out a desperate formation to block their attacks.</p>",
+    "description": "<p>You and the target receive [Rigor]. You gain [Cancel (Attacks from targets with [Rigor]): SR x 5]. The [Rigor] & [Cancel] are canceled at the end of the round, but can not be canceled by any other means.</p>\n<p></p>\n<p>(CR 11): The rating of [Cancel] becomes [SR x 10]. </p>\n<p>(CR 21): The rating becomes [SR x 15].</p>\n<p></p>\n<p>A special skill that attracts surrounding enemies and lays out a desperate formation to block their attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [3D + (Magical Power)] physical damage. The damage of this attack is increased by + [\"Servant Summon: Golem\"'s SR x 5].</p>",
+    "description": "<p>Deal [3D + (Magic Power)] physical damage. The damage of this attack is increased by + [SR of \"Servant Summon: Golem\" x 5].</p>\n<p></p>\n<p>EX power that gives a blow with the golem's powerful fist. Its power increases in proportion to the skill of manipulating the golem.</p>",
     "limit": {
       "min": 0,
       "value": 0,

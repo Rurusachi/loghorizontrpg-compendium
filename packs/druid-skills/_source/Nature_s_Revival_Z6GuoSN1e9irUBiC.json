@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You must have &laquo;Resurrection&raquo; in order to acquire this skill. You immediately use &laquo;Resurrection&raquo; with [Range: 6 Sq.]<br><br>(SR2): When you use this skill, the target of &laquo;Resurrection&raquo; gains [Regen: (Magic Power) + (Recovery) + 10].<br><br>Magic that revives allies and uses pulsation recovery magic at the same time. A resurrection magic unique to &lt;Druids&gt;, which converges the abundant vitality of nature into a single point and activates it.</p>",
+    "description": "<p>You must have «Resurrection» in order to acquire this skill. You immediately use «Resurrection» with [Range: 6 Sq.]</p>\n<p></p>\n<p>(SR2): When you use this skill, the target of «Resurrection» gains [Regen: (Magic Power) + (Recovery) + 10].</p>\n<p></p>\n<p>Magic that revives allies and uses pulsation recovery magic at the same time. A resurrection magic unique to <Druids>, which converges the abundant vitality of nature into a single point and activates it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

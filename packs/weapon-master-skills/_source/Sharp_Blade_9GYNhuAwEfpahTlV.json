@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you gain a +1D bonus to [Weapon Attack] [Hit Checks].</p>\n<p>&nbsp;</p>\n<p>(Fate 1): The bonus changes to +3D.</p>",
+    "description": "<p>During this Main Process, you gain a +1D bonus to [Weapon Attack] [Hit Checks].</p>\n<p></p>\n<p>(Fate 1): The bonus changes to +3D.</p>\n<p></p>\n<p>A special skill that swings the weapon in a sharp trajectory to measure the distance and increase the accuracy of subsequent attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

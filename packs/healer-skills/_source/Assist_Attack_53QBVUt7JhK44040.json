@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target takes [Pursuit] with a rating equal to your [Attack Power].<br><br>A special skill that creates a gap for the enemy with a restraining attack and supports the attacks of allies.</p>",
+    "description": "<p>The target takes [Pursuit] with a rating equal to your [Attack Power].</p>\n<p></p>\n<p>A special skill that creates a gap for the enemy with a restraining attack and supports the attacks of allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

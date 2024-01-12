@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When you acquire this skill, select one of the following: STR, DEX, POW, or INT. Change the name of this skill to be like \"Training: STR\". You can acquire this skill multiple times, but each time must be under a different name. You gain +3 to the chosen Base Stat.</p>",
+    "description": "<p>When you acquire this skill, select one of the following: STR, DEX, POW, or INT. Change the name of this skill to be like \"Training: STR\". You can acquire this skill multiple times, but each time must be under a different name. You gain + 3 to the chosen Base Stat.</p>\n<p></p>\n<p>You are training to improve yourself every day. Developing your strengths, compensating for your weaknesses, and steadily accumulating these things, albeit in different forms, will become the sustenance that supports you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You must be in [Standby]. Your [Weapon Attack] damage rolls gain a + [[DEX Mod] x SR] bonus.<br><br>A special skill that examines the enemy's movements, searches for openings, and unleashes a well-aimed blow. It is the secret of martial arts to get ahead of the enemy whilst you are behind.</p>",
+    "description": "<p>You must be in [Standby]. Your [Weapon Attack] damage rolls gain a + [[DEX Mod] x SR]  bonus.</p>\n<p></p>\n<p>A special skill that examines the enemy's movements, searches for openings, and unleashes a well-aimed blow. It is the secret of martial arts to get ahead of the enemy whilst you are behind.</p>",
     "limit": {
       "min": 0,
       "value": 0,

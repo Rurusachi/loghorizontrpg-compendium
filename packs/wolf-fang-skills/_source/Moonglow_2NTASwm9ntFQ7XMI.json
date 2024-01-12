@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill with any kind of action. During that action, you gain a +[[STR Mod] + 5] bonus to [Recovery].</p>",
+    "description": "<p>Use this skill with any action. During that action, you gain a + [[STR Mod] + 5] bonus to [Recovery].</p>\n<p></p>\n<p>A special skill that activates the wolf factor sleeping within the body and calls in the power of regeneration.</p>",
     "limit": {
       "min": 0,
       "value": 0,

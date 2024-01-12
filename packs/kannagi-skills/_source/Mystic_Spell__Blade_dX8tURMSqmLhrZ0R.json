@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+1)D + (Magic Power)] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Target: Mob): During the Cleanup Process of this round, the target becomes [Incapacitated] or [Dead] (your choice).</p>",
+    "description": "<p>Deal [(SR + 1)D + (Magic Power)] magical damage to the target.</p>\n<p></p>\n<p>(Target: Mob): During the Cleanup Process of this round, the target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>Attack magic that creates countless swords from the memory of the battle of the spirit and rains them down. Swords pass the test. The sword tests the soul of the enemy, and if it is unworthy to stand on the battlefield, it cuts the cord of the soul and kills it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

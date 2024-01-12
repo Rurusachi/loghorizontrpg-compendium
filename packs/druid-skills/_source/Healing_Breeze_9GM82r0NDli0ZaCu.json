@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "9GM82r0NDli0ZaCu",
   "system": {
-    "description": "<p>Restores the target's HP. The recovery amount is equal to the rating of the [Regen] currently affecting them.<br><br>Magic that converts the power of pulsating recovery that works on the target into a healing breeze, instantly recovering.</p>",
+    "description": "<p>Restores the target's HP. The recovery amount is equal to the rating of the [Regen] currently affecting them.</p>\n<p></p>\n<p>Magic that converts the power of pulsating recovery that works on the target into a healing breeze, instantly recovering.</p>",
     "limit": {
       "min": 0,
       "value": 0,

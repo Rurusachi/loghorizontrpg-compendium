@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR 11 or higher. Deal [4D + (Attack Power)] physical damage to the target.<br><br>(Target: Any Bad Status): Increase the damage by +16.<br>(CR21 &amp; Target: Any Bad Status): Add another +10 to damage.<br><br>A skill that unleashes a powerful blow by enveloping a weapon attack with fangs of fire. The fiery fang, a symbol of destruction, burns even more violently with the pain of the enemy as fuel.</p>",
+    "description": "<p>Available at CR 11 or higher. Deal [4D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Any Bad Status): Increase the damage by +16.</p>\n<p>(CR21 & Target: Any Bad Status): Add another +10 to damage.</p>\n<p></p>\n<p>A skill that unleashes a powerful blow by enveloping a weapon attack with fangs of fire. The fiery fang, a symbol of destruction, burns even more violently with the pain of the enemy as fuel.</p>",
     "limit": {
       "min": 0,
       "value": 0,

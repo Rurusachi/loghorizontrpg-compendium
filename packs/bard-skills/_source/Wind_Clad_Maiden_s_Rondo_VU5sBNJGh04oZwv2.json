@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains [Cancel (Non-Close Attacks): 10]. This [Cancel] is removed after applying once. This skill's [Hate] cost is equal to [Number of Targets].</p>\n<p>&nbsp;</p>\n<p>(CR8): Increase the [Cancel] rating to 20.</p>",
+    "description": "<p>The target gains [Cancel (Non-Close Attacks): 10]. This [Cancel] is removed after applying once. This skill's [Hate] cost is equal to [Number of Targets].</p>\n<p></p>\n<p>(CR8) Increase the [Cancel] rating to 20.</p>\n<p>(CR15) Increase the [Cancel] rating to 30.</p>\n<p>(CR22) Increase the [Cancel] rating to 40.</p>\n<p>(CR29) Increase the [Cancel] rating to 50.</p>\n<p></p>\n<p>A special skill that creates a force field that protects the target by playing a melody with liberation and blessings. The repeated melody creates a wind current that deflects attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

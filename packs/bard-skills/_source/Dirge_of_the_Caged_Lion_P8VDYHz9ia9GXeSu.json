@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal 5 direct damage to the target. This skill's [Hate] cost is equal to [Number of Targets + 1].</p>\n<p>&nbsp;</p>\n<p>(Target: Mob &amp; Post-Action): The target becomes [Incapacitated] or [Dead] (your choice). (Target: Mob &amp; Pre-Action): The target becomes [Post-Action].</p>",
+    "description": "<p>Deal 5 penetrating damage to the target. This skill's [Hate] cost is equal to [Number of Targets + 1]. </p>\n<p></p>\n<p>(Target: Mob & Post-Action): The target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p>(Target: Mob & Pre-Action): The target becomes [Post-Action].</p>\n<p></p>\n<p>A special skill that consumes the target's soul by playing a melody with feelings of blockage and restraint. Those who do not have a firm will will find it difficult to move under the resounding elegy.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

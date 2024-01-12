@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after you make an enemy [Incapacitated] or [Dead]. The target may immediately [Normal Move] up to 1 Sq. You can not target yourself with this skill.<br><br>A special skill that draws the enemy's attention with the momentum gained by defeating an enemy and creates a gap for allies to close the distance.</p>",
+    "description": "<p>Use this skill just after you make an enemy [Incapacitated] or [Dead]. The target may immediately [Normal Move] up to 1 Sq. You can not target yourself with this skill.</p>\n<p></p>\n<p>A special skill that draws the enemy's attention with the momentum gained by defeating an enemy and creates a gap for allies to close the distance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

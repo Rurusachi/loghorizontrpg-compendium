@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target. The target takes a -5 penalty to [Physical Defense]. Treat this effect as a Bad Status.<br><br>(Fate 1): The penalty changes to -10.<br><br>A skill that destroys the enemy's armor and skin with a powerful blow, dealing damage and lowering defensive power. It is a technique that makes use of the weight of axes and hammers.</p>",
+    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target. The target takes a -5 penalty to [Physical Defense]. Treat this effect as a Bad Status.</p>\n<p></p>\n<p>(Fate 1): The penalty changes to -10.</p>\n<p></p>\n<p>A skill that destroys the enemy's armor and skin with a powerful blow, dealing damage and lowering defensive power. It is a technique that makes use of the weight of axes and hammers.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill may only target a character with [Incapacitated]. The target removes their [Incapacitated] condition, and recovers [(Magic Power) + (Recovery)] HP.<br><br>(Hate 1): The target may reduce their [Hate] by -2.<br><br>Magic that revitalizes life with magical power and gives the power to rise again to those who have fallen. Basic resurrection magic.</p>",
+    "description": "<p>This skill may only target a character with [Incapacitated]. The target removes their [Incapacitated] condition, and recovers [(Magic Power) + (Recovery)] HP.</p>\n<p></p>\n<p>(Hate 1): The target may reduce their [Hate] by -2.</p>\n<p></p>\n<p>Magic that revitalizes life with magical power and gives the power to rise again to those who have fallen. Basic resurrection magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

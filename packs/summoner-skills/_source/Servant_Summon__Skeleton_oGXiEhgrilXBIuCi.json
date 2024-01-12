@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain the [Undead] tag. You gain a +(STR Mod) to Damage roll for Physical Attacks done by you.</p>\n<p>&nbsp;</p>\n<p>(Effect): Secondary targets within range of [Target: (SR) / Range: 2 Sq.] from you take [Pursuit: 7]. If you are [Hidden] when you inflict [Pursuit] with this skill, you do not lose [Hidden].</p>",
+    "description": "<p>You gain the [Undead] tag. You gain a +(STR Mod) to damage roll for Physical Attacks done by you.</p>\n<p></p>\n<p>(Effect): Secondary targets within range of [Target: [SR] / Range: 2 Sq.] from you take [Pursuit: 7]. If you are [Hidden] when you inflict [Pursuit] with this skill, you do not lose [Hidden].</p>\n<p></p>\n<p>A special skill that summons undead skeletons wearing crude armor and uses them. Skeleton soldiers appear one after another from the ground and attack the enemy according to your attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

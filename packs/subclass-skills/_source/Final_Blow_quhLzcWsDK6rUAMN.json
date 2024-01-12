@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Mercenary, Berserker, or Avenger.\n\nIf the target of the attack is either either [Staggered], [Dazed], [Decay], or [Confusion], and receives at least one point of damage, they gain the [Afflicted] tag.\n</p>",
+    "description": "<p>You may use this skill if your subclass is Mercenary, Berserker, or Avenger.</p>\n<p></p>\n<p>If the target of the attack has [Staggered], [Dazed], [Decay], or [Confusion], and receives at least one point of HP damage, they gain the [Afflicted] tag.</p>\n<p></p>\n<p>This special skill is not to miss when the enemy is flinching and launch a ferocious follow-up attack. On the battlefield, those who show an opening disappear. This technique is a symbol of that golden rule.</p>",
     "limit": {
       "min": 0,
       "value": 0,

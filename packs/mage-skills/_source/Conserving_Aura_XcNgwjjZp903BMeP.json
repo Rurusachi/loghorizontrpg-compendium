@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When the target rolls on the [Exhaustion Table: Item, Money], reduce the result of that roll by -1. \n\n(Bonus): You gain +10 [Max HP].</p>",
+    "description": "<p>When the target rolls on the [Exhaustion Table: Item, Money], reduce the result of that roll by - 1. </p>\n<p></p>\n<p>(Bonus): You gain + 10 [Max HP].</p>\n<p></p>\n<p>You specialize in magic that protects your items from decay and deterioration.</p>",
     "limit": {
       "min": 0,
       "value": 0,

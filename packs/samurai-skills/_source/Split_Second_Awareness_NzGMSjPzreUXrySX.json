@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>When damage would be applied to you, instead treat all damage as having no effect, as if your [Defense Check] had been successful.<br><br>(Hate Top): You recover 20 HP.<br><br>A special skill that instantly sees through the enemy's movements and takes the attack with exquisite breathing to nullify it. In that moment, you embody the essence of martial arts: \"stop the weapon\".</p>",
+    "description": "<p>When damage would be applied to you, instead treat all damage as having no effect, as if your [Defense Check] had been successful.</p>\n<p></p>\n<p>(Hate Top): You recover 20 HP.</p>\n<p></p>\n<p>A special skill that instantly sees through the enemy's movements and takes the attack with exquisite breathing to nullify it. In that moment, you embody the essence of martial arts: \"stop the weapon\".</p>",
     "limit": {
       "min": 0,
       "value": 0,

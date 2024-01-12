@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target may reduce their [Hate] by -3.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): This skill may be used with [Target: Single / Range: 2 Sq.]</p>",
+    "description": "<p>The target may reduce their [Hate] by -3.</p>\n<p></p>\n<p>(Fate 1): This skill may be used with [Target: Single / Range: 2 Sq.]</p>\n<p></p>\n<p>A skill that envelops and hides the target in a magic sheet. Once the curtain falls on the stage, even the enemy loses interest.</p>",
     "limit": {
       "min": 0,
       "value": 0,

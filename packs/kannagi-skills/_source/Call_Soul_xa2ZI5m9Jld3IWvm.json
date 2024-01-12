@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You must have \"Resurrection\" in order to acquire this skill. You immediately use \"Resurrection\" with [Range: 4 Sq.] In addition, the target of \"Resurrection\" is made to [Teleport (Forced)] to the square you are in.</p>\n<p>&nbsp;</p>\n<p>(SR2): When you use this skill, the target of \"Resurrection\" also removes all Bad Statuses currently affecting them.</p>",
+    "description": "<p>You must have \"Resurrection\" in order to acquire this skill. You immediately use \"Resurrection\" with [Range: 4 Sq.] In addition, the target of \"Resurrection\" is made to [Teleport (Forced)] to the square you are in.</p>\n<p></p>\n<p>(SR 2): When you use this skill, the target of \"Resurrection\" also removes all Bad Statuses currently affecting them.</p>\n<p></p>\n<p>A magic that not only brings back the souls of dying bodies, but also brings the bodies of allies back to you by offering prayers to return to the underworld.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "1HkD8RtcjST3R6dW",
   "system": {
-    "description": "<p>You may only target willing characters with this skill. Exchange your [HP] with the target's [HP].<br><br>Magic that recites a scripture that shows praise for life and adapts the target and life force. Your prayers and beliefs transcend the boundaries of your physical body.</p>",
+    "description": "<p>You may only target willing characters with this skill. Exchange your [HP] with the target's [HP].</p>\n<p></p>\n<p>Magic that recites a scripture that shows praise for life and adapts the target and life force. Your prayers and beliefs transcend the boundaries of your physical body.</p>",
     "limit": {
       "min": 0,
       "value": 0,

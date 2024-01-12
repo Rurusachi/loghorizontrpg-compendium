@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>It can only be used when one or more of your [Hand Slots] are empty. As a result of arbitrary roll out of 1 to 6 being taken, obtain 1 kind of target drop item. It can not be used more than once for objects that got dropped items once in the same scenario.</p>\n<p>&nbsp;</p>\n<p>(Crit): The [Hate] value of this special skill is 0, and drop items are not one type, but two different types can be obtained.</p>",
+    "description": "<p>It can only be used when one or more of your [Hand Slots] are empty. As a result of arbitrary roll out of 1 to 6 being taken, obtain 1 kind of target drop item. It can not be used more than once for objects that got dropped items once in the same scenario.</p>\n<p></p>\n<p>(Crit) The [Hate] value of this special skill is 0, and drop items are not one type, but two different types can be obtained.</p>",
     "limit": {
       "min": 0,
       "value": 0,

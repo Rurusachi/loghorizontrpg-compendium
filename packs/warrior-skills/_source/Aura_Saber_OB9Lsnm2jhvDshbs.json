@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR)D + (STR Mod)] penetrating damage to the target. The effects of \"Weapon Mastery\" may apply to this damage roll.<br><br>(Hate Top): This skill gains a +1 bonus to its [Hit Check].<br><br>A special skill that attacks with weapons and fists that are wrapped in a shining aura. A blow filled with fighting spirit and magic can easily pierce through tough armor and scales.</p>",
+    "description": "<p>Deal [(SR)D + (STR Mod)] penetrating damage to the target. The effects of \"Weapon Mastery\" may apply to this damage roll.</p>\n<p></p>\n<p>(Hate Top): This skill gains a +1 bonus to its [Hit Check].</p>\n<p></p>\n<p>A special skill that attacks with weapons and fists that are wrapped in a shining aura. A blow filled with fighting spirit and magic can easily pierce through tough armor and scales.</p>",
     "limit": {
       "min": 0,
       "value": 0,

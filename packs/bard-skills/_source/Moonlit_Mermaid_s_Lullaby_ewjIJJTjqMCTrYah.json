@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR)D] penetrating damage to the target, and the target takes [Dazed]. This skill's [Hate] cost is equal to [Number of Targets + 1].</p>",
+    "description": "<p>Deal [(SR)D] penetrating damage to the target, and the target takes [Dazed]. This skill's [Hate] cost is equal to [Number of Targets + 1].</p>\n<p></p>\n<p>A special skill that plays a melody with feelings of tranquility and soothing, and deprives the target of their fighting spirit. The subject's consciousness will fall asleep, and he will lose his ability to react quickly.</p>",
     "limit": {
       "min": 0,
       "value": 0,

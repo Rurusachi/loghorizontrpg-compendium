@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target. (Target: Decay): Increase the damage of this skill equal to the rating of [Decay] on the target.</p>",
+    "description": "<p>Deal [(SR + 3)D + (Attack Power)] physical damage to the target. </p>\n<p></p>\n<p>(Target: Decay): Increase the damage of this skill equal to the rating of [Decay] on the target.</p>\n<p></p>\n<p>A special skill that enchants the spirit of an inugami, who is an incarnation of a curse, in the armor and devours the enemy. The power of its fangs increases in sharpness according to the strength of the poison or curse that undermines the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

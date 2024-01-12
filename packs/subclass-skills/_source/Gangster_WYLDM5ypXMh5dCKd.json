@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may use this skill if your subclass is Pirate, Outlaw, or Phantom Thief. Deal [2D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Success): Target drops one item, roll on their loot table. It can not be used more than once on the target that dropped the item in the same scenario.</p>\n<p>(Failure): Your [Hate] is increased by 1, but the skill can be used again.</p>",
+    "description": "<p>You may use this skill if your subclass is Pirate, Outlaw, or Phantom Thief.</p>\n<p></p>\n<p>Deal [2D + (Attack power)] physical damage to the target. </p>\n<p></p>\n<p>(Success): Target drops one item. Roll on their loot table to determine the item. This skill can not be used more than once on the target that dropped the item in the same scenario.</p>\n<p></p>\n<p>(Failure): Your [Hate] is increased by + 1, but the skill can be used again.</p>\n<p></p>\n<p>A special skill that allows you to attack and simultaneously steal valuable items from your opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,

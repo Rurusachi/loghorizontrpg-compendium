@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "Og0VNorgSoE2A1d6",
   "system": {
-    "description": "<p>You become [Dazed]. You can not be [Staggered], [Rigor], or [Confused] until this [Dazed] is removed. You may choose to continue to be [Dazed] after the end of your main process. (If you are already in the [Staggered], [Rigor], or [Confused] state, it will be immediately released).<br><br>A special skill that allows you to fend off attacks with ease by putting your mind and body in a state of drunkenness.</p>",
+    "description": "<p>You become [Dazed]. You can not be [Staggered], [Rigor], or [Confused] until this [Dazed] is removed. You may choose to continue to be [Dazed] after the end of your main process. (If you are already in the [Staggered], [Rigor], or [Confused] state, it will be immediately released).</p>\n<p></p>\n<p>A special skill that allows you to fend off attacks with ease by putting your mind and body in a state of drunkenness.</p>",
     "limit": {
       "min": 0,
       "value": 0,

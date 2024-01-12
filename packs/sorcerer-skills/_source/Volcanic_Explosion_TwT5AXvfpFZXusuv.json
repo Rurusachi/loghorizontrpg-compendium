@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(Magic Power) + (SR)D] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Success) Deal [(INT Mod) x (SR)] direct damage as a secondary effect, [What is present in all Sq specified at the time of selecting this special target (A)] in the Cleanup of this round.</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>(Effect) During this round's cleanup, deal direct damage of [(INT Mod) x SR] to secondary target of [Things that exist in all of the Sq specified at the time of selecting targets for this skill (A)].</p>\n<p></p>\n<p>An offensive magic that activates the magic of the earth and creates explosive flames like a volcanic eruption. The flames soar to the heavens and then fall back down to the earth, turning the surrounding area into scorched earth.</p>",
     "limit": {
       "min": 0,
       "value": 0,

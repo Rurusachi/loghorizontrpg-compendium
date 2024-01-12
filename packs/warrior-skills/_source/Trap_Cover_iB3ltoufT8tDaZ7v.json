@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "iB3ltoufT8tDaZ7v",
   "system": {
-    "description": "<p>Use this skill when a target other than yourself receives damage from a Prop or [Gimmick]. During the [Damage Apply Step], you receive the expected HP damage that the target would have received. The target receives no damage. You can only use this skill once in response to any given attack.<br><br>A special skill that protects allies from damage caused by traps and the like, and accepts the damage instead.</p>",
+    "description": "<p>Use this skill when a target other than yourself receives damage from a Prop or [Gimmick]. During the [Damage Apply Step], you receive the expected HP damage that the target would have received. The target receives no damage. You can only use this skill once in response to any given attack.</p>\n<p></p>\n<p>A special skill that protects allies from damage caused by traps and the like, and accepts the damage instead.</p>",
     "limit": {
       "min": 0,
       "value": 0,

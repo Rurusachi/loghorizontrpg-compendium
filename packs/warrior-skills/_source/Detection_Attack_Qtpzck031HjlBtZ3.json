@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.<br><br>(Success): The target becomes [Identified].<br>(Hate 1): This skill gains a +2 bonus to its [Hit Check].<br><br>A special skill that unleashes a blow that tests the opponent's reaction and accurately sees through the enemy's strength.</p>",
+    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Success): The target becomes [Identified].</p>\n<p>(Hate 1): This skill gains a +2 bonus to its [Hit Check].</p>\n<p></p>\n<p>A special skill that unleashes a blow that tests the opponent's reaction and accurately sees through the enemy's strength.</p>",
     "limit": {
       "min": 0,
       "value": 0,

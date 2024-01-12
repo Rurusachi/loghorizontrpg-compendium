@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When you acquire this skill, select one of the following: [Blade] [Spear] [Katana] [Whip] [Hafted] [Martial Arts] [Staff] [Throwing] [Bow] or [Light]. Name this skill like \"Weapon Mastery: Blade\". You can acquire this skill multiple times, but each time must be under a different name with its own separate SR. You gain a +[(SR)D] bonus to [Weapon Attack] damage rolls made with the chosen tag. Each attack cannot receive the effect of more than one \"Weapon Mastery\" at a time.</p>",
+    "description": "<p>When you acquire this skill, select one of the following: [Blade] [Spear] [Katana] [Whip] [Hafted] [Martial Arts] [Staff] [Throwing] [Bow] or [Light]. Name this skill like «Weapon Mastery: Blade». You can acquire this skill multiple times, but each time must be under a different name with its own separate SR. You gain a +[(SR)D] bonus to [Weapon Attack] damage rolls made with the chosen tag. Each attack cannot receive the effect of more than one «Weapon Mastery» at a time.</p>",
     "limit": {
       "min": 0,
       "value": 0,

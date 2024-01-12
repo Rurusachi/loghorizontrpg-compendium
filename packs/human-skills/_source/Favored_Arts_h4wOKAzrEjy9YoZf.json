@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When you acquire this skill, choose one [Combat] skill that you already have acquired. Increase that skill's SR by +1. The chosen skill may exceed your [CR+1], but it cannot exceed its Max SR.</p>",
+    "description": "<p>When you acquire this skill, choose one [Combat] skill that you already have acquired. Increase that skill's SR by + 1. The chosen skill may exceed your [CR + 1], but it cannot exceed its Max SR.</p>\n<p></p>\n<p>You have techniques and magic that you have practiced many times. Because you were born as a human with few distinguishing features, it is your unique secret that you have honed.</p>",
     "limit": {
       "min": 0,
       "value": 0,

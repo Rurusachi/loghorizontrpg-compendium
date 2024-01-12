@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target becomes unable to make [Normal Moves] or [Safe Moves] (except forced movement). This skill's effect ends if either you or the target leave the square.<br><br>A special skill that takes a stance to keep the enemy in front of you in check and concentrate on stopping them.</p>",
+    "description": "<p>The target becomes unable to make [Normal Moves] or [Safe Moves] (except forced movement). This skill's effect ends if either you or the target leave the square.</p>\n<p></p>\n<p>A special skill that takes a stance to keep the enemy in front of you in check and concentrate on stopping them.</p>",
     "limit": {
       "min": 0,
       "value": 0,

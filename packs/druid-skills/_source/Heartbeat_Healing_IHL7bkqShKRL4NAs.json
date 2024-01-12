@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains [Regen: (Magic Power) + 10].<br><br>Magic that activates the target's vitality and gradually heals wounds. It is a recovery magic unique to &lt;Druid&gt; called Hearbeat Healing.</p>",
+    "description": "<p>The target gains [Regen: (Magic Power) + 10].</p>\n<p></p>\n<p>Magic that activates the target's vitality and gradually heals wounds. It is a recovery magic unique to <Druid> called Hearbeat Healing.</p>",
     "limit": {
       "min": 0,
       "value": 0,

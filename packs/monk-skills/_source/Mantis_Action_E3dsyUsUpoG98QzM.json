@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "E3dsyUsUpoG98QzM",
   "system": {
-    "description": "<p>During your first Main Process of this round, you gain an additional Minor Action.<br><br>A special skill that takes a stance that imitates a praying mantis that pounces on its prey and unleashes a rapid succession of attacks.</p>",
+    "description": "<p>During your first Main Process of this round, you gain an additional Minor Action.</p>\n<p></p>\n<p>A special skill that takes a stance that imitates a praying mantis that pounces on its prey and unleashes a rapid succession of attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

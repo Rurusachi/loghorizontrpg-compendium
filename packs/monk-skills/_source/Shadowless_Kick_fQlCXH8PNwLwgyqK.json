@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after you have successfully made a [Defense Check] against an attack from the target. <br><br>(Target: Mob): After the current Main Process ends, the target becomes [Incapacitated] or [Dead] (your choice).<br>(Hate Top): Deal 5 direct damage to the target.<br><br>A special skill that counterattacks while dodging attacks. A high-speed kick that doesn't even leave a trace, instantly incapacitates a seemingly insignificant enemy.</p>",
+    "description": "<p>Use this skill just after you have successfully made a [Defense Check] against an attack from the target. </p>\n<p></p>\n<p>(Target: Mob): After the current Main Process ends, the target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p>(Hate Top): Deal 5 direct damage to the target.</p>\n<p></p>\n<p>A special skill that counterattacks while dodging attacks. A high-speed kick that doesn't even leave a trace, instantly incapacitates a seemingly insignificant enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

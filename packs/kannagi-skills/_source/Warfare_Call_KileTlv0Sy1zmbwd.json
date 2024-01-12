@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Can target only an ally. Use when the target performs [Weapon Attack],  [Magic Attack],  or [Special Attack] on an enemy with the [Boss] tag. The [Hate] cost of that action is reduced by 1 (minimum 0). This skill can continue to be reused in the same round.</p>",
+    "description": "<p>You may only target allies with this skill. Use when the target performs a [Weapon Attack], [Magic Attack], or [Special Attack] on an enemy with the [Boss] or [Raid] tag. The [Hate] cost of that action is reduced by -1 (minimum 0). This skill can only be used during the round it is used once, even if the number of uses is exhausted.</p>\n<p></p>\n<p>A special skill that encourages allies by playing a musical accompaniment to pray for good luck. A blow delivered along with this tone becomes a part of the Shinto ritual, making it less likely to arouse animosity.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You can move an item from an [Inventory Slot] to an [Equipment Slot], or vice versa. You may also drop or pick up an item in your square or change a piece of equipment. There is no limit to the number of equipment changes you may perform with a single action. You can use this basic skill any number of times during a Briefing.</p>",
+    "description": "<p>You can move an item from a [Inventory Slot] to an [Equipment Slot], or vice versa. You may also drop or pick up an item in your square or change a piece of equipment. There is no limit to the number of equipment changes you may perform with a single action. You can use this basic skill any number of times during a Briefing.</p>",
     "limit": {
       "min": 0,
       "value": 1,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During a combat scene, if an ally within 20 Sq. of you is [Incapacitated], you gain a +1D bonus to all checks.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +8 [Max HP].</p>",
+    "description": "<p>During a combat scene, if an ally within 20 Sq of you is [Incapacitated], you gain a + 1D bonus to all checks.</p>\n<p></p>\n<p>(Bonus): You gain + 8 [Max HP].</p>\n<p></p>\n<p>You are a person with hidden strength who shows strength in difficult situations. The wishes and wills entrusted to you by your fallen comrades will double your power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "poWhTuFeWCxlCZrb",
   "system": {
-    "description": "<p>You may make a [Safe Move] of 1 Sq. If your attacks this Main Process trigger [Pursuit], trigger all [Pursuit] stacks instead of just one.<br><br>A special skill that launches the enemy into the air with a jumping attack that looks like they are scooping up from a low position, leaving them defenseless.</p>",
+    "description": "<p>You may make a [Safe Move] of 1 Sq. If your attacks this Main Process trigger [Pursuit], trigger all [Pursuit] stacks instead of just one.</p>\n<p></p>\n<p>A special skill that launches the enemy into the air with a jumping attack that looks like they are scooping up from a low position, leaving them defenseless.</p>",
     "limit": {
       "min": 0,
       "value": 0,

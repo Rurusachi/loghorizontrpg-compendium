@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill only produces an effect if it targets enemies with [Mob]. The target becomes [Incapacitated] or [Dead] (your choice).<br><br>A magic that borrows authority by praying to the existence that protects oneself, and neutralizes a lower-ranked opponent.</p>",
+    "description": "<p>This skill only produces an effect if it targets enemies with [Mob]. The target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>A magic that borrows authority by praying to the existence that protects oneself, and neutralizes a lower-ranked opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,

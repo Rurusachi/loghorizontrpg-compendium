@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain the [Nature] tag. You gain a +1 bonus to [Speed].<br><br>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes [SRx4] direct damage.<br><br>A special skill that summons and uses a Wild Boar, an ancestral spirit that embodies the wildness of nature. The big boar carries you around the battlefield.</p>",
+    "description": "<p>You gain the [Nature] tag. You gain a +1 bonus to [Speed].</p>\n<p></p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes [SRx4] direct damage.</p>\n<p></p>\n<p>A special skill that summons and uses a Wild Boar, an ancestral spirit that embodies the wildness of nature. The big boar carries you around the battlefield.</p>",
     "limit": {
       "min": 0,
       "value": 0,

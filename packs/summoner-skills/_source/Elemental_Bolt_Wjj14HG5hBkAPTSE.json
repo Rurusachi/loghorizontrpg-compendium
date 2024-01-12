@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SRx2) + 2] direct damage to the target. This damage triggers [Weakness] on the secondary target, as if they had failed their [Dodge Check]. You may only use this skill when you have the [Fairy] tag.</p>",
+    "description": "<p>Deal [(SRx2) + 2] direct damage to the target. This damage triggers [Weakness] as if they had failed their [Defense Check]. You may only use this skill when you have the [Fairy] tag.</p>\n<p></p>\n<p>A special skill that commands the summoned servant to attack the enemy with magic arrows. There are few openings, and you can order other attacks in succession.</p>",
     "limit": {
       "min": 0,
       "value": 0,

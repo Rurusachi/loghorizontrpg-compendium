@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Replace Pinpoint with this skill at CR11 or more. During this Main Process, you gain a +[SRx5] bonus to [Weapon Attack] damage rolls.</p>\n<p>&nbsp;</p>\n<p>(CR21): Increase the bonus from +[SRx5] to +[SRx7].</p>",
+    "description": "<p>Available at CR 11 or higher. During this Main Process, you gain a +[SRx5] bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>CR21: Increase the bonus from +[SRx5] to +[SRx7].</p>\n<p></p>\n<p>A special skill that increases the power of attacks by accurately aiming. Your senses instantly see through the point that brings destruction to the target.</p>",
     "limit": {
       "min": 0,
       "value": 0,

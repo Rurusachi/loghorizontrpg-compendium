@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your sub class is Cartographer, Scout, or Explorer. Effects next battle scene. You can see the encounter sheet to use in the next battle. Among the props that appear, the Prop of &ldquo;Detection Difficulty: Automatic&rdquo; gets information as it saw.</p>\n<p>&nbsp;</p>\n<p>(Fumble): Enemy notices reconnaissance.</p>",
+    "description": "<p>You may use this skill if your subclass is Cartographer, Scout, or Explorer.</p>\n<p></p>\n<p>This skill effects next battle scene. You can see the encounter sheet that is to be used in the next battle scene. Among the props that appear, props with “Detection Difficulty: Automatic” gives you information as it appears.</p>\n<p></p>\n<p>(Fumble): Enemy notices your scouting.</p>\n<p></p>\n<p>A special skill that allows one to scout the surrounding terrain and quickly draw up a floor plan.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target may select one skill with [Timing: n/Scene] that they have already used, and recover one use of that skill. A target who could not recover a use of a skill instead gains +1 [Fate Point]. You may not target yourself with this skill.</p>",
+    "description": "<p>The target may select one skill with [Timing: n/Scene] that they have already used, and recover one use of that skill. A target who could not recover a use of a skill instead gains +1 [Fate Point]. You may not target yourself with this skill.</p>\n<p></p>\n<p>A magic that connects you with your allies through an invisible path that stretches across the battlefield like a net, and distributes magical power. Allies regain their vitality in no time and regain full strength.</p>",
     "limit": {
       "min": 0,
       "value": 0,

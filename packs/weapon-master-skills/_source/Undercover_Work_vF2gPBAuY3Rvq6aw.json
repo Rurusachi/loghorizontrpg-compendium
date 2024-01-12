@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just after doing a search table roll. You may see search table roll result from the range of [roll result + 1 to -1], then choose which result you like.</p>",
+    "description": "<p>Use this skill just after doing a search table roll. You may see search table roll result from the range of [roll result + 1 to -1], then choose which result you like.</p>\n<p></p>\n<p>A special skill that allows you to carry out small investigations and crafts in secret, even from your friends, and advance your adventures to your advantage. A capable falcon hides his claws. You grin secretly next to your friends, who laugh at you saying that today was an easy adventure.</p>",
     "limit": {
       "min": 0,
       "value": 0,

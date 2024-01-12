@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may only target allies with this skill. Your [Hate] becomes [Target's (Hate) - 2].</p>",
+    "description": "<p>You may only target allies with this skill. Your [Hate] becomes [Target's (Hate) - 2].</p>\n<p></p>\n<p>A special skill that hides one's appearance by putting up a smokescreen or removing shielding. Enemies will lose sight of you, making it harder for them to target you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

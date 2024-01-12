@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target gains a +2 bonus to their next [Hit Check]. This effect lasts until the end of the scene, or until it has been applied once. This skill may be used multiple times in the same Main Process.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): This skill may be used with [Target: Area (P)].</p>",
+    "description": "<p>The target gains a +2 bonus to their next [Hit Check]. This effect lasts until the end of the scene, or until it has been applied once. This skill may be used multiple times in the same Main Process. </p>\n<p></p>\n<p>(Fate 1): This skill may be used with [Target: Area (P)].</p>\n<p></p>\n<p>A magic that creates a target that supports attacks in front of allies and makes them perform accurate attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

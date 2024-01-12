@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Energy or Money]. Reduce the result of that roll by -3.<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>A special skill that conserves the physical strength and energy of allies and reduces wear and tear by walking while carrying them on their backs, taking on heavy loads, etc.</p>",
+    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Energy or Money]. Reduce the result of that roll by -3.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that conserves the physical strength and energy of allies and reduces wear and tear by walking while carrying them on their backs, taking on heavy loads, etc.</p>",
     "limit": {
       "min": 0,
       "value": 0,

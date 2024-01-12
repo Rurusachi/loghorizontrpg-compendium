@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Increase your [Recovery] by +[INT Mod].</p>",
+    "description": "<p>Increase your [Recovery] by +[INT Mod].</p>\n<p></p>\n<p>You are skilled not only in the art of wounding and defeating enemies with weapons, but also in the skill of using first aid and medicine to heal the wounds of allies. It is truly a work that embodies the inextricability of life and death.</p>",
     "limit": {
       "min": 0,
       "value": 0,

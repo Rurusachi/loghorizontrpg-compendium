@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "2siYkCuhtnOmYDYA",
   "system": {
-    "description": "<p>Add +1 to [Endurance Checks] done by target. You cannot target yourself with this ability.<br><br>With a little encouragement and caress, it is a special skill that shakes up allies who seem to be discouraged in a harsh environment. Just looking at you gives me a little courage.</p>",
+    "description": "<p>Add +1 to [Endurance Checks] done by target. You cannot target yourself with this ability.</p>\n<p></p>\n<p>With a little encouragement and caress, it is a special skill that shakes up allies who seem to be discouraged in a harsh environment. Just looking at you gives me a little courage.</p>",
     "limit": {
       "min": 0,
       "value": 0,

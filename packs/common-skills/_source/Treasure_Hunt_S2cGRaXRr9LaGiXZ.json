@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just before you make a roll on the Treasure Table. You gain a +[SRx5] bonus to that roll.</p>",
+    "description": "<p>Use this skill just before you make a roll on the Treasure Table. You gain a + [SR x 5] bonus to that roll.</p>\n<p></p>\n<p>A special skill that uses all five senses and intuition to find hidden treasures. You won't miss the treasures hidden at the bottom of treasure chests, in the shadows of large rocks, and anywhere else.</p>",
     "limit": {
       "min": 0,
       "value": 0,

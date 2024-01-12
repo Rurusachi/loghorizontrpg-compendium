@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain [Cancel: (STR Mod)]. This cancel lasts until the end of the round.<br><br>(Hate Top): You recover 5 HP.<br><br>A special skill that raises a loud roar and stirs the enemy's hostility towards himself. It also has the effect of preparing for enemy attacks by encouraging oneself.</p>",
+    "description": "<p>You gain [Cancel: (STR Mod)]. This cancel lasts until the end of the round.</p>\n<p></p>\n<p>(Hate Top): You recover 5 HP.</p>\n<p></p>\n<p>A special skill that raises a loud roar and stirs the enemy's hostility towards himself. It also has the effect of preparing for enemy attacks by encouraging oneself.</p>",
     "limit": {
       "min": 0,
       "value": 0,

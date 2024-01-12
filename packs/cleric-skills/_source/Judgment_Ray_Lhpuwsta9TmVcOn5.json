@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR + 2)D + (Magic Power)] magical damage to the target.<br><br>(Fate 2): You may use this skill with [Target: Three].<br><br>An attack magic that converges holy light emitted from the whole body and shoots it out in a beam to mow down the enemy. The brilliance of judgment will reduce many malignant foes to ashes at your will.</p>",
+    "description": "<p>Deal [(SR + 2)D + (Magic Power)] magical damage to the target.</p>\n<p></p>\n<p>(Fate 2): You may use this skill with [Target: Three].</p>\n<p></p>\n<p>An attack magic that converges holy light emitted from the whole body and shoots it out in a beam to mow down the enemy. The brilliance of judgment will reduce many malignant foes to ashes at your will.</p>",
     "limit": {
       "min": 0,
       "value": 0,

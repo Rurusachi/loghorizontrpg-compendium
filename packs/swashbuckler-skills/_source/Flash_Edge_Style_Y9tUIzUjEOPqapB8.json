@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Effective only with two [One Handed] weapons capable of [Weapon Attacks]. You acquire a [Dual Wield] state, and your [Attack Power] is increased by the [Total of [Attack Power] of the two weapons].</p>\n<p>&nbsp;</p>\n<p>(SR 2): When [Pursuit] is activated by your [Weapon Attack] Give direct damage to [Target: Single / Range: 2 Sq] as [Primary Target's Pursuit] to the next target.</p>",
+    "description": "<p>Effective only with two [One Handed] weapons capable of [Weapon Attacks]. You acquire a [Dual Wield] state, and your [Attack Power] is increased by the [Total of [Attack Power] of the two weapons].</p>\n<p></p>\n<p>(SR2) When [Pursuit] is activated by your [Weapon Attack] give direct damage to [Target: Single / Range: 2 Sq] as [Primary Target's Pursuit] to the next target.</p>",
     "limit": {
       "min": 0,
       "value": 0,

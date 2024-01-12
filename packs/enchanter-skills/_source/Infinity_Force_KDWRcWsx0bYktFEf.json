@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill at the beginning of the target's Main Process. During the target's Main Process, the target reduces the [Hate] cost of all actions to 0.</p>\n<p>&nbsp;</p>\n<p>(Fate 2): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+    "description": "<p>Use this skill at the beginning of the target's Main Process. During the target's Main Process, the target reduces the [Hate] cost of all actions to 0. </p>\n<p></p>\n<p>(Fate 2): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>Magic that releases the target's latent ability and allows it to display its maximum power for a very short period of time. The target is wrapped in a golden aura, and can use powerful techniques and magic regardless of the cost.</p>",
     "limit": {
       "min": 0,
       "value": 0,

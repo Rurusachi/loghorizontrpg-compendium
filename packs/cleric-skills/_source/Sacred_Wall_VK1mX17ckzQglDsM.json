@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Reduce the amount of expected HP Damage the target would receive by -[Magic Power]. This skill may only be used once in response to a single attack.<br><br>A magic that creates a dome-shaped protective wall around allies to reduce damage from enemy attacks.</p>",
+    "description": "<p>Reduce the amount of expected HP Damage the target would receive by -[Magic Power]. This skill may only be used once in response to a single attack.</p>\n<p></p>\n<p>A magic that creates a dome-shaped protective wall around allies to reduce damage from enemy attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

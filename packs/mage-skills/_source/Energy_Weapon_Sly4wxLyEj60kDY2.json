@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Select one from: [Flame] [Cold] [Shock]. The target's [Weapon Attack] damage changes to magical damage, and gains the chosen tag. Treat this effect as a Combat Status.\n\n(Fate 1): You may use this skill with [Target: Area (P)].\n(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+    "description": "<p>Select one from: [Flame] [Cold] [Shock]. The target's [Weapon Attack] damage changes to magic damage, and gains the chosen tag. Treat this effect as a Combat Status.</p>\n<p></p>\n<p>(Fate 1): You may use this skill with [Target: Area (P)].</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A spell that casts a spell on an ally's weapon, enveloping it in flame, cold, and shock.</p>",
     "limit": {
       "min": 0,
       "value": 0,

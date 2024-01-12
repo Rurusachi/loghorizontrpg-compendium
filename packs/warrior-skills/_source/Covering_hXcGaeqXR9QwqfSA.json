@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "hXcGaeqXR9QwqfSA",
   "system": {
-    "description": "<p>During the [Damage Apply Step], you receive the expected HP damage that a target other than yourself would have received. The target receives no damage. You can only use this skill once in response to any given attack.<br><br>A skill that protects allies from attacks.</p>",
+    "description": "<p>During the [Damage Apply Step], you receive the expected HP damage that a target other than yourself would have received. The target receives no damage. You can only use this skill once in response to any given attack.</p>\n<p></p>\n<p>A skill that protects allies from attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

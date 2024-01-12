@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The negative [Initiative] modifiers on all items you have equipped become 0.</p>",
+    "description": "<p>The negative [Initiative] modifiers on all items you have equipped become 0.</p>\n<p></p>\n<p>You are not slowed down by heavy weapons or armor. There are various reasons for this, such as the ingenuity of the equipment and the results of training.</p>",
     "limit": {
       "min": 0,
       "value": 0,

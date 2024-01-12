@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>When the target rolls on the [Exhaustion Table: Stamina or Energy], reduce the result of that roll by -1.<br><br>(Bonus): You gain +10 [Max HP].<br><br>You are good at managing groups efficiently. It will alleviate the mental and physical exhaustion that comes from various predicaments.</p>",
+    "description": "<p>When the target rolls on the [Exhaustion Table: Stamina or Energy], reduce the result of that roll by -1.</p>\n<p></p>\n<p>(Bonus): You gain +10 [Max HP].</p>\n<p></p>\n<p>You are good at managing groups efficiently. It will alleviate the mental and physical exhaustion that comes from various predicaments.</p>",
     "limit": {
       "min": 0,
       "value": 0,

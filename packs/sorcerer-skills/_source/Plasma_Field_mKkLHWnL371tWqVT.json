@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(Magical Power) + (SR)D] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Success) You get [Barrier: (POW Mod) x SR].</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magic damage to the target(s).</p>\n<p></p>\n<p>(Effect) You gain a [Barrier: [POW Mod] x SR].</p>\n<p></p>\n<p>An offensive spell that clads oneself in powerful lightning magic and slams it into the enemy. The protection of lightning can also be used as armor to protect yourself.</p>",
     "limit": {
       "min": 0,
       "value": 0,

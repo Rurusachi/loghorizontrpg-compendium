@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. When you end your movement, if there are enemies in any adjacent square, you may choose one to make a [Safe Move (forced)] to the square you are in.<br><br>A special skill that moves in a posture as if to ram the enemy and set up a feint. Enemies deluded by your movements will take a step forward to catch you.</p>",
+    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. When you end your movement, if there are enemies in any adjacent square, you may choose one to make a [Safe Move (forced)] to the square you are in.</p>\n<p></p>\n<p>A special skill that moves in a posture as if to ram the enemy and set up a feint. Enemies deluded by your movements will take a step forward to catch you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

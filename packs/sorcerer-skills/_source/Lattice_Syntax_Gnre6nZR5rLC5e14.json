@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "Gnre6nZR5rLC5e14",
   "system": {
-    "description": "<p>During your first Main Process this round, your [Magic Attacks] with [Target: Single (or more), Area (P)] change to [Target: Wide 1 (P)].<br><br>A special skill that spreads magic widely on the ground to develop a huge planar magic circle, and by it reacting with the range attack magic used next, it will spread the effect over a wide area.</p>",
+    "description": "<p>During your first Main Process this round, your [Magic Attacks] with [Target: Single (or more), Area (P)] change to [Target: Wide 1 (P)].</p>\n<p></p>\n<p>A special skill that spreads magic widely on the ground to develop a huge planar magic circle, and by it reacting with the range attack magic used next, it will spread the effect over a wide area.</p>",
     "limit": {
       "min": 0,
       "value": 0,

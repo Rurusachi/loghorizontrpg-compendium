@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Rigor].</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Rigor].</p>\n<p></p>\n<p></p>\n<p>An offensive magic that creates a force field filled with vibrations that erode the mind, causing nightmares to enemies inside. Enemies stop in fear at the horrifying sight.</p>",
     "limit": {
       "min": 0,
       "value": 0,

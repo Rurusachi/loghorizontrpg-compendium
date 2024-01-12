@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "eJoiXqifTaIeFSTT",
   "system": {
-    "description": "<p>You gain [Initiative] equal to [SRx3]. This effect lasts until the end of the round.<br><br>A special skill that enhances physical ability and gains tremendous instantaneous power. When it comes to staying ahead of the curve, few can match you.</p>",
+    "description": "<p>You gain [Initiative] equal to [SRx3]. This effect lasts until the end of the round.</p>\n<p></p>\n<p>A special skill that enhances physical ability and gains tremendous instantaneous power. When it comes to staying ahead of the curve, few can match you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

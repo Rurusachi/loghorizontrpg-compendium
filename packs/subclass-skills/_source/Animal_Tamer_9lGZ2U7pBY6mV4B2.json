@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Tamer, Knight, Coachman, or Nomad. You receive one basic item that has the [Summon] tag with an IR that you can use.</p>\n<p>&nbsp;</p>\n<p>(Fate 2): You can receive a [Summon] tag item with a magic grade that is [M2] or less (except for named items).</p>",
+    "description": "<p>You may use this skill if your subclass is Tamer, Farmer, Knight, Coachman, or Nomad.</p>\n<p></p>\n<p>You obtain one general item that has the [Summon] tag with an Item Rank equal to your CR or lower.</p>\n<p></p>\n<p>(Fate 2):  You can receive a [Summon] tag item with a magic grade that is [M2] or lower (excluding named items).</p>\n<p></p>\n<p>A special skill that allows you to form a deep bond with your mount through training, and as proof of that, obtain a whistle that can summon the mount.</p>",
     "limit": {
       "min": 0,
       "value": 0,

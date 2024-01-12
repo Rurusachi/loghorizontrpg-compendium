@@ -12,7 +12,7 @@
     }
   },
   "system": {
-    "description": "<p>Available at CR 11 or higher. Used when you take HP Damage. Reduce the expected HP Damage by -[SR x 5].<br><br>(CR21): Change [SR x 5] to [SR x 7]<br><br>A special skill that reduces damage by blocking enemy attacks with a strong part of the equipment. The proof of a superior &lt;Guardian&gt; is the ability to dare to step into the line of death to minimize injuries.</p>",
+    "description": "<p>Available at CR 11 or higher. Used when you take HP Damage. Reduce the expected HP Damage by -[SR x 5].</p>\n<p></p>\n<p>(CR21): Change [SR x 5] to [SR x 7]</p>\n<p></p>\n<p>A special skill that reduces damage by blocking enemy attacks with a strong part of the equipment. The proof of a superior <Guardian> is the ability to dare to step into the line of death to minimize injuries.</p>",
     "limit": {
       "min": 0,
       "value": 1,

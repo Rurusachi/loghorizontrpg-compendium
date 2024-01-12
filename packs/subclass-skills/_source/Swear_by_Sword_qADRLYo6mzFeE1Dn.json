@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Knight, Hero, or Wuxia.\n\nOnly those who agree other than you can be targeted. When you use 'Protect' as a target, it will be [Range: 1 Sq.] and you do not become [Post-Action] and can be used even in [Post-Action]. This effect lasts until the end of the scenario.</p>",
+    "description": "<p>You may use this skill if your subclass is Knight, Hero, or Wuxia.</p>\n<p></p>\n<p>You can only target people other than yourself who are willing with this skill. When you use \"Protect\" on the target, it becomes [Range: 1 Sq] and you will not become [Post-Action]. This can be used while [Post-Action]. This effect lasts until the end of the scenario.</p>\n<p></p>\n<p>A special skill in which one swears an oath of protection over one's own sword. As long as I hold this oath, I will never let any blade reach me.</p>",
     "limit": {
       "min": 0,
       "value": 0,

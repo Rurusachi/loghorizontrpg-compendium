@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "HBXPBvghEucCaaM1",
   "system": {
-    "description": "<p>During this Main Process, you gain a +[SRx3] bonus to [Weapon Attack] damage rolls.<br><br>A skill that raises the power of subsequent attacks by swinging the weapon around.</p>",
+    "description": "<p>During this Main Process, you gain a +[SRx3] bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>A skill that raises the power of subsequent attacks by swinging the weapon around.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +3 bonus to [Magic Power]. Treat this effect as a Combat Status.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+    "description": "<p>You gain a + 3 bonus to [Magic Power]. Treat this effect as a Combat Status.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that releases the magical power of patterns that symbolize creation and increases the power of one's own magic. As a member of the Ritual tribe, powerful patterns are engraved on your body.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target gains [Barrier: (Recovery) + (SRx4)]. This [Barrier] does not overwrite [Barrier] effects the target is already affected by,  and instead adds to its rating.</p>",
+    "description": "<p>The target gains [Barrier: (Recovery) + (SR x 4)]. This [Barrier] does not overwrite [Barrier] effects the target is already affected by, and instead adds to its rating.</p>\n<p></p>\n<p>A magic that creates a barrier that protects allies with the sound of a bell that wards off misfortune. Its effect is small on its own, but it can be used on top of other barriers.</p>",
     "limit": {
       "min": 0,
       "value": 0,

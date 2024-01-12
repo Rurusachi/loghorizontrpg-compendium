@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You get the [Night Vision] tag.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+    "description": "<p>You get the [Night Vision] tag.</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Point].</p>\n<p></p>\n<p>As a cat race, your eyes can see through darkness without any trouble.</p>",
     "limit": {
       "min": 0,
       "value": 0,

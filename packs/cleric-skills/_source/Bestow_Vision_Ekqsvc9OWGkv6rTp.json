@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "Ekqsvc9OWGkv6rTp",
   "system": {
-    "description": "<p>Choose either [Weapon Attack] or [Magic Attack]. The target gains +1D to their [Accuracy Check] to skills with the selected tag. You gain -1D to [Accuracy Check] to skills with the selected tag. This effect lasts until the end of the round.<br><br>A spell that allows you to share your concentration with allies and unleash a sharp blow.</p>",
+    "description": "<p>Choose either [Weapon Attack] or [Magic Attack]. The target gains +1D to their [Accuracy Check] to skills with the selected tag. You gain -1D to [Accuracy Check] to skills with the selected tag. This effect lasts until the end of the round.</p>\n<p></p>\n<p>A spell that allows you to share your concentration with allies and unleash a sharp blow.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Energy], they may roll twice and use either result.<br><br>(Bonus): You gain +1 Starting Fate Point.<br><br>You can minimize the consumption of everyone's physical strength and energy by integrating the circulation of energy with your friends. You will be able to traverse even the toughest and longest roads without getting out of breath.</p>",
+    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Energy], they may roll twice and use either result.</p>\n<p></p>\n<p>(Bonus): You gain +1 Starting Fate Point.</p>\n<p></p>\n<p>You can minimize the consumption of everyone's physical strength and energy by integrating the circulation of energy with your friends. You will be able to traverse even the toughest and longest roads without getting out of breath.</p>",
     "limit": {
       "min": 0,
       "value": 0,

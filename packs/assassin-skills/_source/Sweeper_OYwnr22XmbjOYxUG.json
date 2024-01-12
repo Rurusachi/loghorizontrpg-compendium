@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>If the target's HP is equal to or less than your [[POW Mod] x 3], it becomes [Incapacitated] or [Dead] (your choice). If the target could not be made [Incapacitated] or [Dead] through this skill, then the [Hate] cost of this skill is 0.</p>\n<p>&nbsp;</p>\n<p>(Target: Mob): Regardless of HP, the target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p>&nbsp;</p>\n<p>A special skill that sneaks up with the minimum necessary movement and stabs the target for the finishing blow. Neutralize dying opponents and lower-ranked enemies.</p>",
+    "description": "<p>If the target's HP is equal to or less than your [(POW Mod) x 3], it becomes [Incapacitated] or [Dead] (your choice). If the target could not be made [Incapacitated] or [Dead] through this skill, then the [Hate] cost of this skill is 0.</p>\n<p></p>\n<p>(Target: Mob): Regardless of HP, the target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>A special skill that sneaks up with the minimum necessary movement and stabs the target for the finishing blow. Neutralize dying opponents and lower-ranked enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

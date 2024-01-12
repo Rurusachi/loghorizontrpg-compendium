@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Can be acquired with CR 11 or higher. Deal [SR+[POW mod]] direct damage to the target. This damage triggers [Pursuit] once, as if the target had failed their [Dodge Check]. This skill may be used multiple times in the same Main Process.</p>",
+    "description": "<p>Available at CR 11 or higher. Deal [SR + [POW Mod]] direct damage to the target. This damage triggers [Pursuit] once, as if the target had failed their [Dodge Check]. This skill may be used multiple times in the same Main Process.</p>\n<p></p>\n<p>A magic that fires countless bullets of light that track the target and shoot the enemy. The bullets that are unavoidable are small one by one, but their quantity will cause damage that cannot be ignored.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

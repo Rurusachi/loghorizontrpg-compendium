@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You can detect all Props and [Gimmicks] that have the [Magical] tag within line of sight as if they had [Detection Difficulty: Automatic].</p>",
+    "description": "<p>You can detect all Props and [Gimmicks] that have the [Magical] tag within line of sight as if they had [Detection Difficulty: Automatic].</p>\n<p></p>\n<p>You have an eye that is sensitive to the workings of magic. Elf blood teaches you magical traps and objects.</p>",
     "limit": {
       "min": 0,
       "value": 0,

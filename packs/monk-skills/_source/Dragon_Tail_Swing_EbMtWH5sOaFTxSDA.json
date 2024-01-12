@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.<br><br>(Hate 1): The target also takes [Staggered]. This additional effect may only be used [SR] times per scenario.<br><br>A special skill that uses its limbs as a dragon's tail and unleashes a spinning attack that sweeps away surrounding enemies all at once. By releasing it carefully, the enemy will stop moving as if pressured by the power of the dragon.</p>",
+    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Hate 1): The target also takes [Staggered]. This additional effect may only be used [SR] times per scenario.</p>\n<p></p>\n<p>A special skill that uses its limbs as a dragon's tail and unleashes a spinning attack that sweeps away surrounding enemies all at once. By releasing it carefully, the enemy will stop moving as if pressured by the power of the dragon.</p>",
     "limit": {
       "min": 0,
       "value": 0,

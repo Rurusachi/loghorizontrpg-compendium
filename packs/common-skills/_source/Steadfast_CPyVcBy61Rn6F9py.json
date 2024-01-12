@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this when you are forcibly moved. When Forced move,  reduce the distance by [SR] Sq. When the movement distance becomes 0 Sq or less,  forcible movement is invalid.</p>",
+    "description": "<p>Use this when you are forced to move. Reduce the distance by - [SR] Sq. If the movement distance becomes 0 Sq or lower, the forced movement is invalid.</p>\n<p></p>\n<p>A special ability that deflects shock and resists movement against one's will by forcing one's feet on the ground.</p>",
     "limit": {
       "min": 0,
       "value": 0,

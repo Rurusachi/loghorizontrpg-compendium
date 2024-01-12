@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [2D + [Magic Power]] magical damage to the targets.<br><br>(Fate 2): The targets take [Confusion].<br><br>An offensive magic that rains down brilliance that judges the sins of the earth and can defeat countless enemies. The light of damnation ruthlessly pierces through all hostile beings.</p>",
+    "description": "<p>Deal [2D + [Magic Power]] magical damage to the targets.</p>\n<p></p>\n<p>(Fate 2): The targets take [Confusion].</p>\n<p></p>\n<p>An offensive magic that rains down brilliance that judges the sins of the earth and can defeat countless enemies. The light of damnation ruthlessly pierces through all hostile beings.</p>",
     "limit": {
       "min": 0,
       "value": 0,

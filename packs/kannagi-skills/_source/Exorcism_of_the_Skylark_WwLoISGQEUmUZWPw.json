@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Success): You may make a [Normal Move] of up to 2 Sq.</p>\n<p>(SR2): The [Normal Move] becomes a [Safe Move].</p>\n<p>(SR3): The [Normal Move] becomes a [Teleport].</p>",
+    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Success): You may make a [Normal Move] of up to 2 Sq.</p>\n<p>(SR 2): The [Normal Move] becomes a [Safe Move]. </p>\n<p>(SR 3): The [Safe Move] becomes a [Teleport].</p>\n<p></p>\n<p>A special skill that blows up skylark feathers at the same time as attacking, and hides in it and moves. The divine protection of the skylark, which is known as the Angel of Heaven, will tell you the way to heaven.</p>",
     "limit": {
       "min": 0,
       "value": 0,

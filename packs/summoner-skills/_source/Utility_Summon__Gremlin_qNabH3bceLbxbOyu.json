@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just before making an [Analyze Check]. You gain a +2D bonus to the check.</p>",
+    "description": "<p>Use this skill just before making an [Analyze Check]. You gain a +2D bonus to the check.</p>\n<p></p>\n<p>A special skill that summons gremlin, a mischievous fairy in the form of a child, to investigate a device in front of you. Familiar with machines, they quickly understand complex structures.</p>",
     "limit": {
       "min": 0,
       "value": 0,

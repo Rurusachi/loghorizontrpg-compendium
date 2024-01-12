@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain [Cancel: [(INT Mod) + (SRx5) ]. This [Cancel] can only be removed by ending this skill. In addition, you take a -1D penalty to [Dodge Check].<br><br>A special skill that throws away evasion and takes a stance to receive the enemy's attack. By releasing the impact from your stepped foot to the earth, your body becomes an impregnable iron wall like an immovable rhinoceros.</p>",
+    "description": "<p>You gain [Cancel: [(INT Mod) + (SRx5) ]. This [Cancel] can only be removed by ending this skill. In addition, you take a -1D penalty to [Dodge Check].</p>\n<p></p>\n<p>A special skill that throws away evasion and takes a stance to receive the enemy's attack. By releasing the impact from your stepped foot to the earth, your body becomes an impregnable iron wall like an immovable rhinoceros.</p>",
     "limit": {
       "min": 0,
       "value": 0,

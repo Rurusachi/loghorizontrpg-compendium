@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Normal Move] of 3 Sq. During this movement, if you are not targeted by [Hinder], you may make a extra [Normal Move] of 1 Sq. \n\n(Minor): You can not be targeted by [Hinder] during this movement.</p>",
+    "description": "<p>You may make a [Normal Move] up to 3 Sq. During this movement, if you are not targeted by [Hinder], you may make an extra [Normal Move] up to 1 Sq. </p>\n<p></p>\n<p>(Minor): You can not be targeted by [Hinder] during this movement.</p>\n<p></p>\n<p>An EX power that represents the ghostly steps of a Nightmare. Your mount doesn't even clatter its hooves, slipping silently past your foes.</p>",
     "limit": {
       "min": 0,
       "value": 0,

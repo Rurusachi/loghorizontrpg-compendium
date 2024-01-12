@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Noble, or Sage. Use this skill when you do a [Negotiate]. Gain +1D to that check.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): The check becomes critical.</p>",
+    "description": "<p>You may use this skill if your subclass is Noble, Princess of the Rose Garden, or Hero.</p>\n<p></p>\n<p>Use this skill when you make a [Negotiate Check]. You gain + 1D to that check.</p>\n<p></p>\n<p>(Fate 1): The check becomes critical.</p>\n<p></p>\n<p>You have a special ability to impress others with your naturally noble aura, charm, and demeanor.</p>",
     "limit": {
       "min": 0,
       "value": 0,

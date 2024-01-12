@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill when a skill would cost you a single [Fate Point]. The effect of that skill activates without you spending the [Fate Point].</p>",
+    "description": "<p>Use this skill when a skill would cost you a single [Fate Point]. The effect of that skill activates without you spending the [Fate Point].</p>\n<p></p>\n<p>You can temporarily bring out the true value of your magic and techniques through the blessings of the tail of the foxtail tribe, which has hidden magical powers.</p>",
     "limit": {
       "min": 0,
       "value": 0,

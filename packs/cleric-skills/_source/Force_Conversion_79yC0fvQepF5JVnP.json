@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Requires \"Reactive Mastery\" to use. You can not use \"Reactive Heal\", but gain +[(Reactive Mastery's SR) x 5] to a damage roll you do. This effect lasts until the end of the round.<br><br>A special skill that diverts the magical power of Reactive Heal and increases the power by enveloping it in a weapon. However, it is necessary to be careful that the original recovery effect cannot be used.</p>",
+    "description": "<p>Requires \"Reactive Mastery\" to use. You can not use \"Reactive Heal\", but gain +[(Reactive Mastery's SR) x 5] to a damage roll you do. This effect lasts until the end of the round.</p>\n<p></p>\n<p>A special skill that diverts the magical power of Reactive Heal and increases the power by enveloping it in a weapon. However, it is necessary to be careful that the original recovery effect cannot be used.</p>",
     "limit": {
       "min": 0,
       "value": 0,

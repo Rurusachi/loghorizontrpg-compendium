@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target.<br><br>(Fate 1 &amp; Effect): This skill changes to [Range: 2 Sq.] After the current Main Process ends, you [Teleport] to the same square as the target.<br><br>A skill that soars like a flying dragon and unleashes a powerful jumping kick. By putting in power, you can jump in and hit enemies farther away.</p>",
+    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Fate 1 & Effect): This skill changes to [Range: 2 Sq.] After the current Main Process ends, you [Teleport] to the same square as the target.</p>\n<p></p>\n<p>A skill that soars like a flying dragon and unleashes a powerful jumping kick. By putting in power, you can jump in and hit enemies farther away.</p>",
     "limit": {
       "min": 0,
       "value": 0,

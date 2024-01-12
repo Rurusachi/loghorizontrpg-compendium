@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "f9XnfAVB1o9FyRFH",
   "system": {
-    "description": "<p>During your first Main Process this round, your [Magic Attacks] with [Target: Single] change to [Target: Three].<br><br>A special skill that deploys magical power in space to build a pillar-shaped layered magic circle around you, and deploys multiple attack magic for the next use. The completed magic attacks multiple enemies at the same time.</p>",
+    "description": "<p>During your first Main Process this round, your [Magic Attacks] with [Target: Single] change to [Target: Three].</p>\n<p></p>\n<p>A special skill that deploys magical power in space to build a pillar-shaped layered magic circle around you, and deploys multiple attack magic for the next use. The completed magic attacks multiple enemies at the same time.</p>",
     "limit": {
       "min": 0,
       "value": 0,

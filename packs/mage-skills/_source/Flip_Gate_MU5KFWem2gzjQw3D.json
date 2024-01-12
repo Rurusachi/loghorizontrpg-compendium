@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target of this skill must be willing. Choose any square up to 5 Sq. away. The target makes a [Teleport] to that square.</p>",
+    "description": "<p>The target of this skill must be willing. Choose any square up to 5 Sq. away. The target makes a [Teleport] to that square.</p>\n<p></p>\n<p>Magic that creates a gate that allows short-distance teleportation. Multiple people can pass through the gate at the same time, but it disappears in a very short time.</p>",
     "limit": {
       "min": 0,
       "value": 0,

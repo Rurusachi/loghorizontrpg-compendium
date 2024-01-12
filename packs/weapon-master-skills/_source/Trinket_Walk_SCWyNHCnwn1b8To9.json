@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, reduce the [Hate] cost of your [Timing: Major] actions to 0.</p>",
+    "description": "<p>During this Main Process, reduce the [Hate] cost of your [Timing: Major] actions to 0.</p>\n<p></p>\n<p>A skill that dazzles the enemy and crosses them out of sight, setting the stage for the next attack. The enemy will feel pain without even knowing who carried out the subsequent attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

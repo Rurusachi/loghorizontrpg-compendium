@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Target recieves [High Level Protection] tag. This tag lasts until the end of the scene. <br><br>(Fate 2): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>A feat that provides allies with higher magical protection. This protection protects against magical or natural calamities. A must-have spell for high-level adventures.</p>",
+    "description": "<p>Target recieves [High Level Protection] tag. This tag lasts until the end of the scene. </p>\n<p></p>\n<p>(Fate 2): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A feat that provides allies with higher magical protection. This protection protects against magical or natural calamities. A must-have spell for high-level adventures.</p>",
     "limit": {
       "min": 0,
       "value": 0,

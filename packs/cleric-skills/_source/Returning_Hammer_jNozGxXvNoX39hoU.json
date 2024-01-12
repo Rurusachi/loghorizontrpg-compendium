@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target.<br><br>A special skill that attacks by throwing heavy weapons that are normally unsuitable for throwing. With the power of your faith, your weapon leaves a glowing trail that pierces through your foes and returns to you.</p>",
+    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>A special skill that attacks by throwing heavy weapons that are normally unsuitable for throwing. With the power of your faith, your weapon leaves a glowing trail that pierces through your foes and returns to you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

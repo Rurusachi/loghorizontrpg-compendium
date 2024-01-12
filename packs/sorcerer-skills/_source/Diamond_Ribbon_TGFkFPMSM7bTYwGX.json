@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(Magic Power) + (SRx2)D] as magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Success) In the next Main Process of the target, regardless of the current value, treat you as [Hate Top] and treat allies other than you as [Hate Under].</p>",
+    "description": "<p>Deal [(SR x 2)D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>(Effect) In the next Main Process of the target, regardless of the current value, treat you as [Hate Top] and treat allies other than you as [Hate Under].</p>\n<p></p>\n<p>Attack magic that binds the enemy with a belt of cold air and freezes them. The belt binds you to your enemies and focuses their attention on you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

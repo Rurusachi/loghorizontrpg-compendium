@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "SYAvqKv0JkCoWSlH",
   "system": {
-    "description": "<p>Only [Mob] can be targeted with this skill. If you have not performed an attack on the target during this round, it becomes [Incapacitated] or [Dead] (your choice).<br><br>A special skill that gives a deadly blow to an enemy who has lost the will to fight. Don't miss the opportunity to show your cowardice with a trained fist.</p>",
+    "description": "<p>Only [Mob] can be targeted with this skill. If you have not performed an attack on the target during this round, it becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>A special skill that gives a deadly blow to an enemy who has lost the will to fight. Don't miss the opportunity to show your cowardice with a trained fist.</p>",
     "limit": {
       "min": 0,
       "value": 0,

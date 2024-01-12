@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target. (Self: Hidden): The target takes [Confusion].</p>\n<p>&nbsp;</p>\n<p>A skill that appears from a blind spot and delivers a sharp blow. Enemies are thrown into a vortex of chaos by an unexpected impact.</p>",
+    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Self: Hidden): The target takes [Confusion].</p>\n<p></p>\n<p>A skill that appears from a blind spot and delivers a sharp blow. Enemies are thrown into a vortex of chaos by an unexpected impact.</p>",
     "limit": {
       "min": 0,
       "value": 0,

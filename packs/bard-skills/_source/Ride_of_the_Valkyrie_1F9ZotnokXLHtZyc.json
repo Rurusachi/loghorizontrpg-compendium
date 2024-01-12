@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill cannot effect you. The targets immediately performs a [Timing: Move] action with [Movement] tag once.</p>",
+    "description": "<p>This skill cannot target yourself. The targets immediately performs a [Timing: Move] action with [Movement] tag once.</p>\n<p></p>\n<p>A special skill that makes the melody that the battle maiden plays when carrying the soul of a warrior resounds, and moves her companions quickly.</p>",
     "limit": {
       "min": 0,
       "value": 0,

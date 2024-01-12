@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "TkEulmFv6luD7VfC",
   "system": {
-    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. After you end your movement, if there is an enemy in squares adjacent to the one you are in, you may make a [Safe Move] to that square.<br><br>A special skill that relentlessly closes in on the target enemy with clinging bee-like movements.</p>",
+    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. After you end your movement, if there is an enemy in squares adjacent to the one you are in, you may make a [Safe Move] to that square.</p>\n<p></p>\n<p>A special skill that relentlessly closes in on the target enemy with clinging bee-like movements.</p>",
     "limit": {
       "min": 0,
       "value": 0,

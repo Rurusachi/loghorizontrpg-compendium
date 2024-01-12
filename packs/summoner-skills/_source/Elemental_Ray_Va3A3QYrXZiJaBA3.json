@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (INT Mod)] penetrating damage to the target. You may only use this skill when you have the [Fairy] tag.</p>",
+    "description": "<p>Deal [(SR)D + [INT Mod]] penetrating damage to the target. You may only use this skill when you have the [Fairy] tag.</p>\n<p></p>\n<p>An offensive spell that commands a fairy that is following a summoner to emit a ray imbued with the power of an attribute. The light of the color that symbolizes the attribute mows down the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

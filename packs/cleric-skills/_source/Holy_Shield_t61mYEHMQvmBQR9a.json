@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [1D +((One [Shield] you have equipped)'s (Magical Defense))] penetrating damage to the target.<br><br>(SR2) Inflict [Pursuit] on the target. Its rating is equal to the ([Magical Defense) of one [Shield] you have equipped).<br><br>A special skill that applies the shield's concept of \"reflecting attacks\" to reverse the effect of reaction-activated recovery and scrape away the target's vitality.</p>",
+    "description": "<p>Deal [1D +((One [Shield] you have equipped)'s (Magical Defense))] penetrating damage to the target.</p>\n<p></p>\n<p>(SR2) Inflict [Pursuit] on the target. Its rating is equal to the ([Magical Defense) of one [Shield] you have equipped).</p>\n<p></p>\n<p>A special skill that applies the shield's concept of \"reflecting attacks\" to reverse the effect of reaction-activated recovery and scrape away the target's vitality.</p>",
     "limit": {
       "min": 0,
       "value": 0,

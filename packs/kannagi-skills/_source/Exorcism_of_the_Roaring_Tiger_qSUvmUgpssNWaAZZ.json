@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Target takes [Rigor].</p>\n<p>&nbsp;</p>\n<p>(Target: Dazed, Staggered): The target can not attack at [Range: Close]. This effect is handled as Life Status with the [Sealed] tag, and it continues until the target pays 2 [Fate Points].</p>",
+    "description": "<p>Target takes [Rigor]. </p>\n<p></p>\n<p>(Target: Dazed, Staggered): The target can no longer attack at [Range: Close]. This effect is handled as Life Status with the [Sealed] tag, and it continues until the target consumes 2 [Fate Points].</p>\n<p></p>\n<p>A special skill that wields a sword and creates a terrifying illusion from the void to make the enemy cower. It is said that many opponents can see the fierce tiger roaring as if it is about to jump.</p>",
     "limit": {
       "min": 0,
       "value": 0,

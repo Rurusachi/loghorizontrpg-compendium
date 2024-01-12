@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain [Riding: Gray Wolf] state. While you are in the [Riding: Gray Wolf] state, you can use the EX power \"Grass Hiker\" \"Drag Fang\" and increase your damage roll by +[\"Servant Summon: Gray Wolf\" SR x 4].<br><br>A special skill that summons a large gray wolf that can be ridden and fights together against foes. The stronger the bond, the sharper the wolf's fangs.</p>",
+    "description": "<p>You gain [Riding: Gray Wolf] state. While you are in the [Riding: Gray Wolf] state, you can use the EX power \"Grass Hiker\" \"Drag Fang\" and increase your damage roll by +[\"Servant Summon: Gray Wolf\" SR x 4].</p>\n<p></p>\n<p>A special skill that summons a large gray wolf that can be ridden and fights together against foes. The stronger the bond, the sharper the wolf's fangs.</p>",
     "limit": {
       "min": 0,
       "value": 0,

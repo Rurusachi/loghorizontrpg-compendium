@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just after making a [Hit Check]. You may choose any number of dice rolled for that check and re-roll them.</p>",
+    "description": "<p>Use this skill just after making a [Hit Check]. You may choose any number of dice rolled for that check and re-roll them.</p>\n<p></p>\n<p>A special skill that predicts the enemy's movement from the flow of magical power and accurately hits the attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

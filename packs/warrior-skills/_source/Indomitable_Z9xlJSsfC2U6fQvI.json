@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after you become [Incapacitated]. Immediately remove the [Incapacitated] condition, and recover [(Recovery) + (Base STR x2)] [HP].<br><br>A special skill that restores strength to a body that has received a fatal injury and stands up due to an indomitable will. A true warrior cannot be defeated just by beating his body. Until your soul is broken, you will carry on with your duties as a guardian.</p>",
+    "description": "<p>Use this skill just after you become [Incapacitated]. Immediately remove the [Incapacitated] condition, and recover [(Recovery) + (Base STR x2)] [HP].</p>\n<p></p>\n<p>A special skill that restores strength to a body that has received a fatal injury and stands up due to an indomitable will. A true warrior cannot be defeated just by beating his body. Until your soul is broken, you will carry on with your duties as a guardian.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Replace Twin Arm Style with this skill at CR11 or more. This skill only takes effect when you have two [One-handed] melee weapons equipped. You gain the [Dual Wield] condition, and your [Attack Power] becomes both weapons' [Attack Power] combined.</p>\n<p>&nbsp;</p>\n<p>(SR2): Your [Attack Power] will be +6.</p>\n<p>(SR3): Change +6 bonus to +[DEX Mod] instead.</p>",
+    "description": "<p>Available at CR 11 or higher. This skill only takes effect when you have two [One-handed] melee weapons equipped. You gain the [Dual Wield] condition, and your [Attack Power] becomes both weapons' [Attack Power] combined.</p>\n<p></p>\n<p>SR2: Your [Attack Power] will be +6.</p>\n<p>SR3: Change +6 bonus to +[DEX Mod] instead.</p>\n<p></p>\n<p>A fighting style that emphasizes the number of moves and attack power, wielding two weapons with both arms at the same time. Both weapons are wielded without interruption, unleashing attacks with unrivaled momentum.</p>",
     "limit": {
       "min": 0,
       "value": 0,

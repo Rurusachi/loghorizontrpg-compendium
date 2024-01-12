@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "uf3KrfAtGqZFn5aN",
   "system": {
-    "description": "<p>[Drag-in Territory] [Front Line] are used at the same time when you activate this skill. Add [Drag-in Territory]'s [SR] to the move distance of [Front Line]. As a cost, you lose the next minor action.<br><br>A special ability to take a step forward and run through the battlefield, even if you want to lose your balance.</p>",
+    "description": "<p>[Drag-in Territory] [Front Line] are used at the same time when you activate this skill. Add [Drag-in Territory]'s [SR] to the move distance of [Front Line]. As a cost, you lose the next minor action.</p>\n<p></p>\n<p>A special ability to take a step forward and run through the battlefield, even if you want to lose your balance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

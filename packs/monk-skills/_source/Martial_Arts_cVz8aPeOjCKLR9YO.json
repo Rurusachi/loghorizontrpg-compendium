@@ -40,7 +40,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +2 bonus to [Accuracy]. Your [Evasion Checks] and [Resistance Checks] gain a +1D bonus.<br><br>You are practicing martial arts that uses your body as a weapon to get close to your enemies. The technique of self-defense, which emphasizes evasion rather than wearing armor and being attacked, is unique to &lt;Monks&gt; even among the warrior classes.</p>",
+    "description": "<p>You gain a +2 bonus to [Accuracy]. Your [Evasion Checks] and [Resistance Checks] gain a +1D bonus.</p>\n<p></p>\n<p>You are practicing martial arts that uses your body as a weapon to get close to your enemies. The technique of self-defense, which emphasizes evasion rather than wearing armor and being attacked, is unique to <Monks> even among the warrior classes.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

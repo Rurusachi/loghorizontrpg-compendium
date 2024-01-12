@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [3D + (Magic Power)] magical damage to the target. A secondary target within a range of [Target: Single / Range: 4 Sq.] from the initial target recovers [(Recovery) + (SRx4)]</p>",
+    "description": "<p>Deal [3D + (Magic Power)] magical damage to the target. A secondary target within a range of [Target: Single / Range: 4 Sq] from the initial target recovers [(Recovery) + (SR x 4)] [HP].</p>\n<p></p>\n<p>An attack magic that shoots the enemy with the brilliance of a mirror created by concentrating the spirit and steals their vitality. The mirror does not lead to replacement. The vitality bitten off by the brilliance is transferred to allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

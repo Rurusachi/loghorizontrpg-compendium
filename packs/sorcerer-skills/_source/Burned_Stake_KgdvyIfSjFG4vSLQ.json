@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target, and the target takes [Decay: (SRx5)].</p>",
+    "description": "<p>Deal [2D + (Magic Power)] magic damage to the target, and the target takes [Decay: (SR x 5)].</p>\n<p></p>\n<p>An offensive spell that spits out red-hot stakes one after another from the enemy's feet and pierces them. When the tip of the stake is pierced, it remains inside the enemy's body and continues to burn the body from within. Fitting to the name of burning, its heat mercilessly incinerates the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

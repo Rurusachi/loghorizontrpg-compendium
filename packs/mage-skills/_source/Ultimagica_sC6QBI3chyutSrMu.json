@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Hit Checks].</p>",
+    "description": "<p>You gain a + 1D bonus to [Hit Checks].</p>\n<p></p>\n<p>You know all about the art of manipulating magic. It can be said that the magic you spin has already reached the realm of art.</p>",
     "limit": {
       "min": 0,
       "value": 0,

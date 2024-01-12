@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just before making a [Knowledge Check]. You gain a +2D bonus to the check.</p>",
+    "description": "<p>Use this skill just before making a [Knowledge Check]. You gain a + 2D bonus to the check.</p>\n<p></p>\n<p>You can recall deep and detailed knowledge about a variety of things.</p>",
     "limit": {
       "min": 0,
       "value": 0,

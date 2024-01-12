@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "jc1x1lSxaQ7b9Ivk",
   "system": {
-    "description": "<p>Use this skill when you are attacked. You ignore any Hate Damage, or damage from [Pursuit] or [Weakness] that attack would have dealt.<br><br>A special skill that calmly discerns and defends against the opponent's attacks without being overwhelmed by the hostility directed at them. By controlling your fear and anger, you become a cold and indestructible wall.</p>",
+    "description": "<p>Use this skill when you are attacked. You ignore any Hate Damage, or damage from [Pursuit] or [Weakness] that attack would have dealt.</p>\n<p></p>\n<p>A special skill that calmly discerns and defends against the opponent's attacks without being overwhelmed by the hostility directed at them. By controlling your fear and anger, you become a cold and indestructible wall.</p>",
     "limit": {
       "min": 0,
       "value": 0,

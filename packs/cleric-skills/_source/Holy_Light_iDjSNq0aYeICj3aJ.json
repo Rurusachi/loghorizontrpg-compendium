@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR x 2)D + (Magic Power)] magical damage to the target.<br><br>(Target: Undead, Blight): The damage becomes penetrating.<br><br>An offensive spell that emits a converging beam of light and pierces the enemy. That sacred light is a natural enemy to impure beings.</p>",
+    "description": "<p>Deal [(SR x 2)D + (Magic Power)] magical damage to the target.</p>\n<p></p>\n<p>(Target: Undead, Blight): The damage becomes penetrating.</p>\n<p></p>\n<p>An offensive spell that emits a converging beam of light and pierces the enemy. That sacred light is a natural enemy to impure beings.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Staggered].</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magic damage to the target, and the target takes [Staggered].</p>\n<p></p>\n<p>An offensive spell that creates spear-like icicles and pierces the enemy. Inflicts frostbite at the same time as stabbing, slowing the movement of the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

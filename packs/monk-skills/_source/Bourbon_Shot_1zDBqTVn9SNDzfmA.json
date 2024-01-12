@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may immediately use \"Laughing Taunt\".<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>A special skill that provokes the enemy by uttering short provocative words between movements. Your words are like arrows that pierce the restraint of your enemies.</p>",
+    "description": "<p>You may immediately use \"Laughing Taunt\".</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that provokes the enemy by uttering short provocative words between movements. Your words are like arrows that pierce the restraint of your enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +2 [Base DEX] and [Base POW].</p>",
+    "description": "<p>You gain + 2 [Base DEX] and [Base POW].</p>\n<p></p>\n<p>You are taught how to train to further enhance the elf's attributes of agility and mental strength.</p>",
     "limit": {
       "min": 0,
       "value": 0,

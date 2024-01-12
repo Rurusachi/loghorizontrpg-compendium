@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR 11 or higher. Deal [2D + (Magic Power)] magical damage to the target.<br><br>(Self: Servant Summon): Increase the damage by +[Active Servant Summon's SR x [POW Mod]].<br><br>Attack magic that manipulates surrounding natural objects and strikes enemies one after another. By synchronizing with an ancestral spirit, its power is dramatically increased.</p>",
+    "description": "<p>Available at CR 11 or higher. Deal [2D + (Magic Power)] magical damage to the target.</p>\n<p></p>\n<p>(Self: Servant Summon): Increase the damage by +[Active Servant Summon's SR x [POW Mod]].</p>\n<p></p>\n<p>Attack magic that manipulates surrounding natural objects and strikes enemies one after another. By synchronizing with an ancestral spirit, its power is dramatically increased.</p>",
     "limit": {
       "min": 0,
       "value": 0,

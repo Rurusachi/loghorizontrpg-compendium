@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +2 bonus to [Athletics Checks] and [Perception Checks].</p>\n<p>&nbsp;</p>\n<p>(SR2): The bonus becomes +1D.</p>",
+    "description": "<p>You gain a + 2 bonus to [Athletics Checks] and [Perception Checks].</p>\n<p></p>\n<p>(SR 2): The bonus becomes + 1D.</p>\n<p></p>\n<p>Magic that summons shikigami to assist your actions. The shikigami and you share your senses, and are highly effective for reconnaissance. There are quite a few <Kannagi> who admire shikigami purely as mascots.</p>",
     "limit": {
       "min": 0,
       "value": 0,

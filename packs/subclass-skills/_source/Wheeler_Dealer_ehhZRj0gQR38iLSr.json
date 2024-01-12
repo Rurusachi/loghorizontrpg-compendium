@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Merchant/Trader, Vendor, or Accountant.\n\nYou can use this anytime you want except when fighting. Your [Negotiation check] gains +2. Also, you are immune to the [Dazed] and [Overconfident] status. This effect lasts at the end of the scene or until the battle starts.</p>",
+    "description": "<p>You may use this skill if your subclass is Trader, Vendor, or Accountant.</p>\n<p></p>\n<p>You can use this anytime you want except when fighting. Your [Negotiation Check] gains + 2. Also, you are immune to the [Dazed] and [Overconfident] status. This effect lasts at the end of the scene or until the battle starts.</p>\n<p></p>\n<p>Those who are cunning may use this special skill during negotiations to leverage deals to their advantage. You can keep your mind calm even in heated discussions, so any provocation or temptation from opposition will be meaningless.</p>",
     "limit": {
       "min": 0,
       "value": 0,

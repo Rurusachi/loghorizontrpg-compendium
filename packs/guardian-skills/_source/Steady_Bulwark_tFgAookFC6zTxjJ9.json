@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after the target makes a damage roll for an attack with [Target: Area, Wide, Line] that targets the square you are in. Reduce the result of the target's damage roll by -[One (Shield) you are equipped with's (Physical Defense) x2].<br><br>A special skill that raises a shield and assumes a defensive posture, reducing the damage of attacks inflicted on you and your allies.</p>",
+    "description": "<p>Use this skill just after the target makes a damage roll for an attack with [Target: Area, Wide, Line] that targets the square you are in. Reduce the result of the target's damage roll by -[One (Shield) you are equipped with's (Physical Defense) x2].</p>\n<p></p>\n<p>A special skill that raises a shield and assumes a defensive posture, reducing the damage of attacks inflicted on you and your allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

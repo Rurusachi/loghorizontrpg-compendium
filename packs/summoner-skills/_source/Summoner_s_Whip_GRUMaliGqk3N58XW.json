@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, your [Magic Attacks] with [Target: Single] change to [Target: Two].</p>",
+    "description": "<p>During this Main Process, your [Magic Attacks] with [Target: Single] change to [Target: Two].</p>\n<p></p>\n<p></p>\n<p>A special skill that uses the sound of a whip to reprimand and encourage the summoned servant. Agitated, your buddy rampages more violently than usual, and works twice as hard as usual.</p>",
     "limit": {
       "min": 0,
       "value": 0,

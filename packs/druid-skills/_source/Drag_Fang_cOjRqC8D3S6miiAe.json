@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>If you do a [Weapon Attack] with [Target: Single / Range: Close] in this main process and the target fails their [Defense Check], you may [Safe Move] 1 Sq at the end of the main process. Also, at the same time make your target [Safe Move (Forced)] to the same Square as you.<br><br>An EX power in which the mount bites the enemy's leg at the same time as an attack and drags it as it moves. Enemies daunted by your attacks will be tripped under your feet and dragged around at will.</p>",
+    "description": "<p>If you do a [Weapon Attack] with [Target: Single / Range: Close] in this main process and the target fails their [Defense Check], you may [Safe Move] 1 Sq at the end of the main process. Also, at the same time make your target [Safe Move (Forced)] to the same Square as you.</p>\n<p></p>\n<p>An EX power in which the mount bites the enemy's leg at the same time as an attack and drags it as it moves. Enemies daunted by your attacks will be tripped under your feet and dragged around at will.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Safe Move] up to your [Speed] Sq.</p>\n<p>&nbsp;</p>\n<p>(Minor): Increase the distance moved by +1 Sq.</p>",
+    "description": "<p>You may make a [Safe Move] up to your [Speed] Sq.</p>\n<p></p>\n<p>(Minor): Increase the distance moved by + 1 Sq.</p>\n<p></p>\n<p>A special skill that allows you to bypass enemy interference with supple, gliding movements. There aren't many things that can get in the way of the cat people's nimble movements.</p>",
     "limit": {
       "min": 0,
       "value": 0,

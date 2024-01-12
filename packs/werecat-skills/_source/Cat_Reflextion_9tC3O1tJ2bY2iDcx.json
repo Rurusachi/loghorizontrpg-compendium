@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When you receive [Pursuit], reduce the rating by -5. If the rating drops to 0 or lower, you do not receive [Pursuit].</p>\n<p>&nbsp;</p>\n<p>(CR11): Reduce the rating by -10 instead.</p>\n<p>(CR21): Reduce the rating by -15 instead.</p>",
+    "description": "<p>When you receive [Pursuit], reduce the rating by - 5. If the rating drops to 0 or lower, you do not receive [Pursuit].</p>\n<p></p>\n<p>(CR11): Reduce the rating by - 10 instead.</p>\n<p>(CR21): Reduce the rating by - 15 instead.</p>\n<p></p>\n<p>With your unique reflexes, you can take a special passive action that allows you to escape the impact you receive.</p>",
     "limit": {
       "min": 0,
       "value": 0,

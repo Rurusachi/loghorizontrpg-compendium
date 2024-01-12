@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill at the same time you use \"Protect\", \"Covering\", \"Long Range Cover\", or \"Trap Cover\". Reduce the amount of substituted HP Damage by -[SRx5].<br><br>(Hate Top): Calculate the effect of this skill as if it had +2 SR (you may exceed the Max SR).<br><br>A skill that raises one's defensive power by paying attention to the whole body and making the body as hard as iron.</p>",
+    "description": "<p>Use this skill at the same time you use \"Protect\", \"Covering\", \"Long Range Cover\", or \"Trap Cover\". Reduce the amount of substituted HP Damage by -[SRx5].</p>\n<p></p>\n<p>(Hate Top): Calculate the effect of this skill as if it had +2 SR (you may exceed the Max SR).</p>\n<p></p>\n<p>A skill that raises one's defensive power by paying attention to the whole body and making the body as hard as iron.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +2 Bonus to [Accuracy]. During the Setup Process of every round,  you may choose one of your [Timing: Setup] skills and reduce the [Hate] cost of that skill by -2 (minimum 0).</p>",
+    "description": "<p>You gain a +2 Bonus to [Accuracy]. During the Setup Process of every round, you may choose one of your [Timing: Setup] skills and reduce the [Hate] cost of that skill by -2 (minimum 0).</p>\n<p></p>\n<p>The spirits who watch over you at all times have given you the power to ward off disaster and destroy your enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

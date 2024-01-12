@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When you [Teleport] (not including forced movement), you may increase the distance you move by +1 Sq.</p>",
+    "description": "<p>When you [Teleport] (not including forced movement), you may increase the distance you move by + 1 Sq.</p>\n<p></p>\n<p>You are an expert in the Alv's transfer magic. It can sense the fluctuations of the world and freely manipulate distances.</p>",
     "limit": {
       "min": 0,
       "value": 0,

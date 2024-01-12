@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Acquired with CR 11 or more. [Cancel: Shock] becomes ineffective against your \"Plasma Field\", and it will recover +1 to the rating of [Barrier] obtained by the effect.</p>\n<p>&nbsp;</p>\n<p>(SR 2) +1D to the [Accuracy] of your \"Lightning Chamber\".</p>",
+    "description": "<p>Only available at CR 11 or higher. [Cancel: Shock] is ineffective against your \"Plasma Field\", and your [Recovery] bonus is added to the rating of [Barrier] obtained by the effect.</p>\n<p></p>\n<p>(SR 2) You gain a + 1D to the [Accuracy] of your \"Lightning Chamber\" skill.</p>\n<p></p>\n<p>You are a sorcerer who specializes in magic that manipulates electric shocks. Its power, compared to the wrath of God, will be your ally in offense and defense.</p>",
     "limit": {
       "min": 0,
       "value": 0,

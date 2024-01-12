@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>During the [Damage Apply Step], you receive the expected HP damage that a target other than yourself would have received. The target receives no damage. You can only use this skill once in response to any given attack.<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>A special skill that blocks attacks from distant allies instead. You are prepared for unexpected attacks from a distance.</p>",
+    "description": "<p>During the [Damage Apply Step], you receive the expected HP damage that a target other than yourself would have received. The target receives no damage. You can only use this skill once in response to any given attack.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that blocks attacks from distant allies instead. You are prepared for unexpected attacks from a distance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

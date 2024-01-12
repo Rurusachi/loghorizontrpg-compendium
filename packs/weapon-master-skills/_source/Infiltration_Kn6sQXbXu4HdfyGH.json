@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You cannot be the target of [Hinder]. This effect lasts until the end of the round.</p>",
+    "description": "<p>You cannot be the target of [Hinder]. This effect lasts until the end of the round.</p>\n<p></p>\n<p>A skill that carefully observes the enemy's movements and takes a stance to avoid interference and infiltrate the enemy's camp.</p>",
     "limit": {
       "min": 0,
       "value": 0,

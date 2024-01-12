@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>[Female] Only. Effective when you are not equipped with [Armor Slot]. Your [Physical Defense] and [Magic Defense] is +[CR+[DEX Mod]].</p>\n<p>&nbsp;</p>\n<p>(SR 2) When you are equipped with only one [One-Handed] weapon with [Katana] tag in [Hand Slot], your [Attack Power] and [Magical Power] is [Weapon [Attack Power] x 2] Add a [Magic Stone] tag to [Katana].</p>",
+    "description": "<p>[Female] Only. Effective when you have noting equipped in your [Armor Slot]. Your [Physical Defense] and [Magic Defense] is +[CR + [DEX Mod]].</p>\n<p></p>\n<p>(SR 2) When you are equipped with only one [One-Handed] weapon with [Katana] tag in [Hand Slot], your [Attack Power] and [Magical Power] is [Weapon [Attack Power] x 2] Add a [Magic Stone] tag to [Katana].</p>\n<p></p>\n<p>A fighting style that manipulates the sword with a light movement like a petal dancing in a whirlwind. Your resolution and will dwell in the sword you wield, giving you the power to destroy your enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

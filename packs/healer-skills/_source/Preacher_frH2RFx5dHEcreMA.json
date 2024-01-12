@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +1D bonus to [Negotiation Checks].<br><br>You have the skillful storytelling skills of an evangelist. It is also one of the qualities of a healer, separate from magic.</p>",
+    "description": "<p>You gain a +1D bonus to [Negotiation Checks].</p>\n<p></p>\n<p>You have the skillful storytelling skills of an evangelist. It is also one of the qualities of a healer, separate from magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

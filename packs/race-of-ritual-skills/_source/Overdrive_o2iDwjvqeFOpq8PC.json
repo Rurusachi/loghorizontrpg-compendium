@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill at the same time as a skill with [Timing: Major]. Treat that skill as though it had +2 SR (the Max SR may be exceeded).</p>",
+    "description": "<p>Use this skill at the same time as a skill with [Timing: Major]. Treat that skill as though it had + 2 SR (the Max SR may be exceeded).</p>",
     "limit": {
       "min": 0,
       "value": 0,

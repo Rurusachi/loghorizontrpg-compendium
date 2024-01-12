@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Acquired with CR 11 or higher. You can make a [Safe Move] up to your [Speed] Sq. Make +[Base DEX] to the damage roll of [Weapon Attack] done in this main process.</p>\n<p>&nbsp;</p>\n<p>(Minor): The movement distance is + 1 Sq.</p>",
+    "description": "<p>Available at CR 11 or higher. You can make a [Safe Move] up to your [Speed] Sq. Make + [Base DEX] to the damage roll of [Weapon Attack] done in this main process.</p>\n<p></p>\n<p>(Minor) The movement distance is + 1 Sq.</p>",
     "limit": {
       "min": 0,
       "value": 0,

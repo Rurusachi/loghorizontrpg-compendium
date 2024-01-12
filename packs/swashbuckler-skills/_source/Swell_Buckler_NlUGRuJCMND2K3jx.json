@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a [Barrier]. Its rating is equal to [One Shield] that you are equipped with [[Physical Defense] x 2].</p>",
+    "description": "<p>You gain a [Barrier]. Its rating is equal to [One Shield] that you are equipped with [(Physical Defense) x 2].</p>",
     "limit": {
       "min": 0,
       "value": 0,

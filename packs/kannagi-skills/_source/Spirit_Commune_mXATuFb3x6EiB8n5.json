@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill when you make a check for [Gather Information]. You gain +2D to that check.</p>",
+    "description": "<p>Use this skill when you make a check for [Gather Information]. You gain + 2D to that check.</p>\n<p></p>\n<p>A special skill that obtains information by interacting with spirits, such as talking with the spirits of the dead and tracing the memories left behind in places and objects.</p>",
     "limit": {
       "min": 0,
       "value": 0,

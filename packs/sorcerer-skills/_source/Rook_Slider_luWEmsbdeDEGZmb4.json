@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Teleport] up to 5 Sq. However, this movement must be made in a straight line or it fails.</p>",
+    "description": "<p>You may make a [Teleport] up to 5 Sq. However, this movement must be made in a straight line.</p>\n<p></p>\n<p>Magic that instantly moves a short distance in a straight line. It takes on a shadow-like appearance and moves in a gliding manner, ignoring obstacles that exist between them.</p>",
     "limit": {
       "min": 0,
       "value": 0,

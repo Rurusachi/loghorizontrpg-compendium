@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [SR+2] direct damage to the target. This damage triggers [Pursuit] once, as if the target had failed their [Dodge Check]. This skill may be used multiple times in the same Main Process.</p>",
+    "description": "<p>Deal [SR+2] direct damage to the target. This damage triggers [Pursuit] once, as if the target had failed their [Dodge Check]. This skill may be used multiple times in the same Main Process.</p>\n<p></p>\n<p>A magic that shoots out small bullets of light that track the target and shoot the enemy. It can be activated immediately without chanting, and it always hits the opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,

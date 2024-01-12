@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>All [Dim Light], [Night], and [Darkness] effects within range immediately end. This effect ends when the scene does.<br><br>A magic that summons firefly mythical beasts nearby and illuminates the area brightly.</p>",
+    "description": "<p>All [Dim Light], [Night], and [Darkness] effects within range immediately end. This effect ends when the scene does.</p>\n<p></p>\n<p>A magic that summons firefly mythical beasts nearby and illuminates the area brightly.</p>",
     "limit": {
       "min": 0,
       "value": 0,

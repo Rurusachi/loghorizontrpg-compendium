@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill when you roll a Fumble on a check. Reroll that check. In addition, add +2 to the result of the rerolled check.</p>",
+    "description": "<p>Use this skill when you roll a Fumble on a check. Reroll that check. In addition, add + 2 to the result of the rerolled check.</p>\n<p></p>\n<p>A special skill that recovers from fatal failures due to the badness of giving up and tenacity. Adversity is your opportunity.</p>",
     "limit": {
       "min": 0,
       "value": 0,

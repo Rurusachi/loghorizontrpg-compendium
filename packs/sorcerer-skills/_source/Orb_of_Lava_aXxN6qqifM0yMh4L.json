@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target.</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>An offensive spell that crushes a group of enemies by creating a mass of hot lava and flying it around freely.</p>",
     "limit": {
       "min": 0,
       "value": 0,

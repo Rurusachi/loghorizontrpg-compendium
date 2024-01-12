@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Your [Magic Attack] damage rolls gain a +[(CRx2)+10] bonus.</p>",
+    "description": "<p>Your [Magic Attack] damage rolls gain a + [(CR x 2) + 10] bonus.</p>\n<p></p>\n<p>A special skill that pours in a large amount of magical power and releases magic of tremendous power. A torrent of power on the verge of going out of control roars and swallows the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

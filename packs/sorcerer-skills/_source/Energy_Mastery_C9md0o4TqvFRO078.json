@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Select one from: [Flame] [Cold] [Shock]. Change the name of this skill to be like \"Energy Mastery: Flame\". You can acquire this skill multiple times, each time under a different name with its own separate SR. You gain a +[(SR)D] bonus to damage rolls of attacks that have the chosen tag. Each attack cannot receive the effect of more than one \"Energy Mastery\" skill at a time.</p>",
+    "description": "<p>Select one from: [Flame] [Cold] [Shock]. Change the name of this skill to be like \"Energy Mastery: Flame\". You can acquire this skill multiple times, each time under a different name with its own separate SR. You gain a + [(SR)D] bonus to damage rolls of attacks that have the chosen tag. Each attack cannot receive the effect of more than one \"Energy Mastery\" skill at a time.</p>\n<p></p>\n<p>You are training with a focus on the handling of an attribute. The power of the magic that manipulates them is unmatched by others.</p>",
     "limit": {
       "min": 0,
       "value": 0,

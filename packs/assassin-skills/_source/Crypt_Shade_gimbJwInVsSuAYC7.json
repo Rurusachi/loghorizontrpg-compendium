@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You become [Hidden], and may make a [Safe Move] up to your [Speed] Sq. without losing [Hidden].</p>\n<p>&nbsp;</p>\n<p>A special skill that disappears you as if you were sinking into your own shadow and moves as if that shadow were sliding around. There is nothing to block you, the shadow.</p>",
+    "description": "<p>You become [Hidden], and may make a [Safe Move] up to your [Speed] Sq. without losing [Hidden].</p>\n<p></p>\n<p>A special skill that disappears you as if you were sinking into your own shadow and moves as if that shadow were sliding around. There is nothing to block you, the shadow.</p>",
     "limit": {
       "min": 0,
       "value": 0,

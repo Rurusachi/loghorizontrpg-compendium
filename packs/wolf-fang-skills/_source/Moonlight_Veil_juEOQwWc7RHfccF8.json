@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>While you are [Hate Top], you gain [Cancel: (SRx3)].</p>",
+    "description": "<p>While you are [Hate Top], you gain [Cancel: (SR x 3)].</p>\n<p></p>\n<p>You demonstrate your strong vitality when your life is targeted by the enemy. The crisis awakens the survival instinct and activates the magical power of the moon that was dormant in the Wolf Fang Clan.</p>",
     "limit": {
       "min": 0,
       "value": 0,

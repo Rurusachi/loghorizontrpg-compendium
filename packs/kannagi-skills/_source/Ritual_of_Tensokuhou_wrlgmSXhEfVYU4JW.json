@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target immediately performs one [Timing: Move] action that has the [Movement] tag. At that time,  reduce the amount that action would raise the target's Hate by -2 (minimum 0).</p>",
+    "description": "<p>The target immediately performs one [Timing: Move] action that has the [Movement] tag. At that time, reduce the amount that action would raise the target's Hate by - 2 (minimum 0).</p>\n<p></p>\n<p>A magic that allows allies to move at blinding speed by unleashing the divine protection of a spirit known for its fast pace.</p>",
     "limit": {
       "min": 0,
       "value": 0,

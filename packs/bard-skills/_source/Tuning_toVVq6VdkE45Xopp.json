@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you gain a +[SRx5] bonus to [Special Attack] damage rolls.</p>",
+    "description": "<p>During this Main Process, you gain a +[SRx[INT Mod]] bonus to [Special Attack] with the [Instrument] tag damage rolls.</p>\n<p></p>\n<p>A special skill that enhances the effect of the music played by identifying the beat of the target's mind and tuning the melody.</p>",
     "limit": {
       "min": 0,
       "value": 0,

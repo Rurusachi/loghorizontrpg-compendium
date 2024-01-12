@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Select one from the following: [Staggered] [Dazed] [Rigor] [Confusion] or [Decay]. Remove the chosen Bad Status from the target. Until the end of the round,  the target cannot receive that Bad Status again.</p>",
+    "description": "<p>Select one from the following: [Staggered] [Dazed] [Rigor] [Confusion] or [Decay]. Remove the chosen Bad Status from the target. Until the end of the round, the target is immune to that Bad Status.</p>\n<p></p>\n<p>A magic that gives blessings to many companions to avoid specific disasters by chanting the prayer of the ritual of exorcism.</p>",
     "limit": {
       "min": 0,
       "value": 0,

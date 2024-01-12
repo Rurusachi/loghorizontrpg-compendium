@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>After the current Main Process ends, you may make a [Normal Move] up to your [Speed] Sq. <br><br>(Minor): The [Normal Move] becomes a [Safe Move] instead.<br><br>A special skill that makes full use of sharp steps and jumps to move as if sewing between the enemy's perceptions, dodging obstacles and moving. From the enemy's point of view, the movement appears elusive, like a ghost.</p>",
+    "description": "<p>After the current Main Process ends, you may make a [Normal Move] up to your [Speed] Sq. </p>\n<p></p>\n<p>(Minor): The [Normal Move] becomes a [Safe Move] instead.</p>\n<p></p>\n<p>A special skill that makes full use of sharp steps and jumps to move as if sewing between the enemy's perceptions, dodging obstacles and moving. From the enemy's point of view, the movement appears elusive, like a ghost.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Physical damage of [(SR+1)D + (Attack Power)] and [Weakness (Physical): [INT Mod]] are given. This [Weakness] is treated as LS with [Seal] tag, and it continues until the target consumes 2 [Fate Points] or until you start the next main process.</p>",
+    "description": "<p>Inflict physical damage of [(Attack Power) + (SR + 1)D] and [Weakness (Physical): [INT Mod]] to the target. This [Weakness] is treated as LS with [Seal] tag, and it continues until the target consumes 2 [Fate Points] or until you start the next main process.</p>",
     "limit": {
       "min": 0,
       "value": 0,

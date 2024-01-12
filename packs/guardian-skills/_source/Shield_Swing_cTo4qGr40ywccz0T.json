@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [One shield's [Physical Defense] that is equipped + (SR)D] penetrating damage to the targets.<br><br>A special skill that swings the arm holding the shield wide and strikes the enemy with a powerful blow. Your shield not only protects you, but also serves as a weapon.</p>",
+    "description": "<p>Deal [One shield's [Physical Defense] that is equipped + (SR)D] penetrating damage to the targets.</p>\n<p></p>\n<p>A special skill that swings the arm holding the shield wide and strikes the enemy with a powerful blow. Your shield not only protects you, but also serves as a weapon.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR x 2)D + (Magic Power)] magic damage to the target.<br><br>(Target: Dragon, Giant, Mob): The damage becomes penetrating.<br><br>Attack magic that creates countless needles of magical power and projects them at a single enemy. The stinger burrows into the gaps in the armor, ignoring defensive power and inflicting wounds on huge enemies and some enemies with weak resistance.</p>",
+    "description": "<p>Deal [(SR x 2)D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>(Target: Dragon, Giant, Mob): The damage becomes penetrating.</p>\n<p></p>\n<p>Attack magic that creates countless needles of magical power and projects them at a single enemy. The stinger burrows into the gaps in the armor, ignoring defensive power and inflicting wounds on huge enemies and some enemies with weak resistance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

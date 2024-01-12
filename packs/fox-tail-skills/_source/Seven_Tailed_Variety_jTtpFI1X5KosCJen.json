@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Roll 1D, and then acquire the designated effect for the result:</p>\n<p>[1: (Attack Power) +2]</p>\n<p>[2: (Magic Power) +2]</p>\n<p>[3: (Physical Defense) +4]</p>\n<p>[4: (Magical Defense) +4]</p>\n<p>[5: [Initiative] +4]</p>\n<p>[6: [Starting Fate Point] +2]</p>\n<p>This effect lasts until the end of the scenario.</p>\n<p>&nbsp;</p>\n<p>(CR16): Increase the bonus of each listed effect by double.</p>",
+    "description": "<p>Roll 1D, and then acquire the designated effect for the result: </p>\n<p>[1: (Attack Power) + 2] </p>\n<p>[2: (Magic Power) + 2] </p>\n<p>[3: (Physical Defense) + 4] </p>\n<p>[4: (Magical Defense) + 4] </p>\n<p>[5: [Initiative] + 4] </p>\n<p>[6: [Starting Fate Point] + 2]. </p>\n<p>This effect lasts until the end of the scenario.</p>\n<p></p>\n<p>(CR 16): Increase the bonus of each listed effect by double.</p>",
     "limit": {
       "min": 0,
       "value": 0,

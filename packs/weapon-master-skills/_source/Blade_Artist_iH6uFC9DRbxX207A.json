@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Hit Checks].</p>",
+    "description": "<p>You gain a +1D bonus to [Hit Checks].</p>\n<p></p>\n<p>Your weapons are like your limbs. The blade in ones hand captures the enemy's body beautifully and accurately.</p>",
     "limit": {
       "min": 0,
       "value": 0,

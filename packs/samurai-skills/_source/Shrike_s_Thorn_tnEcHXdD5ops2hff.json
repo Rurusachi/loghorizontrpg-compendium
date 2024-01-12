@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.<br><br>(Target: Post-Action): The target takes [Decay: 10].<br>(Target: Pre-Action): The target's [Initiative] becomes 0. This effect lasts until the end of the round.<br><br>A special skill that impedes action by striking the enemy's head, throat, etc. with a two-handed weapon. The effect is great if you aim at an enemy that is exposed.</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Post-Action): The target takes [Decay: 10].</p>\n<p>(Target: Pre-Action): The target's [Initiative] becomes 0. This effect lasts until the end of the round.</p>\n<p></p>\n<p>A special skill that impedes action by striking the enemy's head, throat, etc. with a two-handed weapon. The effect is great if you aim at an enemy that is exposed.</p>",
     "limit": {
       "min": 0,
       "value": 0,

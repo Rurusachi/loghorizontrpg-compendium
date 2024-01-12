@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When the targets next receives a status with the [Sealed] tag, it is removed immediately. Treat this effect as a Combat Status that is removed after being applied once.</p>",
+    "description": "<p>When the targets next receives a status with the [Sealed] tag, it is removed immediately. Treat this effect as a Combat Status that is removed after being applied once.</p>\n<p></p>\n<p>Support magic that scrutinizes the protection of allies, finds spiritual vulnerabilities, and implements countermeasures in advance.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

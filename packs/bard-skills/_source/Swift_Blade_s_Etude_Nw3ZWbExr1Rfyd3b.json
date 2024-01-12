@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains a +[SR] bonus to [Hit Checks].</p>\n<p>&nbsp;</p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by +1 during the Cleanup Process of every round.</p>",
+    "description": "<p>The target gains a +[SR] bonus to [Hit Checks]. </p>\n<p></p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by +1 during the Cleanup Process of every round.</p>\n<p></p>\n<p>As the name suggests, this is a support song that draws out the abilities of your companions as they have been trained, and sharpens the accuracy of your attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

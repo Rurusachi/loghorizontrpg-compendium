@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill may only be used when you and no more than one enemy are in the same square. You may make a [Normal Move] up to your [Speed] Sq (the target may not [Hinder] this movement). At the same time as your movement, the target makes a [Safe Move (Forced)] to the same square.<br><br>A special skill that breaks the center of gravity of the target and pushes or pulls it, allowing it to move freely along with the opposing enemy.</p>",
+    "description": "<p>This skill may only be used when you and no more than one enemy are in the same square. You may make a [Normal Move] up to your [Speed] Sq (the target may not [Hinder] this movement). At the same time as your movement, the target makes a [Safe Move (Forced)] to the same square.</p>\n<p></p>\n<p>A special skill that breaks the center of gravity of the target and pushes or pulls it, allowing it to move freely along with the opposing enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

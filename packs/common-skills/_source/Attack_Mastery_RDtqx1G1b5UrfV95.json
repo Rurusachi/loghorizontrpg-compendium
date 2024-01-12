@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +[SRx2] bonus to your [Attack Power].</p>",
+    "description": "<p>You gain a + [SR x 2] bonus to your [Attack Power].</p>\n<p></p>\n<p>You always train with weapons. Your attacks will have greater destructive power than other adventurers.</p>",
     "limit": {
       "min": 0,
       "value": 0,

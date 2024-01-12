@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain the [Mythic] tag. You gain a +[SRx5] bonus to [Recovery].</p>\n<p>&nbsp;</p>\n<p>(Effect): Secondary targets within a range of [Target: Area (P) / Range: Close] centered on you recover [2D + (Recovery)] HP.</p>",
+    "description": "<p>You gain the [Mythic] tag. You gain a +[SRx5] bonus to [Recovery].</p>\n<p></p>\n<p>(Effect): Secondary targets within a range of [Target: Area (P) / Range: Close] centered on you recover [2D + (Recovery)] HP.</p>\n<p></p>\n<p>A special skill that summons and employs a small animal-type mythical beast, Carbuncle, with a red ball on its forehead. Ruby has the power to amplify healing power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

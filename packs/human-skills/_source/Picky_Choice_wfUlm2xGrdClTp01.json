@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just before you make a Treasure Roll. You may make the Treasure Roll twice, and take either result.</p>",
+    "description": "<p>Use this skill just before you make a Treasure Roll. You may make the Treasure Roll twice, and take either result.</p>\n<p></p>\n<p>You have the special skill of selecting expensive bargains from among treasures using your intuition and discernment.</p>",
     "limit": {
       "min": 0,
       "value": 0,

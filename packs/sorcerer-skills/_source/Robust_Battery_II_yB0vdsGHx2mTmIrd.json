@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Acquired with CR 11 or higher. During this Main Proccess, you gain a +[SRx7] bonus to [Magic Attack] damage rolls.</p>\n<p>&nbsp;</p>\n<p>(CR 21) The damage roll bonus becomes + [SR x 9] instead of + [SR x 7].</p>",
+    "description": "<p>Only available at CR 11 or higher. During this Main Proccess, you gain a + [SR x 7] bonus to [Magic Attack] damage rolls.</p>\n<p></p>\n<p>(CR 21) The damage roll bonus becomes + [SR x 9] instead of + [SR x 7].</p>\n<p></p>\n<p>A skill that allows you to stop your feet, concentrate, and accumulate magical power. The magic that is unleashed by kneading the magical power in the body and the spiritual power that is sucked up from the earth and the atmosphere is no longer an exceptional power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill when you become [Hidden]. You remove all [Pursuit] conditions affecting you, or instead reduce your [Hate] by -1.</p>\n<p>&nbsp;</p>\n<p>A special skill that hides oneself and cuts off signs of intent. Once you hide, your opponent will lose sight of you and will be unable to pursue you.</p>",
+    "description": "<p>Use this skill when you become [Hidden]. You remove all [Pursuit] conditions affecting you, or instead reduce your [Hate] by -1.</p>\n<p></p>\n<p>A special skill that hides oneself and cuts off signs of intent. Once you hide, your opponent will lose sight of you and will be unable to pursue you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

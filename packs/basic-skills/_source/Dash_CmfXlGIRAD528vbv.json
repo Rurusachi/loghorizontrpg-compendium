@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Normal Move] up to your [Speed] + 2 Sq.&nbsp; Immediately after, you lose a Minor Action. If you have no Minor Action to lose, you cannot use this skill.</p>",
+    "description": "<p>You may make a [Normal Move] up to your [Speed] + 2 Sq.  Immediately after, you lose a Minor Action. If you have no Minor Action to lose, you cannot use this skill.</p>",
     "limit": {
       "min": 0,
       "value": 0,

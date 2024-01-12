@@ -3,8 +3,34 @@
   "name": "Black Widow Style",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
-    "description": "<p>This skill only produces an effect when you have only a single [One-Handed] weapon with the [Light] tag equipped to a [Hand Slot]. You gain a +[[DEX Mod] x 2] bonus to [Attack Power]. You gain a +[SRx5] bonus to damage rolls made while [Hidden].</p>\n<p>&nbsp;</p>\n<p>A fighting style that manipulates well-handled weapons and unleashes powerful blows from the enemy's blind spots.</p>",
+  "effects": [
+    {
+      "_id": "HYei6QZm2ddSlNPU",
+      "changes": [
+        {
+          "key": "system.combatstats.patk.total",
+          "mode": 2,
+          "value": "@abilities.dex.mod * 2"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Black Widow Style",
+      "origin": "Compendium.loghorizontrpg-compendium.assassin-skills.flXxsgy0c6xvagYR",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!flXxsgy0c6xvagYR.HYei6QZm2ddSlNPU"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>This skill only produces an effect when you have only a single [One-Handed] weapon with the [Light] tag equipped to a [Hand Slot]. You gain a +[(DEX Mod) x 2] bonus to [Attack Power]. You gain a +[SRx5] bonus to damage rolls made while [Hidden].</p>\n<p></p>\n<p>A fighting style that manipulates well-handled weapons and unleashes powerful blows from the enemy's blind spots.</p>",
     "limit": {
       "min": 0,
       "value": 0,
@@ -117,34 +143,16 @@
       "max": 3
     }
   },
-  "effects": [
-    {
-      "_id": "HYei6QZm2ddSlNPU",
-      "changes": [
-        {
-          "key": "system.combatstats.patk.total",
-          "mode": 2,
-          "value": "@abilities.dex.mod * 2"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Black Widow Style",
-      "origin": "Compendium.loghorizontrpg-compendium.assassin-skills.flXxsgy0c6xvagYR",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!flXxsgy0c6xvagYR.HYei6QZm2ddSlNPU"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1705020349016,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!flXxsgy0c6xvagYR"
 }

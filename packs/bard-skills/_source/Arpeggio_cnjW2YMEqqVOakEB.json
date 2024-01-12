@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, your [Target: Single] [Weapon Attacks] change to [Target: Two].</p>",
+    "description": "<p>During this Main Process, your [Target: Single] [Weapon Attacks] change to [Target: Two].</p>\n<p></p>\n<p>A special skill that imbues the weapon in your hand with a magical melody. Weapons that hit an enemy disperse and explode colorful musical notes, inflicting wounds on other nearby enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

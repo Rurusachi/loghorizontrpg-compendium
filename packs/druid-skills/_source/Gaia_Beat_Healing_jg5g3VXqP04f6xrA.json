@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains [Regen: (Magic Power)].<br><br>High rank recovery magic that applies pulsating regen to multiple allies at once. The protection of the heartbeat of the earth protects you.</p>",
+    "description": "<p>The target gains [Regen: (Magic Power)].</p>\n<p></p>\n<p>High rank recovery magic that applies pulsating regen to multiple allies at once. The protection of the heartbeat of the earth protects you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Can be acquired at CR 11 or higher. This skill is only effective when you are equipped with a [Shield]. The damage you takeover with \"Protect\" and \"Take Over\" is - [SR x 8].</p>\n<p>&nbsp;</p>\n<p>(SR2): Your [Attack Power] is +[STR Mod].</p>\n<p>(SR3): The [Shield] you are equipped with becomes +[INT Mod] to the [Physical Defense] of the [Shield].</p>",
+    "description": "<p>Available at CR 11 or higher. This skill is only effective when you are equipped with a [Shield]. The damage you takeover with \"Protect\" and \"Take Over\" is -[SRx8].</p>\n<p></p>\n<p>(SR2) Your [Attack Power] is + [STR Mod].</p>\n<p>(SR3) The [Shield] you are equipped with becomes +[INT Mod] to the [Physical Defense] of the [Shield].</p>",
     "limit": {
       "min": 0,
       "value": 0,

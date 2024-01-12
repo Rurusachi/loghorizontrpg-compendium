@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill when you have 0 [Fate Points]. You gain +1 [Fate Point].</p>",
+    "description": "<p>Use this skill when you have 0 [Fate Points]. You gain + 1 [Fate Point].</p>\n<p></p>\n<p>A special skill that captures power from nature and makes it your own. The sunlight, the breeze, and the moisture in the air give you the power to shape your destiny.</p>",
     "limit": {
       "min": 0,
       "value": 0,

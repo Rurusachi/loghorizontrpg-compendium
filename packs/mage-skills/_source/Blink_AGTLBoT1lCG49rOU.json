@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Teleport] up to [SRx2] Sq. \n\n(Minor): Increase the distance moved by +1 Sq.</p>",
+    "description": "<p>You may make a [Teleport] up to [SR x 2] Sq. </p>\n<p></p>\n<p>(Minor): Increase the distance moved by + 1 Sq.</p>\n<p></p>\n<p>A magic that creates a flow of magical power and transfers to another place without being disturbed by riding it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

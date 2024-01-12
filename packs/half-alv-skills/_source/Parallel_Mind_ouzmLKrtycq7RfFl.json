@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You do not lose the ability to [Hinder] when you have the [Dazed] or [Rigor] conditions.</p>",
+    "description": "<p>You do not lose the ability to [Hinder] when you have the [Dazed] or [Rigor] conditions.</p>\n<p></p>\n<p>A special skill that develops multiple thoughts in parallel and separates the movement of the body from the disorders of the mind.</p>",
     "limit": {
       "min": 0,
       "value": 0,

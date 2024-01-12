@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "JhZR3lcHaqn2uToX",
   "system": {
-    "description": "<p>You are not affected by [Darkness] or other similar effects. You can also perceive and target characters in the [Hidden] state as if they were not.<br><br>You can detect your enemies with your mind's eye, not your sight.</p>",
+    "description": "<p>You are not affected by [Darkness] or other similar effects. You can also perceive and target characters in the [Hidden] state as if they were not.</p>\n<p></p>\n<p>You can detect your enemies with your mind's eye, not your sight.</p>",
     "limit": {
       "min": 0,
       "value": 0,

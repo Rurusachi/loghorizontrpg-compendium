@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you have only a single [Throwing] weapon equipped to a [Hand Slot]. You [Attack Power] becomes [Weapon's (Attack Power) x 2], and you can make [Ranged Attacks] in close range.</p>\n<p>&nbsp;</p>\n<p>(SR2): You gain a +2 bonus to [Accuracy].</p>",
+    "description": "<p>This skill only produces an effect when you have only a single [Throwing] weapon equipped to a [Hand Slot]. You [Attack Power] becomes [Weapon's (Attack Power) x 2], and you can make [Ranged Attacks] in close range.</p>\n<p></p>\n<p>(SR2): You gain a +2 bonus to [Accuracy].</p>",
     "limit": {
       "min": 0,
       "value": 0,

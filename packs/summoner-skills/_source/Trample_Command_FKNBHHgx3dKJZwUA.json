@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The number of targets of this skill is equal to the SR of Servant Combination skill. Give direct damage of [(POW Mod) + 5] to the target. This damage triggers [Weakness] on the target, as if the target had failed their [Dodge Check].</p>",
+    "description": "<p>The number of targets of this skill is equal to the [SR] of \"Servant Combination\" skill. Deal direct damage of [(POW Mod) + 5] to the target. </p>\n<p>This damage triggers [Weakness] on the target, as if the target had failed their [Defense Check].</p>\n<p></p>\n<p>A skill in which summoned creatures that receive your command run across the battlefield, overrunning enemies one after another. The stronger the bond between you and your servant, the stronger the attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

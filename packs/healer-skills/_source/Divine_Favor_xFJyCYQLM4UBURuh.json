@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Stamina, Energy]. The result of the roll becomes 0.<br><br>(Bonus): You gain +1 [Starting Fate Points].<br><br>Magic that avoids disasters along the way by receiving the divine protection of divine beings.</p>",
+    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Stamina, Energy]. The result of the roll becomes 0.</p>\n<p></p>\n<p>(Bonus): You gain +1 [Starting Fate Points].</p>\n<p></p>\n<p>Magic that avoids disasters along the way by receiving the divine protection of divine beings.</p>",
     "limit": {
       "min": 0,
       "value": 0,

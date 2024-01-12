@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Choose one of the following effects: [Check: Opposed (Accuracy vs Resistance) / Effect: Remove [SR] number of Combat Statuses from the target (your choice).] or [Check: Basic (Accuracy vs. Disable Difficulty) / Effect: Remove one Prop with the [Magical] tag.]\n\n(SR2): This skill changes to [Range: 4 Sq.]\n(SR3): This skill may be used with [Timing: Instant].</p>",
+    "description": "<p>Choose one of the following effects: </p>\n<p></p>\n<p>[Check: Opposed (Accuracy vs Resistance) / Effect: Remove [SR] number of Combat Statuses from the target (your choice).]</p>\n<p> </p>\n<p>[Check: Basic (Accuracy vs. Disable Difficulty) / Effect: Remove one Prop with the [Magical] tag.]</p>\n<p></p>\n<p>(SR 2): This skill changes to [Range: 4 Sq.]</p>\n<p>(SR 3): This skill may be used with [Timing: Instant].</p>\n<p></p>\n<p>A magic that analyzes the flow of magical power, etc., and strikes against it with contradictory magical power to negate its effects.</p>",
     "limit": {
       "min": 0,
       "value": 0,

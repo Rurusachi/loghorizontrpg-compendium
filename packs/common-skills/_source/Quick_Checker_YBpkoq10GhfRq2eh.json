@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You immediately perform \"Enemy Identification\" as well as one other [Timing: Setup] action (you choose the order to perform them).</p>",
+    "description": "<p>You immediately perform \"Enemy Identification\" as well as one other [Timing: Setup] action (you choose the order to perform them).</p>\n<p></p>\n<p>You can quickly discern the capabilities of your opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Staggered].<br><br>An offensive magic that envelops the enemy in a dazzling silvery glow, blinding them and burning their entire body.</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Staggered].</p>\n<p></p>\n<p>An offensive magic that envelops the enemy in a dazzling silvery glow, blinding them and burning their entire body.</p>",
     "limit": {
       "min": 0,
       "value": 0,

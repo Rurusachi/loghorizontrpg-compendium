@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may immediately use two [Timing: Setup] actions.</p>",
+    "description": "<p>You may immediately use two [Timing: Setup] actions.</p>\n<p></p>\n<p>A special skill that allows you to quickly adjust the battle situation by preparing in advance or exploiting the enemy's gaps. It is not uncommon for the difference in strategy in one move to influence the outcome of a battle.</p>",
     "limit": {
       "min": 0,
       "value": 0,

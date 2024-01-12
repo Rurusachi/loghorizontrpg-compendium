@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "6sB5yfx5dcjQUIJ7",
   "system": {
-    "description": "<p>During this Main Process, you gain a + [SR] bonus to [Hit Checks] and + [(SR)D] bonus to the damage rolls. In addition to that damage add a [Holy] tag.<br><br>A special skill that envelops weapons and magic with holy brilliance and unleashes a powerful blow.</p>",
+    "description": "<p>During this Main Process, you gain a + [SR] bonus to [Hit Checks] and + [(SR)D] bonus to the damage rolls. In addition to that damage add a [Holy] tag.</p>\n<p></p>\n<p>A special skill that envelops weapons and magic with holy brilliance and unleashes a powerful blow.</p>",
     "limit": {
       "min": 0,
       "value": 0,

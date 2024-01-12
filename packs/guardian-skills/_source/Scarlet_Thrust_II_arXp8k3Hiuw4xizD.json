@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR 11 or higher. Deal [3D + (Attack Power)] physical damage to the target. You recover [(Recovery) x 2] HP. <br><br>(Hate Top): You recover an additional +[Base POW] HP.<br><br>A special skill that pierces the body of the enemy with a spear and absorbs physical strength through blood. You will have the blood of your enemies and will continue to fight with inexhaustible vitality.</p>",
+    "description": "<p>Available at CR 11 or higher. Deal [3D + (Attack Power)] physical damage to the target. You recover [(Recovery) x 2] HP. </p>\n<p></p>\n<p>(Hate Top): You recover an additional +[Base POW] HP.</p>\n<p></p>\n<p>A special skill that pierces the body of the enemy with a spear and absorbs physical strength through blood. You will have the blood of your enemies and will continue to fight with inexhaustible vitality.</p>",
     "limit": {
       "min": 0,
       "value": 0,

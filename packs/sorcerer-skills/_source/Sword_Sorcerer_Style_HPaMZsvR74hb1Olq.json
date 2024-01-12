@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You will be able to equip swords. It is effective when you are equipped with [Sword] in [Hand Slot]. You can equip [Manastone] in [Hand slot].</p>\n<p>&nbsp;</p>\n<p>(SR2) Your [Evasion] and [Resistance] is +1.</p>\n<p>(SR3) Your Physical Defense is +[INT Mod].</p>",
+    "description": "<p>You can equip [Blade]. It is effective when you are equipped with [Blade] in [Hand Slot]. You can also equip [Magic Stone] in [Hand slot].</p>\n<p></p>\n<p>(SR 2) You gain a + 1 bonus to [Evasion] and [Resistance].</p>\n<p>(SR 3) You gain a + [INT Mod] bonus to your [Physical Defense].</p>\n<p></p>\n<p>A battle style that combines magic stones with a blade instead of a staff to activate magic. If you master it, you can acquire the power of defense that can stand on the front line even though you are a magic attack class.</p>",
     "limit": {
       "min": 0,
       "value": 0,

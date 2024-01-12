@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Select one from: [Decay] [Staggered] [Dazed]. The target is immune to the chosen condition. This skill can be used multiple times when used during the same Briefing.</p>",
+    "description": "<p>Select one from: [Decay] [Staggered] [Dazed]. The target is immune to the chosen condition. This skill can be used multiple times when used during the same Briefing.</p>\n<p></p>\n<p>Support magic that pours magical power into the target's mind and body and gives them immunity in advance against specific ailments.</p>",
     "limit": {
       "min": 0,
       "value": 0,

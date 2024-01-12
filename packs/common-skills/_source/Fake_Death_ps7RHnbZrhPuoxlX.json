@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Reduce your [Hate] by -5.</p>",
+    "description": "<p>Reduce your [Hate] by - 5.</p>\n<p></p>\n<p>A special skill that diverts the enemy's attention by pretending to be dead. It's not something you can use to fool a target over and over again, but it's the best way to protect your life.</p>",
     "limit": {
       "min": 0,
       "value": 0,

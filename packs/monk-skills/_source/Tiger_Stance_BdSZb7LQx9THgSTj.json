@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The rating of [Pursuit] you give is + [SRx2]. You gain [Weakness (Boss, Raid)] with rating is equal to your [DEX Mod].<br><br>A special skill that takes a stance to unleash a wild attack like a tiger's claws tearing apart prey. Your defense will be a little weaker, but you won't be able to take advantage of your half-hearted enemies.</p>",
+    "description": "<p>The rating of [Pursuit] you give is + [SRx2]. You gain [Weakness (Boss, Raid)] with rating is equal to your [DEX Mod].</p>\n<p></p>\n<p>A special skill that takes a stance to unleash a wild attack like a tiger's claws tearing apart prey. Your defense will be a little weaker, but you won't be able to take advantage of your half-hearted enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

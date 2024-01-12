@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain +4 [Base STR].</p>",
+    "description": "<p>You gain + 4 [Base STR].</p>\n<p></p>\n<p>You can fully utilize the high physical strength that is characteristic of the Wolf Fang Clan through your own unique martial arts techniques.</p>",
     "limit": {
       "min": 0,
       "value": 0,

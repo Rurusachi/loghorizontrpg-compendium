@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +2 [Starting Fate Points].</p>",
+    "description": "<p>You gain + 2 [Starting Fate Points].</p>\n<p></p>\n<p>You have a natural talent. It is a talent unique to humans that can open up one's destiny and change the world.</p>",
     "limit": {
       "min": 0,
       "value": 0,

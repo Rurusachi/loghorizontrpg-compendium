@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Increase your [Recovery] by +[POW Mod].<br><br>You have mastered techniques that further enhance the natural healing abilities of the Adventurer's body. If it's just a little scratch, it's probably healed without even knowing it.</p>",
+    "description": "<p>Increase your [Recovery] by +[POW Mod].</p>\n<p></p>\n<p>You have mastered techniques that further enhance the natural healing abilities of the Adventurer's body. If it's just a little scratch, it's probably healed without even knowing it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

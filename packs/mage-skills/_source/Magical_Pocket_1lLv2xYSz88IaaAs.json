@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Item, Money]. The result of the roll becomes 0.\n\n(Bonus): You gain +1 [Starting Fate Points].</p>",
+    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Item, Money]. The result of the roll becomes 0.</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Points].</p>\n<p></p>\n<p>A skill that warps space and stores important things in a magic pocket to prevent damage to money and items on long journeys.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR11 or higher. The target gains the [Aquatic] tag, and [Cancel (Aquatic): 20]. Treat this effect as a Combat Status.<br><br>(CR21): Increase the [Cancel] to 30.<br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>A magic that grants the protection of water to your friends and yourself, allowing them to move freely in the water as well as on land, if not more.</p>",
+    "description": "<p>Available at CR11 or higher. The target gains the [Aquatic] tag, and [Cancel (Aquatic): 20]. Treat this effect as a Combat Status.</p>\n<p></p>\n<p>(CR21): Increase the [Cancel] to 30.</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A magic that grants the protection of water to your friends and yourself, allowing them to move freely in the water as well as on land, if not more.</p>",
     "limit": {
       "min": 0,
       "value": 0,

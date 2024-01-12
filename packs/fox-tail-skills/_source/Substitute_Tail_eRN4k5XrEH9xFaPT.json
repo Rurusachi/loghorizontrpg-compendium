@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You acquire one skill from a skill list other than from your Archetype Class, Main Class, or Race. You can acquire only one General-tagged skill, but may raise that skill's SR normally.</p>\n<p>&nbsp;</p>\n<p>(Bonus): Reduce your [Max HP] by -10.</p>",
+    "description": "<p>You acquire one skill from a skill list other than from your Archetype, Class, or Race. You can acquire only one General-tagged skill, but may raise that skill's SR normally.</p>\n<p></p>\n<p>(Bonus): Reduce your [Max HP] by - 10.</p>\n<p></p>\n<p>Thanks to the blessings of the tail of the Foxtail tribe, which has the power of transformation, you can \"transform'' into other races or occupations and use special skills.</p>",
     "limit": {
       "min": 0,
       "value": 0,

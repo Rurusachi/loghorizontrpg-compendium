@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +4 [Initiative].</p>",
+    "description": "<p>You gain + 4 [Initiative].</p>\n<p></p>\n<p>You are good at getting ahead of your opponent. The elf's reaction speed, which ran like a dance in the forest, was unmatched by other species.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target recovers [3D + (Magic Power) + (Recovery)] HP.<br><br>(Fate 1): Increase the amount of HP recovered by +10.<br><br>A spell that rains down light particles and heals the wounds of allies. It is the most basic recovery magic.</p>",
+    "description": "<p>The target recovers [3D + (Magic Power) + (Recovery)] HP.</p>\n<p></p>\n<p>(Fate 1): Increase the amount of HP recovered by +10.</p>\n<p></p>\n<p>A spell that rains down light particles and heals the wounds of allies. It is the most basic recovery magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

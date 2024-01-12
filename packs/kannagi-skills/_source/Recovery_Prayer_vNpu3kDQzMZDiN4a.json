@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target recovers [(SR)D + (Recovery)] HP.</p>\n<p>&nbsp;</p>\n<p>(Minor): This skill may be used with [Target: Two].</p>",
+    "description": "<p>The target recovers [(SR)D + (Recovery)] [HP]. </p>\n<p></p>\n<p>(Minor): This skill may be used with [Target: Two].</p>\n<p></p>\n<p>A magic that heals wounds by stopping and praying to the spirits for healing of allies. You can also heal multiple allies by praying strongly.</p>",
     "limit": {
       "min": 0,
       "value": 0,

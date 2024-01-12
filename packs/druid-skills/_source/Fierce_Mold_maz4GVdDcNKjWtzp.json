@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target.<br><br>(Success): Give target [Weakness (Magic): 10] (treat this [Weakness] as a Bad Status).<br>(CR 16): The [Weakness] increases to 15.<br>(Fate 1): The rating of the [Weakness] is doubled.<br><br>A special skill that envelops poisonous-colored spores in weapon attacks and erodes the target's body with the blow. Enemies infested with spores lose much of their resistance to magic.</p>",
+    "description": "<p>Deal [2D + (Attack Power)]  physical damage to the target.</p>\n<p></p>\n<p>(Success): Give target [Weakness (Magic): 10] (treat this [Weakness] as a Bad Status).</p>\n<p>(CR 16): The [Weakness] increases to 15.</p>\n<p>(Fate 1): The rating of the [Weakness] is doubled.</p>\n<p></p>\n<p>A special skill that envelops poisonous-colored spores in weapon attacks and erodes the target's body with the blow. Enemies infested with spores lose much of their resistance to magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

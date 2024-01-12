@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Teleport] of 1 Sq.</p>",
+    "description": "<p>You may make a [Teleport] of 1 Sq.</p>\n<p></p>\n<p>A special skill that applies the <Fairy Ring> system that is scattered around the world and teleports short distances. You can wield special magic that accesses the Alv's legacy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

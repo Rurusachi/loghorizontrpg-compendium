@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +2 [Starting Fate Points].</p>",
+    "description": "<p>You gain + 2 [Starting Fate Points].</p>\n<p></p>\n<p>You are in luck. When you face an unreasonable or difficult situation, fate will give you a small helping hand.</p>",
     "limit": {
       "min": 0,
       "value": 0,

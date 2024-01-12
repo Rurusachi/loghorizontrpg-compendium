@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill can only target an ally other than yourself. The target may reduce their [Hate] by -2. This skill may be used multiple times during the same Main Process.<br><br>(Fate 1): This skill may be used with [Range: 6 Sq.]<br><br>A provocation feat that angers the opponent with beckons and words and attracts the enemy's attack.</p>",
+    "description": "<p>This skill can only target an ally other than yourself. The target may reduce their [Hate] by -2. This skill may be used multiple times during the same Main Process.</p>\n<p></p>\n<p>(Fate 1): This skill may be used with [Range: 6 Sq.]</p>\n<p></p>\n<p>A provocation skill that angers the opponent with beckons and words and attracts the enemy's attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

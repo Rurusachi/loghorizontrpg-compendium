@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Change a [Melee Attack] of [Target: Single] to [Target: Wide 1 (P)] for this main process. <br><br>(Fate 1): Change the skill's Timing to [Instant].<br><br>A special skill that heightens fighting spirit and fires a sword flash like a whirlwind to mow down a large number of enemies at once. It is one of the special moves that can be said to be synonymous with &lt;Samurai&gt;.</p>",
+    "description": "<p>Change a [Melee Attack] of [Target: Single] to [Target: Wide 1 (P)] for this main process. </p>\n<p></p>\n<p>(Fate 1): Change the skill's Timing to [Instant].</p>\n<p></p>\n<p>A special skill that heightens fighting spirit and fires a sword flash like a whirlwind to mow down a large number of enemies at once. It is one of the special moves that can be said to be synonymous with <Samurai>.</p>",
     "limit": {
       "min": 0,
       "value": 0,

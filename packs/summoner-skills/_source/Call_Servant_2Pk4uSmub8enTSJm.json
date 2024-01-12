@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You immediately use one [Summon Servant] skill. However, you may not use a [Summon Servant] skill currently in effect.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): You may use a [Summon Servant] skill currently in effect.</p>",
+    "description": "<p>You immediately use one [Summon Servant] skill. However, you may not use a [Summon Servant] skill currently in effect.</p>\n<p></p>\n<p>(Fate 1): You can also use a [Summon Servant] skill that is currently active.</p>\n<p></p>\n<p>A skill that quickly swaps out a summoned servant with another servant. If it's up to you, it's easy to flexibly manage your followers according to the situation.</p>",
     "limit": {
       "min": 0,
       "value": 0,

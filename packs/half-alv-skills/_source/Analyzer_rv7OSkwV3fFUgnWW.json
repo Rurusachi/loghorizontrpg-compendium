@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Hit Checks], and checks made against a character's [Identification Difficulty], when those checks include characters with the [Construct] tag.</p>",
+    "description": "<p>You gain a + 1D bonus to [Hit Checks], and checks made against a character's [Identification Difficulty], when those checks include characters with the [Construct] tag.</p>\n<p></p>\n<p>You are an expert in man-made weapons, products of an ancient heritage. The artificial beings have no choice but to be exterminated against the existence that draws their bloodline from their former creators: The Alv.</p>",
     "limit": {
       "min": 0,
       "value": 0,

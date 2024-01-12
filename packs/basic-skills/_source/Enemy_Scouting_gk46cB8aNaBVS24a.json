@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill when you attempt to acquire information about enemies in the next scene.</p>\n<p>&nbsp;</p>\n<p>(Result: 10) You learn the number of enemies appearing.</p>\n<p>(Result: 20) You learn the name of the lowest ranked enemy (if there are several tied for the same rank, GM's choice), along with whether they have the [Boss] or [Mob] tags.</p>\n<p>(Fumble): The enemy notices your scouting.</p>",
+    "description": "<p>Use this skill when you attempt to acquire information about enemies in the next scene.</p>\n<p></p>\n<p>(Result: 10) You learn the number of enemies appearing.</p>\n<p>(Result: 20) You learn the name of the lowest ranked enemy (if there are several tied for the same rank, GM's choice), along with whether they have the [Boss] or [Mob] tags.</p>\n<p>(Fumble): The enemy notices your scouting.</p>",
     "limit": {
       "min": 0,
       "value": 0,

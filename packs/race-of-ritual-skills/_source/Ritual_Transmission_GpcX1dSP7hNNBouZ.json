@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +4 [Base INT].</p>",
+    "description": "<p>You gain + 4 [Base INT].</p>\n<p></p>\n<p>You have gained high intelligence by inheriting the deep knowledge handed down by the Ritual tribe.</p>",
     "limit": {
       "min": 0,
       "value": 0,

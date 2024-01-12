@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target removes 1 Bad Status currently affecting them, or reduces their [Hate] by -1. <br><br>(Fate 1): The target can remove 2 Bad Statuses instead of 1.<br><br>Magic that emits a purifying radiance and heals nearby allies. It also has the effect of calming hostility from the enemy.</p>",
+    "description": "<p>The target removes 1 Bad Status currently affecting them, or reduces their [Hate] by -1. </p>\n<p></p>\n<p>(Fate 1): The target can remove 2 Bad Statuses instead of 1.</p>\n<p></p>\n<p>Magic that emits a purifying radiance and heals nearby allies. It also has the effect of calming hostility from the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains [Barrier: (Magic Power) + (Recovery)].</p>",
+    "description": "<p>The target gains [Barrier: (Magic Power) + (Recovery)].</p>\n<p></p>\n<p>A special skill that deploys countless barriers one after another and uses damage blocking magic on allies in a wide range. A magical shield that covers the battlefield is the embodiment of determination to protect all allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

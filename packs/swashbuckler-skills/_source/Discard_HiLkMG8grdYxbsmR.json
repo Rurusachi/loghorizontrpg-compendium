@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may only use this skill on allies. You can lower target's [Hate] by 1. This feat can be used more than once in the same Main Process.</p>\n<p>&nbsp;</p>\n<p>(Hate 1): The Range can be changed to [Range: 4 Sq]. If you are equipped with a [Shield] you may add to the target's [Hate] by 1.</p>",
+    "description": "<p>You may only use this skill on allies. You can lower target's [Hate] by 1. This feat can be used more than once in the same Main Process.</p>\n<p></p>\n<p>(Hate 1) The Range can be changed to [Range: 4 Sq]. If you are equipped with a [Shield] you may add to the target's [Hate] by 1.</p>",
     "limit": {
       "min": 0,
       "value": 0,

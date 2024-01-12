@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill only produces an effect if the target has [Regen]. The target's [Regen] rating increases by +[Magic Power].<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>Magic that enhances the regenerative power that circulates within the target's body. With the divine protection of mistletoe, the thing that binds it, it connects and resonates the life force of the earth with the target, giving life force that seems infinite.</p>",
+    "description": "<p>This skill only produces an effect if the target has [Regen]. The target's [Regen] rating increases by +[Magic Power].</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>Magic that enhances the regenerative power that circulates within the target's body. With the divine protection of mistletoe, the thing that binds it, it connects and resonates the life force of the earth with the target, giving life force that seems infinite.</p>",
     "limit": {
       "min": 0,
       "value": 0,

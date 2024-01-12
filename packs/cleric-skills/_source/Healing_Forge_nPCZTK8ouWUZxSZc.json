@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target. Secondary targets within a range of [Target: Area (P) / Range: Close] centered on yourself regain [(Recovery) + (SR x 3)] [HP].<br><br>The act of wielding a weapon is likened to the movement of forging, which is a symbol of creation, creating a healing power, and healing the wounds of surrounding allies along with the attack.</p>",
+    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target. Secondary targets within a range of [Target: Area (P) / Range: Close] centered on yourself regain [(Recovery) + (SR x 3)] [HP].</p>\n<p></p>\n<p>The act of wielding a weapon is likened to the movement of forging, which is a symbol of creation, creating a healing power, and healing the wounds of surrounding allies along with the attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

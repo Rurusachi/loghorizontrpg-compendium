@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Success): During the Initiative Process for the next Round, you are treated as the character with the highest [Initiative].</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Success): During the Initiative Process for the next Round, you are treated as the character with the highest [Initiative].</p>\n<p></p>\n<p>A special skill that attacks with a quick step while holding a weapon. It is characterized by a small movement gap, and can immediately move to the next attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is War Priest, Devotee/Prayer Hand, or Magical Girl. Heal a target other then you for [((Base POW)x2) + (Recovery)].</p>",
+    "description": "<p>You may use this skill if your subclass is War Priest, Devotee, or Magical Girl.</p>\n<p></p>\n<p>A target other than you recovers [(Base POW) x 2 + (Recovery)] HP.</p>\n<p></p>\n<p>A special skill that uses healing magic by offering prayers. The feelings you feel for your injured and fallen friends will become a miracle of healing, giving them courage and hope.</p>",
     "limit": {
       "min": 0,
       "value": 0,

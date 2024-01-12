@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill when you receive the effect of Healing Potion (any grade). Reduce your [Fatigue] rating by an amount equal to the HP you recovered.<br><br>(Bonus): You gain +8 Max HP.<br><br>You are well versed in the art of conditioning yourself with medicine and food.</p>",
+    "description": "<p>Use this skill when you receive the effect of Healing Potion (any grade). Reduce your [Fatigue] rating by an amount equal to the HP you recovered.</p>\n<p></p>\n<p>(Bonus): You gain +8 Max HP.</p>\n<p></p>\n<p>You are well versed in the art of conditioning yourself with medicine and food.</p>",
     "limit": {
       "min": 0,
       "value": 0,

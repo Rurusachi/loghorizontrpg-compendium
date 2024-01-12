@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target. The effects of \"Weapon Mastery: Blade\" may be applied to this damage roll. This skill can be used without a [Blade] equipped.</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magic damage to the target. The effects of «Weapon Mastery: Blade» may be applied to this damage roll. This skill can be used without a [Blade] equipped.</p>\n<p></p>\n<p>An attack magic that summons a dignified sword princess, Sword Princess, who wears armor from the top of her dress, and slashes the enemy to pieces with a single stroke.</p>",
     "limit": {
       "min": 0,
       "value": 0,

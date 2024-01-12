@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may treat characters with [Hidden] as if they did not have that condition, and may recognize and target them with actions.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+    "description": "<p>You may treat characters with [Hidden] as if they did not have that condition, and may recognize and target them with actions.</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Point].</p>\n<p></p>\n<p>Your keen sense of smell allows you to spot hidden opponents. As a Wolf Fang hunter, your senses are sharper than most.</p>",
     "limit": {
       "min": 0,
       "value": 0,

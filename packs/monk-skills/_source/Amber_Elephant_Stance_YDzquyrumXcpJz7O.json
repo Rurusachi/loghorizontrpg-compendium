@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You must have either \"Covering\" or \"Long Range Cover\" in order to acquire this skill. Select a secondary target within a range of [Target: Single / Range: 2 Sq.] from yourself. When using \"Covering\" or \"Long Range Cover\" on the secondary target, that use does not reduce the number of times the skill can be used, and you may use the skill even if you have exhausted all of its uses. In addition, you take a -1 penalty to [Speed].<br><br>A special skill that stands in the way of the enemy like a calm giant elephant and takes a stance to protect allies.</p>",
+    "description": "<p>You must have either \"Covering\" or \"Long Range Cover\" in order to acquire this skill. Select a secondary target within a range of [Target: Single / Range: 2 Sq.] from yourself. When using \"Covering\" or \"Long Range Cover\" on the secondary target, that use does not reduce the number of times the skill can be used, and you may use the skill even if you have exhausted all of its uses. In addition, you take a -1 penalty to [Speed].</p>\n<p></p>\n<p>A special skill that stands in the way of the enemy like a calm giant elephant and takes a stance to protect allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

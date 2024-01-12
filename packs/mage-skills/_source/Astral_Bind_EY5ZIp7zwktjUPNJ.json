@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target takes [Rigor]. During this Main Process, if the target does not receive at least 1 point of HP Damage, then the target removes this [Rigor] status at the end of the Main Process.</p>",
+    "description": "<p>The target takes [Rigor]. During this Main Process, if the target does not receive at least 1 point of HP Damage, then the target removes this [Rigor] status at the end of the Main Process.</p>\n<p></p>\n<p>Magic that restricts the enemy's movement by constricting it with a semi-substantial chain refined with magical power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

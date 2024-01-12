@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill when the target's Drop Item Roll die shows a 1. The target may reroll that die.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+    "description": "<p>Use this skill when the target's Drop Item Roll die shows a 1. The target may reroll that die.</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Point].</p>\n<p></p>\n<p>A special skill that increases the value of materials and items obtained from enemies through natural luck or delicate demolition methods.</p>",
     "limit": {
       "min": 0,
       "value": 0,

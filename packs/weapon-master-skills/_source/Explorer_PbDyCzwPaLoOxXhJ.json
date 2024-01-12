@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +2 bonus to [Detect Unusual], [Prop Analyze], and [Prop Disable] checks.</p>\n<p>&nbsp;</p>\n<p>(SR2): The bonus is +1D instead of +2.</p>",
+    "description": "<p>You gain a +2 bonus to [Detect Unusual], [Prop Analyze], and [Prop Disable] checks.</p>\n<p></p>\n<p>(SR2): The bonus is +1D instead of +2.</p>\n<p></p>\n<p>You have the knowledge and skills to explore the wilds and dungeons.</p>",
     "limit": {
       "min": 0,
       "value": 0,

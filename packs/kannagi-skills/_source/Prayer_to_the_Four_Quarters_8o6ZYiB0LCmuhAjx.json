@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains [Barrier: 4D + (Magic Power) + (Recovery)].</p>",
+    "description": "<p>The target gains [Barrier: 4D + (Magic Power) + (Recovery)].</p>\n<p></p>\n<p>A magic that informally performs a secret ceremony to pray for good health and wraps a certain space with a solid barrier.</p>",
     "limit": {
       "min": 0,
       "value": 0,

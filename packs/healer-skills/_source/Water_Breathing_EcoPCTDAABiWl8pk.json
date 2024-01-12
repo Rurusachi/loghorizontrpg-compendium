@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains the [Aquatic] tag, and [Cancel (Aquatic): 10]. Treat this effect as a Combat Status.<br><br>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.<br><br>A magic that allows you to freely move around in the water just like you can on land, by granting the protection of water to your friends and yourself.</p>",
+    "description": "<p>The target gains the [Aquatic] tag, and [Cancel (Aquatic): 10]. Treat this effect as a Combat Status.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A magic that allows you to freely move around in the water just like you can on land, by granting the protection of water to your friends and yourself.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain the [Mythic] tag. You gain a +[SRx5] bonus to [Recovery].</p>\n<p>&nbsp;</p>\n<p>(Effect): Secondary targets within a range of [Target: Area (P) / Range: Close] centered on you remove one Bad Status they are currently affected by.</p>",
+    "description": "<p>You gain the [Mythic] tag. You gain a +[SRx5] bonus to [Recovery].</p>\n<p></p>\n<p>(Effect): Secondary targets within a range of [Target: Area (P) / Range: Close] centered on you remove one Bad Status they are currently affected by.</p>\n<p></p>\n<p>A special skill that summons and uses a unicorn, a mythical beast resembling a white horse with a spiral horn. One corner of the forehead is filled with the magical power of purification.</p>",
     "limit": {
       "min": 0,
       "value": 0,

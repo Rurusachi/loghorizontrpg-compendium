@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains [Cancel]. You gain [Weakness].<br>Both [Cancel] and [Weakness] rating are equal to [(INT Mod) x SR].<br>This [Cancel] and [Weakness] are canceled only by ending this skill.<br><br>A stance to focus on protecting others without regard for their own danger. With this stance, you become a shield for someone.</p>",
+    "description": "<p>The target gains [Cancel]. You gain [Weakness].</p>\n<p>Both [Cancel] and [Weakness] rating are equal to [(INT Mod) x SR].</p>\n<p>This [Cancel] and [Weakness] are canceled only by ending this skill.</p>\n<p></p>\n<p>A stance to focus on protecting others without regard for their own danger. With this stance, you become a shield for someone.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill only produces an effect against [Mob] enemies that do not have the [Undead] or [Artificial] tags. The target becomes [Incapacitated] or [Dead] (your choice).<br><br>Attack magic that generates a poisonous fog of magical power that stops the circulation of life force and magical power. Instantly neutralizes weak enemies.</p>",
+    "description": "<p>This skill only produces an effect against [Mob] enemies that do not have the [Undead] or [Artificial] tags. The target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>Attack magic that generates a poisonous fog of magical power that stops the circulation of life force and magical power. Instantly neutralizes weak enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You are not affected by [Darkness] or other similar unwanted effects.</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+    "description": "<p>You are not affected by [Darkness] or other similar unwanted effects.</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Point].</p>\n<p></p>\n<p>You have a special sense of heat that allows you to perceive your surroundings even in the dark.</p>",
     "limit": {
       "min": 0,
       "value": 0,

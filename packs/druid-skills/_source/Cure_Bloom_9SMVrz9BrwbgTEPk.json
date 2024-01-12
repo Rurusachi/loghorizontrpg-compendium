@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target removes one Bad Status currently affecting them.<br><br>(Hate 1): This skill can be used with [Target: Two].<br><br>Magic that spreads the scent of flowers with healing power and cures allies of status ailments. It can also be used as a substitute for perfume.</p>",
+    "description": "<p>The target removes one Bad Status currently affecting them.</p>\n<p></p>\n<p>(Hate 1): This skill can be used with [Target: Two].</p>\n<p></p>\n<p>Magic that spreads the scent of flowers with healing power and cures allies of status ailments. It can also be used as a substitute for perfume.</p>",
     "limit": {
       "min": 0,
       "value": 0,

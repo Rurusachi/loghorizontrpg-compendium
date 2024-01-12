@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill can be used at the same time as any action. During that action,  you gain a +4D bonus to [Recovery].</p>",
+    "description": "<p>This skill can be used at the same time as any action. During that action, you gain a + 4D bonus to [Recovery].</p>\n<p></p>\n<p>A skill that draws down the Furano spirits of many who have been on the mission of defending the border, and gains the power of protection and healing.</p>",
     "limit": {
       "min": 0,
       "value": 0,

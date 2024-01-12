@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target.\n\n(Critical): Increase the damage by +2D.</p>",
+    "description": "<p>Deal [(SR + 3)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Critical): Increase the damage by + 2D.</p>\n<p></p>\n<p>A special skill in which you wield a weapon with all your might and attack the enemy. A simple but heavy blow that deals a huge blow if it hits directly.</p>",
     "limit": {
       "min": 0,
       "value": 0,

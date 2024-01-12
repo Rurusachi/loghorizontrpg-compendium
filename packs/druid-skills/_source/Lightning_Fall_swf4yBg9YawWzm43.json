@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR + 2)D + (Magic Power)] magical damage to the target. If you used &laquo;Lightning Fall&raquo; on the previous round, reduce this skill's [Hate] cost by -1 (minimum 0).<br><br>Attack magic that summons thunderclouds over the enemy's head and drops lightning.</p>",
+    "description": "<p>Deal [(SR + 2)D + (Magic Power)] magical damage to the target. If you used «Lightning Fall» on the previous round, reduce this skill's [Hate] cost by -1 (minimum 0).</p>\n<p></p>\n<p>Attack magic that summons thunderclouds over the enemy's head and drops lightning.</p>",
     "limit": {
       "min": 0,
       "value": 0,

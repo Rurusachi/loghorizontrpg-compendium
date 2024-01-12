@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>[(SR+1)D + (Attack Power)] damage is done to target. The target cannot move to the same Sq. as any other ally (this effect is handled as a BS). If you are already in the same Sq., you cannot move back to the same Sq. upon leaving it. However, this effect is invalid for forced movement.</p>\n<p>&nbsp;</p>\n<p>A throwing technique that anticipates the enemy's movement path and attacks to block it, preventing them from approaching allies.</p>",
+    "description": "<p>[(SR+1)D + (Attack Power)] damage is done to target. The target cannot move to the same Sq. as any other ally (this effect is handled as a BS). If you are already in the same Sq., you cannot move back to the same Sq. upon leaving it. However, this effect is invalid for forced movement.</p>\n<p></p>\n<p>A throwing technique that anticipates the enemy's movement path and attacks to block it, preventing them from approaching allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

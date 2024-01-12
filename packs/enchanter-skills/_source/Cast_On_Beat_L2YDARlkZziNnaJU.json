@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may immediately use two [Timing: Minor] Enchanter or Mage Archetype skills.</p>",
+    "description": "<p>You may immediately use two [Timing: Minor] Enchanter or Mage Archetype skills.</p>\n<p></p>\n<p>A special skill that compresses chants and releases magic one after another at short intervals.</p>",
     "limit": {
       "min": 0,
       "value": 0,

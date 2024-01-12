@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect against [Mob] enemies that have any kind of Bad Status. The target becomes [Incapacitated] or [Dead] (your choice).</p>",
+    "description": "<p>This skill only produces an effect against [Mob] enemies that have any kind of Bad Status. The target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>Magic that amplifies the enemy's ailments and neutralizes the target. It's not just weapons and bodies that the enchanter enhances.</p>",
     "limit": {
       "min": 0,
       "value": 0,

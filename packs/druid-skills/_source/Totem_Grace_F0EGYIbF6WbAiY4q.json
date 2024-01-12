@@ -43,7 +43,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +3 bonus to [Accuracy], and a +[POW Mod] bonus to [Physical Defense].<br><br>By the grace of your ancestors, you possess the power to hunt your enemies.</p>",
+    "description": "<p>You gain a +3 bonus to [Accuracy], and a +[POW Mod] bonus to [Physical Defense].</p>\n<p></p>\n<p>By the grace of your ancestors, you possess the power to hunt your enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Operate Checks].</p>",
+    "description": "<p>You gain a +1D bonus to [Operate Checks].</p>\n<p></p>\n<p>Your enchanted tools begin to move as if they were alive, allowing you to manipulate them more accurately and effectively.</p>",
     "limit": {
       "min": 0,
       "value": 0,

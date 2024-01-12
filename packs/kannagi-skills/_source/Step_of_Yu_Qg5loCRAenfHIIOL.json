@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target removes one Bad Status currently affecting them.</p>\n<p>&nbsp;</p>\n<p>(Minor): Before this skill takes effect, you make a [Safe Move] of 1 Sq. This additional effect cannot be activated if you have [Rigor].</p>",
+    "description": "<p>The target removes one Bad Status currently affecting them.</p>\n<p></p>\n<p>(Minor): Before this skill takes effect, you make a [Safe Move] of 1 Sq. This additional effect cannot be activated if you have [Rigor].</p>\n<p></p>\n<p>A special skill that uses a special walking method to ward off illness and misfortune that befells an ally.</p>",
     "limit": {
       "min": 0,
       "value": 0,

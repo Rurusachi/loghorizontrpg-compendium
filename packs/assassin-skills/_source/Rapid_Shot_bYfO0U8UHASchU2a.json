@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Hate 1): Increase the damage by +8.</p>\n<p>&nbsp;</p>\n<p>A special skill that makes continuous attacks with rapid fire with projectiles. You can also increase the number of shots and add more attacks.</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Hate 1): Increase the damage by +8.</p>\n<p></p>\n<p>A special skill that makes continuous attacks with rapid fire with projectiles. You can also increase the number of shots and add more attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

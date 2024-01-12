@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you have at least one empty [Hand Slot]. You may reduce the [Hate] cost for \"Spell Maximize\" and \"Death Cloud\" by -1 (minimum 0).</p>\n<p>&nbsp;</p>\n<p>(SR2): During Preplay, select one [Magic Attack] skill you know. Until the end of the scenario, that skill's [Hate] cost is reduced by -1 (minimum 0).</p>",
+    "description": "<p>This skill only produces an effect when you have one or more empty [Hand Slots]. You may reduce the [Hate] cost for \"Spell Maximize\" and \"Death Cloud\" by - 1 (minimum 0).</p>\n<p></p>\n<p>(SR2): During Pre-play, select one [Magic Attack] skill you know. Until the end of the scenario, reduce that skill's [Hate] cost by - 1 (minimum 0).</p>\n<p></p>\n<p>A combat style that omits the chanting of magic by cutting a magical mark with one free hand. This allows you to cast spells without drawing the attention of your enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

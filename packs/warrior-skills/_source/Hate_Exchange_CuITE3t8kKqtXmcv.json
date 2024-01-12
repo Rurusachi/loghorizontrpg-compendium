@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "CuITE3t8kKqtXmcv",
   "system": {
-    "description": "<p>Target an ally with higher [Hate] than yourself. You trade [Hate] values with the target.<br><br>A special skill that intimidates the enemy as if to protect an ally who has attracted too much attention from the enemy, and accepts all hostility instead.</p>",
+    "description": "<p>Target an ally with higher [Hate] than yourself. You trade [Hate] values with the target.</p>\n<p></p>\n<p>A special skill that intimidates the enemy as if to protect an ally who has attracted too much attention from the enemy, and accepts all hostility instead.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

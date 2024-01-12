@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target takes [Staggered]. During this Main Process, if the target does not receive at least 1 point of HP Damage, then the target removes this [Staggered] status at the end of the Main Process.<br><br>A special skill that slams the enemy with a shield and interferes with the opponent's attacks and spell casting. The enemy's vision and posture are disturbed, making it difficult to hit.</p>",
+    "description": "<p>The target takes [Staggered]. During this Main Process, if the target does not receive at least 1 point of HP Damage, then the target removes this [Staggered] status at the end of the Main Process.</p>\n<p></p>\n<p>A special skill that slams the enemy with a shield and interferes with the opponent's attacks and spell casting. The enemy's vision and posture are disturbed, making it difficult to hit.</p>",
     "limit": {
       "min": 0,
       "value": 0,

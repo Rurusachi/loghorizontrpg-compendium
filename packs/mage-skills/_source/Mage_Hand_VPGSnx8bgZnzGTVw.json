@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill when you make a [Disable Check]. You gain a +1D bonus to the check. While affected by this skill, you may use \"Prop Disable\" with [Range: 4 Sq.]</p>",
+    "description": "<p>Use this skill when you make a [Disable Check]. You gain a + 1D bonus to the check. While affected by this skill, you may use «Prop Disable» with [Range: 4 Sq.]</p>\n<p></p>\n<p>Magic that creates an invisible hand that moves freely with magical power and performs detailed work. Disarm dangerous traps from a distance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

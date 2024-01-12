@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Extra): The target take [Pursuit] with a rating equal to your [Initiative].</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Extra): The target take [Pursuit] with a rating equal to your [Initiative].</p>\n<p></p>\n<p>A special skill that imbues a melody in a weapon and uses that vibration to drive in an attack. The vibration propagated to the opponent through the weapon, and the next impact triggers a large wound.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>It is only active when you have two [Shields] in your [Hand Slots]. The [Accuracy] bonus of [Block Missile] you use will be + 1D instead of + 2.<br><br>(SR 2) 1 [Shield] You are equipped with will get + 3 to [Physical Defense].<br><br>A fighting style that stands in front of the enemy with shields in both hands. The figure that repels arrows and catches the sword is an immovable iron wall.</p>",
+    "description": "<p>It is only active when you have two [Shields] in your [Hand Slots]. The [Accuracy] bonus of [Block Missile] you use will be + 1D instead of + 2.</p>\n<p></p>\n<p>(SR 2) 1 [Shield] You are equipped with will get + 3 to  [Physical Defense].</p>\n<p></p>\n<p>A fighting style that stands in front of the enemy with shields in both hands. The figure that repels arrows and catches the sword is an immovable iron wall.</p>",
     "limit": {
       "min": 0,
       "value": 0,

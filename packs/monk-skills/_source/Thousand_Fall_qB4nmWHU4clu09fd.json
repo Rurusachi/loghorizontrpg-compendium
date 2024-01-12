@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage. The [Hate] of this skill is equal to [Number of Targets + 1].<br><br>(Success): Reduce the [Hate] of a number of allies equal to the [Number of Targets] and within [Range: 2 Sq.] by -1.<br><br>A skill that overwhelms a large number of enemies by firing a large number of throwing weapons all at once. A cascading barrage draws the enemy's attention to you.</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage. The [Hate] of this skill is equal to [Number of Targets + 1].</p>\n<p></p>\n<p>(Success): Reduce the [Hate] of a number of allies equal to the [Number of Targets] and within [Range: 2 Sq.] by -1.</p>\n<p></p>\n<p>A skill that overwhelms a large number of enemies by firing a large number of throwing weapons all at once. A cascading barrage draws the enemy's attention to you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

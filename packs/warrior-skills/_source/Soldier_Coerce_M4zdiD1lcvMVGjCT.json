@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "M4zdiD1lcvMVGjCT",
   "system": {
-    "description": "<p>Use this skill when you would make a [Negotiation Check] against a hostile character. Make an [Accuracy Check] instead of a [Negotiation Check].<br><br>Special ability to wield a weapon and perform coercive negotiations. In the world, there are negotiations where weapons are more talkative than words.</p>",
+    "description": "<p>Use this skill when you would make a [Negotiation Check] against a hostile character. Make an [Accuracy Check] instead of a [Negotiation Check].</p>\n<p></p>\n<p>Special ability to wield a weapon and perform coercive negotiations. In the world, there are negotiations where weapons are more talkative than words.</p>",
     "limit": {
       "min": 0,
       "value": 0,

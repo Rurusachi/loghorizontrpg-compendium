@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Target a single square. You can target characters in the targeted square with [Hinder]. This effect lasts until the end of the round.<br><br>(Fate 1): You may use this skill with [Timing: Initiative].<br><br>A special skill that summons myconids, ancestral spirits that embody the diversity of nature. Mushrooms with charming faces grow to hinder enemy movement.</p>",
+    "description": "<p>Target a single square. You can target characters in the targeted square with [Hinder]. This effect lasts until the end of the round.</p>\n<p></p>\n<p>(Fate 1): You may use this skill with [Timing: Initiative].</p>\n<p></p>\n<p>A special skill that summons myconids, ancestral spirits that embody the diversity of nature. Mushrooms with charming faces grow to hinder enemy movement.</p>",
     "limit": {
       "min": 0,
       "value": 0,

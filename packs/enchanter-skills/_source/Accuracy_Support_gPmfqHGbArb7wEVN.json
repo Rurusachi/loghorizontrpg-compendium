@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target gains a +2 bonus to [Accuracy Checks]. This skill can be used multiple times when used during the same Briefing.</p>",
+    "description": "<p>The target gains a +2 bonus to [Accuracy Checks]. This skill can be used multiple times when used during the same Briefing.</p>\n<p></p>\n<p>Support magic that increases the concentration of allies and increases the accuracy of attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

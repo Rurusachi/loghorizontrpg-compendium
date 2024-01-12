@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain +4 [Base POW].</p>",
+    "description": "<p>You gain + 4 [Base POW].</p>\n<p></p>\n<p>You have honed the high spiritual power that is characteristic of the foxtail tribe, and have an inner charm that is captivating.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill targets a Sq. Set Prop [Dim] (B1P418) to Sq selected as a target. The tag of this prop becomes [Magic].</p>\n<p>&nbsp;</p>\n<p>(SR 2) This feat is [Range: 4 Sq].</p>\n<p>(SR 3) This special skill is [Target: Wide 2 (P)].</p>\n<p>[Dim]: Treat this Prop as if it had [Darkness]. (Touch): The target gains a +2 bonus on [Evasion Checks] against attacks not made from close range. This effect continues until they exit the Prop.</p>",
+    "description": "<p>This skill targets a sq. Place the Prop [Darkness] (B1P418) to Sq selected as a target. The tag of this prop is [Magic].</p>\n<p></p>\n<p>(SR 2) This skill becomes [Range: 4 Sq].</p>\n<p>(SR 3) This skill becomes [Target: Wide 2 (P)].</p>\n<p></p>\n<p>\"Darkness\" [Space] [Natural] [Detect: Auto] [Analyze: Auto]</p>\n<p>(Touch): Treat the target as if it had [Hidden] from all other characters in the scene. In addition, treat all other characters present in the scene as if they had [Hidden] to the target. This effect continues until the target exits the Prop.</p>\n<p></p>\n<p>Magic that spreads darkness with magical power and obstructs vision.</p>",
     "limit": {
       "min": 0,
       "value": 0,

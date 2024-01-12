@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [8D + (Magic Power)] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Failure): The use of this skill does not count towards your Limit.</p>",
+    "description": "<p>Deal [8D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>(Failure): The use of this skill does not count towards your Limit.</p>\n<p></p>\n<p>An attack magic that confines the enemy in a barrier and burns them by scattering countless lightnings within it. The pentagram-shaped lightning barrier becomes a cage that captures the enemy's lifeline.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Bombadier, Hunter, or Nomad.\n\nUse at the same time as [Timing: Major / Target: Single] and with [Range: 1Sq or higher] attack. The range of attack increases by +2 Sq. and +1D to [Accuracy].</p>",
+    "description": "<p>You may use this skill if your subclass is Artillery, Hunter, or Nomad.</p>\n<p></p>\n<p>Use at the same time as an attack with [Timing: Major / Target: Single] and [Range: 1 Sq or more]. The range of the attack increases by + 2 Sq. and the [Hit Check] by + 1D.</p>\n<p></p>\n<p>A special skill that allows you to target prey from a distance. Reading the wind, anticipating movement, and sharpening your concentration, your sniper will pierce through the enemy in the distance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

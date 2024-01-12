@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just before you make an [Endurance Check]. You gain a +2D bonus to that check.<br><br>A special skill that endures various sufferings with the mental strength obtained through various penances. A heart clear from worldly desires makes even fire feel cool.</p>",
+    "description": "<p>Use this skill just before you make an [Endurance Check]. You gain a +2D bonus to that check.</p>\n<p></p>\n<p>A special skill that endures various sufferings with the mental strength obtained through various penances. A heart clear from worldly desires makes even fire feel cool.</p>",
     "limit": {
       "min": 0,
       "value": 0,

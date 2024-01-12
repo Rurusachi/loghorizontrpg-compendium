@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Replace \"Split-Second Awareness\" with this skill at CR11 or higher. When damage would be applied to you, instead treat all damage as having no effect, as if your [Defense Check] had been successful.<br><br>(Hate Top): You recover +[[Base STR] x 3] HP.<br><br>A special skill that determines the starting point and trajectory of the enemy's movement and completely nullifies it. At that moment, your nullification will reach the realm that even exceeds the limits of your own martial arts and physical strength.</p>",
+    "description": "<p>Replace \"Split-Second Awareness\" with this skill at CR11 or higher. When damage would be applied to you, instead treat all damage as having no effect, as if your [Defense Check] had been successful.</p>\n<p></p>\n<p>(Hate Top): You recover +[[Base STR] x 3] HP.</p>\n<p></p>\n<p>A special skill that determines the starting point and trajectory of the enemy's movement and completely nullifies it. At that moment, your nullification will reach the realm that even exceeds the limits of your own martial arts and physical strength.</p>",
     "limit": {
       "min": 0,
       "value": 0,

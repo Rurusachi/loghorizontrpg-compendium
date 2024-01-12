@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Reduce your [Hate] by -2.</p>",
+    "description": "<p>Reduce your [Hate] by - 2.</p>\n<p></p>\n<p>A magic that manipulates light and hides oneself so that they melt into the darkness. Although the effect is only momentary, the Mantle of Invisibility Darkness is effective enough to distract foes.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target. The target must make a [Safe Move (Forced)] to a square you select within \"Freezing Liner\"'s area of effect.</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magic damage to the target. The target must make a [Safe Move (Forced)] to a square you select within \"Freezing Liner's\" area of effect.</p>\n<p></p>\n<p>An offensive spell that unleashes a torrent of cold avalanche in a straight line and strikes the enemy. Powerful enough to rip the body apart, it pushes the enemy away and disrupts their formation.</p>",
     "limit": {
       "min": 0,
       "value": 0,

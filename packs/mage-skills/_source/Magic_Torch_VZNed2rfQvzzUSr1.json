@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>All [Dim Light] [Night] and [Darkness] effects within range end. This effect lasts until the end of the scene.</p>",
+    "description": "<p>All [Dim Light] [Night] and [Darkness] effects within range end. This effect lasts until the end of the scene.</p>\n<p></p>\n<p>A spell that summons a magical light and illuminates the area brightly. The amount of light can be freely controlled to some extent according to the will of the operator.</p>",
     "limit": {
       "min": 0,
       "value": 0,

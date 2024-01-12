@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target takes [Dazed]. When you use this skill while [Hidden], you do not lose [Hidden].</p>\n<p>&nbsp;</p>\n<p>(Hate 1): This skill can be used with [Timing: Initiative].</p>\n<p>&nbsp;</p>\n<p>A special skill that sews up the opponent's shadow and seals their movement. It doesn't do any direct damage, but being unable to move even for a moment in front of an &lt;Assassin&gt; is fatal.</p>",
+    "description": "<p>The target takes [Dazed]. When you use this skill while [Hidden], you do not lose [Hidden].</p>\n<p></p>\n<p>(Hate 1): This skill can be used with [Timing: Initiative].</p>\n<p></p>\n<p>A special skill that sews up the opponent's shadow and seals their movement. It doesn't do any direct damage, but being unable to move even for a moment in front of an <Assassin> is fatal.</p>",
     "limit": {
       "min": 0,
       "value": 0,

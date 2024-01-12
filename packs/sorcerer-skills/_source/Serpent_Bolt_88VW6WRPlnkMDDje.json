@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Extra): A secondary target within a range of [Target: Single / Range: 2 Sq.] from the initial target takes [SRx5] direct damage. This damage triggers [Weakness] on the secondary target, as if they had failed their [Dodge Check].</p>",
+    "description": "<p>Deal [2D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>(Extra): A secondary target within a range of [Target: Single / Range: 2 Sq.] from the initial target takes [SR x 5]  direct damage. This damage triggers [Weakness] on the secondary target, as if they had failed a [Defense Check].</p>\n<p></p>\n<p>Attack magic that shoots a bundle of converged lightning. The lightning strike explodes on impact, damaging nearby enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

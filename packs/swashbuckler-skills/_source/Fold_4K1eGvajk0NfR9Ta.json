@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use it in the attack declaration step when you are selected for attack. You can instantly move 2 Sq as a [Safe Move] and redo the attack declaration step once again after the end of the move.</p>",
+    "description": "<p>Use it in the Attack Declaration step when you are selected for attack. You can instantly move 2 Sq as a [Safe Move] and redo the Attack Declaration step once again after the end of the move.</p>",
     "limit": {
       "min": 0,
       "value": 0,

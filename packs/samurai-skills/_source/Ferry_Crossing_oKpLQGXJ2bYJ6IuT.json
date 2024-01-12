@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. During this Main Process, [Defense Checks] made in opposition to your attacks take a -1D penalty.<br><br>(Minor): Increase the distance moved by +1 Sq.<br><br>A special ability to move with a stable gait that does not shake even on a ship that is rocking by the waves. It is difficult to dodge a blow that is delivered from a sure foot.</p>",
+    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. During this Main Process, [Defense Checks] made in opposition to your attacks take a -1D penalty.</p>\n<p></p>\n<p>(Minor): Increase the distance moved by +1 Sq.</p>\n<p></p>\n<p>A special ability to move with a stable gait that does not shake even on a ship that is rocking by the waves. It is difficult to dodge a blow that is delivered from a sure foot.</p>",
     "limit": {
       "min": 0,
       "value": 0,

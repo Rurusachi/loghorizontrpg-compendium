@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Dazed].<br><br>Attack magic that blows a gust of hail over a wide area to freeze the enemy. A strong headwind temporarily slows down enemy reactions.</p>",
+    "description": "<p>Deal [(SR)D + (Magic Power)] magical damage to the target, and the target takes [Dazed].</p>\n<p></p>\n<p>Attack magic that blows a gust of hail over a wide area to freeze the enemy. A strong headwind temporarily slows down enemy reactions.</p>",
     "limit": {
       "min": 0,
       "value": 0,

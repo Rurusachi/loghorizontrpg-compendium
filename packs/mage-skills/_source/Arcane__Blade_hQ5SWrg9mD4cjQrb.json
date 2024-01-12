@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Inflict Physical or Magical Damage (you select) [[Attack Power] + 2D]. If you do not have an enemy other than the target in the same Sq as you, give [Pursuit: [DEX mod value] x SR] to the target.</p>",
+    "description": "<p>Deal [2D + (Attack Power)] physical or magic damage (you select) to the target. Give [Pursuit: [DEX Mod] x SR] to the target If you do not have any other enemies in your Sq other than the target.</p>\n<p></p>\n<p>A special skill that creates magical blades from weapons and hands, slashing enemies to pieces in a single flash. The color and shape of the blade vary slightly depending on the user's preference.</p>",
     "limit": {
       "min": 0,
       "value": 0,

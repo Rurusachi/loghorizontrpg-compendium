@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Effective only when all your [Hand Slots] are empty. Your bare hand [Attack Power] and [Magical Power] is equal to [CR + ((INT Mod)x 2)]. You get one [Illusion Weapon] tag at the start of the scene. This tag is lost at the end of the scene.</p>\n<p>&nbsp;</p>\n<p>(SR 2): You receive one [Illusion Weapon] tag every round.</p>\n<p>(SR 3): You always [Cancel: [number of Illusion Weapons] tags x 5] obtained.</p>",
+    "description": "<p>Activates when all of your [hand slots] are empty. Your bare-handed [Attack Power] and [Magic Power] are [CR + ([INT Mod] x 2)]. You get 1 [Illusion Weapon] tag at the start of the scene. This tag is lost at the end of the scene. </p>\n<p></p>\n<p>(SR2) Also get 1 tag at the start of setup in the 2nd and subsequent rounds. </p>\n<p>(SR3) You always get [Cancel: Number of [Illusion Weapon] tags x 5].</p>\n<p></p>\n<p>A fighting style in which one creates numerous weapons using genjutsu and manipulates them freely.</p>",
     "limit": {
       "min": 0,
       "value": 0,

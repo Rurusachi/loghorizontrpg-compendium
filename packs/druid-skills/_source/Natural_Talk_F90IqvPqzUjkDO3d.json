@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill when you make a check for [Gather Information]. You gain +2D to that check.<br><br>A special skill that allows you to communicate with animals and plants by concentrating your mind, and to communicate roughly with them.</p>",
+    "description": "<p>Use this skill when you make a check for [Gather Information]. You gain +2D to that check.</p>\n<p></p>\n<p>A special skill that allows you to communicate with animals and plants by concentrating your mind, and to communicate roughly with them.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Only acquired with CR 11 or higher. The [Defense Check] penalty for \"Assault Stance\" becomes -1 instead of -2.<br><br>(SR2 &amp; CR16): The penalty is removed.<br><br>Even though you take a stance that emphasizes attack, you have mastered the movement of offense and defense that does not neglect defense.</p>",
+    "description": "<p>Only acquired with CR 11 or higher. The [Defense Check] penalty for \"Assault Stance\" becomes -1 instead of -2.</p>\n<p></p>\n<p>(SR2 & CR16): The penalty is removed.</p>\n<p></p>\n<p>Even though you take a stance that emphasizes attack, you have mastered the movement of offense and defense that does not neglect defense.</p>",
     "limit": {
       "min": 0,
       "value": 0,

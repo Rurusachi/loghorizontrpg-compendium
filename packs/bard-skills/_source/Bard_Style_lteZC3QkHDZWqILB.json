@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you are equipped with an [Instrument]. You may reduce the [Hate] cost of skills that have the [Instrument] tag by -[SR] (minimum 0).</p>",
+    "description": "<p>This skill only produces an effect when you are equipped with an [Instrument]. You may reduce the [Hate] cost of skills that have the [Instrument] tag by -[SR] (minimum 0).</p>\n<p></p>\n<p>A fighting style in which you wield a musical instrument and strengthen your attacks with songs and melodies. The sounds you make can sometimes overwhelm the battlefield faster than swords and magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

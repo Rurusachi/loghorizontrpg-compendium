@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. In addition, after the end of the Main Process, you may make a [Safe Move] up to [SR] Sq. You may only use this skill when you have the [Mythic] tag.</p>",
+    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. In addition, after the end of the Main Process, you may make a [Safe Move] up to [SR] Sq. You may only use this skill when you have the [Mythic] tag.</p>\n<p></p>\n<p>A special skill that orders the phantom beast that is being summoned as a follower to assist in movement. There are various means of assistance depending on the phantom beast, such as straddling the back or having acceleration magic cast on it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may make a [Normal Move] of up to 3 Sq. If you are on a terrain prop with the [Nature] tag, this movement becomes a [Safe Move].<br><br>(Minor): The travel distance is +1 Sq.<br><br>An EX power that represents the ability of a beast that lives in nature to traverse. For wild beasts, natural terrain is no obstacle.</p>",
+    "description": "<p>You may make a [Normal Move] of up to 3 Sq. If you are on a terrain prop with the [Nature] tag, this movement becomes a [Safe Move].</p>\n<p></p>\n<p>(Minor): The travel distance is +1 Sq.</p>\n<p></p>\n<p>An EX power that represents the ability of a beast that lives in nature to traverse. For wild beasts, natural terrain is no obstacle.</p>",
     "limit": {
       "min": 0,
       "value": 0,

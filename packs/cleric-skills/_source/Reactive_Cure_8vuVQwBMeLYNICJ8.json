@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill at the same time as \"Reactive Heal\" or \"Reactive Area Heal\". Remove any Bad Status the target of \"Reactive Heal\" or \"Reactive Area Heal\" just received from an attack.<br><br>Magic that emits a purifying light that heals allies' ailments at the same time as reaction-activated recovery.</p>",
+    "description": "<p>Use this skill at the same time as \"Reactive Heal\" or \"Reactive Area Heal\". Remove any Bad Status the target of \"Reactive Heal\" or \"Reactive Area Heal\" just received from an attack.</p>\n<p></p>\n<p>Magic that emits a purifying light that heals allies' ailments at the same time as reaction-activated recovery.</p>",
     "limit": {
       "min": 0,
       "value": 0,

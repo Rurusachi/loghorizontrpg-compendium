@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Fisherman, Pirate, or Admiral. You gain the [Aquatic] tag. If the target of your attack has the [Aquatic] tag, you gain +10 to damage roll of that attack.</p>\n<p>&nbsp;</p>\n<p>(CR 11): Increase the damage by +5.</p>\n<p>(CR 21): Increase the damage by an additional +5.</p>",
+    "description": "<p>You may use this skill if your subclass is Fisherman, Pirate, or Admiral.</p>\n<p></p>\n<p>You gain the [Aquatic] tag. If the target of your attack has the [Aquatic] tag, you gain + 10 to damage roll of that attack. </p>\n<p></p>\n<p>(CR 11):  The damage bonus becomes + 15 instead of + 10.</p>\n<p>(CR 21):  The damage bonus becomes + 20.</p>\n<p></p>\n<p>You are an expert swimmer and also skilled at fighting in water such as the sea and rivers. The water is your fishing ground.</p>",
     "limit": {
       "min": 0,
       "value": 0,

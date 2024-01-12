@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During each of the target's Main Processes, the target gains an additional Minor Action.</p>",
+    "description": "<p>During each of the target's Main Processes, the target gains an additional Minor Action.</p>\n<p></p>\n<p>Support magic that increases the action speed of allies and allows them to take various actions.</p>",
     "limit": {
       "min": 0,
       "value": 0,

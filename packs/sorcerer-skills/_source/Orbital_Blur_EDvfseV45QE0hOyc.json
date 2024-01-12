@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, [Dodge Checks] opposing your attacks take a -1D penalty.</p>",
+    "description": "<p>During this Main Process, [Defense Checks] opposing your attacks take a - 1D penalty.</p>\n<p></p>\n<p>Magic that blurs your appearance with illusions to dazzle the enemy and make it difficult to respond to the next attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

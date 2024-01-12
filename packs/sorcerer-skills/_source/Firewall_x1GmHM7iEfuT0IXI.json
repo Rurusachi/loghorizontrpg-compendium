@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The range where the prop is not installed belongs to Sq within 4 Sq from the viewpoint of you. Place Prop [Flame Wall] (B2P359) for a series of edges up to the length of [SR x 2] in the installation range. PR of Prop is equal to CR.</p>\n<p>&nbsp;</p>\n<p>[Flame Wall] Commentary: A burning wall.&nbsp;&nbsp;Effect: [Touch/Pass] Target receives 10 direct damage (this damage activates [Weakness: Flame]). The target is damaged only once during this process from this prop. (Arrange) Damage of the prop is + 2 per [PR + 1]. Maximum PR 30.</p>",
+    "description": "<p>The range where the prop is not installed belongs to Sq within 4 Sq from [Range: Close]. Place Prop [Flame Wall] (B2P359) for a series of edges up to the length of [SR x 2] in the installation range. PR of Prop is equal to CR.</p>\n<p></p>\n<p>\"Flame Wall\" [Detect: Auto] [Analyze: Auto] [Disable: Impossible]</p>\n<p>A burning wall. Effect: [Touch/Pass] Target receives 10 direct damage (this damage activates [Weakness: Flame]). Target can only take damage from this prop once during the same main process. (Arrange) Damage of the prop is + 2 per [PR + 1]. Maximum PR30.</p>\n<p></p>\n<p>A magic that summons flames and unfolds as a wall.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You can not target enemies with the [Boss] tag. The target can not be in the [Pre-Action] state in the setup process of every round. This effect is handled as Life Status with the [Sealed] tag, and it continues until the target pays 2 [Fate Points] or until the effect is canceled by the [Enchantment] tag restriction.</p>",
+    "description": "<p>You can not target enemies with the [Boss] tag. The target can not be in the [Pre-Action] state in the setup process of every round. This effect is handled as Life Status with the [Sealed] tag, and it continues until the target consumes 2 [Fate Points] or until the effect is canceled by the [Enchantment] tag restriction.</p>\n<p></p>\n<p>A special skill that puts the target's mind into a hypnotic state and renders it inoperable.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR 11 or higher. Instead of dice roll bonus to your Melee attack, instead use +[CR].</p>\n<p>&nbsp;</p>\n<p>A special skill that lays the groundwork for giving a deep blow by identifying the vital points and aiming. The secret of assassination lies in finding only one dead point and piercing it at the best moment.</p>",
+    "description": "<p>Available at CR 11 or higher. Instead of dice roll bonus to your Melee attack, instead use +[CR].</p>\n<p></p>\n<p>A special skill that lays the groundwork for giving a deep blow by identifying the vital points and aiming. The secret of assassination lies in finding only one dead point and piercing it at the best moment.</p>",
     "limit": {
       "min": 0,
       "value": 0,

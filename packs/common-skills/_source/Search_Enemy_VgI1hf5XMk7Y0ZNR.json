@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill targets the next scene. The difficulty of the check is equal to the lowest [Identification Difficulty] amongst all enemies appearing in the scene. You learn the number of enemies appearing, as well as each enemy's Rank, and whether the [Boss], [Mob], or [Raid] tags exist.</p>\n<p>&nbsp;</p>\n<p>(Fumble): The enemy notices your scouting.</p>",
+    "description": "<p>This skill targets the next scene. The difficulty of the check is equal to the lowest [Identification Difficulty] amongst all enemies appearing in the scene. You learn the number of enemies appearing, as well as each enemy's Rank, and whether the [Boss], [Mob], or [Raid] tags exist. </p>\n<p></p>\n<p>(Fumble): The enemy notices your scouting.</p>\n<p></p>\n<p>A special ability to scout the surrounding area and grasp the number and rough strength of enemies. In rare cases, the enemy may notice you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your sub class is Trap Master, Designer, or Carpenter.\n\nYou can target a [Gimmick] in the [Analysed] state. The target instantly takes a [Timing: Major] action once. The action and target of the action is decided by you.</p>",
+    "description": "<p>You may use this skill if your subclass is Trapper, Mechanic, Architect, or Carpenter.</p>\n<p></p>\n<p>You can only target a [Gimmick] in the [Identified] state. The target immediately performs a [Timing: Major] action once. The target of the action is decided by you.</p>\n<p></p>\n<p>A special skill that allows one to instantly grasp the structure of traps and devices, and temporarily manipulate their movements at will.</p>",
     "limit": {
       "min": 0,
       "value": 0,

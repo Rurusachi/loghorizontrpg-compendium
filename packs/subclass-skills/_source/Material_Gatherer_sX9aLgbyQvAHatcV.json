@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your sub class is Forager, Miner, Frontier Guard, or Trader. You may make one roll on [Treasure Table: Magic Reagents].</p>\n<p>&nbsp;</p>\n<p>(Connection: Freeman, Cartographer): You gain a +4 bonus to the roll.</p>\n<p>(Connection: Explorer, Hunter): You gain a +4 bonus to the roll.</p>",
+    "description": "<p>You may use this skill if your subclass is Gatherer, Miner, Frontier Guard, or Trader.</p>\n<p></p>\n<p>You may make one roll on [Treasure Table: Magic Reagents]. </p>\n<p></p>\n<p>(Connection: Freeman, Cartographer): You gain a + 4 bonus to the roll.</p>\n<p>(Connection: Explorer, Hunter): You gain a + 4 bonus to the roll.</p>\n<p></p>\n<p>A special skill for collecting magical materials through various methods such as gathering, exploration, and commercial transactions.</p>",
     "limit": {
       "min": 0,
       "value": 0,

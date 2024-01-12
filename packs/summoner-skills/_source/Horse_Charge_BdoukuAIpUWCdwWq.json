@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Lose a minor action immediately after if you have no minor action to lose this skill fails. You may make a [Normal move] of 3 Sq. However, you can only move in a straight line. Increase the damage roll of a skill with [Target: Single] [Melee Attack] by +[STR Mod] that you use in this Main Process.</p>",
+    "description": "<p>As a cost, lose a minor action immediately. You may make a [Normal Move] up to 3 Sq. However, you can only move in a straight line from your current position. Increase the damage roll of a skill with [Melee Attack] for a [Target: Single] by +[STR Mod] that you use in this main process.</p>\n<p></p>\n<p>An EX power that commands a mount to charge. Charging in a straight line will also increase the power of your attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

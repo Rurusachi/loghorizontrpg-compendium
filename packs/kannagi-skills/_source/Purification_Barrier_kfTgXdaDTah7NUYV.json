@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target gains [Barrier: (Magic Power) + (Recovery) + 15].\n\n(Fate 1): Increase the rating of the [Barrier] by +10.</p>",
+    "description": "<p>The target gains [Barrier: (Magic Power) + (Recovery) + 15].</p>\n<p></p>\n<p>(Fate 1): Increase the rating of the [Barrier] by +10.</p>\n<p></p>\n<p>Magic that creates a mirror-like barrier around allies to protect them from enemy attacks. The most basic type of magic unique to <Kannagi> called Barrier Magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

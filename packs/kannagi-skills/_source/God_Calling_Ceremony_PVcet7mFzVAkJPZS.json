@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Instantly use one of the Kannagi or Healer skills with [Timing: Setup]. At this time, treat the SR of that skill as being +2 (may exceed the maximum SR). In addition, the skill you use does not count towards its Limit and can even be used if it has no more uses.</p>",
+    "description": "<p>You may immediately use one of Kannagi or Healer skill with a [Timing: Setup]. At this time, treat the SR of that skill as being + 2 (may exceed the maximum SR). In addition, the skill you use does not count towards its Limit and can even be used if it has no more uses.</p>\n<p></p>\n<p>A special skill that borrows the spiritual power of powerful souls that are enshrined as gods and uses techniques with power that exceeds limits.</p>",
     "limit": {
       "min": 0,
       "value": 0,

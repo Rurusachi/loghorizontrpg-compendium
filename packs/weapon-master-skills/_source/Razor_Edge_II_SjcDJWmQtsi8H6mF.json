@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Replace Razor Edge with this skill at CR11 or more. Deal [(Attack Power) + 2D] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Successful): Give [Weakness (Physical): 10] to the target. This [Weakness] is treated as a BS.</p>",
+    "description": "<p>Available at CR 11 or higher. Deal [(Attack Power) + 2D] physical damage to the target.</p>\n<p></p>\n<p>(Successful) Give [Weakness (Physical): 10] to the target. This [Weakness] is treated as a BS.</p>\n<p></p>\n<p>A special skill that targets and attacks the head and similar vital points, rendering the enemy defenseless with pain and impact. Your casual attack becomes a powerful stepping stone for your next ally.</p>",
     "limit": {
       "min": 0,
       "value": 0,

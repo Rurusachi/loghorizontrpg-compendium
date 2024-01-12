@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target takes [Dazed] and [Afflicted].</p>\n<p>&nbsp;</p>\n<p>(Hate 2): This skill may be used with [Target: Area (P)].</p>",
+    "description": "<p>The target takes [Dazed] and [Afflicted].</p>\n<p></p>\n<p>(Hate 2): This skill may be used with [Target: Area (P)].</p>\n<p></p>\n<p>A special attack magic that emits waves with a hypnotic effect to stop the movement of the enemy. Rather than inducing sleep as a biological reaction, it is a magic that engraves the concept of \"sleep\" into existence, and it is effective against enemies who do not need sleep.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Courier, Bombardier, or Collector.\n\nMove any item from your [Inventory Slot] to the target's [Inventory] to which you agree.</p>",
+    "description": "<p>You may use this skill if your subclass is Courier, Bombardier, or Collector.</p>\n<p></p>\n<p>Move any item from your [Inventory Slot] to a willing target's [Inventory].</p>\n<p></p>\n<p>A special skill that allows you to quickly transfer items to distant allies, such as by throwing them or shooting them with a tool. If it's up to you, the item will already be there by the time the person wants it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

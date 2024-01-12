@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target gains [Cancel: [POW Mod] x SR]. This [Cancel] lasts until the end of the round.</p>",
+    "description": "<p>The target gains [Cancel: [POW Mod] x SR]. This [Cancel] lasts until the end of the round.</p>\n<p></p>\n<p>A spell that grants allies the protection of a spirit mirror that repels disasters. It's only for a moment, but its protection repels all trials and tribulations.</p>",
     "limit": {
       "min": 0,
       "value": 0,

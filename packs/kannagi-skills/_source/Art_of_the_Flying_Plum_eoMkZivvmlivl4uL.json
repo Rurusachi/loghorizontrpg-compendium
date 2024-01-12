@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may make a [Teleport] up to [SR+1] Sq.</p>\n<p>&nbsp;</p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+    "description": "<p>You may make a [Teleport] up to [SR + 1] Sq.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A magic that moves beyond space with the help of a plum tree that is said to have flown through the heavens to reach its master.</p>",
     "limit": {
       "min": 0,
       "value": 0,

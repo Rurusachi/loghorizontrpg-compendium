@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +4D bonus to damage rolls.</p>",
+    "description": "<p>You gain a + 4D bonus to damage rolls.</p>\n<p></p>\n<p>A special skill that draws down the spirits of many warriors who have stood at the forefront of demon subjugation, gaining the power to defeat the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

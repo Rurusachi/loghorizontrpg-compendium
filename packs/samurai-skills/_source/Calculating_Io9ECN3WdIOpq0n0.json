@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Money], they may roll twice and take either result.<br><br>(Bonus): You gain +1 [Starting Fate Point].<br><br>You are good at both literary and military arts. It is a pillar that can protect both the wallet and life of allies.</p>",
+    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Money], they may roll twice and take either result.</p>\n<p></p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>\n<p></p>\n<p>You are good at both literary and military arts. It is a pillar that can protect both the wallet and life of allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

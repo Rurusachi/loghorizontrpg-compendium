@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill can only target a Prop or [Gimmick] with [HP]. If the target's Rank is equal to or less than your [CR], then it becomes [Incapacitated].<br><br>(Fate 1): If the target's Rank is equal to or less than your [CR+2], then it becomes [Incapacitated].<br><br>A special skill that cuts through obstructive obstacles with a single stroke. You can cut any hard object by finding the weak point in the object and severing it.</p>",
+    "description": "<p>This skill can only target a Prop or [Gimmick] with [HP]. If the target's Rank is equal to or less than your [CR], then it becomes [Incapacitated].</p>\n<p></p>\n<p>(Fate 1): If the target's Rank is equal to or less than your [CR+2], then it becomes [Incapacitated].</p>\n<p></p>\n<p>A special skill that cuts through obstructive obstacles with a single stroke. You can cut any hard object by finding the weak point in the object and severing it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

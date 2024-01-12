@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "AGqexfIspnnhdiEN",
   "system": {
-    "description": "<p>The target takes [SR] stacks of [Pursuit: 10].<br><br>A special skill that unleashes countless attacks as if tracing the \"stars\" that are the key to the circulation of energy. After a while, the wound opens from the inside of the body of the enemy whose air veins are cut off.</p>",
+    "description": "<p>The target takes [SR] stacks of [Pursuit: 10].</p>\n<p></p>\n<p>A special skill that unleashes countless attacks as if tracing the \"stars\" that are the key to the circulation of energy. After a while, the wound opens from the inside of the body of the enemy whose air veins are cut off.</p>",
     "limit": {
       "min": 0,
       "value": 0,

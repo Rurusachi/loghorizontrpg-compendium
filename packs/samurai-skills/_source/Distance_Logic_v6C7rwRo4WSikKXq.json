@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Can be used when you are attacked. You can [Safe Move (Forced)] 1 Sq immediately.<br><br>(Fate 1) You can immediately [Safe Move (Forced)] the enemy that attacked you 1 Sq.<br><br>A skill that allows you to see the distance from your prey and measure the optimal distance. To move while making no mistakes is the unquestionable logic of war. You know that pulling out your blade and showing your reach is a bad move that deserves to be called stupid.</p>",
+    "description": "<p>Can be used when you are attacked. You can [Safe Move (Forced)] 1 Sq immediately.</p>\n<p></p>\n<p>(Fate 1) You can immediately [Safe Move (Forced)] the enemy that attacked you 1 Sq.</p>\n<p></p>\n<p>A skill that allows you to see the distance from your prey and measure the optimal distance. To move while making no mistakes is the unquestionable logic of war. You know that pulling out your blade and showing your reach is a bad move that deserves to be called stupid.</p>",
     "limit": {
       "min": 0,
       "value": 0,

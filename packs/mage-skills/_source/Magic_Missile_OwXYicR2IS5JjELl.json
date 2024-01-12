@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Inflict [[Magical Power] + (SR + 3)D] Magic damage to the target.\n\n(Critical) + 2D to damage roll.</p>",
+    "description": "<p>Deal [(SR + 3)D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>(Critical) Increase the damage by + 2D.</p>\n<p></p>\n<p>A spell that shoots out arrows with converged magical power. Because it is a simple technique, the kneading of the magical power is directly linked to its power, and if it can be invoked with high accuracy, its effectiveness will dramatically increase.</p>",
     "limit": {
       "min": 0,
       "value": 0,

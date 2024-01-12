@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use [Sweeper] at the same time. Change [Sweeper] target to [Target: [SR +1]].</p>\n<p>&nbsp;</p>\n<p>A deadly throwing technique that throws multiple throwing weapons at the same time to kill surrounding enemies at once. More enemies means more targets for you.</p>",
+    "description": "<p>Use [Sweeper] at the same time. Change [Sweeper] target to [Target: [SR +1]].</p>\n<p></p>\n<p>A deadly throwing technique that throws multiple throwing weapons at the same time to kill surrounding enemies at once. More enemies means more targets for you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

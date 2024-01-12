@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill may only be used on a willing person other than yourself. The target may make a [Safe Move] of 1 Sq. This skill may be used multiple times in the same Main Process.</p>",
+    "description": "<p>This skill may only be used on a willing person other than yourself. The target may make a [Safe Move] of 1 Sq. This skill may be used multiple times in the same Main Process.</p>\n<p></p>\n<p>Magic that pushes the target's back with magic power and moves while ignoring various obstacles.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target removes [Dazed].<br><br><br>A special skill that encourages friends who are excited by shouting loudly. Your voice restores order and discipline to a chaotic battlefield.</p>",
+    "description": "<p>The target removes [Dazed].</p>\n<p></p>\n<p></p>\n<p>A special skill that encourages friends who are excited by shouting loudly. Your voice restores order and discipline to a chaotic battlefield.</p>",
     "limit": {
       "min": 0,
       "value": 0,

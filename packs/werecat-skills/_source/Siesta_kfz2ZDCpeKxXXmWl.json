@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Reduce the rating of [Fatigue] you are suffering from by -[SRx15].</p>\n<p>&nbsp;</p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>",
+    "description": "<p>Reduce the rating of [Fatigue] you are suffering from by - [SR x 15].</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Point].</p>\n<p></p>\n<p>A special skill that lets you boldly take a break and heal your fatigue during an adventure. The origin of the word cat is said to be \"neko'' (neko). As a cat race, no one can prevent you from having a good night's sleep.</p>",
     "limit": {
       "min": 0,
       "value": 0,

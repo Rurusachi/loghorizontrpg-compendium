@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [3D + (Magic Power)] magical damage to the target.</p>",
+    "description": "<p>Deal [3D + (Magic Power)] magical damage to the target.</p>\n<p></p>\n<p>Attack magic that shoots magic arrows that pierce the mind as well as the body.</p>",
     "limit": {
       "min": 0,
       "value": 0,

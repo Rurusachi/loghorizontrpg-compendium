@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Fortune Teller, Astrologer, or Scholar. \n\nYou can ask a question to GM once. GM should answer with either 'yes', 'no' or 'neither'. If GM does not want to answer, they may refuse to answer. If the GM refuses answers, you gain +2 [Fate Points].</p>",
+    "description": "<p>You may use this skill if your subclass is Fortune Teller, Astrologer, or Scholar. </p>\n<p></p>\n<p>You can ask a question to GM once. The GM should answer with either \"yes\", \"no\" or \"neither\". If GM does not want to answer, they may refuse to answer. If the GM refuses answers, you gain +2 [Fate Points].</p>\n<p></p>\n<p>A special ability to approach the truth through accumulated knowledge or divine intuition.</p>",
     "limit": {
       "min": 0,
       "value": 0,

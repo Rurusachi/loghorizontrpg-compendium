@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Increase your [Inventory Slots] by +[SRx4].<br><br>You can carry a lot of luggage. The body trained as a protector is useful even in such a place.</p>",
+    "description": "<p>Increase your [Inventory Slots] by +[SRx4].</p>\n<p></p>\n<p>You can carry a lot of luggage. The body trained as a protector is useful even in such a place.</p>",
     "limit": {
       "min": 0,
       "value": 0,

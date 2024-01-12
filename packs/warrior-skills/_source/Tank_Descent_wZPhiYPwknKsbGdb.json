@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill targets a willing character. You may make a [Normal Move] up to your [Speed] Sq. The target simultaneously makes a [Safe Move] to the same square you end your movement in.<br><br>(Minor): Increase the distance moved by +1 Sq. <br>(Target: Extra): The use of this skill doesn't count towards your Limit.<br><br>A skill that allows you to keep pace with your companions and move at the same time. For warriors, it is an important rule to never leave the object to protect.</p>",
+    "description": "<p>This skill targets a willing character. You may make a [Normal Move] up to your [Speed] Sq. The target simultaneously makes a [Safe Move] to the same square you end your movement in.</p>\n<p></p>\n<p>(Minor): Increase the distance moved by +1 Sq. </p>\n<p>(Target: Extra): The use of this skill doesn't count towards your Limit.</p>\n<p></p>\n<p>A skill that allows you to keep pace with your companions and move at the same time. For warriors, it is an important rule to never leave the object to protect.</p>",
     "limit": {
       "min": 0,
       "value": 0,

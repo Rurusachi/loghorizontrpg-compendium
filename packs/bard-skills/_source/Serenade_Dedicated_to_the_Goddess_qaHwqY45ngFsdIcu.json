@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target recovers [[Base POW] + (Recovery)] HP. This skill's [Hate] cost is equal to [Number of Targets].</p>",
+    "description": "<p>The target recovers [[Base POW] + (Recovery)] [HP].</p>\n<p></p>\n<p>This skill's [Hate] cost is equal to [Number of Targets].</p>\n<p></p>\n<p>A special skill that heals the target's wounds by playing a melody with compassion and devotion. The melodies that make you think of a quiet night soak comfortably into your body.</p>",
     "limit": {
       "min": 0,
       "value": 0,

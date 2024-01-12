@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just after you make a Treasure Roll. Add +10 to the result of the roll.</p>",
+    "description": "<p>Use this skill just after you make a Treasure Roll. Add + 10 to the result of the roll.</p>\n<p></p>\n<p>A dwarf's dexterity and discerning ability to find treasures of higher value.</p>",
     "limit": {
       "min": 0,
       "value": 0,

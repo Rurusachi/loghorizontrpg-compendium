@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you gain a +2D bonus to [Hit Checks].</p>",
+    "description": "<p>During this Main Process, you gain a + 2D bonus to [Hit Checks].</p>\n<p></p>\n<p>A special skill that stops your feet and concentrates momentarily to increase the accuracy of your attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

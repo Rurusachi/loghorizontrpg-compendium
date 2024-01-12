@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, your attacks change to [Range: Close], and you gain a +3D bonus to damage rolls.\n\n(Fate 1): You gain an additional +2D bonus to damage rolls.</p>",
+    "description": "<p>During this Main Process, your attacks change to [Range: Close], and you gain a + 3D bonus to damage rolls.</p>\n<p></p>\n<p>(Fate 1): You gain an additional + 2D bonus to damage rolls.</p>\n<p></p>\n<p>A special skill that explosively increases the power of attacks by concentrating magic power in front of one's eyes.</p>",
     "limit": {
       "min": 0,
       "value": 0,

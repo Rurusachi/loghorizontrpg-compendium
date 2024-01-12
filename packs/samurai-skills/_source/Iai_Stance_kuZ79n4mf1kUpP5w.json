@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain +1D to [Accuracy], but must declare [Standby] each time your Main Process comes up while in this stance.<br><br>A stance to expose yourself to the enemy with your weapon stored. Since it is necessary to strike out each time for an attack, it takes the counter attack, with a flash that does not reveal the distance of its reach or allowing the enemy to evade.</p>",
+    "description": "<p>You gain +1D to [Accuracy], but must declare [Standby] each time your Main Process comes up while in this stance.</p>\n<p></p>\n<p>A stance to expose yourself to the enemy with your weapon stored. Since it is necessary to strike out each time for an attack, it takes the counter attack, with a flash that does not reveal the distance of its reach or allowing the enemy to evade.</p>",
     "limit": {
       "min": 0,
       "value": 0,

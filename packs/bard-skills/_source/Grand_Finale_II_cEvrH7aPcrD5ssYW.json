@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Acquired with CR16 or higher. Deal [(SRx2)D + (Attack Power)] physical damage to the target.</p>\n<p>&nbsp;</p>\n<p>(Target: Dazed, Rigor, Staggered): Increase the damage by +[Base INT].</p>",
+    "description": "<p>Available at CR16 or higher. Deal [(SRx2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Dazed, Rigor, Staggered): Increase the damage by +[Base INT].</p>\n<p></p>\n<p>A special skill that is worthy of the name of curtain puller, and unleashes a full blow with loud accompaniment. A splendid technique that fascinates those who see it, if it hits directly, it will surely tell the end of the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

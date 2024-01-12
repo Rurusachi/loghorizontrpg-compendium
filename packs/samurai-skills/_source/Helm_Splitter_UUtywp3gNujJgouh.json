@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target. If the target's [HP] is equal to its [Max HP], increase the damage by +10.<br><br>A special skill that powerfully swings down onto the enemy from the front and strikes the head. It boasts the power to cut down an enemy that has let its guard down because it is unharmed with a single blow.</p>",
+    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target. If the target's [HP] is equal to its [Max HP], increase the damage by +10.</p>\n<p></p>\n<p>A special skill that powerfully swings down onto the enemy from the front and strikes the head. It boasts the power to cut down an enemy that has let its guard down because it is unharmed with a single blow.</p>",
     "limit": {
       "min": 0,
       "value": 0,

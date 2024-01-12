@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "4y8GUa3mDezfinWB",
   "system": {
-    "description": "<p>You immediately become [Pre-Action].<br><br>A special skill that restores the collapsed posture immediately after an action and takes the next action with tremendous momentum. A samurai who has sharpened his mind to the limit, never misses a good opportunity in battle.</p>",
+    "description": "<p>You immediately become [Pre-Action].</p>\n<p></p>\n<p>A special skill that restores the collapsed posture immediately after an action and takes the next action with tremendous momentum. A samurai who has sharpened his mind to the limit, never misses a good opportunity in battle.</p>",
     "limit": {
       "min": 0,
       "value": 0,

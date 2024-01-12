@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target.<br><br>(Target: Mob): The target becomes [Incapacitated] or [Dead] (your choice).<br><br>A special skill that shoots a shock wave from a swung weapon and attacks a distant enemy. It boasts enough power to blow away weaker enemies.</p>",
+    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Mob): The target becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>A special skill that shoots a shock wave from a swung weapon and attacks a distant enemy. It boasts enough power to blow away weaker enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

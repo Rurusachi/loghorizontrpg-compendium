@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Select Sq's up to [SR x 2] as the target. The Sq's must be a chain and all Sq's must be within range. Set up the Prop [Mire of Binding] (B2P362) on the target Sq's.\n\n[Mire of Binding] (Touch): Upon entering this Prop, the target's current movement is halted. However, ignore this effect when entering this Prop by forced movement. Rolling terrain of magical chains.</p>",
+    "description": "<p>Select Sq's up to [SR x 2] as the target. The Sq's must be a chain and all Sq's must be within range. Set up the Prop [Mire of Binding] (B2P362) on the target Sq's.</p>\n<p></p>\n<p>[Mire of Binding] (Touch): Upon entering this Prop, the target's current movement is halted. However, ignore this effect when entering this Prop by forced movement. Rolling terrain of magical chains.</p>\n<p></p>\n<p>A magic that creates a bad footing space by making the feet muddy and deploying magical chains.</p>",
     "limit": {
       "min": 0,
       "value": 0,

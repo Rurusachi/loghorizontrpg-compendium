@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this when the target receives [HP] damage. Lose any number of [Illusion Weapons] tags as the cost. The number of [HP] damage that the target will receive is -[(POW Mod) x [Number of Illusion Weapons] tags used].</p>",
+    "description": "<p>Used when the target receives [HP] damage. Loses any number of [Illusion Weapons] tags as the cost. The target's expected [HP] damage that the target will receive is reduced by - [(POW Mod) x [Number of Illusion Weapons] tags used].</p>\n<p></p>\n<p>Magic that uses illusion weapons to block enemy attacks. It can be used in various ways, such as changing its shape into a shield, cutting down incoming arrows and magic, but the phantom weapon used disappears.</p>",
     "limit": {
       "min": 0,
       "value": 0,

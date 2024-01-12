@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>While you are [Hate Under], you gain a +[SRx3] bonus to damage rolls.</p>",
+    "description": "<p>While you are [Hate Under], you gain a + [SR x 3] bonus to damage rolls.</p>\n<p></p>\n<p>You are skilled at how to deliver a fatal blow from outside your opponent's attention. Combat isn't just about showing off. You are a predator seeking prey in silence.</p>",
     "limit": {
       "min": 0,
       "value": 0,

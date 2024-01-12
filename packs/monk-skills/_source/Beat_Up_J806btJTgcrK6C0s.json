@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "J806btJTgcrK6C0s",
   "system": {
-    "description": "<p>Use it when you make an Enemy [Incapacitated] or [Dead]. Only enemies can be targeted. Give 5 points of direct damage to the target. You [Move: Teleport] to the same Sq as the target.<br><br>When an enemy is defeated, it does not interrupt the flow, and it is a special skill that immediately closes in on the next target and delivers a blow.</p>",
+    "description": "<p>Use it when you make an Enemy [Incapacitated] or [Dead]. Only enemies can be targeted. Give 5 points of direct damage to the target. You [Move: Teleport] to the same Sq as the target.</p>\n<p></p>\n<p>When an enemy is defeated, it does not interrupt the flow, and it is a special skill that immediately closes in on the next target and delivers a blow.</p>",
     "limit": {
       "min": 0,
       "value": 0,

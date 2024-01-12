@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [4D + (Magical Power)] physical damage. Available only when you have an [Undead] tag.</p>\n<p>&nbsp;</p>\n<p>(Self: Hidden): Deal extra damage equal to + [(DEX Mod) x SR].</p>",
+    "description": "<p>Deal [4D + (Magic Power)] physical damage. Available only when you have an [Undead] tag.</p>\n<p></p>\n<p>(Self: Hidden): Deal extra damage equal to + [(DEX Mod) x SR].</p>\n<p></p>\n<p>An offensive spell that commands an undead, who is a summoned follower, to swing down a jet-black scythe wrapped in death energy from above the enemy's head. It has the characteristic of jumping up in power when attacking by surprise.</p>",
     "limit": {
       "min": 0,
       "value": 0,

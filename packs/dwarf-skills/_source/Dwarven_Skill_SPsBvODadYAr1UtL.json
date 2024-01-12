@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +2 [Base STR] and [Base POW].</p>",
+    "description": "<p>You gain + 2 [Base STR] and [Base POW].</p>\n<p></p>\n<p>You have mastered the arts of discipline that further increase your physical and mental strength, a characteristic of the dwarves.</p>",
     "limit": {
       "min": 0,
       "value": 0,

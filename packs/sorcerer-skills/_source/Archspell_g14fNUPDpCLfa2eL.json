@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "g14fNUPDpCLfa2eL",
   "system": {
-    "description": "<p>During your first Main Process this round, reduce the [Hate] cost of all actions you perform to 0.<br><br>By creating a box-shaped barrier that blocks magical power and placing yourself inside it, you can make the surge of magical power that accompanies spell chanting unaffected. This allows you to wield great magic without attracting the attention of your enemies.</p>",
+    "description": "<p>During your first Main Process this round, reduce the [Hate] cost of all actions you perform to 0.</p>\n<p></p>\n<p>By creating a box-shaped barrier that blocks magical power and placing yourself inside it, you can make the surge of magical power that accompanies spell chanting unaffected. This allows you to wield great magic without attracting the attention of your enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Cancel one status with [Seal] tag from target.</p>",
+    "description": "<p>Removes one status with the [Seal] tag from target.</p>\n<p></p>\n<p>A magic that offsets the magical bondage by throwing one's own magical power at it. Destruction using magical power is the true value of <Sorcerer>. The target is not limited to only visible things.</p>",
     "limit": {
       "min": 0,
       "value": 0,

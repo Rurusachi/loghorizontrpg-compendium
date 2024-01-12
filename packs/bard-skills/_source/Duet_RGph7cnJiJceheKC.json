@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just before an attack other than your own would deal HP Damage, and only when you are equipped with a melee weapon. Increase the expected HP Damage the target would receive by +[SRx3].</p>",
+    "description": "<p>[Melee Attack] Can be used immediately before applying HP damage from attacks other than yours. Only when equipped with a weapon capable of a [Melee Attack]. Adds +[SR x 3] to the target's expected HP damage.</p>\n<p></p>\n<p>A special skill that unleashes a flash with a combination that matches the timing of the attacks of allies, as if performing a duet.</p>",
     "limit": {
       "min": 0,
       "value": 0,

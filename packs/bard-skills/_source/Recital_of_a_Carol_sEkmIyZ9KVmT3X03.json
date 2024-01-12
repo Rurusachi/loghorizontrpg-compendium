@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "sEkmIyZ9KVmT3X03",
   "system": {
-    "description": "<p>Use this skill when an ally declares the use of a [Magic Attack] with [Target: Single] who are within 4 Squares from you. Change the [Magic Attack] to [Target: Two]. However, the second target is selected from within 4 Sq from you, ignoring the original range [Magic Attack]. This skill's [Hate] cost is equal to Hate cost of the [Magic Attack].</p>",
+    "description": "<p>Use this skill when an ally declares the use of a [Magic Attack] with [Target: Single] who are within 4 Squares of you. Change the [Magic Attack] to [Target: Two]. However, the second target is selected from within 4 Sq of you, ignoring the original range of the [Magic Attack]. This skill's [Hate] cost is equal to Hate cost of that [Magic Attack].</p>\n<p></p>\n<p>A special skill that imitates an ally's spellcasting by repeating it and activates magic twice.</p>",
     "limit": {
       "min": 0,
       "value": 0,

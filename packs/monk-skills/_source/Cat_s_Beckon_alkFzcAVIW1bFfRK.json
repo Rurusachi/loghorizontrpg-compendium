@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "alkFzcAVIW1bFfRK",
   "system": {
-    "description": "<p>You cause a target other than you to [Safe Move (Forced)] up to [SR] Sq. They must move towards you. The Hate cost is equal the the amount of Squares moved.<br><br>A special skill that draws the opponent to its own bosom with arm movements that imitate the spirit cat that governs confusion and ridicule.</p>",
+    "description": "<p>You cause a target other than you to [Safe Move (Forced)] up to [SR] Sq. They must move towards you. The Hate cost is equal the the amount of Squares moved.</p>\n<p></p>\n<p>A special skill that draws the opponent to its own bosom with arm movements that imitate the spirit cat that governs confusion and ridicule.</p>",
     "limit": {
       "min": 0,
       "value": 0,

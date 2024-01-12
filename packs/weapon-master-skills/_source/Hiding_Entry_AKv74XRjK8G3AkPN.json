@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill when you appear in a scene. You appear in that scene with [Hidden]. While [Hidden] as a result of this skill, [Normal Move] and [Safe Move] will not remove [Hidden]. This skill may not be used if the GM rules that it is not possible to make a hidden entry into the scene.</p>",
+    "description": "<p>Use this skill when you appear in a scene. You appear in that scene with [Hidden]. While [Hidden] as a result of this skill, [Normal Move] and [Safe Move] will not remove [Hidden]. This skill may not be used if the GM rules that it is not possible to make a hidden entry into the scene.</p>\n<p></p>\n<p>A special skill that allows you to act without being distracted by your surroundings by holding your breath and cutting off your presence and blending into the surrounding scenery.</p>",
     "limit": {
       "min": 0,
       "value": 0,

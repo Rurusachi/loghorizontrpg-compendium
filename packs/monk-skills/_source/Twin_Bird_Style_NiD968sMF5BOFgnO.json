@@ -4,7 +4,7 @@
   "_id": "NiD968sMF5BOFgnO",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>This skill only produces an effect when you have two [Throwing] weapons equipped to your [Hand Slots]. Your [Attack Power] is the sum of the two weapons and your Range is equal to the lowest range of the two.<br><br>(SR2): Gain +2 [Accuracy].<br>(SR3): Your \"Shadowless Kick\" becomes [Range: 1 Sq].<br><br>A fighting style in which you manipulate throwing weapons with your left and right hands and shoot continuously.</p>",
+    "description": "<p>This skill only produces an effect when you have two [Throwing] weapons equipped to your [Hand Slots]. Your [Attack Power] is the sum of the two weapons and your Range is equal to the lowest range of the two.</p>\n<p></p>\n<p>(SR2): Gain +2 [Accuracy].</p>\n<p>(SR3): Your \"Shadowless Kick\" becomes [Range: 1 Sq].</p>\n<p></p>\n<p>A fighting style in which you manipulate throwing weapons with your left and right hands and shoot continuously.</p>",
     "limit": {
       "min": 0,
       "value": 1,

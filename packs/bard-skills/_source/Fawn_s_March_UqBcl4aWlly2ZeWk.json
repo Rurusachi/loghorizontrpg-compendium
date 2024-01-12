@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target's [Speed] is increased by 1.</p>\n<p>&nbsp;</p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by +1 during the Cleanup Process of every round.</p>",
+    "description": "<p>The target's [Speed] is increased by 1. </p>\n<p></p>\n<p>(Effect) While this [Harmony] is in effect, increase your [Hate] by +1 during the Cleanup Process of every round.</p>\n<p></p>\n<p>A support song that plays a light marching song to aid the march of allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

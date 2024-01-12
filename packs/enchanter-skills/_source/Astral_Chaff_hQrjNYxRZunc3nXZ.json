@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target may reduce their [Hate] by -1 during each Cleanup Process. This skill can be used multiple times when used during the same Briefing.</p>",
+    "description": "<p>The target may reduce their [Hate] by -1 during each Cleanup Process. This skill can be used multiple times when used during the same Briefing.</p>\n<p></p>\n<p>A support magic that envelops allies in a silvery mist that blocks signs of intent and diverts attention from the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

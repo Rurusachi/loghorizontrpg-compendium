@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target removes all Bad Statuses currently affecting them.<br><br>(Fate 1): This skill can be used with [Timing: Instant].<br><br>A magic that envelops you in pure magic and heals your allies.</p>",
+    "description": "<p>The target removes all Bad Statuses currently affecting them.</p>\n<p></p>\n<p>(Fate 1): This skill can be used with [Timing: Instant].</p>\n<p></p>\n<p>A magic that envelops you in pure magic and heals your allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

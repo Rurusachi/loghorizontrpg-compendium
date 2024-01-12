@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your sub class is Herbalist, Pharmacist, or Doctor. You receive two items that do not exceed an Item Rank you can use that have the [Medicine] tag.</p>\n<p>&nbsp;</p>\n<p>(Connection: Artist, Alchemist, Forager): You receive three items instead of two.</p>",
+    "description": "<p>You may use this skill if your subclass is Apothecary, Pharmacist, or Doctor.</p>\n<p></p>\n<p>You obtain two general items that have the [Medicine] tag with an Item Rank equal to your CR or lower.</p>\n<p></p>\n<p>(Connection: Artist, Alchemist, Forager): You receive three items instead of two.</p>\n<p></p>\n<p>You usually mix potions and prepare for adventures.</p>",
     "limit": {
       "min": 0,
       "value": 0,

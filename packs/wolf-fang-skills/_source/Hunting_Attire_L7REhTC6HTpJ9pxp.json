@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Out of items that you can normally equip, you become able to use items with the [Two-Handed] [Helm] and [Glove] tags that have an Item Rank equal to your [CR+2] or lower.</p>",
+    "description": "<p>Out of items that you can normally equip, you become able to use items with the [Two-Handed], [Helm], and [Glove] tags that have an Item Rank equal to your [CR + 2] or lower.</p>\n<p></p>\n<p>You are skilled at using clothing and equipment for hunting.</p>",
     "limit": {
       "min": 0,
       "value": 0,

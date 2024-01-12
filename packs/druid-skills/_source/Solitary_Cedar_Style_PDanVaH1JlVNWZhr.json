@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Only effective while you are not receiving the effect of a [Servant Summon] skill. Your damage rolls are increased by +[SR x 5].<br><br>(SR3): During each Cleanup you may reduce your [Hate] by -1.<br><br>A battle style that unleashes powerful blows by facing the heavens and earth with one body and turning oneself into an ancestral spirit itself, which is an aspect of nature.</p>",
+    "description": "<p>Only effective while you are not receiving the effect of a [Servant Summon] skill. Your damage rolls are increased by +[SR x 5].</p>\n<p></p>\n<p>(SR3): During each Cleanup you may reduce your [Hate] by -1.</p>\n<p></p>\n<p>A battle style that unleashes powerful blows by facing the heavens and earth with one body and turning oneself into an ancestral spirit itself, which is an aspect of nature.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target recovers [3D + (Magic Power) + (Recovery)] HP.<br><br>A spell that envelops the battlefield with the brilliance of aurora and heals the wounds of many allies standing there. Your healing power can turn the tide of battle in an instant.</p>",
+    "description": "<p>The target recovers [3D + (Magic Power) + (Recovery)] HP.</p>\n<p></p>\n<p>A spell that envelops the battlefield with the brilliance of aurora and heals the wounds of many allies standing there. Your healing power can turn the tide of battle in an instant.</p>",
     "limit": {
       "min": 0,
       "value": 0,

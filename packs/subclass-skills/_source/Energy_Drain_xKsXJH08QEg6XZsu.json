@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Vampnella, or Cursed Blade. Give subjects [Decay], you gain [Regen]. Both ratings are equal to your [(STR Mod) x 2].</p>\n<p>&nbsp;</p>\n<p>(Target: Rigor, Dazed): Both ratings are increased to [(STR Mod) x 3].</p>",
+    "description": "<p>You may use this skill if your subclass is Vampire, or Cursed Blade.</p>\n<p></p>\n<p>The target takes [Decay], while you gain [Regen]. The rating of both is equal to your [(STR Mod) x 2]. </p>\n<p></p>\n<p>(Target: [Rigor], [Dazed]): Both ratings are increased to  [(STR Mod) x 3].</p>\n<p></p>\n<p>A special skill that casts a curse that takes away the target's life force. The other person's life force will be slowly drained away, and eventually they will collapse from exhaustion and become food to satisfy your hunger.</p>",
     "limit": {
       "min": 0,
       "value": 0,

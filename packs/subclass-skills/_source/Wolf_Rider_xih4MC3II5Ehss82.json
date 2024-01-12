@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use this skill if your subclass is Mercenary, Outlaw, or Avenger.\n\nYou are in a [Riding: Giant Wolf] state. Also during the [Sitting: Giant Wolf] state, you can use the EX power 'Beast dash' and 'Wild stamp' in the Basic skills.</p>",
+    "description": "<p>You may use this skill if your subclass is Mercenary or Outlaw</p>\n<p></p>\n<p>You enter the [Riding: Giant Wolf] state. Also, while in the [Riding: Giant Wolf] state, you gain the EX Power \"Beast Dash\" and \"Wild Stamp\".</p>\n<p></p>\n<p>A special ability that indicates that you are accompanied by a large wolf that can be ridden. The wolf will carry you on its back and fight alongside you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

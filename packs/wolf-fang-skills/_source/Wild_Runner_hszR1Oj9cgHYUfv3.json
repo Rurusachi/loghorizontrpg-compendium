@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When you are not equipped with [Heavy Armor] or [Medium Armor], you gain a +1 bonus to [Speed].</p>",
+    "description": "<p>When you are not equipped with [Heavy Armor] or [Medium Armor], you gain a + 1 bonus to [Speed].</p>\n<p></p>\n<p>You are proud of your strong legs. Its power, derived from the blood of the Wolf Fang Clan, can only be demonstrated by wearing light clothing that closely resembles its natural appearance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target, and the target takes [Dazed].</p>\n<p>&nbsp;</p>\n<p>(Hate Top): The target takes [Staggered] instead of [Dazed].</p>",
+    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target, and the target takes [Dazed].</p>\n<p></p>\n<p>(Hate Top): The target takes [Staggered] instead of [Dazed].</p>",
     "limit": {
       "min": 0,
       "value": 0,

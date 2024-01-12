@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target takes [Decay] with a rating equal to [(Magic Power) + (SRx3)].</p>\n<p>&nbsp;</p>\n<p>(Fate 1): Increase the rating of the [Decay] by +2D.</p>",
+    "description": "<p>The target takes [Decay] with a rating equal to [(Magic Power) + (SRx3)].</p>\n<p></p>\n<p>(Fate 1): Increase the rating of the [Decay] by +2D.</p>\n<p></p>\n<p>A special attack magic that creates several fist-sized thunderballs and clings to the enemy. The thunderball discharges at regular intervals and continuously deals damage.</p>",
     "limit": {
       "min": 0,
       "value": 0,

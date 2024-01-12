@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain +4 [Magical Defense].</p>\n<p>&nbsp;</p>\n<p>(CR11): The bonus increases to +8.</p>\n<p>(CR21): The bonus increases to +12.</p>",
+    "description": "<p>You gain + 4 [Magical Defense].</p>\n<p></p>\n<p>(CR 11): The bonus increases to + 8.</p>\n<p>(CR 21): The bonus increases to + 12.</p>\n<p></p>\n<p>You have a strong resistance to magic. The protection of the evergreen tree, which governs universality and unchangeability, can ward off evil and twisted truth.</p>",
     "limit": {
       "min": 0,
       "value": 0,
