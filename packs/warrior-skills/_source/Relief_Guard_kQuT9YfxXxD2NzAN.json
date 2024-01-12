@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. After you end your movement, if there are any allies in the same square as you, they each may reduce their [Hate] by -2.</p>\n<p></p>\n<p>(Minor): Increase the distance moved by +1 Sq.</p>\n<p></p>\n<p>A special skill that moves in a position that protects allies, and focuses the enemy's attention on himself.</p>",
+    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. After you end your movement, if there are any allies in the same square as you, they each may reduce their [Hate] by - 2.</p>\n<p></p>\n<p>(Minor): Increase the distance moved by + 1 Sq.</p>\n<p></p>\n<p>A special skill that moves in a position that protects allies, and focuses the enemy's attention on himself.</p>",
     "limit": {
       "min": 0,
       "value": 0,

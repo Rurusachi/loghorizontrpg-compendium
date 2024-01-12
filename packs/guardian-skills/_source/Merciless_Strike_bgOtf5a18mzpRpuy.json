@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Decay): The target immediately takes direct damage equal to the rating of their [Decay].</p>\n<p></p>\n<p>A special skill that unleashes an attack that strikes a weakened enemy. Its merciless blow mercilessly shatters the weakened parts of the opponent.</p>",
+    "description": "<p>Deal [(SR + 2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Decay): The target immediately takes direct damage equal to the rating of their [Decay].</p>\n<p></p>\n<p>A special skill that unleashes an attack that strikes a weakened enemy. Its merciless blow mercilessly shatters the weakened parts of the opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,

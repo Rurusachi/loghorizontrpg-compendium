@@ -4,7 +4,7 @@
   "_id": "PM4pIouc7utduuzh",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You enter the [Riding: Horse] state. Also, while in the [Riding: Horse] state, you gain the ability EX Power \"Horse Trot\".</p>\n<p>(SR 2) EX Power \"Horse Kick\" can be used in addition to normal effects.<br>(CR 10) \"War Trot\" Can be used instead of \"Horse Trot\".</p>\n<p>A special skill that shows that you have excellent horse riding skills and a favorite horse of your own. Of course, you are also good at fighting on horseback.</p>",
+    "description": "<p>You enter the [Riding: Horse] state. Also, while in the [Riding: Horse] state, you gain the ability EX Power \"Horse Trot\".</p>\n<p></p>\n<p>(SR 2) EX Power \"Horse Kick\" can be used in addition to normal effects.</p>\n<p>(CR 10) \"War Trot\" Can be used instead of \"Horse Trot\".</p>\n<p></p>\n<p>A special skill that shows that you have excellent horse riding skills and a favorite horse of your own. Of course, you are also good at fighting on horseback.</p>",
     "limit": {
       "min": 0,
       "value": 1,

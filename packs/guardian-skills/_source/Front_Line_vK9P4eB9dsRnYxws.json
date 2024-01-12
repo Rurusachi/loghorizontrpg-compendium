@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "vK9P4eB9dsRnYxws",
   "system": {
-    "description": "<p>The target may immediately take up to 1 Sq. as a [Safe Move].</p>\n<p></p>\n<p>Special ability to issue orders to allies and prepare the front line. For a Guardian, movement is not the end of the matter. It's a technique for building a front line with your allies and intercepting the enemy's invasion.</p>",
+    "description": "<p>The target may immediately take up to 1 Sq as a [Safe Move].</p>\n<p></p>\n<p>Special ability to issue orders to allies and prepare the front line. For a Guardian, movement is not the end of the matter. It's a technique for building a front line with your allies and intercepting the enemy's invasion.</p>",
     "limit": {
       "min": 0,
       "value": 0,

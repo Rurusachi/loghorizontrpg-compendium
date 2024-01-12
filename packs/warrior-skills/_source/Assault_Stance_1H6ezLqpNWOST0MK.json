@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>While in this stance, you gain a +[SRx4] bonus to damage rolls. You take a -2 penalty to [Defense Checks].</p>\n<p></p>\n<p>A special skill that takes an offensive stance that emphasizes the power of a single blow rather than dodging.</p>",
+    "description": "<p>While in this stance, you gain a + [SR x 4] bonus to damage rolls. You take a - 2 penalty to [Defense Checks].</p>\n<p></p>\n<p>A special skill that takes an offensive stance that emphasizes the power of a single blow rather than dodging.</p>",
     "limit": {
       "min": 0,
       "value": 0,

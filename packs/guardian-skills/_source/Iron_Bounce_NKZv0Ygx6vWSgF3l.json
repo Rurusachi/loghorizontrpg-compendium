@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill when you would receive HP Damage. Reduce the expected HP Damage by -[SRx3].</p>\n<p></p>\n<p>A special skill that reduces damage by blocking enemy attacks with a strong part of the equipment. Instead of avoiding, receiving is the fighting style of <Guardians>.</p>",
+    "description": "<p>Use this skill when you would receive HP Damage. Reduce the expected HP Damage by - [SR x 3].</p>\n<p></p>\n<p>A special skill that reduces damage by blocking enemy attacks with a strong part of the equipment. Instead of avoiding, receiving is the fighting style of <Guardians>.</p>",
     "limit": {
       "min": 0,
       "value": 0,

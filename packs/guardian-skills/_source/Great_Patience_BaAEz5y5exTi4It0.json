@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You remove any [Fatigue] you are currently affected by. However, at the end of the scene, you take [Fatigue]. The rating of this [Fatigue] is equal to [Removed (Fatigue) Rating + 10].</p>\n<p></p>\n<p>(Bonus): You gain +8 [Max HP].</p>\n<p></p>\n<p>A special skill that demonstrates extraordinary physical strength and pushes away fatigue to forcefully move the body. For a while, you can move around energetically, but fatigue will hit you later.</p>",
+    "description": "<p>You remove any [Fatigue] you are currently affected by. However, at the end of the scene, you take [Fatigue]. The rating of this [Fatigue] is equal to [Removed (Fatigue) Rating + 10].</p>\n<p></p>\n<p>(Bonus): You gain + 8 [Max HP].</p>\n<p></p>\n<p>A special skill that demonstrates extraordinary physical strength and pushes away fatigue to forcefully move the body. For a while, you can move around energetically, but fatigue will hit you later.</p>",
     "limit": {
       "min": 0,
       "value": 0,

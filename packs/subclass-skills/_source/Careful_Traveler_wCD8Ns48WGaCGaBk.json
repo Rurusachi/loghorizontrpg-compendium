@@ -4,7 +4,7 @@
   "_id": "wCD8Ns48WGaCGaBk",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Whenever you make a check as a result of a search table roll, add a + 2 to that check.</p>\n<p>You can consciously or unconsciously observe your surroundings very carefully. Various discoveries will help you on your adventure.</p>",
+    "description": "<p>Whenever you make a check as a result of a search table roll, add a + 2 to that check.</p>\n<p></p>\n<p>You can consciously or unconsciously observe your surroundings very carefully. Various discoveries will help you on your adventure.</p>",
     "limit": {
       "min": 0,
       "value": 1,

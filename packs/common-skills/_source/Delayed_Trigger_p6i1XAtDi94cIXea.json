@@ -4,7 +4,7 @@
   "_id": "p6i1XAtDi94cIXea",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You consume one [Charm] item as a cost. At the start of your first Main Process in the next scene, you gain the effect of the consumed [Charm].</p>\n<p>A special skill that prepares spiritual charms in advance so that they will take effect later. For you, even the face-down cards you don't have are part of your strength.</p>",
+    "description": "<p>You consume one [Charm] item as a cost. At the start of your first Main Process in the next scene, you gain the effect of the consumed [Charm].</p>\n<p></p>\n<p>A special skill that prepares spiritual charms in advance so that they will take effect later. For you, even the face-down cards you don't have are part of your strength.</p>",
     "limit": {
       "min": 0,
       "value": 1,

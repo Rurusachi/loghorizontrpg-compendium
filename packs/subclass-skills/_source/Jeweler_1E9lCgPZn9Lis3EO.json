@@ -4,7 +4,7 @@
   "_id": "1E9lCgPZn9Lis3EO",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may use this skill if your subclass is Craftsman, Woodworker, Jeweler, or Sukisha.&nbsp;</p>\n<p>You obtain one general item with the [Accessory] tag with an Item Rank equal to your [CR - 2 (minimum 1)] or lower, and does not have a [Magic Stone] tag.<br>&nbsp;<br>(SR 2): The Item Rank available is equal to CR or lower.&nbsp;</p>\n<p>[Connection: Artist, Nobleman, Princess of the Rose Garden] The [Fate] cost becomes 1 instead of 2.</p>\n<p>A special skill that combines various materials to create ornaments and accessories.</p>",
+    "description": "<p>You may use this skill if your subclass is Craftsman, Woodworker, Jeweler, or Sukisha. </p>\n<p></p>\n<p>You obtain one general item with the [Accessory] tag with an Item Rank equal to your [CR - 2 (minimum 1)] or lower, and does not have a [Magic Stone] tag.</p>\n<p> </p>\n<p>(SR 2): The Item Rank available is equal to CR or lower. </p>\n<p></p>\n<p>[Connection: Artist, Nobleman, Princess of the Rose Garden] The [Fate] cost becomes 1 instead of 2.</p>\n<p></p>\n<p>A special skill that combines various materials to create ornaments and accessories.</p>",
     "limit": {
       "min": 0,
       "value": 1,

@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "G9qvrKMfc8tJzGyD",
   "system": {
-    "description": "<p>While in this stance, [Pursuit] and [Weakness] effects on you never trigger, and you cannot be subjected to forced movement. You take a -2 penalty to [Hit Checks].</p>\n<p></p>\n<p>A special skill that takes a defensive stance that emphasizes stable defense rather than offense.</p>",
+    "description": "<p>While in this stance, [Pursuit] and [Weakness] effects on you never trigger, and you cannot be subjected to forced movement. You take a - 2 penalty to [Hit Checks].</p>\n<p></p>\n<p>A special skill that takes a defensive stance that emphasizes stable defense rather than offense.</p>",
     "limit": {
       "min": 0,
       "value": 0,

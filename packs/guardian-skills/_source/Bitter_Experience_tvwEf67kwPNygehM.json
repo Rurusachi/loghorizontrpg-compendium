@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +1D bonus to [Analysis Checks].</p>\n<p></p>\n<p>Special ability to infer the structure of traps and tricks from past experience. Bitter experience learned by yourself will not betray you.</p>",
+    "description": "<p>You gain a + 1D bonus to [Analysis Checks].</p>\n<p></p>\n<p>Special ability to infer the structure of traps and tricks from past experience. Bitter experience learned by yourself will not betray you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

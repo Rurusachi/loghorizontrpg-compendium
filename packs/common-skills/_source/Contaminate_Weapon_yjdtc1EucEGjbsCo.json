@@ -4,7 +4,7 @@
   "_id": "yjdtc1EucEGjbsCo",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>As an additional cost, you consume one [Toxin] item with an Item Rank of [CR - 5 (minimum 1)] or more that gives you a Bad Status.</p>\n<p>You gain the ability \"When you deal damage with \"Basic Weapon Attack\", you can give the same Bad Status as the consumed [Toxin] to the target of that attack.\" This effect is treated as a Combat Status.</p>\n<p>(Fate 1 &amp; Subclass: Poison-User, Curseblade, Avenger): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p>A special skill in which a magic potion is loaded into a weapon and the effect is applied directly to the wound of the attacked opponent.</p>",
+    "description": "<p>As an additional cost, you consume one [Toxin] item with an Item Rank of [CR - 5 (minimum 1)] or more that gives you a Bad Status.</p>\n<p></p>\n<p>You gain the ability \"When you deal damage with \"Basic Weapon Attack\", you can give the same Bad Status as the consumed [Toxin] to the target of that attack.\" This effect is treated as a Combat Status.</p>\n<p></p>\n<p>(Fate 1 & Subclass: Poison-User, Curseblade, Avenger): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill in which a magic potion is loaded into a weapon and the effect is applied directly to the wound of the attacked opponent.</p>",
     "limit": {
       "min": 0,
       "value": 1,

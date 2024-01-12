@@ -4,7 +4,7 @@
   "_id": "awrYa8BDstTvr8DV",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may use this skill if your subclass is Woodworker or Instrument Craftsman.&nbsp;</p>\n<p>You obtain one general item that has a [Bow], [Staff], or [Instrument] tag with an Item Rank equal to your [CR - 2 (minimum 1)] or lower.&nbsp;</p>\n<p>(SR 2): The Item Rank available is equal to CR or lower.&nbsp;</p>\n<p>[Connection: Craftsman, Carpenter, Collector] The [Fate] cost is 1 instead of 2.</p>\n<p>A special skill for processing plant-based materials such as wood.</p>",
+    "description": "<p>You may use this skill if your subclass is Woodworker or Instrument Craftsman. </p>\n<p></p>\n<p>You obtain one general item that has a [Bow], [Staff], or [Instrument] tag with an Item Rank equal to your [CR - 2 (minimum 1)] or lower. </p>\n<p></p>\n<p>(SR 2): The Item Rank available is equal to CR or lower. </p>\n<p></p>\n<p>[Connection: Craftsman, Carpenter, Collector] The [Fate] cost is 1 instead of 2.</p>\n<p></p>\n<p>A special skill for processing plant-based materials such as wood.</p>",
     "limit": {
       "min": 0,
       "value": 1,

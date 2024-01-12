@@ -4,7 +4,7 @@
   "_id": "qGBjGO95v74Ayh4Z",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You will be able to use [Medicine] with an Item Rank of [CR + 2] or lower.&nbsp;</p>\n<p>You gain a + [Base INT] bonus to the [HP] recovery amount of \"Healing Potions (regardless of grade)\" you use.</p>\n<p>You gain a + [INT Mod] bonus to the [Regen] you apply from \"Regen Potions (regardless of grade)\" you use.</p>\n<p>You are good at using potions. By knowing the storage and usage tips, the medicines you use will be more effective than others.</p>",
+    "description": "<p>You will be able to use [Medicine] with an Item Rank of [CR + 2] or lower. </p>\n<p></p>\n<p>You gain a + [Base INT] bonus to the [HP] recovery amount of \"Healing Potions (regardless of grade)\" you use.</p>\n<p></p>\n<p>You gain a + [INT Mod] bonus to the [Regen] you apply from \"Regen Potions (regardless of grade)\" you use.</p>\n<p></p>\n<p>You are good at using potions. By knowing the storage and usage tips, the medicines you use will be more effective than others.</p>",
     "limit": {
       "min": 0,
       "value": 1,

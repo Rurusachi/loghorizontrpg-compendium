@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [3D + (Attack Power)] physical damage to the target. You recover [(Recovery] + (SRx3)] HP. </p>\n<p></p>\n<p>(Hate Top): You recover an additional 5 HP.</p>\n<p></p>\n<p>A special skill that pierces the body of the enemy with a spear and absorbs physical strength through blood. The crimson flash that is unleashed gives wounds to the enemy and heals you.</p>",
+    "description": "<p>Deal [3D + (Attack Power)] physical damage to the target. You recover [(Recovery] + (SR x 3)] HP. </p>\n<p></p>\n<p>(Hate Top): You recover an additional 5 HP.</p>\n<p></p>\n<p>A special skill that pierces the body of the enemy with a spear and absorbs physical strength through blood. The crimson flash that is unleashed gives wounds to the enemy and heals you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill when you receive damage from the target. You may make the target make a [Safe Move (forced)] of 1 Sq. This movement must bring the target closer to you.</p>\n<p></p>\n<p>(Hate Top): Increase the distance the target moves by +1 Sq.</p>\n<p></p>\n<p>A special skill that pulls the enemy closer to you while restraining them with your weapon when attacked. In the case of a bow, the enemy is guided by a warning shot.</p>",
+    "description": "<p>Use this skill when you receive damage from the target. You may make the target make a [Safe Move (forced)] of 1 Sq. This movement must bring the target closer to you.</p>\n<p></p>\n<p>(Hate Top): Increase the distance the target moves by + 1 Sq.</p>\n<p></p>\n<p>A special skill that pulls the enemy closer to you while restraining them with your weapon when attacked. In the case of a bow, the enemy is guided by a warning shot.</p>",
     "limit": {
       "min": 0,
       "value": 0,

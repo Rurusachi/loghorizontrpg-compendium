@@ -4,7 +4,7 @@
   "_id": "VlE9wyiHT6YmlvM8",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Use at the same time as \"Run\" or \"Dash\" skill. Increase the distance moved by + 1 Sq.</p>\n<p>A special skill that allows you to travel longer distances by taking strong, long strides. On the battlefield, a single step can often mean the difference between life and death.</p>",
+    "description": "<p>Use at the same time as \"Run\" or \"Dash\" skill. Increase the distance moved by + 1 Sq.</p>\n<p></p>\n<p>A special skill that allows you to travel longer distances by taking strong, long strides. On the battlefield, a single step can often mean the difference between life and death.</p>",
     "limit": {
       "min": 0,
       "value": 1,

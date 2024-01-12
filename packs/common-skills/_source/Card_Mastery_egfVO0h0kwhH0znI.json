@@ -4,7 +4,7 @@
   "_id": "egfVO0h0kwhH0znI",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You can use [Charm] items with an Item Rank equal to your [CR + SR] or lower. You gain + (SR x 3) [Inventory Slots]. You can only store [Charms] in these additional [Inventory Slots], and the stored items cannot be subjected to undesired effects, such as actions other than yours, or the [Exhaustion Table: Items].</p>\n<p>You are skilled in using spiritual charms. You can freely control more and higher-level spiritual charms.</p>",
+    "description": "<p>You can use [Charm] items with an Item Rank equal to your [CR + SR] or lower. You gain + (SR x 3) [Inventory Slots]. You can only store [Charms] in these additional [Inventory Slots], and the stored items cannot be subjected to undesired effects, such as actions other than yours, or the [Exhaustion Table: Items].</p>\n<p></p>\n<p>You are skilled in using spiritual charms. You can freely control more and higher-level spiritual charms.</p>",
     "limit": {
       "min": 0,
       "value": 1,
@@ -24,7 +24,7 @@
     },
     "range": {
       "type": "",
-      "value": ""
+      "value": "Close"
     },
     "target": {
       "type": "self",
@@ -39,7 +39,7 @@
       "value": 0
     },
     "formula": {
-      "value": "@cr + @item.sr.value[Item Rank]",
+      "value": "0",
       "bonus": {
         "strbase": false,
         "dexbase": false,
@@ -52,9 +52,9 @@
         "patk": false,
         "matk": false,
         "recovery": false,
-        "cr": false,
+        "cr": true,
         "srd": false,
-        "sr": false
+        "sr": true
       },
       "bonusmultiplier": {
         "strbase": null,
@@ -68,13 +68,13 @@
         "patk": null,
         "matk": null,
         "recovery": null,
-        "cr": null,
+        "cr": 1,
         "srd": null,
-        "sr": null
+        "sr": 1
       }
     },
     "secondformula": {
-      "value": "@item.sr.value * 3[Inventory slots]",
+      "value": "0",
       "bonus": {
         "strbase": false,
         "dexbase": false,
@@ -89,7 +89,7 @@
         "recovery": false,
         "cr": false,
         "srd": false,
-        "sr": false
+        "sr": true
       },
       "bonusmultiplier": {
         "strbase": null,
@@ -105,7 +105,7 @@
         "recovery": null,
         "cr": null,
         "srd": null,
-        "sr": null
+        "sr": 3
       }
     },
     "tags": [
@@ -159,7 +159,7 @@
     "systemVersion": "0.5.0",
     "coreVersion": "11.315",
     "createdTime": 1705082283357,
-    "modifiedTime": 1705082530137,
+    "modifiedTime": 1705086420576,
     "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!egfVO0h0kwhH0znI"

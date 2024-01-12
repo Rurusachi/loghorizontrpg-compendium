@@ -4,7 +4,7 @@
   "_id": "fEDCeRjlVbjGLDx6",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may immediately use one [Charm] with [Timing: Move].</p>\n<p>A special skill that allows you to use spiritual charms without any gaps in your smooth movements. In response to a brilliant or spirited stance, the spiritual charm takes effect immediately.</p>",
+    "description": "<p>You may immediately use one [Charm] with [Timing: Move].</p>\n<p></p>\n<p>A special skill that allows you to use spiritual charms without any gaps in your smooth movements. In response to a brilliant or spirited stance, the spiritual charm takes effect immediately.</p>",
     "limit": {
       "min": 0,
       "value": 1,

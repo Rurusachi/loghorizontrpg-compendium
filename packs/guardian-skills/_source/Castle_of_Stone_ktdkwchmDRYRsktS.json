@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You become [Post-Action], all HP Damage you would receive becomes 0 at the application stage. In addition, if an enemy attacks an ally other than you, you immediately gain +1 [Fate Point]. This effect lasts until the end of the round.</p>\n<p></p>\n<p>A special skill that creates an invincible defense that blocks any attack for a short period of time. Shining like marble, you become an impregnable fortress.</p>",
+    "description": "<p>You become [Post-Action], all HP Damage you would receive becomes 0 at the application stage. In addition, if an enemy attacks an ally other than you, you immediately gain + 1 [Fate Point]. This effect lasts until the end of the round.</p>\n<p></p>\n<p>A special skill that creates an invincible defense that blocks any attack for a short period of time. Shining like marble, you become an impregnable fortress.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "_id": "MMwNyiRdKIHHAyI8",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may use this skill if your subclass is Painter, Novelist, Art Forger, or Sukisha.&nbsp;</p>\n<p>Select one item from your belongings and add the [Valuable: N] tag. N represents gold value, and the number is equal to the amount of the gold value you roll from the treasure table \"Treasure Table: Money\". When you sell this item the value will be equal to its original value + [Valuable: N].</p>\n<p>A special skill that adds your creativity to items and adds value to them as works of art.</p>",
+    "description": "<p>You may use this skill if your subclass is Painter, Novelist, Art Forger, or Sukisha. </p>\n<p></p>\n<p>Select one item from your belongings and add the [Valuable: N] tag. N represents gold value, and the number is equal to the amount of the gold value you roll from the treasure table \"Treasure Table: Money\". When you sell this item the value will be equal to its original value + [Valuable: N].</p>\n<p></p>\n<p>A special skill that adds your creativity to items and adds value to them as works of art.</p>",
     "limit": {
       "min": 0,
       "value": 1,

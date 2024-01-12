@@ -4,7 +4,7 @@
   "_id": "uOtKw35bVouZ18Yu",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may use this skill if your subclass is Poison User, Alchemist, or Curse Blade.&nbsp;</p>\n<p>You receive two general items with the [Toxin] tag that do not exceed an Item Rank equal to your CR or lower.</p>\n<p>(Connection: Freeman, Apothecary, Outlaw): You receive three items instead of two.</p>\n<p>You have the skills to mix poisons and use them in battle.</p>",
+    "description": "<p>You may use this skill if your subclass is Poison User, Alchemist, or Curse Blade. </p>\n<p></p>\n<p>You receive two general items with the [Toxin] tag that do not exceed an Item Rank equal to your CR or lower.</p>\n<p></p>\n<p>(Connection: Freeman, Apothecary, Outlaw): You receive three items instead of two.</p>\n<p></p>\n<p>You have the skills to mix poisons and use them in battle.</p>",
     "limit": {
       "min": 0,
       "value": 1,

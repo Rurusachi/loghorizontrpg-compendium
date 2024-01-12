@@ -4,7 +4,7 @@
   "_id": "iOdhBlKgEALi1s2U",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>During this Main Process, [Toxins] that you use deal 10 direct damage in addition to their usual effects.</p>\n<p>(CR 11): Increase the direct damage to 20 instead of 10.<br>(CR 21): Increase the direct damage to 30.</p>\n<p>A special skill that processes magical poisons to make its effects even more deadly. The poison you wield becomes a devastating, lethal toxin that reduces the life of the target.</p>",
+    "description": "<p>During this Main Process, [Toxins] that you use deal 10 direct damage in addition to their usual effects.</p>\n<p></p>\n<p>(CR 11): Increase the direct damage to 20 instead of 10.</p>\n<p>(CR 21): Increase the direct damage to 30.</p>\n<p></p>\n<p>A special skill that processes magical poisons to make its effects even more deadly. The poison you wield becomes a devastating, lethal toxin that reduces the life of the target.</p>",
     "limit": {
       "min": 0,
       "value": 1,

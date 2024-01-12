@@ -4,7 +4,7 @@
   "_id": "E156F8QfoyptIzaE",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may use this skill if your subclass is Apprentice.</p>\n<p>You will be able to use the skills you have acquired that require subclasses other than \"Apprenticeship\". However, each time you use it, you will consume 2 [Fate] points as an additional cost.&nbsp;</p>\n<p>[Connection: Subclass that is a condition for using skills] The [Fate] cost is 1 instead of 2.</p>\n<p>A special skill in which one learns the skills of another subclass by becoming an apprentice to a master of that subclass.</p>",
+    "description": "<p>You may use this skill if your subclass is Apprentice.</p>\n<p></p>\n<p>You will be able to use the skills you have acquired that require subclasses other than \"Apprenticeship\". However, each time you use it, you will consume 2 [Fate] points as an additional cost. </p>\n<p></p>\n<p>[Connection: Subclass that is a condition for using skills] The [Fate] cost is 1 instead of 2.</p>\n<p></p>\n<p>A special skill in which one learns the skills of another subclass by becoming an apprentice to a master of that subclass.</p>",
     "limit": {
       "min": 0,
       "value": 1,

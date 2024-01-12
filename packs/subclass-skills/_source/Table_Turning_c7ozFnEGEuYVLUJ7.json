@@ -4,7 +4,7 @@
   "_id": "c7ozFnEGEuYVLUJ7",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may use this skill if your subclass is Gambler, Duelist, Survivor, or Strategist.&nbsp;</p>\n<p>Used when you and the target make a [Opposed Check]. Determine the results of both sides and the outcome of the opposed check as if you exchanged all the dice you rolled and all the dice the target rolled. Even if there are multiple people making the [Opposed Check], this effect only affects the one-to-one result between you and the target.</p>\n<p>A special skill that allows you to make a comeback.</p>",
+    "description": "<p>You may use this skill if your subclass is Gambler, Duelist, Survivor, or Strategist. </p>\n<p></p>\n<p>Used when you and the target make an [Opposed Check]. Determine the results of both sides and the outcome of the opposed check as if you exchanged all the dice you rolled and all the dice the target rolled. Even if there are multiple people making the [Opposed Check], this effect only affects the one-to-one result between you and the target.</p>\n<p></p>\n<p>A special skill that allows you to make a comeback.</p>",
     "limit": {
       "min": 0,
       "value": 1,

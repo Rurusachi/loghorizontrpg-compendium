@@ -4,7 +4,7 @@
   "_id": "vlTP19sN7lR35hFw",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may use this skill if your subclass is Tailor, Leatherworker, or Nomad.&nbsp;</p>\n<p>You obtain one general item that has the [Light Armor], [Cloak], or [Bag] tag with an Item Rank equal to your [CR - 2 (minimum 1)] or lower.&nbsp;</p>\n<p>(SR 2): The Item Rank available is equal to CR or lower.&nbsp;</p>\n<p>[Connection: Merchant, Farmer, Housekeeper] The [Fate] cost becomes 1 instead of 2.</p>\n<p>A special skill that processes cloth and leather to make clothes, bags, etc.</p>",
+    "description": "<p>You may use this skill if your subclass is Tailor, Leatherworker, or Nomad. </p>\n<p></p>\n<p>You obtain one general item that has the [Light Armor], [Cloak], or [Bag] tag with an Item Rank equal to your [CR - 2 (minimum 1)] or lower. </p>\n<p></p>\n<p>(SR 2): The Item Rank available is equal to CR or lower. </p>\n<p></p>\n<p>[Connection: Merchant, Farmer, Housekeeper] The [Fate] cost becomes 1 instead of 2.</p>\n<p></p>\n<p>A special skill that processes cloth and leather to make clothes, bags, etc.</p>",
     "limit": {
       "min": 0,
       "value": 1,

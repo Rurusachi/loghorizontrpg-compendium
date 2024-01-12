@@ -4,7 +4,7 @@
   "_id": "D0Le0GVyAGFqwIUn",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You gain a + 1D bonus to the [Attack Check] of [Toxins] you use. In addition, you can use [Toxins] with an Item Rank equal to your [CR + 2] or lower.</p>\n<p>You are skilled in handling poisons in general. You are both a master poison developer and user.</p>",
+    "description": "<p>You gain a + 1D bonus to the [Attack Check] of [Toxins] you use. In addition, you can use [Toxins] with an Item Rank equal to your [CR + 2] or lower.</p>\n<p></p>\n<p>You are skilled in handling poisons in general. You are both a master poison developer and user.</p>",
     "limit": {
       "min": 0,
       "value": 1,

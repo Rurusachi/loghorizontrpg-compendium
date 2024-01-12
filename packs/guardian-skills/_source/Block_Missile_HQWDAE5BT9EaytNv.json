@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill when you make an [Evasion Check] against an attack from outside of [Range: Close]. Add +2 to the result of the check. No effect can reduce the result of this check or the number of dice rolled for it.</p>\n<p></p>\n<p>(Hate Top): You may also use this skill making a [Resistance Check].</p>\n<p></p>\n<p>A skill that blocks incoming arrows by holding a shield in front of the body. If it attacks from the front, it is possible to repel even magic.</p>",
+    "description": "<p>Use this skill when you make an [Evasion Check] against an attack from outside of [Range: Close]. Add + 2 to the result of the check. No effect can reduce the result of this check or the number of dice rolled for it.</p>\n<p></p>\n<p>(Hate Top): You may also use this skill making a [Resistance Check].</p>\n<p></p>\n<p>A skill that blocks incoming arrows by holding a shield in front of the body. If it attacks from the front, it is possible to repel even magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

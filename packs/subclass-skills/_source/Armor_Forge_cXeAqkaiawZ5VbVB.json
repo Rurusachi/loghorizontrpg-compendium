@@ -4,7 +4,7 @@
   "_id": "cXeAqkaiawZ5VbVB",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may use this skill if your subclass is Blacksmith, Armorer, or Mechanic.&nbsp;</p>\n<p>You obtain one general item that has a [Heavy Armor], [Shield], or [Head] tag with an Item Rank equal to your [CR - 2 (minimum 1)] or lower.&nbsp;</p>\n<p>(SR 2): The Item Rank available is equal to CR or lower.&nbsp;</p>\n<p><br>[Connection: Warrior, General, Mercenary] The [Fate] cost is 1 instead of 2.</p>\n<p>Special ability to process metal and create armor.</p>",
+    "description": "<p>You may use this skill if your subclass is Blacksmith, Armorer, or Mechanic. </p>\n<p></p>\n<p>You obtain one general item that has a [Heavy Armor], [Shield], or [Head] tag with an Item Rank equal to your [CR - 2 (minimum 1)] or lower. </p>\n<p></p>\n<p>(SR 2): The Item Rank available is equal to CR or lower. </p>\n<p></p>\n<p></p>\n<p>[Connection: Warrior, General, Mercenary] The [Fate] cost is 1 instead of 2.</p>\n<p></p>\n<p>Special ability to process metal and create armor.</p>",
     "limit": {
       "min": 0,
       "value": 1,

@@ -4,7 +4,7 @@
   "_id": "ImfLAovEpIwq1zBq",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You immediately change one [Medicine] to [Target: Single / Range: 4 Sq] and use it.&nbsp;</p>\n<p>(Hate 1 &amp; Fate 1) Change to [Target: Area (P)].</p>\n<p>A special skill that allows you to spray liquid medicine in the form of a mist and have an effect on distant friends.</p>",
+    "description": "<p>You immediately change one [Medicine] to [Target: Single / Range: 4 Sq] and use it. </p>\n<p></p>\n<p>(Hate 1 & Fate 1) Change to [Target: Area (P)].</p>\n<p></p>\n<p>A special skill that allows you to spray liquid medicine in the form of a mist and have an effect on distant friends.</p>",
     "limit": {
       "min": 0,
       "value": 1,

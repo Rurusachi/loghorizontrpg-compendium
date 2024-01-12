@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Choose one [Shield] that you are equipped with. Increase the [Physical Defense] and [Magical Defense] of that [Shield] by +[SRx2].</p>\n<p></p>\n<p>You are adept at handling shields large and small, and your unique skills allow you to perform even better.</p>",
+    "description": "<p>Choose one [Shield] that you are equipped with. Increase the [Physical Defense] and [Magical Defense] of that [Shield] by + [SR x 2].</p>\n<p></p>\n<p>You are adept at handling shields large and small, and your unique skills allow you to perform even better.</p>",
     "limit": {
       "min": 0,
       "value": 0,

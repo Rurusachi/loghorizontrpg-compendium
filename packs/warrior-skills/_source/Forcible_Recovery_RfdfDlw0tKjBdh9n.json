@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after the target rolls on the [Exhaustion Table: Stamina, Items]. The result of the roll becomes 0.</p>\n<p></p>\n<p>(Bonus): You gain +1 [Starting Fate Point].</p>\n<p></p>\n<p>A skill that protects friends and property from danger along the way. You are a shield for your allies not only in combat.</p>",
+    "description": "<p>Use this skill just after the target rolls on the [Exhaustion Table: Stamina, Items]. The result of the roll becomes 0.</p>\n<p></p>\n<p>(Bonus): You gain + 1 [Starting Fate Point].</p>\n<p></p>\n<p>A skill that protects friends and property from danger along the way. You are a shield for your allies not only in combat.</p>",
     "limit": {
       "min": 0,
       "value": 0,

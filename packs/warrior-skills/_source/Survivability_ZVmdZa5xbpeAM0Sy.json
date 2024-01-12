@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Items], reduce the result of the roll by -1.</p>\n<p></p>\n<p>(Bonus): You gain +10 [Max HP].</p>",
+    "description": "<p>When the target rolls on [Exhaustion Table: Stamina, Items], reduce the result of the roll by - 1.</p>\n<p></p>\n<p>(Bonus): You gain + 10 [Max HP].</p>",
     "limit": {
       "min": 0,
       "value": 0,

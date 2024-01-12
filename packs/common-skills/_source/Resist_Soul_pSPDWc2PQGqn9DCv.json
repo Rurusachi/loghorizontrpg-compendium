@@ -4,7 +4,7 @@
   "_id": "pSPDWc2PQGqn9DCv",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You can use it whenever you want. Immediately removes one status that has the [Seal] tag.</p>\n<p>A special skill that allows you to break free from special constraints on your soul. \"Adventurers\" are those with wings in their souls. Your soul will transcend the horizon of cause and effect and will fly freely anywhere.</p>",
+    "description": "<p>You can use it whenever you want. Immediately removes one status that has the [Seal] tag.</p>\n<p></p>\n<p>A special skill that allows you to break free from special constraints on your soul. \"Adventurers\" are those with wings in their souls. Your soul will transcend the horizon of cause and effect and will fly freely anywhere.</p>",
     "limit": {
       "min": 0,
       "value": 1,

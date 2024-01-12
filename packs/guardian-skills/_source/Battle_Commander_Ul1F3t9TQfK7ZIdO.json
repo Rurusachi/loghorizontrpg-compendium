@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You may not target yourself with this skill. The target must immediately perform one [Timing: Major] action with the [Weapon Attack] [Magic Attack] or [Special Attack] tag. Reduce the [Hate] cost of that action by -2 (minimum 0).</p>\n<p></p>\n<p>A special skill that gives accurate instructions to allies and makes them attack on your behalf.</p>",
+    "description": "<p>You may not target yourself with this skill. The target must immediately perform one [Timing: Major] action with the [Weapon Attack] [Magic Attack] or [Special Attack] tag. Reduce the [Hate] cost of that action by - 2 (minimum 0).</p>\n<p></p>\n<p>A special skill that gives accurate instructions to allies and makes them attack on your behalf.</p>",
     "limit": {
       "min": 0,
       "value": 0,

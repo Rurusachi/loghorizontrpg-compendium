@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target.  </p>\n<p></p>\n<p>(Failure): The target recieves [Dazed].</p>\n<p></p>\n<p>A special skill that pulls the string of a bow with herculean strength and shoots a powerful single arrow. Even if it doesn't hit, the wind pressure and impact alone will terrify the enemy.</p>",
+    "description": "<p>Deal [(SR + 3)D + (Attack Power)] physical damage to the target.  </p>\n<p></p>\n<p>(Failure): The target recieves [Dazed].</p>\n<p></p>\n<p>A special skill that pulls the string of a bow with herculean strength and shoots a powerful single arrow. Even if it doesn't hit, the wind pressure and impact alone will terrify the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "WY2GHXKhGFpY03uf",
   "system": {
-    "description": "<p>During this Main Process, you gain a +1D bonus to [Hit Checks].</p>\n<p></p>\n<p>A special skill that draws a weapon and finds an enemy's openings and accurately hits the next attack.</p>",
+    "description": "<p>During this Main Process, you gain a + 1D bonus to [Hit Checks].</p>\n<p></p>\n<p>A special skill that draws a weapon and finds an enemy's openings and accurately hits the next attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

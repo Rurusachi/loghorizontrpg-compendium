@@ -4,7 +4,7 @@
   "_id": "6Ta0o2n0EVBQwnos",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Use this skill at the same time you use a [Toxin].&nbsp;</p>\n<p>(Hate 1): The [Toxin] can be used with [Range: 4 Sq.].<br>(Hate 2): The [Toxin] can be used with [Target: Area (P)].<br>(Fate 1): The [Toxin] can be used with [Target: Area (P)].</p>\n<p>A special skill that affects distant targets or multiple opponents by vaporizing a cursed medicine or applying it to something and throwing it.</p>",
+    "description": "<p>Use this skill at the same time you use a [Toxin]. </p>\n<p></p>\n<p>(Hate 1): The [Toxin] can be used with [Range: 4 Sq.].</p>\n<p>(Hate 2): The [Toxin] can be used with [Target: Area (P)].</p>\n<p>(Fate 1): The [Toxin] can be used with [Target: Area (P)].</p>\n<p></p>\n<p>A special skill that affects distant targets or multiple opponents by vaporizing a cursed medicine or applying it to something and throwing it.</p>",
     "limit": {
       "min": 0,
       "value": 1,

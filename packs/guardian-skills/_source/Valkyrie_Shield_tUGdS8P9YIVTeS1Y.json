@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You can use this immediately after you become [Incapacitated].</p>\n<p>Immediately lose [Incapacitated] status and recover [HP] equal to [One (Shield) you are equipped with's (Physical Defense) x10].</p>\n<p>After that, add a [Damaged] tag to the [Shield] used for this effect.</p>\n<p></p>\n<p>A special skill that instantly protects a vital point with a shield and avoids a fatal injury. Pick up a life with a single shield. Not cheap, but a well worth the exchange.</p>",
+    "description": "<p>You can use this immediately after you become [Incapacitated].</p>\n<p>Immediately lose [Incapacitated] status and recover [HP] equal to [One (Shield) you are equipped with's (Physical Defense) x 10].</p>\n<p>After that, add a [Damaged] tag to the [Shield] used for this effect.</p>\n<p></p>\n<p>A special skill that instantly protects a vital point with a shield and avoids a fatal injury. Pick up a life with a single shield. Not cheap, but a well worth the exchange.</p>",
     "limit": {
       "min": 0,
       "value": 0,

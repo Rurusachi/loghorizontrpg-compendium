@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR11 or higher. During this Main Process, you gain a +[SRx4] bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>(CR17): Increase the bonus to +[SRx5].</p>\n<p>(CR23): Increase the bonus to +[SRx6].</p>\n<p>(CR29): Increase the bonus to +[SRx7]</p>\n<p></p>\n<p>A skill that raises the power of subsequent attacks by swinging the weapon around. Accumulated experience turns a mere preliminary movement into a deadly strategy.</p>",
+    "description": "<p>Available at CR11 or higher. During this Main Process, you gain a + [SR x 4] bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>(CR 17): Increase the bonus to + [SR x 5].</p>\n<p>(CR 23): Increase the bonus to + [SR x 6].</p>\n<p>(CR 29): Increase the bonus to + [SR x 7]</p>\n<p></p>\n<p>A skill that raises the power of subsequent attacks by swinging the weapon around. Accumulated experience turns a mere preliminary movement into a deadly strategy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

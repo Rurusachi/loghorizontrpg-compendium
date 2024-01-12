@@ -4,7 +4,7 @@
   "_id": "7L7E5o2RA8gDeFQd",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Use just before you make a search table roll. You may perform the search table roll twice, see the results of each, and then choose the one you would like to use.</p>\n<p>A special skill that gives a little good luck to allies during the trip. Like a four-leaf clover, you are fortunate in its very existence. The journey between you and your companions will be generally comfortable.</p>",
+    "description": "<p>Use just before you make a search table roll. You may perform the search table roll twice, see the results of each, and then choose the one you would like to use.</p>\n<p></p>\n<p>A special skill that gives a little good luck to allies during the trip. Like a four-leaf clover, you are fortunate in its very existence. The journey between you and your companions will be generally comfortable.</p>",
     "limit": {
       "min": 0,
       "value": 1,

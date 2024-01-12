@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Replace Anchor Howl with this skill at CR11 or higher. You gain [Cancel: (STR Mod)]. This effect lasts until the end of the round.</p>\n<p></p>\n<p>(Hate Top): You recover [Base STR] HP.</p>\n<p></p>\n<p>A special skill that raises a loud roar and stirs the enemy's hostility towards oneself. The way you motivate yourself and keep an eye on your enemies will make you look like an insurmountable wall.</p>",
+    "description": "<p>Replace Anchor Howl with this skill at CR 11 or higher. You gain [Cancel: (STR Mod)]. This effect lasts until the end of the round.</p>\n<p></p>\n<p>(Hate Top): You recover [Base STR] [HP].</p>\n<p></p>\n<p>A special skill that raises a loud roar and stirs the enemy's hostility towards oneself. The way you motivate yourself and keep an eye on your enemies will make you look like an insurmountable wall.</p>",
     "limit": {
       "min": 0,
       "value": 0,

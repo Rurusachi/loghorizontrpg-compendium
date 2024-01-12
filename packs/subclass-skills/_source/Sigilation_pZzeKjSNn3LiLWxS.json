@@ -4,7 +4,7 @@
   "_id": "pZzeKjSNn3LiLWxS",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You may use this skill if your subclass is Talismancer, Sigilmaker, or Rune Knight.&nbsp;</p>\n<p>You receive two general items with the [Charm] tag that do not exceed an Item Rank equal to your CR or lower.</p>\n<p>(Connection: Intellectual, Scribe, Fortune-Teller): You receive three items instead of two.</p>\n<p>You can create magical items called talismans and cards by writing spells on fetishes.</p>",
+    "description": "<p>You may use this skill if your subclass is Talismancer, Sigilmaker, or Rune Knight. </p>\n<p></p>\n<p>You receive two general items with the [Charm] tag that do not exceed an Item Rank equal to your CR or lower.</p>\n<p></p>\n<p>(Connection: Intellectual, Scribe, Fortune-Teller): You receive three items instead of two.</p>\n<p></p>\n<p>You can create magical items called talismans and cards by writing spells on fetishes.</p>",
     "limit": {
       "min": 0,
       "value": 1,
