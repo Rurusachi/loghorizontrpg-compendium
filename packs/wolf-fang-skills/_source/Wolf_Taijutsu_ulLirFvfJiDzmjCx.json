@@ -1,9 +1,35 @@
 {
   "_id": "ulLirFvfJiDzmjCx",
-  "name": "Wolf's Constitution",
+  "name": "Wolf Taijutsu",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [
+    {
+      "_id": "IWQ2mVKGTjMfBnWD",
+      "changes": [
+        {
+          "key": "system.abilities.str.bonus",
+          "mode": 2,
+          "value": "4"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Wolf's Constitution",
+      "origin": "Compendium.loghorizontrpg-compendium.wolf-fang-skills.ulLirFvfJiDzmjCx",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!ulLirFvfJiDzmjCx.IWQ2mVKGTjMfBnWD"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>You gain +4 [Base STR].</p>",
     "limit": {
       "min": 0,
@@ -117,34 +143,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "IWQ2mVKGTjMfBnWD",
-      "changes": [
-        {
-          "key": "system.abilities.str.bonus",
-          "mode": 2,
-          "value": "4"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Wolf's Constitution",
-      "origin": "Compendium.loghorizontrpg-compendium.wolf-fang-skills.ulLirFvfJiDzmjCx",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!ulLirFvfJiDzmjCx.IWQ2mVKGTjMfBnWD"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1705018856388,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!ulLirFvfJiDzmjCx"
 }

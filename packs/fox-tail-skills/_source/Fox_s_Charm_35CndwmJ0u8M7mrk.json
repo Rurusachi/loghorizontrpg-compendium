@@ -1,9 +1,35 @@
 {
   "_id": "35CndwmJ0u8M7mrk",
-  "name": "Fox's Guile",
+  "name": "Fox's Charm",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [
+    {
+      "_id": "OboAlZZwmxJJvBwD",
+      "changes": [
+        {
+          "key": "system.abilities.pow.bonus",
+          "mode": 2,
+          "value": "4"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "Fox's Guile",
+      "origin": "Compendium.loghorizontrpg-compendium.fox-tail-skills.35CndwmJ0u8M7mrk",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!35CndwmJ0u8M7mrk.OboAlZZwmxJJvBwD"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>You gain +4 [Base POW].</p>",
     "limit": {
       "min": 0,
@@ -117,34 +143,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "OboAlZZwmxJJvBwD",
-      "changes": [
-        {
-          "key": "system.abilities.pow.bonus",
-          "mode": 2,
-          "value": "4"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "Fox's Guile",
-      "origin": "Compendium.loghorizontrpg-compendium.fox-tail-skills.35CndwmJ0u8M7mrk",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!35CndwmJ0u8M7mrk.OboAlZZwmxJJvBwD"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1705018872514,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!35CndwmJ0u8M7mrk"
 }
