@@ -1,0 +1,137 @@
+{
+  "name": "Kasha's Blade II",
+  "type": "skill",
+  "_id": "xhox837oslZlt3ol",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Available at CR11 or higher. Deal [(SR x 2)D + (Attack Power)] physical damage to the target. If there are no other enemies in the same square as you except the target, increase the damage by +[STR Mod].<br><br>A special skill that drives in a series of fire-like momentum while moving in a circle to constantly go around the enemy's blind spots. Its ferocious attack becomes a chariot of fire that drags the enemy to death.</p>",
+    "limit": {
+      "min": 0,
+      "value": 1,
+      "max": 1,
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "accuracy",
+      "bonus": null,
+      "addsr": false,
+      "target": "evasion",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "single",
+      "value": 1,
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "2",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "0",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": true,
+        "matk": false,
+        "recovery": false,
+        "cr": false,
+        "srd": true,
+        "sr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": 1,
+        "matk": null,
+        "recovery": null,
+        "cr": null,
+        "srd": 2,
+        "sr": null
+      }
+    },
+    "secondformula": {
+      "value": "0",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": true,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false,
+        "srd": false,
+        "sr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": 1,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null,
+        "srd": null,
+        "sr": null
+      }
+    },
+    "tags": [
+      "Combat",
+      "Melee Attack"
+    ],
+    "sr": {
+      "value": 1,
+      "max": 4
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Dq6Ur8VOwxcpRzHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": 1704918667554,
+    "modifiedTime": 1704918986149,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
+  "_key": "!items!xhox837oslZlt3ol"
+}

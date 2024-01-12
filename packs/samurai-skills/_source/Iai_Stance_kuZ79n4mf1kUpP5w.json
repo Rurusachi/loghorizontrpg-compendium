@@ -1,0 +1,137 @@
+{
+  "_id": "kuZ79n4mf1kUpP5w",
+  "name": "Iai Stance",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>You gain +1D to [Accuracy], but must declare [Standby] each time your Main Process comes up while in this stance.<br><br>A stance to expose yourself to the enemy with your weapon stored. Since it is necessary to strike out each time for an attack, it takes the counter attack, with a flash that does not reveal the distance of its reach or allowing the enemy to evade.</p>",
+    "limit": {
+      "min": 0,
+      "value": 0,
+      "max": 1,
+      "bonus": 0,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "minor",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": "0",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": [
+      "Combat",
+      "Stance",
+      "Preparation"
+    ],
+    "sr": {
+      "value": 1,
+      "max": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704917681106,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
+  "_key": "!items!kuZ79n4mf1kUpP5w"
+}

@@ -1,0 +1,136 @@
+{
+  "_id": "VU5sBNJGh04oZwv2",
+  "name": "Wind-Clad Maiden's Rondo",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>The target gains [Cancel (Non-Close Attacks): 10]. This [Cancel] is removed after applying once. This skill's [Hate] cost is equal to [Number of Targets].</p>\n<p>&nbsp;</p>\n<p>(CR8): Increase the [Cancel] rating to 20.</p>",
+    "limit": {
+      "min": 0,
+      "value": 0,
+      "max": 1,
+      "bonus": 0,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "accuracy",
+      "bonus": "",
+      "addsr": false,
+      "target": "evasion",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "widep",
+      "value": 1,
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "Refer",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": [
+      "Combat",
+      "Instrument"
+    ],
+    "sr": {
+      "value": 1,
+      "max": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1705008358352,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
+  "_key": "!items!VU5sBNJGh04oZwv2"
+}

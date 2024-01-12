@@ -1,0 +1,157 @@
+{
+  "name": "Twin Bird Style",
+  "type": "skill",
+  "_id": "NiD968sMF5BOFgnO",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>This skill only produces an effect when you have two [Throwing] weapons equipped to your [Hand Slots]. Your [Attack Power] is the sum of the two weapons and your Range is equal to the lowest range of the two.<br><br>(SR2): Gain +2 [Accuracy].<br>(SR3): Your \"Shadowless Kick\" becomes [Range: 1 Sq].<br><br>A fighting style in which you manipulate throwing weapons with your left and right hands and shoot continuously.</p>",
+    "limit": {
+      "min": 0,
+      "value": 1,
+      "max": 1,
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "none",
+    "check": {
+      "type": "none",
+      "caster": "",
+      "bonus": "",
+      "addsr": false,
+      "target": "",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": ""
+    },
+    "target": {
+      "type": "self",
+      "value": 1,
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": [],
+    "sr": {
+      "value": 1,
+      "max": 1
+    }
+  },
+  "effects": [
+    {
+      "name": "Twin Bird Style SR2",
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.loghorizontrpg-compendium.monk-skills.Item.NiD968sMF5BOFgnO",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": true,
+      "_id": "qiBZenAkFGmErVGm",
+      "changes": [
+        {
+          "key": "system.attributes.accuracy.bonus",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!NiD968sMF5BOFgnO.qiBZenAkFGmErVGm"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Dq6Ur8VOwxcpRzHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": 1704922838689,
+    "modifiedTime": 1704923207560,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
+  "_key": "!items!NiD968sMF5BOFgnO"
+}

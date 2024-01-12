@@ -1,0 +1,136 @@
+{
+  "_id": "iDJY7e3B5Z7x5Tpk",
+  "name": "Helm Splitter II",
+  "type": "skill",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": "<p>Available at CR11 or higher. Deal [4D + (Attack Power)] physical damage to the target. If the target's [HP] is equal to its [Max HP], increase the damage by +[Base STR].<br><br>A special skill that swings down your weapon with all the power of your whole body and slashes the enemy from the front. A decisive blow that converges all the weight and physical strength of the weapon into one point, severing the enemy's body in half.</p>",
+    "limit": {
+      "min": 0,
+      "value": 0,
+      "max": 1,
+      "bonus": 0,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "major",
+    "check": {
+      "type": "opposed",
+      "caster": "accuracy",
+      "bonus": null,
+      "addsr": false,
+      "target": "evasion",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Weapon"
+    },
+    "target": {
+      "type": "single",
+      "value": "0",
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "2",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "4d6",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": true,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": 1,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "0",
+      "bonus": {
+        "srd": false,
+        "sr": false,
+        "strbase": true,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "srd": null,
+        "sr": null,
+        "strbase": 1,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": [
+      "Combat",
+      "Weapon Attack"
+    ],
+    "sr": {
+      "value": 1,
+      "max": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1704916677612,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
+  "_key": "!items!iDJY7e3B5Z7x5Tpk"
+}
