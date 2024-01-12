@@ -1,0 +1,128 @@
+{
+  "name": "Ravage",
+  "type": "skill",
+  "_id": "iOdhBlKgEALi1s2U",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>During this Main Process, [Toxins] that you use deal 10 direct damage in addition to their usual effects.</p>\n<p>(CR 11): Increase the direct damage to 20 instead of 10.<br>(CR 21): Increase the direct damage to 30.</p>\n<p>A special skill that processes magical poisons to make its effects even more deadly. The poison you wield becomes a devastating, lethal toxin that reduces the life of the target.</p>",
+    "limit": {
+      "min": 0,
+      "value": 1,
+      "max": 1,
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "instant",
+    "check": {
+      "type": "none",
+      "caster": "",
+      "bonus": "",
+      "addsr": false,
+      "target": "",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": 1,
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "1",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "floor(((@cr + 10) - 1) / 10)*10",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": [
+      "Combat"
+    ],
+    "sr": {
+      "value": 1,
+      "max": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Dq6Ur8VOwxcpRzHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705080647729,
+    "modifiedTime": 1705081595343,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
+  "_key": "!items!iOdhBlKgEALi1s2U"
+}

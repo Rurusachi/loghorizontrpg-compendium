@@ -1,0 +1,166 @@
+{
+  "name": "Card Mastery",
+  "type": "skill",
+  "_id": "egfVO0h0kwhH0znI",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can use [Charm] items with an Item Rank equal to your [CR + SR] or lower. You gain + (SR x 3) [Inventory Slots]. You can only store [Charms] in these additional [Inventory Slots], and the stored items cannot be subjected to undesired effects, such as actions other than yours, or the [Exhaustion Table: Items].</p>\n<p>You are skilled in using spiritual charms. You can freely control more and higher-level spiritual charms.</p>",
+    "limit": {
+      "min": 0,
+      "value": 1,
+      "max": 1,
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "none",
+    "check": {
+      "type": "none",
+      "caster": "",
+      "bonus": "",
+      "addsr": false,
+      "target": "",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": ""
+    },
+    "target": {
+      "type": "self",
+      "value": 1,
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "@cr + @item.sr.value[Item Rank]",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false,
+        "srd": false,
+        "sr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null,
+        "srd": null,
+        "sr": null
+      }
+    },
+    "secondformula": {
+      "value": "@item.sr.value * 3[Inventory slots]",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false,
+        "srd": false,
+        "sr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null,
+        "srd": null,
+        "sr": null
+      }
+    },
+    "tags": [
+      "General"
+    ],
+    "sr": {
+      "value": 1,
+      "max": 3
+    }
+  },
+  "effects": [
+    {
+      "name": "Card Mastery",
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.loghorizontrpg-compendium.common-skills.Item.egfVO0h0kwhH0znI",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "bBeUolhcZHyxOjSc",
+      "changes": [
+        {
+          "key": "system.inventory.max",
+          "mode": 2,
+          "value": "@item.sr.value * 3"
+        }
+      ],
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!egfVO0h0kwhH0znI.bBeUolhcZHyxOjSc"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Dq6Ur8VOwxcpRzHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705082283357,
+    "modifiedTime": 1705082530137,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
+  "_key": "!items!egfVO0h0kwhH0znI"
+}

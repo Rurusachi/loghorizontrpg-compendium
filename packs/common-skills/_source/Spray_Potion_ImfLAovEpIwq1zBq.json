@@ -1,0 +1,128 @@
+{
+  "name": "Spray Potion",
+  "type": "skill",
+  "_id": "ImfLAovEpIwq1zBq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You immediately change one [Medicine] to [Target: Single / Range: 4 Sq] and use it.&nbsp;</p>\n<p>(Hate 1 &amp; Fate 1) Change to [Target: Area (P)].</p>\n<p>A special skill that allows you to spray liquid medicine in the form of a mist and have an effect on distant friends.</p>",
+    "limit": {
+      "min": 0,
+      "value": 1,
+      "max": 1,
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "major",
+    "check": {
+      "type": "none",
+      "caster": "",
+      "bonus": "",
+      "addsr": false,
+      "target": "",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": 1,
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "1",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 0
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null
+      }
+    },
+    "tags": [
+      "Combat"
+    ],
+    "sr": {
+      "value": 1,
+      "max": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Dq6Ur8VOwxcpRzHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705080145135,
+    "modifiedTime": 1705080330995,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
+  "_key": "!items!ImfLAovEpIwq1zBq"
+}

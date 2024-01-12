@@ -1,0 +1,136 @@
+{
+  "name": "Tailoring",
+  "type": "skill",
+  "_id": "vlTP19sN7lR35hFw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You may use this skill if your subclass is Tailor, Leatherworker, or Nomad.&nbsp;</p>\n<p>You obtain one general item that has the [Light Armor], [Cloak], or [Bag] tag with an Item Rank equal to your [CR - 2 (minimum 1)] or lower.&nbsp;</p>\n<p>(SR 2): The Item Rank available is equal to CR or lower.&nbsp;</p>\n<p>[Connection: Merchant, Farmer, Housekeeper] The [Fate] cost becomes 1 instead of 2.</p>\n<p>A special skill that processes cloth and leather to make clothes, bags, etc.</p>",
+    "limit": {
+      "min": 0,
+      "value": 1,
+      "max": 1,
+      "bonus": 1,
+      "addsr": "none",
+      "type": "None"
+    },
+    "timing": "preplay",
+    "check": {
+      "type": "none",
+      "caster": "",
+      "bonus": "",
+      "addsr": false,
+      "target": "",
+      "targetbonus": ""
+    },
+    "range": {
+      "type": "",
+      "value": "Close"
+    },
+    "target": {
+      "type": "self",
+      "value": 1,
+      "addsr": false
+    },
+    "hatecost": {
+      "value": "0",
+      "addsr": false
+    },
+    "fatecost": {
+      "value": 2
+    },
+    "formula": {
+      "value": "",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false,
+        "srd": false,
+        "sr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null,
+        "srd": null,
+        "sr": null
+      }
+    },
+    "secondformula": {
+      "value": "",
+      "bonus": {
+        "strbase": false,
+        "dexbase": false,
+        "powbase": false,
+        "intbase": false,
+        "strmod": false,
+        "dexmod": false,
+        "powmod": false,
+        "intmod": false,
+        "patk": false,
+        "matk": false,
+        "recovery": false,
+        "cr": false,
+        "srd": false,
+        "sr": false
+      },
+      "bonusmultiplier": {
+        "strbase": null,
+        "dexbase": null,
+        "powbase": null,
+        "intbase": null,
+        "strmod": null,
+        "dexmod": null,
+        "powmod": null,
+        "intmod": null,
+        "patk": null,
+        "matk": null,
+        "recovery": null,
+        "cr": null,
+        "srd": null,
+        "sr": null
+      }
+    },
+    "tags": [
+      "General"
+    ],
+    "sr": {
+      "value": 1,
+      "max": 2
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Dq6Ur8VOwxcpRzHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705083338180,
+    "modifiedTime": 1705083359751,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
+  "_key": "!items!vlTP19sN7lR35hFw"
+}
