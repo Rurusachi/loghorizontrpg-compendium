@@ -3,7 +3,33 @@
   "name": "Noble Aura",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [
+    {
+      "_id": "fZMFV7D54a4ZCEKZ",
+      "changes": [
+        {
+          "key": "system.attributes.negotiation.dice",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "New Effect",
+      "origin": "Compendium.loghorizontrpg-compendium.subclass-skills.nCqQk0gUDgG9jEMF",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!nCqQk0gUDgG9jEMF.fZMFV7D54a4ZCEKZ"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>You may use this skill if your subclass is Noble, Princess of the Rose Garden, or Hero.</p>\n<p></p>\n<p>Use this skill when you make a [Negotiate Check]. You gain + 1D to that check.</p>\n<p></p>\n<p>(Fate 1): The check becomes critical.</p>\n<p></p>\n<p>You have a special ability to impress others with your naturally noble aura, charm, and demeanor.</p>",
     "limit": {
       "min": 0,
@@ -11,7 +37,7 @@
       "max": 1,
       "bonus": 1,
       "addsr": "none",
-      "type": "scenario"
+      "type": "scene"
     },
     "timing": "beforecheck",
     "check": {
@@ -116,34 +142,16 @@
       "max": 1
     }
   },
-  "effects": [
-    {
-      "_id": "fZMFV7D54a4ZCEKZ",
-      "changes": [
-        {
-          "key": "system.attributes.negotiation.dice",
-          "mode": 2,
-          "value": "1"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "New Effect",
-      "origin": "Compendium.loghorizontrpg-compendium.subclass-skills.nCqQk0gUDgG9jEMF",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!nCqQk0gUDgG9jEMF.fZMFV7D54a4ZCEKZ"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1705173928206,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!nCqQk0gUDgG9jEMF"
 }

@@ -3,7 +3,11 @@
   "name": "Remapping",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>You may use this skill if your subclass is Cartographer, Scout, or Explorer.</p>\n<p></p>\n<p>This skill effects next battle scene. You can see the encounter sheet that is to be used in the next battle scene. Among the props that appear, props with “Detection Difficulty: Automatic” gives you information as it appears.</p>\n<p></p>\n<p>(Fumble): Enemy notices your scouting.</p>\n<p></p>\n<p>A special skill that allows one to scout the surrounding terrain and quickly draw up a floor plan.</p>",
     "limit": {
       "min": 0,
@@ -109,19 +113,24 @@
       }
     },
     "tags": [
-      "General"
+      "General",
+      "Scout"
     ],
     "sr": {
       "value": 1,
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1705174042208,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!FKUBXlQAiaI2kVZr"
 }
