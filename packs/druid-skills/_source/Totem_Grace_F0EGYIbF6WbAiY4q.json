@@ -147,7 +147,10 @@
         "cr": null
       }
     },
-    "tags": "Auto, Combat, -, -",
+    "tags": [
+      "Auto",
+      "Combat"
+    ],
     "sr": {
       "value": 1,
       "max": 1
@@ -161,7 +164,7 @@
     "systemVersion": "0.5.0",
     "coreVersion": "11.315",
     "createdTime": 1691515036721,
-    "modifiedTime": 1704929408170,
+    "modifiedTime": 1705341074308,
     "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!F0EGYIbF6WbAiY4q"

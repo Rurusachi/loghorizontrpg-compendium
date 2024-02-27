@@ -115,7 +115,7 @@
     "tags": [
       "Combat",
       "Weapon Attack",
-      "Two Handed"
+      "Two-Handed"
     ],
     "sr": {
       "value": 1,
@@ -130,7 +130,7 @@
     "systemVersion": "0.5.0",
     "coreVersion": "11.315",
     "createdTime": null,
-    "modifiedTime": 1704920756826,
+    "modifiedTime": 1705495707947,
     "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!j3o1THFUxNLEKBaG"

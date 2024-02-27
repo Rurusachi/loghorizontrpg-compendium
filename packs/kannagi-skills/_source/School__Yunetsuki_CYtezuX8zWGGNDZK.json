@@ -3,7 +3,33 @@
   "name": "School: Yunetsuki",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [
+    {
+      "_id": "fKk2hWsnrEcPj7Yv",
+      "changes": [
+        {
+          "key": "system.combatstats.mdef.total",
+          "mode": 2,
+          "value": "@abilities.str.mod"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "label": "School: Yunetsuki",
+      "origin": "Compendium.loghorizontrpg-compendium.kannagi-skills.CYtezuX8zWGGNDZK",
+      "transfer": true,
+      "flags": {},
+      "tint": null,
+      "_key": "!items.effects!CYtezuX8zWGGNDZK.fKk2hWsnrEcPj7Yv"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>[Male] Only. You can equip [Medium Armor]. Your [Magical Defense] is +[STR Mod].</p>\n<p></p>\n<p>(SR2) When you are equipped with a [Bow] in [Hand Slot], add [Hafted] to the equipped [Bow] and treat it also as a weapon capable of [Ranged Attack] in [Range: Close].</p>\n<p></p>\n<p>Like a ray of moonlight shining through the clouds, it is a fighting style in which the bow is shot with a still mind unmoved by distractions. Your steadfast defense eliminates gaps and sorrows, and the bow in your hand becomes a blade to thwart your foes.</p>",
     "limit": {
       "min": 0,
@@ -13,7 +39,7 @@
       "addsr": "none",
       "type": "None"
     },
-    "timing": "none",
+    "timing": "constant",
     "check": {
       "type": "none",
       "caster": "accuracy",
@@ -117,34 +143,16 @@
       "max": 2
     }
   },
-  "effects": [
-    {
-      "_id": "fKk2hWsnrEcPj7Yv",
-      "changes": [
-        {
-          "key": "system.combatstats.mdef.total",
-          "mode": 2,
-          "value": "@abilities.str.mod"
-        }
-      ],
-      "disabled": false,
-      "duration": {
-        "startTime": null
-      },
-      "icon": "icons/svg/aura.svg",
-      "label": "School: Yunetsuki",
-      "origin": "Compendium.loghorizontrpg-compendium.kannagi-skills.CYtezuX8zWGGNDZK",
-      "transfer": true,
-      "flags": {},
-      "tint": null,
-      "_key": "!items.effects!CYtezuX8zWGGNDZK.fKk2hWsnrEcPj7Yv"
-    }
-  ],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1705425643322,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!CYtezuX8zWGGNDZK"
 }

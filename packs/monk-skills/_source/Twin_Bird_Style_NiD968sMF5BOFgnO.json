@@ -13,7 +13,7 @@
       "addsr": "none",
       "type": "None"
     },
-    "timing": "none",
+    "timing": "constant",
     "check": {
       "type": "none",
       "caster": "",
@@ -24,7 +24,7 @@
     },
     "range": {
       "type": "",
-      "value": ""
+      "value": "Close"
     },
     "target": {
       "type": "self",
@@ -150,7 +150,7 @@
     "systemVersion": "0.5.0",
     "coreVersion": "11.315",
     "createdTime": 1704922838689,
-    "modifiedTime": 1704923207560,
+    "modifiedTime": 1705425365608,
     "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
   },
   "_key": "!items!NiD968sMF5BOFgnO"

@@ -3,7 +3,11 @@
   "name": "Crazy Crack",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>Inflict physical damage of [(Attack Power) + (SR + 1)D] and [Weakness (Physical): [INT Mod]] to the target. This [Weakness] is treated as LS with [Seal] tag, and it continues until the target consumes 2 [Fate Points] or until you start the next main process.</p>",
     "limit": {
       "min": 0,
@@ -111,19 +115,23 @@
     "tags": [
       "Combat",
       "Weapon Attack",
-      "Dual Wield"
+      "Two-Handed"
     ],
     "sr": {
       "value": 1,
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1705495754060,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!tSg1zRtz9yUZjWU6"
 }

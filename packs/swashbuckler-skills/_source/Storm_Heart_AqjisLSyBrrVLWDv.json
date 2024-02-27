@@ -2,7 +2,12 @@
   "name": "Storm Heart",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "AqjisLSyBrrVLWDv",
+  "system": {
     "description": "<p>You can only target allies other than yourself with this skill. At the end of this Main Process, you may lower the target's [Hate]. The reduced [Hate] is equal to [The number of enemies you have dealt damage to during this main process with your [Melee Attack]].</p>",
     "limit": {
       "min": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -108,20 +114,23 @@
     },
     "tags": [
       "Combat",
-      "Two-Hander"
+      "Two-Handed"
     ],
     "sr": {
       "value": 1,
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "AqjisLSyBrrVLWDv",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.5.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1705495743857,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!AqjisLSyBrrVLWDv"
 }
