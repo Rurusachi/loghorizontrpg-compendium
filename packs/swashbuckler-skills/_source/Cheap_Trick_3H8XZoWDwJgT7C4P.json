@@ -3,7 +3,11 @@
   "name": "Cheap Trick",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>During this Main Process, if you deal at least 1 HP Damage to the target with an attack, the target takes [Dazed].</p>",
     "limit": {
       "min": 0,
@@ -27,9 +31,9 @@
       "value": "Weapon"
     },
     "target": {
-      "type": "none",
-      "value": "0",
-      "addsr": false
+      "type": "multiple",
+      "value": 0,
+      "addsr": true
     },
     "hatecost": {
       "value": "1",
@@ -116,12 +120,16 @@
       "max": 5
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.6.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1709040221887,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!3H8XZoWDwJgT7C4P"
 }

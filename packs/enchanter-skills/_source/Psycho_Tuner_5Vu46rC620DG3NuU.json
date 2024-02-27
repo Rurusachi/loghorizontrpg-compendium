@@ -3,7 +3,11 @@
   "name": "Psycho Tuner",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
     "description": "<p>Available at CR 11 or higher. [Cancel: Spirit] is ignored for your \"Mind Bolt\" and \"Nightmare Sphere\" skills. </p>\n<p></p>\n<p>(SR 2): The Bad Status given by \"Brain Vice\" skill will instead be treated as a Life Status with the [Seal] tag, and to remove the target must consume 2 [Fate Points].</p>\n<p></p>\n<p>You are skilled at manipulating the slight cracks in your mind to your will. Opponents will know the terror of mental attacks that shields and armor do not work against.</p>",
     "limit": {
       "min": 0,
@@ -110,20 +114,23 @@
     },
     "tags": [
       "Combat",
-      "Training",
-      "CR11"
+      "Training"
     ],
     "sr": {
       "value": 1,
       "max": 2
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.6.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1709040831495,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!5Vu46rC620DG3NuU"
 }

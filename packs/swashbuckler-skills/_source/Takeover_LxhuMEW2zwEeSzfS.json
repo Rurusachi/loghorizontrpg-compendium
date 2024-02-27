@@ -1,8 +1,13 @@
 {
-  "name": "Take Over",
+  "name": "Takeover",
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
-  "data": {
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "LxhuMEW2zwEeSzfS",
+  "system": {
     "description": "<p>During the [Damage Apply Step], you receive the expected [HP] damage that a target other than yourself would have received. The target receives no damage. You can only use this skill once in response to any given attack.</p>",
     "limit": {
       "min": 0,
@@ -18,7 +23,8 @@
       "caster": "accuracy",
       "bonus": "",
       "addsr": false,
-      "target": "evasion"
+      "target": "evasion",
+      "targetbonus": ""
     },
     "range": {
       "type": "",
@@ -115,13 +121,16 @@
       "max": 1
     }
   },
-  "effects": [],
-  "folder": null,
-  "sort": 0,
-  "permission": {
+  "ownership": {
     "default": 0
   },
-  "flags": {},
-  "_id": "LxhuMEW2zwEeSzfS",
+  "_stats": {
+    "systemId": "loghorizontrpg",
+    "systemVersion": "0.6.0",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1709040052460,
+    "lastModifiedBy": "Dq6Ur8VOwxcpRzHA"
+  },
   "_key": "!items!LxhuMEW2zwEeSzfS"
 }
