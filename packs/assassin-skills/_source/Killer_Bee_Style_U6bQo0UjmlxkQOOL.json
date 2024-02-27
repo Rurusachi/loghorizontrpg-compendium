@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You can equip [Throwing] weapons. It is only active while you are equipped with [Throwing] weapons. Your [Attack Power] is +[[DEX Mod] x SR].</p>\n<p></p>\n<p>(SR 2): \"Change Equipment\" can be used with [Timing: Initiative] only if you want to change which weapons you have equipped in the two [Hand Slots] to use for an attack.</p>\n<p></p>\n<p>A fighting style that skillfully uses throwing weapons with quick movements.</p>",
+    "description": "<p>You can equip [Throwing] weapons. This skill is only active while you are equipped with [Throwing] weapons.</p>\n<p></p>\n<p>Your [Attack Power] is + [[DEX Mod] x SR].</p>\n<p></p>\n<p>(SR 2): \"Change Equipment\" can be used with [Timing: Initiative] only if you want to change which weapons you have equipped in the two [Hand Slots] to use for an attack.</p>\n<p></p>\n<p>A fighting style that skillfully uses throwing weapons with quick movements.</p>",
     "limit": {
       "min": 0,
       "value": 0,

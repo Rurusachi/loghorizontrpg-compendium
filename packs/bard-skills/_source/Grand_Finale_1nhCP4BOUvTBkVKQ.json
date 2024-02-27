@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Dazed, Rigor, Staggered): Increase the damage by +15.</p>\n<p></p>\n<p>A special skill that is worthy of the name of curtain puller, and unleashes a full blow with loud accompaniment. It's a technique with many gaps that emphasizes attractiveness, but if the enemy loses its stance, you can expect a direct hit.</p>",
+    "description": "<p>Deal [(SR + 3)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Dazed, Rigor, Staggered): Increase the damage by + 15.</p>\n<p></p>\n<p>A special skill that is worthy of the name of curtain puller, and unleashes a full blow with loud accompaniment. It's a technique with many gaps that emphasizes attractiveness, but if the enemy loses its stance, you can expect a direct hit.</p>",
     "limit": {
       "min": 0,
       "value": 0,

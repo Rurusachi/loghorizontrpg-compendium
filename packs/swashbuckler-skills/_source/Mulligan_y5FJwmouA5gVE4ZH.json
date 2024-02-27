@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When the target rolls on [Exhaustion Table: Item or Money], they may roll twice and take either result. </p>\n<p></p>\n<p>(Bonus): You gain +8 [Max HP].</p>",
+    "description": "<p>When the target rolls on [Exhaustion Table: Item or Money], they may roll twice and take either result. </p>\n<p></p>\n<p>(Bonus): You gain + 8 [Max HP].</p>\n<p></p>\n<p>His special skill is to quickly recover from failures with his keen insight and quick handling. Once you grab something or property, you don't let go.</p>",
     "limit": {
       "min": 0,
       "value": 0,

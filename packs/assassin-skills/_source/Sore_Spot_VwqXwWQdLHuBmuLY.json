@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you gain a +2D bonus to [Melee Attack] damage rolls.</p>\n<p></p>\n<p>A special skill that lays the groundwork for giving a deep blow by identifying the vital points and aiming. As an <Assassin>, you are adept at spotting any enemy's weak spots.</p>",
+    "description": "<p>During this Main Process, you gain a + 2D bonus to [Melee Attack] damage rolls.</p>\n<p></p>\n<p>A special skill that lays the groundwork for giving a deep blow by identifying the vital points and aiming. As an <Assassin>, you are adept at spotting any enemy's weak spots.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You make one Treasure Roll on the [Treasure Table: Money].</p>\n<p></p>\n<p>(Bonus): You gain a +1 bonus to [Athletics].</p>\n<p></p>\n<p>A special ability to earn money by performing and singing on the streets and bars. How much you earn depends on your virtuosity and luck.</p>",
+    "description": "<p>You make one Treasure Roll on the [Treasure Table: Money].</p>\n<p></p>\n<p>(Bonus): You gain a + 1 bonus to [Athletics].</p>\n<p></p>\n<p>A special ability to earn money by performing and singing on the streets and bars. How much you earn depends on your virtuosity and luck.</p>",
     "limit": {
       "min": 0,
       "value": 0,

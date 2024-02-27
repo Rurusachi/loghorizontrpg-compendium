@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When using, select one from [Fire], [Cold], or [Shock]. Add the selected tag to the tags of this skill. Deal [(SR + 2)D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>(Failure) No limit of this skill is consumed.</p>\n<p></p>\n<p>A magic that shoots seven-colored magical arrows that can change attributes at will.</p>",
+    "description": "<p>When using, select one from [Fire], [Cold], or [Shock]. Add the selected tag to the tags of this skill. Deal [(SR + 2)D + (Magic Power)] magic damage to the target.</p>\n<p></p>\n<p>(Failure): No limit of this skill is consumed.</p>\n<p></p>\n<p>A magic that shoots seven-colored magical arrows that can change attributes at will.</p>",
     "limit": {
       "min": 0,
       "value": 0,

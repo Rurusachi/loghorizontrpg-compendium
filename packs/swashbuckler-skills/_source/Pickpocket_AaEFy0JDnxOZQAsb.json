@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>It can only be used when one or more of your [Hand Slots] are empty. As a result of arbitrary roll out of 1 to 6 being taken, obtain 1 kind of target drop item. It can not be used more than once for objects that got dropped items once in the same scenario.</p>\n<p></p>\n<p>(Crit) The [Hate] value of this special skill is 0, and drop items are not one type, but two different types can be obtained.</p>",
+    "description": "<p>It can only be used when one or more of your [Hand Slots] are empty.</p>\n<p></p>\n<p>Assuming that you get any number from 1 to 6 on the drop item roll, you will receive one type of target drop item. It cannot be used multiple times on a target that has already received a drop item in the same Scenario.</p>\n<p></p>\n<p>(Critical): The [Hate] value of this skill is 0, you can obtain up to two different types of dropped items instead of one.</p>\n<p></p>\n<p>A special skill that allows you to use your free hand to steal items from enemies who are distracted by their weapons.</p>",
     "limit": {
       "min": 0,
       "value": 0,

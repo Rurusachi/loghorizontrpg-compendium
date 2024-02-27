@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [3D + (Attack Power)] physical damage to the target, and the target takes [Decay: (SRx7)].</p>",
+    "description": "<p>Deal [3D + (Attack Power)] physical damage to the target, and the target takes [Decay: (SR x 7)].</p>\n<p></p>\n<p>A special skill that targets the tendons in your target's arms and causes them to bleed, gradually reducing their physical strength. Your blade strikes your enemy like the fangs of a serpent.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -35,7 +35,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +2 bonus to [Accuracy], and a +1 bonus to [Resistance].</p>\n<p></p>\n<p>Through the power of your faith, you have been endowed with the power to fight and ward off demons and calamities.</p>",
+    "description": "<p>You gain a + 2 bonus to [Accuracy], and a + 1 bonus to [Resistance].</p>\n<p></p>\n<p>Through the power of your faith, you have been endowed with the power to fight and ward off demons and calamities.</p>",
     "limit": {
       "min": 0,
       "value": 0,

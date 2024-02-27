@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+1)D + (Magic Power)] magic damage to the target, and the target takes [Rigor]. You may only use this skill when you have the [Fairy] tag.</p>\n<p></p>\n<p>An offensive spell that commands a spirit that is summoning a follower to fire magic bullets. The attribute power contained in the magic bullet disrupts the enemy's posture and hinders movement.</p>",
+    "description": "<p>Deal [(SR + 1)D + (Magic Power)] magic damage to the target, and the target takes [Rigor]. You may only use this skill when you have the [Fairy] tag.</p>\n<p></p>\n<p>An offensive spell that commands a spirit that is summoning a follower to fire magic bullets. The attribute power contained in the magic bullet disrupts the enemy's posture and hinders movement.</p>",
     "limit": {
       "min": 0,
       "value": 0,

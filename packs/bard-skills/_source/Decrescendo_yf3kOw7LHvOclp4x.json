@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill when you declare [Standby]. Reduce your [Hate] by -1.</p>\n<p></p>\n<p>A special skill that softens hostility from the opponent by stopping hostile actions and playing a gentle melody that fades out.</p>",
+    "description": "<p>Use this skill when you declare [Standby]. Reduce your [Hate] by - 1.</p>\n<p></p>\n<p>A special skill that softens hostility from the opponent by stopping hostile actions and playing a gentle melody that fades out.</p>",
     "limit": {
       "min": 0,
       "value": 0,

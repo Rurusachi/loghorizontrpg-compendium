@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you can add a [Throwing] tag to one [Shield] you equip and use it for attack as a weapon of [Range: 2 Sq] that can be [Ranged Attack] possible. That [Attack Power] is equal to the [Physical Defense] of the [Shield].</p>",
+    "description": "<p>During this Main Process, you can add a [Throwing] tag to one [Shield] you have equipped and use it for an attack as a weapon of [Range: 2 Sq] that has the [Ranged Attack] tag. The [Attack Power] used in damage calculations is equal to the [Physical Defense] of the [Shield].</p>\n<p></p>\n<p>A special skill that allows you to throw a shield and attack enemies from a distance. By attaching a chain to it and pulling it closer to it, or by throwing it like a boomerang, the shield will quickly return to your hand.</p>",
     "limit": {
       "min": 0,
       "value": 0,

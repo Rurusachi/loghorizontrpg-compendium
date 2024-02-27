@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Energy or Item]. Reduce the result of that roll by - 3.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that reduces the wear and tear of travel by predicting possible situations and formulating countermeasures. The thought of a <Sorcerer>, who manipulates the cause and effect of things with magic, can be applied in this way.</p>",
+    "description": "<p>Use this skill just after the target rolls on [Exhaustion Table: Energy or Item]. </p>\n<p></p>\n<p>Reduce the result of that roll by - 3.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that reduces the wear and tear of travel by predicting possible situations and formulating countermeasures. The thought of a <Sorcerer>, who manipulates the cause and effect of things with magic, can be applied in this way.</p>",
     "limit": {
       "min": 0,
       "value": 0,

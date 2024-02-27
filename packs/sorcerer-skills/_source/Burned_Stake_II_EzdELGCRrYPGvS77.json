@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Only available at CR 11 or higher. Deal [3D + (Magic Power)] magic damage and apply [Decay: (Base POW)] to the target.</p>\n<p></p>\n<p>An attack magic that deploys countless red-hot stakes from the enemy's feet and pierces them. A burning stake scorches its flesh and carries out a crucifixion for the crimes against you.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>Deal [3D + (Magic Power)] magic damage and apply [Decay: (Base POW)] to the target.</p>\n<p></p>\n<p>An attack magic that deploys countless red-hot stakes from the enemy's feet and pierces them. A burning stake scorches its flesh and carries out a crucifixion for the crimes against you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

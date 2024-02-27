@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Athletics Checks].</p>\n<p></p>\n<p>You've got the knack of exercising that doesn't rely solely on strength.</p>",
+    "description": "<p>You gain a + 1D bonus to [Athletics Checks].</p>\n<p></p>\n<p>You've got the knack of exercising that doesn't rely solely on strength.</p>",
     "limit": {
       "min": 0,
       "value": 0,

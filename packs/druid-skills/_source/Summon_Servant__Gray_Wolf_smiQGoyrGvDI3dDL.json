@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You get a [Nature] tag. If you inflict even 1 point of HP damage as a result of the damage roll of your attack, give [Pursuit: SR x 4] to the target of that attack. </p>\n<p></p>\n<p>(Effect) You may [Safe Move] up to 1 Sq.</p>\n<p>(CR 11) The [Pursuit] rating becomes [SR x 6].</p>\n<p>(CR 21) The [Pursuit] rating becomes [SR x 8].</p>\n<p></p>\n<p>A special skill that summons and employs an ancestral spirit, the Gray Wolf, which is the embodiment of nature's wildness and ferocity. The gray wolf will coordinate with you to hunt down prey.</p>",
+    "description": "<p>You gain the [Nature] tag. If you inflict even 1 point of [HP] damage as a result of the damage roll of your attack, give [Pursuit: SR x 4] to the target of that attack. </p>\n<p></p>\n<p>(Effect): You may [Safe Move] up to 1 Sq.</p>\n<p>(CR 11): The [Pursuit] rating becomes [SR x 6], instead of [SR x 4].</p>\n<p>(CR 21): The [Pursuit] rating becomes [SR x 8].</p>\n<p></p>\n<p>A special skill that summons and employs an ancestral spirit, the Gray Wolf, which is the embodiment of nature's wildness and ferocity. The gray wolf will coordinate with you to hunt down prey.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill when the target would leave your square due to a [Normal Move] or [Safe Move]. Deal [SRx5] direct damage to the target. The target's move fails, and they remain in the square you are in.</p>\n<p></p>\n<p>A special skill that thwarts the movement of the enemy by hitting the palm in response to the movement of the enemy trying to release the distance.</p>",
+    "description": "<p>Use this skill when the target would leave your square due to a [Normal Move] or [Safe Move]. Deal [SR x 5] direct damage to the target. The target's move fails, and they remain in the square you are in.</p>\n<p></p>\n<p>A special skill that thwarts the movement of the enemy by hitting the palm in response to the movement of the enemy trying to release the distance.</p>",
     "limit": {
       "min": 0,
       "value": 0,

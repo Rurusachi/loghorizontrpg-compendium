@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You immediately use a [Servant Summon] skill once. However, you can not use a [Servant Summon] feat that is currently active.</p>\n<p></p>\n<p>(Fate 1): You can use [Servant Summon] that is active.</p>\n<p></p>\n<p>You are familiar with the various aspects of nature and skillfully use the ancestral spirits that embody them.</p>",
+    "description": "<p>You immediately use a [Servant Summon] skill once. However, you can not use a [Servant Summon] skill that is currently active.</p>\n<p></p>\n<p>(Fate 1): You can use [Servant Summon] that is active.</p>\n<p></p>\n<p>You are familiar with the various aspects of nature and skillfully use the ancestral spirits that embody them.</p>",
     "limit": {
       "min": 0,
       "value": 0,

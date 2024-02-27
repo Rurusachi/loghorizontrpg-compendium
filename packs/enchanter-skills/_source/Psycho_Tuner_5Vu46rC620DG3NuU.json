@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR 11 or higher. [Cancel: Spirit] is ignored for your \"Mind Bolt\" and \"Nightmare Sphere\" skills. </p>\n<p></p>\n<p>(SR 2): The Bad Status given by \"Brain Vice\" skill will instead be treated as a Life Status with the [Seal] tag, and to remove the target must consume 2 [Fate Points].</p>\n<p></p>\n<p>You are skilled at manipulating the slight cracks in your mind to your will. Opponents will know the terror of mental attacks that shields and armor do not work against.</p>",
+    "description": "<p>Only available at CR 11 or higher. </p>\n<p></p>\n<p>[Cancel: Spirit] is ignored for your \"Mind Bolt\" and \"Nightmare Sphere\" skills. </p>\n<p></p>\n<p>(SR 2): The Bad Status given by your \"Brain Vice\" skill will instead be treated as a Life Status with the [Seal] tag, and to remove the target must consume 2 [Fate Points].</p>\n<p></p>\n<p>You are skilled at manipulating the slight cracks in your mind to your will. Opponents will know the terror of mental attacks that shields and armor do not work against.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR 11 or higher. This skill only produces an effect when you have only a single [One-Handed] weapon with the [Light] tag equipped to a [Hand Slot]. Your [Attack Power] is +[[DEX Mod] x2]. The damage roll you do in the [Hidden] state is +[Base DEX].</p>\n<p></p>\n<p>A fighting style that manipulates well-handled weapons and unleashes powerful blows from the enemy's blind spots. Those who underestimate the lightness of your blade will fall to the ground unable to see its true worth.</p>",
+    "description": "<p>Only available at CR 11 or higher. </p>\n<p></p>\n<p>This skill only produces an effect when you have only a single [One-Handed] weapon with the [Light] tag equipped to a [Hand Slot]. Your [Attack Power] is + [[DEX Mod] x 2]. The damage roll you do in the [Hidden] state is + [Base DEX].</p>\n<p></p>\n<p>A fighting style that manipulates well-handled weapons and unleashes powerful blows from the enemy's blind spots. Those who underestimate the lightness of your blade will fall to the ground unable to see its true worth.</p>",
     "limit": {
       "min": 0,
       "value": 0,

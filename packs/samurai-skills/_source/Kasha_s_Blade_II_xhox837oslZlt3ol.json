@@ -4,7 +4,7 @@
   "_id": "xhox837oslZlt3ol",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Available at CR11 or higher. Deal [(SR x 2)D + (Attack Power)] physical damage to the target. If there are no other enemies in the same square as you except the target, increase the damage by +[STR Mod].</p>\n<p></p>\n<p>A special skill that drives in a series of fire-like momentum while moving in a circle to constantly go around the enemy's blind spots. Its ferocious attack becomes a chariot of fire that drags the enemy to death.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>Deal [(SR x 2)D + (Attack Power)] physical damage to the target. If there are no other enemies in the same square as you except the target, increase the damage by + [STR Mod].</p>\n<p></p>\n<p>A special skill that drives in a series of fire-like momentum while moving in a circle to constantly go around the enemy's blind spots. Its ferocious attack becomes a chariot of fire that drags the enemy to death.</p>",
     "limit": {
       "min": 0,
       "value": 1,

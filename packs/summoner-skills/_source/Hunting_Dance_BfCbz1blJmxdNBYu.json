@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+2)D + (Magic Power)] physical damage to the target, and the target takes [Dazed]. You may only use this skill when you have the [Mythic] tag.</p>\n<p></p>\n<p>Attack magic that strengthens the mythic beast you are summoning by sharing your magical power, and tears the enemy apart with its claws and fangs. The phantom beast bounces freely across the battlefield, confusing the enemy.</p>",
+    "description": "<p>Deal [(SR + 2)D + (Magic Power)] physical damage to the target, and the target takes [Dazed]. You may only use this skill when you have the [Mythic] tag.</p>\n<p></p>\n<p>Attack magic that strengthens the mythic beast you are summoning by sharing your magical power, and tears the enemy apart with its claws and fangs. The phantom beast bounces freely across the battlefield, confusing the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

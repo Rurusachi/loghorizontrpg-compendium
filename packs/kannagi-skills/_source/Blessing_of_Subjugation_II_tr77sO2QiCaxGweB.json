@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR16 or higher. You gain a +[[Base STR] + 5] bonus to damage rolls.</p>\n<p></p>\n<p>A special skill that lowers the spirit of the warriors who became the blades and fangs of people and opened the dead ground. By resonating with that feeling and synchronizing with the caster's own will, the power of the spirit reenacts the legends of the past.</p>",
+    "description": "<p>Only available at CR 16 or higher.</p>\n<p></p>\n<p>You gain a + [[Base STR] + 5] bonus to damage rolls.</p>\n<p></p>\n<p>A special skill that lowers the spirit of the warriors who became the blades and fangs of people and opened the dead ground. By resonating with that feeling and synchronizing with the caster's own will, the power of the spirit reenacts the legends of the past.</p>",
     "limit": {
       "min": 0,
       "value": 0,

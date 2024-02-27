@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill only produces an effect when you are equipped with a [Two-Handed] weapon. You gain a +1 bonus to [Evasion] and [Resistance].</p>\n<p></p>\n<p>(SR2): You gain a +[STR Mod] bonus to [Physical Defense].</p>\n<p></p>\n<p>A fighting style in which you defend yourself with a long weapon in your hand.</p>",
+    "description": "<p>This skill only produces an effect when you are equipped with a [Two-Handed] weapon. You gain a + 1 bonus to [Evasion] and [Resistance].</p>\n<p></p>\n<p>(SR 2): You gain a + [STR Mod] bonus to [Physical Defense].</p>\n<p></p>\n<p>A fighting style in which you defend yourself with a long weapon in your hand.</p>",
     "limit": {
       "min": 0,
       "value": 0,

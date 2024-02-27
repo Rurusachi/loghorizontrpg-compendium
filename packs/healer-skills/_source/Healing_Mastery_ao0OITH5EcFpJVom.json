@@ -38,7 +38,7 @@
   "flags": {},
   "_id": "ao0OITH5EcFpJVom",
   "system": {
-    "description": "<p>You gain a +[SRx3] bonus to [Recovery].</p>\n<p></p>\n<p>You are devoted to studying recovery magic. Above all, this power, which is directly linked to the life and death of his allies, is never enough no matter how much he polishes it.</p>\n<p></p>",
+    "description": "<p>You gain a + [SR x 3] bonus to [Recovery].</p>\n<p></p>\n<p>You are devoted to studying recovery magic. Above all, this power, which is directly linked to the life and death of his allies, is never enough no matter how much he polishes it.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

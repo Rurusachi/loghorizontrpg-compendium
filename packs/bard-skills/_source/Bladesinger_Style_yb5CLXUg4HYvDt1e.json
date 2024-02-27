@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you are equipped with only a single [One-Handed] or [Two-Handed] weapon capable of a [Melee Attack]. During the Cleanup Process of a round in which you have dealt damage with a [Melee Attack], you may reduce the total [Hate] cost of your [Harmony] skills by -[SR] (minimum 0). You gain a +[[POW Mod] x 2] bonus to [Attack Power] if you're equipped with a [One-Handed] weapon.</p>\n<p></p>\n<p>A battle style that plays music on the battlefield while wielding weapons in the vanguard. Its appearance encourages allies and frightens enemies.</p>",
+    "description": "<p>This skill only produces an effect when you are equipped with only a single [One-Handed] or [Two-Handed] weapon capable of a [Melee Attack].</p>\n<p></p>\n<p>During the Cleanup Process of a round in which you have dealt damage with a [Melee Attack], you may reduce the total [Hate] cost of your [Harmony] skills by - [SR] (minimum 0). You gain a + [[POW Mod] x 2] bonus to [Attack Power] if you're equipped with a [One-Handed] weapon.</p>\n<p></p>\n<p>A battle style that plays music on the battlefield while wielding weapons in the vanguard. Its appearance encourages allies and frightens enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

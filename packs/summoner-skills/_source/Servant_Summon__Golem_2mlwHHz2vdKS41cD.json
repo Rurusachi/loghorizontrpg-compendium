@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain the [Construct] tag. You get [Cancel (Physical): (INT Mod) x SR]. </p>\n<p></p>\n<p>(Effect): An ally within range of [Target: Single / Range: 2 Sq] that you can see reduces their [Hate] by -2.</p>\n<p></p>\n<p>A skill that summons and employs golems, giant dolls made of stone and metal. Its giant body protects you and your allies, and becomes a wall that blocks attacks.</p>",
+    "description": "<p>You gain the [Construct] tag and [Cancel (Physical): (INT Mod) x SR]. </p>\n<p></p>\n<p>(Effect): An ally within range of [Target: Single / Range: 2 Sq] that you can see reduces their [Hate] by - 2.</p>\n<p></p>\n<p>A skill that summons and employs golems, giant dolls made of stone and metal. Its giant body protects you and your allies, and becomes a wall that blocks attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

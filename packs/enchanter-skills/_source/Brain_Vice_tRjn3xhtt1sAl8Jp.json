@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+3)D + (Magic Power)] magical damage to the target. The target reduces the range of their [Range: 2 Sq.] or better actions by -1. Treat this effect as a Bad Status that interacts with [Afflicted].</p>\n<p></p>\n<p>An attack magic that envelops the enemy in a pillar of jet-black light that torments the mind, injuring the target from the non-physical side. Enemies hit by this magic lose their concentration, and the accuracy of their shooting and magic is greatly reduced.</p>",
+    "description": "<p>Deal [(SR + 3)D + (Magic Power)] magical damage to the target. The target reduces the range of their [Range: 2 Sq] or better actions by - 1. Treat this effect as a Bad Status that interacts with [Afflicted].</p>\n<p></p>\n<p>An attack magic that envelops the enemy in a pillar of jet-black light that torments the mind, injuring the target from the non-physical side. Enemies hit by this magic lose their concentration, and the accuracy of their shooting and magic is greatly reduced.</p>",
     "limit": {
       "min": 0,
       "value": 0,

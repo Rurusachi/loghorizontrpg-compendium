@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Normal Move] of [[Speed] -1] Sq. After that, you become [Hidden] and you can make a [Safe Move] of 1 Sq. while maintaining it.</p>\n<p></p>\n<p>A special skill that hides itself by moving through gaps in the enemy's attention and senses. Enemies will lose sight of you as if you were a phantom.</p>",
+    "description": "<p>You may make a [Normal Move] of [[Speed] - 1] Sq. After that, you become [Hidden] and you can make a [Safe Move] of 1 Sq while maintaining it.</p>\n<p></p>\n<p>A special skill that hides itself by moving through gaps in the enemy's attention and senses. Enemies will lose sight of you as if you were a phantom.</p>",
     "limit": {
       "min": 0,
       "value": 0,

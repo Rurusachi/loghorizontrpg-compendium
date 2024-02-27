@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use when the target uses an action with the [Move] tag when you are in the [Hidden] state. You may cancel the target's [Move] action. This effect of canceling the action used by the subject can be invalidated by consuming [Fate 1]. If you are using this skill with a weapon of [Range: Close] the frequency of this skill is not consumed.</p>\n<p></p>\n<p>A special skill that hinders the movement of the enemy after erasing one's presence. You will look like an invisible wall to the enemy.</p>",
+    "description": "<p>Use when the target uses an action with the [Move] tag when you are in the [Hidden] state. You may cancel the target's [Move] action. This effect of canceling the action used by the target can be invalidated by consuming [Fate 1]. If you are using this skill with a weapon of [Range: Close] the limit of this skill is not used.</p>\n<p></p>\n<p>A special skill that hinders the movement of the enemy after erasing one's presence. You will look like an invisible wall to the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

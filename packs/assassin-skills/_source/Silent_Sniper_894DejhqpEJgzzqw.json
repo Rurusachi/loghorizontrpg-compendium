@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you gain a +[SRx5] bonus to [Ranged Attack] damage rolls.</p>\n<p></p>\n<p>A special skill that stops movement on the spot, concentrates, and quietly aims so as not to be distracted by the enemy.</p>",
+    "description": "<p>During this Main Process, you gain a + [SR x 5] bonus to [Ranged Attack] damage rolls.</p>\n<p></p>\n<p>A special skill that stops movement on the spot, concentrates, and quietly aims so as not to be distracted by the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

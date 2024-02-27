@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You get the [Night Vision] tag. In addition, while in [Darkness] or similar, you gain a +1 bonus to [Dodge Checks].</p>\n<p></p>\n<p>You have mastered the art of navigating effortlessly in the dark. Darkness is your ally.</p>",
+    "description": "<p>You get the [Night Vision] tag. In addition, while in [Darkness] or similar, you gain a + 1 bonus to [Dodge Checks].</p>\n<p></p>\n<p>You have mastered the art of navigating effortlessly in the dark. Darkness is your ally.</p>",
     "limit": {
       "min": 0,
       "value": 0,

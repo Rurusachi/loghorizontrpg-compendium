@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after you become [Incapacitated]. Immediately remove the [Incapacitated] condition, and recover [(Recovery x2) + 1] HP. After, you may reduce your [Hate] by -2.</p>\n<p></p>\n<p>Magic that stands still on the brink of death due to mystical protection. At the moment when the light of life is about to go out, the magical power stored in your body is released and heals the wound.</p>",
+    "description": "<p>Use this skill just after you become [Incapacitated]. Immediately remove the [Incapacitated] condition, and recover [([Recovery] x 2) + 1] [HP]. After, you may reduce your [Hate] by - 2.</p>\n<p></p>\n<p>Magic that stands still on the brink of death due to mystical protection. At the moment when the light of life is about to go out, the magical power stored in your body is released and heals the wound.</p>",
     "limit": {
       "min": 0,
       "value": 0,

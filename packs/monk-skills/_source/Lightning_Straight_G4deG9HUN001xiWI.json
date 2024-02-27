@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SRx2)D + (Attack Power)] physical damage.</p>\n<p></p>\n<p>(Success & Target: Barrier): Instead of damaging the target with this attack, you can cancel the target's [Barrier].</p>\n<p>(Sucess & Target: Regen): The target's [Regen] does not work for this round.</p>\n<p></p>\n<p>A special skill that puts purple electricity in the fist and thrusts it straight. It doesn't just deal damage, it can also break buffs on enemies.</p>",
+    "description": "<p>Deal [(SR x 2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Success & Target: Barrier): Instead of damaging the target with this attack, you can cancel the target's [Barrier].</p>\n<p>(Sucess & Target: Regen): The target's [Regen] does not work for this round.</p>\n<p></p>\n<p>A special skill that puts purple electricity in the fist and thrusts it straight. It doesn't just deal damage, it can also break buffs on enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target. If you dealt damage to the target the previous round, increase the damage by +15.</p>\n<p></p>\n<p>A special skill that unleashes a fatal blow from outside the enemy's perception as if dancing, using the attack that was unleashed just before as a foundation.</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target. If you dealt damage to the target the previous round, increase the damage by + 15.</p>\n<p></p>\n<p>A special skill that unleashes a fatal blow from outside the enemy's perception as if dancing, using the attack that was unleashed just before as a foundation.</p>",
     "limit": {
       "min": 0,
       "value": 0,

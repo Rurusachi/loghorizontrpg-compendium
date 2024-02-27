@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "fWXYM1cP4yjYRLcB",
   "system": {
-    "description": "<p>Your [Weapon Attack] damage rolls gain a +[(CRx2)+10] bonus.</p>\n<p></p>\n<p>A special skill that draws out your own power to its limit by clearing away distractions and concentrating on a single blow. Techniques unleashed in this state exhibit power that is incomparably greater than usual, thereby cutting the enemy in two.</p>",
+    "description": "<p>Your [Weapon Attack] damage rolls gain a + [(CR x 2) + 10] bonus.</p>\n<p></p>\n<p>A special skill that draws out your own power to its limit by clearing away distractions and concentrating on a single blow. Techniques unleashed in this state exhibit power that is incomparably greater than usual, thereby cutting the enemy in two.</p>",
     "limit": {
       "min": 0,
       "value": 0,

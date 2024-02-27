@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Only available at CR 11 or higher. [Cancel: Flame] is ineffective against your \"Flare Arrow\" and \"Orb of Lava\".</p>\n<p></p>\n<p>(SR 2) Reduce the [Hate] cost of \"Burned Stake\" and \"Burned Stake II\" by - 1 (minimum 0).</p>\n<p></p>\n<p>You are a sorcerer who specializes in the magic of manipulating flames. You can freely use flames of destruction that are difficult to control.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>[Cancel: Flame] is ineffective against your \"Flare Arrow\" and \"Orb of Lava\".</p>\n<p></p>\n<p>(SR 2): Reduce the [Hate] cost of \"Burned Stake\" and \"Burned Stake II\" by - 1 (minimum 0).</p>\n<p></p>\n<p>You are a sorcerer who specializes in the magic of manipulating flames. You can freely use flames of destruction that are difficult to control.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Only available at CR 11 or higher. During this Main Process, you gain a + [SR x 5] bonus to [Magic Attack] damage rolls.</p>\n<p></p>\n<p>(CR 21) The damage roll becomes + [SR x 6] instead of + [SR x 5].</p>\n<p></p>\n<p>A skill that increases the power of the spell cast immediately after using a spell that increases magical power. By putting the intention of a certain death into words, the demonic blow gains unparalleled destructive power.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>During this Main Process, you gain a + [SR x 5] bonus to [Magic Attack] damage rolls.</p>\n<p></p>\n<p>(CR 21): The damage roll becomes + [SR x 6], instead of + [SR x 5].</p>\n<p></p>\n<p>A skill that increases the power of the spell cast immediately after using a spell that increases magical power. By putting the intention of a certain death into words, the demonic blow gains unparalleled destructive power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

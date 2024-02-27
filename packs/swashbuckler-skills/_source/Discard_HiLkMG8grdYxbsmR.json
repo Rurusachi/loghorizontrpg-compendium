@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may only use this skill on allies. You can lower target's [Hate] by 1. This feat can be used more than once in the same Main Process.</p>\n<p></p>\n<p>(Hate 1) The Range can be changed to [Range: 4 Sq]. If you are equipped with a [Shield] you may add to the target's [Hate] by 1.</p>",
+    "description": "<p>You may only target allies with this skill.</p>\n<p></p>\n<p>You may reduce the target's [Hate] by - 1. This skill can be used more than once in the same Main Process.</p>\n<p></p>\n<p>(Hate 1): The range can be changed to [Range: 4 Sq]. If you are equipped with a [Shield] you may increase the target's [Hate] by + 1.</p>\n<p></p>\n<p>You are adept at the tactics and push-pull decisions of battle. You can either distract enemies from you or draw the attention of enemies targeting your allies to you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

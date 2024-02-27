@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Only effective while you have two [Shields] equipped in your [Hand Slots]. Adds a [Hafted] tag to one [Shield] you have equipped, and treats it as a [Range: Close] weapon capable of [Melee Attack]. Its Attack is equal to the Shield's Physical Defense. A shield change that applies this effect is considered part of a \"Change Equipment\" skill.</p>\n<p></p>\n<p>(SR2): You are immune to [Dazed].</p>\n<p>(SR3): You are immune to [Staggered].</p>\n<p></p>\n<p>A fighting style in which shields are held in the left and right hands to strengthen the defense. Its unfazed appearance in any situation is like a castle wall.</p>",
+    "description": "<p>Only effective while you have two [Shields] equipped in your [Hand Slots]. Adds a [Hafted] tag to one [Shield] you have equipped, and treats it as a [Range: Close] weapon capable of [Melee Attack]. Its Attack is equal to the Shield's Physical Defense. A shield change that applies this effect is considered part of a \"Change Equipment\" skill.</p>\n<p></p>\n<p>(SR 2): You are immune to [Dazed].</p>\n<p>(SR 3): You are immune to [Staggered].</p>\n<p></p>\n<p>A fighting style in which shields are held in the left and right hands to strengthen the defense. Its unfazed appearance in any situation is like a castle wall.</p>",
     "limit": {
       "min": 0,
       "value": 0,

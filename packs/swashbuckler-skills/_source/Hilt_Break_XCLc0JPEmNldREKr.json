@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Inflict direct damage to [Base STR] points to target. This damage activates [Pursuit] as if the target failed [Dodge Check].</p>\n<p></p>\n<p>(SR 2) You can do a [Normal Move] up to 1 Sq before demonstrating the effect. However, you can not move when you are in [Rigor] state.</p>\n<p>(SR 3) The travel distance is up to 2 Sq.</p>",
+    "description": "<p>Deal [Base STR] direct damage to the target. This damage activates [Pursuit] as if the target failed [Dodge Check].</p>\n<p></p>\n<p>(SR 2): You may perform a [Normal Move] up to 1 Sq before activating the damage of this skill. However, you can not move if you are in the [Rigor] state.</p>\n<p>(SR 3): The distance you may move is up to 2 Sq.</p>\n<p></p>\n<p>A special skill that attacks the enemy by striking the guard or handle of the weapon. It can also be used as a check while closing the gap.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +[(SR)D] bonus to damage rolls of attacks with the [Spirit] tag.</p>\n<p></p>\n<p>You are adept at the magic and feats that inflict mental scars on your foes, one of the Enchanter's hallmarks.</p>",
+    "description": "<p>You gain a + [(SR)D] bonus to damage rolls of attacks with the [Spirit] tag.</p>\n<p></p>\n<p>You are adept at the magic and skills that inflict mental scars on your foes, one of the Enchanter's hallmarks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

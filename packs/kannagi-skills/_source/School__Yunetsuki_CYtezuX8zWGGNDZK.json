@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>[Male] Only. You can equip [Medium Armor]. Your [Magical Defense] is +[STR Mod].</p>\n<p></p>\n<p>(SR2) When you are equipped with a [Bow] in [Hand Slot], add [Hafted] to the equipped [Bow] and treat it also as a weapon capable of [Ranged Attack] in [Range: Close].</p>\n<p></p>\n<p>Like a ray of moonlight shining through the clouds, it is a fighting style in which the bow is shot with a still mind unmoved by distractions. Your steadfast defense eliminates gaps and sorrows, and the bow in your hand becomes a blade to thwart your foes.</p>",
+    "description": "<p>This skill is available for [Male] only.</p>\n<p></p>\n<p>You can equip [Medium Armor]. Your [Magical Defense] is + [STR Mod].</p>\n<p></p>\n<p>(SR 2): When you are equipped with a [Bow] in [Hand Slot], add [Hafted] to the equipped [Bow] and treat it also as a weapon capable of [Ranged Attack] in [Range: Close].</p>\n<p></p>\n<p>Like a ray of moonlight shining through the clouds, it is a fighting style in which the bow is shot with a still mind unmoved by distractions. Your steadfast defense eliminates gaps and sorrows, and the bow in your hand becomes a blade to thwart your foes.</p>",
     "limit": {
       "min": 0,
       "value": 0,

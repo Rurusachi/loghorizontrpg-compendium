@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Perception Checks].</p>\n<p></p>\n<p>You are highly observant and focused. That cold gaze never misses a necessary event.</p>",
+    "description": "<p>You gain a + 1D bonus to [Perception Checks].</p>\n<p></p>\n<p>You are highly observant and focused. That cold gaze never misses a necessary event.</p>",
     "limit": {
       "min": 0,
       "value": 0,

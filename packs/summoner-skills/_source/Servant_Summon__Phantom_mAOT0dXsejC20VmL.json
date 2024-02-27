@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain the [Undead] tag. You do not lose [Hidden] if you make a [Normal Move] or a [Safe Move] while active. </p>\n<p></p>\n<p>(Effect): You are in the [Hidden] state.</p>\n<p></p>\n<p>A special skill that summons a translucent incorporeal undead, Phantom, and uses it. A haunting specter distracts enemies from you.</p>",
+    "description": "<p>You gain the [Undead] tag. You will not lose [Hidden] if you make a [Normal Move] or a [Safe Move] while active. </p>\n<p></p>\n<p>(Effect): You are in the [Hidden] state.</p>\n<p></p>\n<p>A special skill that summons a translucent incorporeal undead, Phantom, and uses it. A haunting specter distracts enemies from you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

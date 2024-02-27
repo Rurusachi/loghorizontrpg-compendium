@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just before you make an [Athletics Check]. You gain a +2D bonus to that check.</p>",
+    "description": "<p>Use this skill just before you make an [Athletics Check]. You gain a + 2D bonus to that check.</p>\n<p></p>\n<p>A special skill that shows off feats of grace and bold action that amazes the viewer.</p>",
     "limit": {
       "min": 0,
       "value": 0,

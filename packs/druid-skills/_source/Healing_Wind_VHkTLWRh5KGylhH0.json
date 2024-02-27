@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target recovers [(Recovery) + (SRx4)] HP. </p>\n<p></p>\n<p>(Minor): Before this skill takes effect, you may make a [Normal Move] up to your [Speed] Sq. This additional effect cannot be activated if you have [Rigor].</p>\n<p></p>\n<p>Magic that creates a healing wind that heals nearby allies. By manipulating the direction of the wind, it can also carry your own body.</p>",
+    "description": "<p>The target recovers [(Recovery) + (SR x 4)] HP. </p>\n<p></p>\n<p>(Minor): Before this skill takes effect, you may make a [Normal Move] up to your [Speed] Sq. This additional effect cannot be activated if you have [Rigor].</p>\n<p></p>\n<p>Magic that creates a healing wind that heals nearby allies. By manipulating the direction of the wind, it can also carry your own body.</p>",
     "limit": {
       "min": 0,
       "value": 0,

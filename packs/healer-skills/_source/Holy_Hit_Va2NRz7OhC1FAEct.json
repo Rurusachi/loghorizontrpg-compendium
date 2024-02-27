@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "Va2NRz7OhC1FAEct",
   "system": {
-    "description": "<p>During this Main Process, you gain a +1D bonus to [Hit Checks].</p>\n<p></p>\n<p>A special skill that uses divine revelation to find a trajectory for punching through the enemy and increases the accuracy of the attack.</p>",
+    "description": "<p>During this Main Process, you gain a + 1D bonus to [Hit Checks].</p>\n<p></p>\n<p>A special skill that uses divine revelation to find a trajectory for punching through the enemy and increases the accuracy of the attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

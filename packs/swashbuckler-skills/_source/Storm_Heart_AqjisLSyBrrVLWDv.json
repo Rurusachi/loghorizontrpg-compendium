@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "AqjisLSyBrrVLWDv",
   "system": {
-    "description": "<p>You can only target allies other than yourself with this skill. At the end of this Main Process, you may lower the target's [Hate]. The reduced [Hate] is equal to [The number of enemies you have dealt damage to during this main process with your [Melee Attack]].</p>",
+    "description": "<p>You may only target allies with this skill.</p>\n<p></p>\n<p>At the end of this Main Process, you may lower the target's [Hate]. The reduced [Hate] is equal to [The number of enemies you have dealt damage to during this Main Process with a [Melee Attack]].</p>\n<p></p>\n<p>A special skill that temporarily draws the gaze of nearby enemies with a storm-like attack, suppressing their hostility toward allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

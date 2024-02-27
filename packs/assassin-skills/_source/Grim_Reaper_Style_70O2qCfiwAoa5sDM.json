@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produced an effect when you have a [Two-Handed] weapon equipped. Treat the rating of [Pursuit] that your attacks trigger as being +[SRx5] higher. You gain a +[(SR+1)D] bonus to [Hit Checks] made while [Hidden].</p>\n<p></p>\n<p>A combat style that uses a two-handed weapon and shoots a well-aimed blow out of the darkness.</p>",
+    "description": "<p>This skill only produced an effect when you have a [Two-Handed] weapon equipped.</p>\n<p></p>\n<p>Treat the rating of [Pursuit] that your attacks trigger as being + [SR x 5] higher. You gain a + [(SR + 1)D] bonus to [Hit Checks] made while [Hidden].</p>\n<p></p>\n<p>A combat style that uses a two-handed weapon and shoots a well-aimed blow out of the darkness.</p>",
     "limit": {
       "min": 0,
       "value": 0,

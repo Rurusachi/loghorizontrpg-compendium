@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Hate Top): You gain a +5 bonus to your next damage roll against secondary targets within a range of [Target: Wide 2 (P) / Range: Close] centered on yourself. Treat this effect as a Combat Status that is removed after being applied once.</p>\n<p></p>\n<p>A special skill that uses a heavy weapon such as a mallet or ax to perform a powerful rush. A blow like a battering ram that breaks through the castle gate gives momentum to allies.</p>",
+    "description": "<p>Deal [(SR + 3)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Hate Top): You gain a + 5 bonus to your next damage roll against secondary targets within a range of [Target: Wide 2 (P) / Range: Close] centered on yourself. Treat this effect as a Combat Status that is removed after being applied once.</p>\n<p></p>\n<p>A special skill that uses a heavy weapon such as a mallet or ax to perform a powerful rush. A blow like a battering ram that breaks through the castle gate gives momentum to allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>During this Main Process, you gain a +2D bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>(CR11): The bonus changes to +4D.</p>\n<p>(CR21): The bonus changes to +6D.</p>\n<p></p>\n<p>A special skill that gives prayers to sacred beings and gains the power of divine protection that drives away enemies.</p>",
+    "description": "<p>During this Main Process, you gain a + 2D bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>(CR 11): The bonus changes to + 4D.</p>\n<p>(CR 21): The bonus changes to + 6D.</p>\n<p></p>\n<p>A special skill that gives prayers to sacred beings and gains the power of divine protection that drives away enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

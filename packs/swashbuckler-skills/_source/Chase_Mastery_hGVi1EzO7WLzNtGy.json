@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Increase the rating of [Pursuit] you apply by +[SRx3].</p>",
+    "description": "<p>Increase the rating of [Pursuit] you apply by + [SR x 3].</p>\n<p></p>\n<p>You are skilled at using continuous attacks, which is the specialty of the Swashbuckler.</p>",
     "limit": {
       "min": 0,
       "value": 0,

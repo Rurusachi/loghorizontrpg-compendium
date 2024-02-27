@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You cannot target yourself with this skill. The target immediately perform one [Timing: Move] action with the [Movement] tag. You assume the [Hate] cost of the target's action.</p>\n<p></p>\n<p>(Fate 1): Reduce the assumed [Hate] cost by -2 (minimum 0).</p>\n<p></p>\n<p>A special skill that moves companions by indicating the timing and path to proceed as if commanding with takt or hands.</p>",
+    "description": "<p>You cannot target yourself with this skill.</p>\n<p></p>\n<p>The target immediately perform one [Timing: Move] action with the [Movement] tag. You assume the [Hate] cost of the target's action.</p>\n<p></p>\n<p>(Fate 1): Reduce the assumed [Hate] cost by - 2 (minimum 0).</p>\n<p></p>\n<p>A special skill that moves companions by indicating the timing and path to proceed as if commanding with takt or hands.</p>",
     "limit": {
       "min": 0,
       "value": 0,

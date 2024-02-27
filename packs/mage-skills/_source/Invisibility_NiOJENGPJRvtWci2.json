@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Set the target to the [Hidden] state.</p>\n<p></p>\n<p>(CR 11 & Fate 1) This skill can be changed to [Target: Area (P)].</p>\n<p></p>\n<p>A spell that erases the target's appearance and makes it invisible. Depending on the opponent, it has the potential to wreak havoc.</p>",
+    "description": "<p>Set the target to the [Hidden] state.</p>\n<p></p>\n<p>(CR 11 & Fate 1): This skill can be changed to [Target: Area (P)].</p>\n<p></p>\n<p>A spell that erases the target's appearance and makes it invisible. Depending on the opponent, it has the potential to wreak havoc.</p>",
     "limit": {
       "min": 0,
       "value": 0,

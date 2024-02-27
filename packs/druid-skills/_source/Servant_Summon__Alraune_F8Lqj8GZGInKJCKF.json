@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain the [Nature] tag. You gain a +[SRx3] bonus to [Recovery].</p>\n<p></p>\n<p>(Effect): Secondary targets with [Mob] within a range of [Target: Wide 4 (P) / Range: Close] centered on you take [Staggered].</p>\n<p></p>\n<p>A special skill that summons an ancestral spirit, Alraune, who embodies the fertility and fascination of nature, and uses it. Alraune takes the form of a beautiful girl leaning out of various kinds of petals.</p>",
+    "description": "<p>You gain the [Nature] tag. You gain a + [SR x 3] bonus to [Recovery].</p>\n<p></p>\n<p>(Effect): Secondary targets with [Mob] within a range of [Target: Wide 4 (P) / Range: Close] centered on you take [Staggered].</p>\n<p></p>\n<p>A special skill that summons an ancestral spirit, Alraune, who embodies the fertility and fascination of nature, and uses it. Alraune takes the form of a beautiful girl leaning out of various kinds of petals.</p>",
     "limit": {
       "min": 0,
       "value": 0,

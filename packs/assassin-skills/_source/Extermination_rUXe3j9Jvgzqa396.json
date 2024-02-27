@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+6)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Extra): After the end of the current Main Process, if the target's HP is equal to or less than your [Attack Power] or the target has [Mob], the target dies.</p>\n<p></p>\n<p>A special skill that swings the weapon held with both hands using the whole body and unleashes a powerful blow. The destructive power worthy of the name of execution is enough to instantly kill a lower-ranked enemy.</p>",
+    "description": "<p>Deal [(SR + 6)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Extra): After the end of the current Main Process, if the target's HP is equal to or less than your [Attack Power] or the target has [Mob], the target dies.</p>\n<p></p>\n<p>A special skill that swings the weapon held with both hands using the whole body and unleashes a powerful blow. The destructive power worthy of the name of execution is enough to instantly kill a lower-ranked enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

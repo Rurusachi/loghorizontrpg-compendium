@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target. If there are no other enemies in the same square as you except the target, increase the damage by +5.</p>\n<p></p>\n<p>A special skill that moves in a circle around the enemy and attacks continuously. Shows its true value in situations where you can move around freely</p>",
+    "description": "<p>Deal [(SR + 2)D + (Attack Power)] physical damage to the target. If there are no other enemies in the same square as you except the target, increase the damage by + 5.</p>\n<p></p>\n<p>A special skill that moves in a circle around the enemy and attacks continuously. Shows its true value in situations where you can move around freely</p>",
     "limit": {
       "min": 0,
       "value": 0,

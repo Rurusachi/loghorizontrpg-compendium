@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use it when you are not appearing in the current scene. You will appear in the [Hidden] state anywhere in the scene. If it does not match the situation of the scene, the DM can limit the place where it can appear or disable this effect. If it becomes invalid you get 2 fate points.</p>\n<p></p>\n<p>Special ability to sneak into various places without being noticed by anyone. You can appear anywhere at will like a shadow.</p>",
+    "description": "<p>Use it when you are not appearing in the current scene. You will appear in the [Hidden] state anywhere in the scene. If it does not match the situation of the scene, the DM can limit the place where it can appear or disable this effect. If it becomes invalid you get 2 [Fate] points.</p>\n<p></p>\n<p>Special ability to sneak into various places without being noticed by anyone. You can appear anywhere at will like a shadow.</p>",
     "limit": {
       "min": 0,
       "value": 0,

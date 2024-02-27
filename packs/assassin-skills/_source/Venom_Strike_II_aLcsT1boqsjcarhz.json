@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR 11 or higher. Apply [2D + (Attack Power)] physical damage to the target, and [Decay: (INT Mod)].</p>\n<p></p>\n<p>A skill that attacks with poisoned weapons and ammunition. The poison you manipulate becomes even more deadly, weakening your target while you look at it.</p>",
+    "description": "<p>Only available at CR 11 or higher. </p>\n<p></p>\n<p>Deal [2D + (Attack Power)] physical damage to the target, and give [Decay: (INT Mod)].</p>\n<p></p>\n<p>A skill that attacks with poisoned weapons and ammunition. The poison you manipulate becomes even more deadly, weakening your target while you look at it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

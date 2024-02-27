@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you have only a single [One-Handed] melee weapon equipped to a [Hand Slot]. Your [Attack Power] becomes [Weapon's (Attack Power) x2]. During the first round of a scene, you gain a +1 bonus to [Speed].</p>\n<p></p>\n<p>(SR2): The bonus to speed becomes permanent, not just during the first scene.</p>\n<p></p>\n<p>A fighting style that emphasizes attack power and mobility, gracefully manipulating a weapon held in one hand.</p>",
+    "description": "<p>This skill only produces an effect when you have only a single [One-Handed] melee weapon equipped to a [Hand Slot].</p>\n<p></p>\n<p>Your [Attack Power] becomes [Weapon's (Attack Power) x 2]. During the first round of a scene, you gain a + 1 bonus to [Speed].</p>\n<p></p>\n<p>(SR 2): The bonus to speed becomes permanent, not just during the first scene.</p>\n<p></p>\n<p>A fighting style that emphasizes attack power and mobility, gracefully manipulating a weapon held in one hand.</p>",
     "limit": {
       "min": 0,
       "value": 0,

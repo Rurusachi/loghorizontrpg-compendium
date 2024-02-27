@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you are equipped with a [Shield]. You gain a +[SRx4] bonus to your [Attack Power].</p>",
+    "description": "<p>This skill only produces an effect while you are equipped with a [Shield].</p>\n<p></p>\n<p>You gain a + [SR x 4] bonus to your [Attack Power].</p>\n<p></p>\n<p>A fighting style that skillfully combines weapon and shield skills and applies them to attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

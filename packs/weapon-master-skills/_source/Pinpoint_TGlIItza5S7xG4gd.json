@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you gain a +[SRx3] bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>A special skill that increases the power of attacks by accurately aiming.</p>",
+    "description": "<p>During this Main Process, you gain a + [SR x 3] bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>A special skill that increases the power of attacks by accurately aiming.</p>",
     "limit": {
       "min": 0,
       "value": 0,

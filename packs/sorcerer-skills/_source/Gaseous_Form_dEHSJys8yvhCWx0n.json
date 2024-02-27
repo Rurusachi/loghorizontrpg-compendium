@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>[Defense Checks] against [Target: Single] attacks gain a + 2 bonus, and [Defense Checks] against [Target: Area, Wide, Line] attacks take a - 2 penalty. Treat this effect as a Combat Status.</p>\n<p></p>\n<p>A magic that changes your body to be like fog or smoke, disturbing the enemy's aim. However, the unstable body becomes weak against attacks that blow away the surroundings all at once.</p>",
+    "description": "<p>Your [Defense Checks] against [Target: Single] attacks gain a + 2 bonus, and [Defense Checks] against [Target: Area, Wide, Line] attacks take a - 2 penalty. Treat this effect as a Combat Status.</p>\n<p></p>\n<p>A magic that changes your body to be like fog or smoke, disturbing the enemy's aim. However, the unstable body becomes weak against attacks that blow away the surroundings all at once.</p>",
     "limit": {
       "min": 0,
       "value": 0,

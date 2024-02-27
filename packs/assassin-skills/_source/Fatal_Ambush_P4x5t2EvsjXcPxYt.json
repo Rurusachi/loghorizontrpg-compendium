@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target. You may only use this skill on a round you have declared [Standby].</p>\n<p></p>\n<p>(Self: Hidden): Roll this skill's check twice and take either result.</p>\n<p>(Critical): The damage becomes penetrating.</p>\n<p></p>\n<p>A special skill that takes time to find the opponent's openings and unleashes a single blow. It takes some time to unleash, but if you release it while stealthed, it's a deadly surprise.</p>",
+    "description": "<p>Deal [(SR + 1)D + (Attack Power)] physical damage to the target. You may only use this skill on a round you have declared [Standby].</p>\n<p></p>\n<p>(Self: Hidden): Roll this skill's check twice and take either result.</p>\n<p>(Critical): The damage becomes penetrating.</p>\n<p></p>\n<p>A special skill that takes time to find the opponent's openings and unleashes a single blow. It takes some time to unleash, but if you release it while stealthed, it's a deadly surprise.</p>",
     "limit": {
       "min": 0,
       "value": 0,

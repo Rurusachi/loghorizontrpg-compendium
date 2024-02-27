@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill may only be used on willing targets. Select one from [Flame] [Cold] [Shock] [Holy] [Blight] [Spirit]. The target deals damage of the chosen tag.</p>\n<p></p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by +1 during the Cleanup Process of every round.</p>\n<p></p>\n<p>A support song that summons magical powers of various attributes with a melody reminiscent of a foreign land and grants that power to attacks.</p>",
+    "description": "<p>This skill may only be used on willing targets. Select one from [Flame] [Cold] [Shock] [Holy] [Blight] [Spirit]. The target deals damage of the chosen tag.</p>\n<p></p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by + 1 during the Cleanup Process of every round.</p>\n<p></p>\n<p>A support song that summons magical powers of various attributes with a melody reminiscent of a foreign land and grants that power to attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Success): The target takes a -[SRx2] penalty to [Physical Defense]. Treat this effect as a Bad Status.</p>\n<p></p>\n<p>A special skill that targets and attacks the head and similar vital points, rendering the enemy defenseless with pain and impact.</p>",
+    "description": "<p>Deal [1D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Success): The target takes a - [SR x 2] penalty to [Physical Defense]. Treat this effect as a Bad Status.</p>\n<p></p>\n<p>A special skill that targets and attacks the head and similar vital points, rendering the enemy defenseless with pain and impact.</p>",
     "limit": {
       "min": 0,
       "value": 0,

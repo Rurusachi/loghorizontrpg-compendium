@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "FBqo2uUcDtqD17lI",
   "system": {
-    "description": "<p>The target gains [Cancel]. The rating of this [Cancel] is equal to [One [Shield] you are equipped with's (Physical Defense)]. This [Cancel] effect lasts until the end of the round.</p>\n<p></p>\n<p>A special skill that emits light from a consecrated shield and grants protection to allies for a short period of time.</p>",
+    "description": "<p>The target gains [Cancel]. The rating of this [Cancel] is equal to [One [Shield] you are equipped with's (Physical Defense)]. This [Cancel] effect lasts until the end of the Round.</p>\n<p></p>\n<p>A special skill that emits light from a consecrated shield and grants protection to allies for a short period of time.</p>",
     "limit": {
       "min": 0,
       "value": 0,

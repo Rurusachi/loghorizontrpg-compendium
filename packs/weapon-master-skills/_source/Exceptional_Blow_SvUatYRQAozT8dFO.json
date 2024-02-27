@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Your [Weapon Attack] and [Special Attack] damage rolls gain a +[(CRx2) + 10] bonus.</p>\n<p></p>\n<p>A skill that perfectly understands the weapon's center of gravity, range, and characteristics, and unleashes the perfect attack possible. Using your favorite weapon as an extension of yourself, your flash that becomes one with your weapon is a sure kill.</p>",
+    "description": "<p>Your [Weapon Attack] and [Special Attack] damage rolls gain a + [(CR x 2) + 10] bonus.</p>\n<p></p>\n<p>A skill that perfectly understands the weapon's center of gravity, range, and characteristics, and unleashes the perfect attack possible. Using your favorite weapon as an extension of yourself, your flash that becomes one with your weapon is a sure kill.</p>",
     "limit": {
       "min": 0,
       "value": 0,

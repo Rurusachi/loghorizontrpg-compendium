@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR11 or higher. Deal [2D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Post-Action): The target takes [Decay: (Base INT)].</p>\n<p>(Target: Pre-Action): The target's [Initiative] becomes 0. This effect lasts until the end of the round.</p>\n<p></p>\n<p>A special skill that pierces the enemy's vital points with precision as if a needle were being passed through them, hindering their actions. An enemy deprived of liberty becomes a premature sacrifice of a shrike waiting to be pierced and pecked by a branch.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>Deal [2D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Post-Action): The target takes [Decay: (Base INT)].</p>\n<p>(Target: Pre-Action): The target's [Initiative] becomes 0. This effect lasts until the end of the round.</p>\n<p></p>\n<p>A special skill that pierces the enemy's vital points with precision as if a needle were being passed through them, hindering their actions. An enemy deprived of liberty becomes a premature sacrifice of a shrike waiting to be pierced and pecked by a branch.</p>",
     "limit": {
       "min": 0,
       "value": 0,

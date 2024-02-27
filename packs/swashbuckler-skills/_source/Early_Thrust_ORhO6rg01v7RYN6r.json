@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target takes [Pursuit: (SRx4)].</p>",
+    "description": "<p>The target takes [Pursuit: (SR x 4)].</p>\n<p></p>\n<p>A special skill that uses a preemptive blow to break the enemy's stance and launch a pursuit attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

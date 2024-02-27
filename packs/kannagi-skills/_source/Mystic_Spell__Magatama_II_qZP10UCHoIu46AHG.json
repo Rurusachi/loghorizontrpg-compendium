@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR11 or higher. Deal [3D + (Magic Power)] magical damage to the target, and the target takes [Decay: [INT Mod]]. This [Decay] does not overwrite [Decay] effect the target is already affected by, and instead adds to its rating.</p>\n<p></p>\n<p>An offensive magic that releases the raging soul and the soul that seeks peace from a formation that imitates a magatama, and shoots through the enemy with its torrent. The rivalry of the yin and yang magatama is reduced while looking at the existence of the object.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>Deal [3D + (Magic Power)] magical damage to the target, and the target takes [Decay: [INT Mod]]. This [Decay] does not overwrite [Decay] effect the target is already affected by, and instead adds to its rating.</p>\n<p></p>\n<p>An offensive magic that releases the raging soul and the soul that seeks peace from a formation that imitates a magatama, and shoots through the enemy with its torrent. The rivalry of the yin and yang magatama is reduced while looking at the existence of the object.</p>",
     "limit": {
       "min": 0,
       "value": 0,

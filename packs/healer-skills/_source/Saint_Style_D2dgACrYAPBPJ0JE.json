@@ -39,7 +39,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill only produces an effect when you have nothing equipped to either of your [Hand Slots]. When you use a skill with a [Hate] cost of 3 or higher, reduce the [Hate] cost of that skill by -1 (minimum 0).</p>\n<p></p>\n<p>(SR2): You gain a +2 bonus to [Accuracy].</p>\n<p></p>\n<p>A combat style that does not carry weapons or shields, and concentrates on praying without anything in your hands. It becomes difficult for the other enemies to turn hostile toward you.</p>",
+    "description": "<p>This skill only produces an effect when you have nothing equipped to either of your [Hand Slots].</p>\n<p></p>\n<p>When you use a skill with a [Hate] cost of 3 or higher, reduce the [Hate] cost of that skill by - 1 (minimum 0).</p>\n<p></p>\n<p>(SR 2): You gain a + 2 bonus to [Accuracy].</p>\n<p></p>\n<p>A combat style that does not carry weapons or shields, and concentrates on praying without anything in your hands. It becomes difficult for the other enemies to turn hostile toward you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

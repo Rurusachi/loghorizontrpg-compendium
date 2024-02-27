@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill only produces an effect when you have at least two empty [Accessory Slots]. You may maintain the effects of up to three [Enchantment] skills instead of only two.</p>\n<p></p>\n<p>(SR2): You need only one or more empty [Accessory Slots] for this skill to produce an effect.</p>\n<p></p>\n<p>A combat style in which support magic is applied to hand-made talismans, rings, etc. and maintained. This allows you to maintain more spells at once than normal.</p>",
+    "description": "<p>This skill only produces an effect when you have at least two empty [Accessory Slots]. You may maintain the effects of up to three [Enchantment] skills instead of only two.</p>\n<p></p>\n<p>(SR 2): You need only one or more empty [Accessory Slots] for this skill to produce an effect.</p>\n<p></p>\n<p>A combat style in which support magic is applied to hand-made talismans, rings, etc. and maintained. This allows you to maintain more spells at once than normal.</p>",
     "limit": {
       "min": 0,
       "value": 0,

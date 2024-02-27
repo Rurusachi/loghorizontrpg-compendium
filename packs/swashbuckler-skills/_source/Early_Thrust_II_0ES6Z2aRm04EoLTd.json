@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR 11 or higher. [Pursuit: (INT Mod) x SR] is given to the target.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>The target takes [Pursuit: (INT Mod) x SR].</p>\n<p></p>\n<p>A special skill that uses a preemptive blow to break the enemy's stance and launch a pursuit attack. By creating an exquisite moment, the enemy will expose his defenseless side to you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

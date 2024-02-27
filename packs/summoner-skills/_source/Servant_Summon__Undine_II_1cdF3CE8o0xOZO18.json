@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR16 or higher. You gain the [Fairy] and [Cold] tags. You gain a +[SRx7] bonus to the damage roll of attacks that have the [Cold] tag.</p>\n<p></p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes [INT Mod] direct damage.</p>\n<p></p>\n<p>A special skill that makes a high-level contract with Undine, a water fairy in the form of a beautiful maiden, and uses it. The stronger water currents and cold air drain heat away from those who oppose it.</p>",
+    "description": "<p>Only available at CR 16 or higher.</p>\n<p></p>\n<p>You gain the [Fairy] and [Cold] tags. You gain a + [SR x 7] bonus to the damage roll of attacks that have the [Cold] tag.</p>\n<p></p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq] from you takes [INT Mod] direct damage.</p>\n<p></p>\n<p>A special skill that makes a high-level contract with Undine, a water fairy in the form of a beautiful maiden, and uses it. The stronger water currents and cold air drain heat away from those who oppose it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

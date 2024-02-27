@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target(s) remove all [Pursuit] and [Decay].</p>\n<p></p>\n<p>(Fate 1): Reduce the [Hate] of the target(s) other than yourself by -1.</p>\n<p></p>\n<p>A spell that spreads a rain of grace that purifies poisons and curses. After the rain stops, a small rainbow appears over the battlefield, slightly distracting enemies.</p>",
+    "description": "<p>The target(s) remove all [Pursuit] and [Decay].</p>\n<p></p>\n<p>(Fate 1): Reduce the [Hate] of the target(s) other than yourself by - 1.</p>\n<p></p>\n<p>A spell that spreads a rain of grace that purifies poisons and curses. After the rain stops, a small rainbow appears over the battlefield, slightly distracting enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

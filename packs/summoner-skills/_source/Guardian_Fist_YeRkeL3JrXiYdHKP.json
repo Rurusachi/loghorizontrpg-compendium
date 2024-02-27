@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SRx2) D + (Magic Power)] physical damage. Only available when you have the [Construct] tag.</p>\n<p></p>\n<p>(Effect): You get [Barrier: (Base STR)].</p>\n<p></p>\n<p>An attack spell that orders an artificial creature that is summoning a follower to hit the enemy with a fist of magical power. After attacking, the follower will transfer to your side and act as a shield to protect you.</p>",
+    "description": "<p>Deal [(SR x 2) D + (Magic Power)] physical damage. Only available when you have the [Construct] tag.</p>\n<p></p>\n<p>(Effect): You get [Barrier: (Base STR)].</p>\n<p></p>\n<p>An attack spell that orders an artificial creature that is summoning a follower to hit the enemy with a fist of magical power. After attacking, the follower will transfer to your side and act as a shield to protect you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

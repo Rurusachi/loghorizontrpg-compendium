@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may use «Enemy Identification» with [Target: Wide 20 (P)].</p>\n<p></p>\n<p>A special skill that reveals the abilities of many enemies on the battlefield from the strength and nature of the magical power that floats around.</p>",
+    "description": "<p>You may use \"Enemy Identification\" with [Target: Wide 20 (P)].</p>\n<p></p>\n<p>A special skill that reveals the abilities of many enemies on the battlefield from the strength and nature of the magical power that floats around.</p>",
     "limit": {
       "min": 0,
       "value": 0,

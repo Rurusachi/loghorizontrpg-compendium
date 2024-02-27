@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target gains a +[SRx3] bonus to [Recovery]. This skill can be used multiple times when used during the same Briefing.</p>\n<p></p>\n<p>Support magic that amplifies the mental strength of allies and increases their healing power.</p>",
+    "description": "<p>The target gains a + [SR x 3] bonus to [Recovery]. This skill can be used multiple times when used during the same Briefing.</p>\n<p></p>\n<p>Support magic that amplifies the mental strength of allies and increases their healing power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

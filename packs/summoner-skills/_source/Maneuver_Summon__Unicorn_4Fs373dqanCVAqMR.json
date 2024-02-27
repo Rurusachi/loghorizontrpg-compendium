@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain the [Riding: Unicorn] state. During the [Riding: Unicorn] state, EX Power \"Horse Trot\" and \"Horse Charge\" becomes available. In addition gain [Cancel (Holy, Melee Attack)] with a rating equal to [(POW Mod) x SR of \"Servant Summon: Unicorn\"].</p>\n<p></p>\n<p>A skill that summons a white unicorn and fights with you on its back. The unicorn's light will become a veil and protect you.</p>",
+    "description": "<p>You gain the [Riding: Unicorn] state. During the [Riding: Unicorn] state, EX Power \"Horse Trot\" and \"Horse Charge\" becomes available. In addition you gain [Cancel (Holy, Melee Attack)] with a rating equal to [(POW Mod) x SR of \"Servant Summon: Unicorn\"].</p>\n<p></p>\n<p>A skill that summons a white unicorn and fights with you on its back. The unicorn's light will become a veil and protect you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

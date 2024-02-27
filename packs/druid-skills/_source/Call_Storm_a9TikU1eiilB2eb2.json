@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target.</p>\n<p></p>\n<p>(Effect): You gain a +[SRx4] bonus to damage rolls with the [Cold] and [Shock] tags. Treat this effect as a Combat Status.</p>\n<p></p>\n<p>An offensive spell that summons a powerful storm to strike down enemies in a wide area. The storm lingers for a while, empowering the storms and thunder you control. As long as the storm does not dissipate, the battlefield is your domain.</p>",
+    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target.</p>\n<p></p>\n<p>(Effect): You gain a + [SR x 4] bonus to damage rolls with the [Cold] and [Shock] tags. Treat this effect as a Combat Status.</p>\n<p></p>\n<p>An offensive spell that summons a powerful storm to strike down enemies in a wide area. The storm lingers for a while, empowering the storms and thunder you control. As long as the storm does not dissipate, the battlefield is your domain.</p>",
     "limit": {
       "min": 0,
       "value": 0,

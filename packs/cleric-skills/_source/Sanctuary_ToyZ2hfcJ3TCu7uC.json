@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains a +[SR x 2] bonus to [Physical Defense] and [Magical Defense]. This effect lasts until the beginning of your next Main Process, or until the target leaves the square you are in.</p>\n<p></p>\n<p>Magic that creates a sanctuary that wards off disasters and protects nearby allies.</p>",
+    "description": "<p>The target gains a + [SR x 2] bonus to [Physical Defense] and [Magical Defense]. This effect lasts until the beginning of your next Main Process, or until the target leaves the square you are in.</p>\n<p></p>\n<p>Magic that creates a sanctuary that wards off disasters and protects nearby allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

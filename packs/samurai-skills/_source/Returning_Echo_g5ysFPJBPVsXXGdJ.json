@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill just after you are attacked. Deal [SR x 4] direct damage to the character who made the attack.</p>\n<p></p>\n<p>(Fate 1): Increase the damage by +6.</p>\n<p></p>\n<p>A skill that counterattacks an enemy's attack. The enemy will be wounded by a blow that returns like an echo.</p>",
+    "description": "<p>You may use this skill just after you are attacked. </p>\n<p></p>\n<p>Deal [SR x 4] direct damage to the character who made the attack.</p>\n<p></p>\n<p>(Fate 1): Increase the damage by + 6.</p>\n<p></p>\n<p>A skill that counterattacks an enemy's attack. The enemy will be wounded by a blow that returns like an echo.</p>",
     "limit": {
       "min": 0,
       "value": 0,

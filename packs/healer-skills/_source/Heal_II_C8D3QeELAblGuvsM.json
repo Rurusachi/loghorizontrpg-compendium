@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Replace \"Heal\" with this skill at CR11 or higher. The target recovers [3D + (Magic Power) + (Recovery)] HP.</p>\n<p></p>\n<p>(Fate 1): Increase the amount of HP recovered by +[Base POW].</p>\n<p></p>\n<p>A spell that rains down light particles and heals the wounds of allies. Although it is the most basic healing magic, your healing power is greatly increased by proficiency.</p>",
+    "description": "<p>Replace \"Heal\" with this skill at CR 11 or higher.</p>\n<p></p>\n<p>The target recovers [3D + (Magic Power) + (Recovery)] [HP].</p>\n<p></p>\n<p>(Fate 1): Increase the amount of [HP] recovered by + [Base POW].</p>\n<p></p>\n<p>A spell that rains down light particles and heals the wounds of allies. Although it is the most basic healing magic, your healing power is greatly increased by proficiency.</p>",
     "limit": {
       "min": 0,
       "value": 0,

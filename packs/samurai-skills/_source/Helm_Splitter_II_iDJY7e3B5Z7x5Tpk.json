@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR11 or higher. Deal [4D + (Attack Power)] physical damage to the target. If the target's [HP] is equal to its [Max HP], increase the damage by +[Base STR].</p>\n<p></p>\n<p>A special skill that swings down your weapon with all the power of your whole body and slashes the enemy from the front. A decisive blow that converges all the weight and physical strength of the weapon into one point, severing the enemy's body in half.</p>",
+    "description": "<p>Only available at CR 11 or higher. Deal [4D + (Attack Power)] physical damage to the target. If the target's [HP] is equal to its [Max HP], increase the damage by + [Base STR].</p>\n<p></p>\n<p>A special skill that swings down your weapon with all the power of your whole body and slashes the enemy from the front. A decisive blow that converges all the weight and physical strength of the weapon into one point, severing the enemy's body in half.</p>",
     "limit": {
       "min": 0,
       "value": 0,

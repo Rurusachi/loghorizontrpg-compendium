@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Use this skill immediately after the target has performed a roll on a search table. You may reroll that roll.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that blesses bad luck on the road. Its effect is uncertain, but sincere prayers will help you and your companions on their journeys.</p>",
+    "description": "<p>You may use this skill immediately after the target has performed a roll on a search table. You may reroll that roll.</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that blesses bad luck on the road. Its effect is uncertain, but sincere prayers will help you and your companions on their journeys.</p>",
     "limit": {
       "min": 0,
       "value": 0,

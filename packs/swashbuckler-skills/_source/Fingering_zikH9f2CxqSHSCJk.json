@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just before you make an [Operate Check]. You gain a +2D bonus to that check.</p>",
+    "description": "<p>Use this skill just before you make an [Operate Check]. You gain a + 2D bonus to that check.</p>\n<p></p>\n<p>A special skill that enables difficult tasks that require concentration and finesse of the hands.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>When you are not equipped with [Heavy Armor], you gain a +1D bonus to [Analyze Checks].</p>\n<p></p>\n<p>A special skill that clears the mind for a relaxed and calm state and helps make calm judgments.</p>",
+    "description": "<p>When you are not equipped with [Heavy Armor], you gain a + 1D bonus to [Analyze Checks].</p>\n<p></p>\n<p>A special skill that clears the mind for a relaxed and calm state and helps make calm judgments.</p>",
     "limit": {
       "min": 0,
       "value": 0,

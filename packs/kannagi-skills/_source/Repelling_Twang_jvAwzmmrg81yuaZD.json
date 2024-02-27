@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>[Safe Move (Forced)] the target up to [SR] Squares. The target must move to a Square you are not in. If you do a [Ranged Attack] with [Target: Single] in this main process, gain +1D to [Accuracy] for the attack.</p>\n<p></p>\n<p>A special skill that repels enemies with the sound of an amulet. The sound resounds unpleasantly in response to hostility, causing the subject to distance themselves from the caster.</p>",
+    "description": "<p>[Safe Move (forced)] the target up to [SR] Squares. The target must move to a Square you are not in. If you perform a [Ranged Attack] with [Target: Single] during this Main Process, you gain + 1D to [Accuracy] for that attack.</p>\n<p></p>\n<p>A special skill that repels enemies with the sound of an amulet. The sound resounds unpleasantly in response to hostility, causing the subject to distance themselves from the caster.</p>",
     "limit": {
       "min": 0,
       "value": 0,

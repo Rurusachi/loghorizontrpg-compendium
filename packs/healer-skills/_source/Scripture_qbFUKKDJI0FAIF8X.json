@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "qbFUKKDJI0FAIF8X",
   "system": {
-    "description": "<p>During this Main Process, you gain a +[SRx6] bonus to [Recovery].</p>\n<p></p>\n<p>A skill that grants the power of blessings by chanting scriptures that are the source of healing powers.</p>",
+    "description": "<p>During this Main Process, you gain a + [SR x 6] bonus to [Recovery].</p>\n<p></p>\n<p>A skill that grants the power of blessings by chanting scriptures that are the source of healing powers.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You cannot target yourself with this skill. A willing target must make a [Safe Move (Forced)] up to [Target's (Speed)] Sq.</p>\n<p></p>\n<p>(SR2): Increase the distance moved by +1. </p>\n<p>(Fate 1): The target does not have to be willing.</p>\n<p></p>\n<p>A skill that summons Siren, the winged diva of the wind, and uses gusts of wind and singing to guide enemies and allies to desired locations.</p>",
+    "description": "<p>You cannot target yourself with this skill. A willing target must make a [Safe Move (forced)] up to [Target's (Speed)] Sq.</p>\n<p></p>\n<p>(SR 2): Increase the distance moved by + 1. </p>\n<p>(Fate 1): The target does not have to be willing.</p>\n<p></p>\n<p>A skill that summons Siren, the winged diva of the wind, and uses gusts of wind and singing to guide enemies and allies to desired locations.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>A special skill that allows you to hurl countless throwing weapons in succession and wipe out enemies lined up in one fell swoop.</p>",
     "limit": {
       "min": 0,
       "value": 0,

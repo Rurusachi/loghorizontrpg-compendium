@@ -38,7 +38,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill only produces an effect when you are not equipped with [Heavy Armor] or a [Shield]. You gain a +[SR x 3] bonus to [Recovery], and a +[SR x 3] bonus to the amount of HP recovered when using \"Reactive Heal\" and \"Reactive Area Heal\".</p>\n<p></p>\n<p>A battle style that uses simple clothing without armor or shields, devotes itself to prayer, and wields powerful healing powers.</p>",
+    "description": "<p>This skill only produces an effect when you are not equipped with [Heavy Armor] or a [Shield].</p>\n<p></p>\n<p>You gain a + [SR x 3] bonus to [Recovery], and a + [SR x 3] bonus to the amount of HP recovered when using \"Reactive Heal\" and \"Reactive Area Heal\".</p>\n<p></p>\n<p>A battle style that uses simple clothing without armor or shields, devotes itself to prayer, and wields powerful healing powers.</p>",
     "limit": {
       "min": 0,
       "value": 0,

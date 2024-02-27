@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill may only target allies other than yourself. The targets may reduce their [Hate] by -1 during each Cleanup Process.</p>\n<p></p>\n<p>(SR2): This skill gains the [Preparation] tag.</p>\n<p>(SR3): You may choose to target yourself with this skill.</p>\n<p></p>\n<p>A support song that skillfully diverts hostility with a complex fugue that layers various melodies as if to cover up the theme.</p>",
+    "description": "<p>This skill may only target allies other than yourself. The targets may reduce their [Hate] by - 1 during each Cleanup Process.</p>\n<p></p>\n<p>(SR 2): This skill gains the [Preparation] tag.</p>\n<p>(SR 3): You may choose to target yourself with this skill.</p>\n<p></p>\n<p>A support song that skillfully diverts hostility with a complex fugue that layers various melodies as if to cover up the theme.</p>",
     "limit": {
       "min": 0,
       "value": 0,

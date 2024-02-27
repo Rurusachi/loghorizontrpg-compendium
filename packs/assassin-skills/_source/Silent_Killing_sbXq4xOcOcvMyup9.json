@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>For the attack you do in this Main Process, the target cannot do [Timing: Before Damage], immediately after applying damage against the target.</p>\n<p></p>\n<p>An assassination technique that unleashes silent attacks that are completely unnoticed by the enemy. You will become death itself that cannot be resisted by your enemies.</p>",
+    "description": "<p>For the attack you perform in this Main Process, the target of the attack cannot perform actions with [Timing: Before Damage], immediately after applying damage against the target.</p>\n<p></p>\n<p>An assassination technique that unleashes silent attacks that are completely unnoticed by the enemy. You will become death itself that cannot be resisted by your enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

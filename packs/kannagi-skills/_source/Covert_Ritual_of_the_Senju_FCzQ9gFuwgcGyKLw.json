@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR 11 or higher. Increase the target's Minor Actions by 1 during the target's Main Process at the beginning of this round.</p>\n<p></p>\n<p>A special skill that allows for continuous actions with the protection of the Senju, which is said to have been extended to all those who seek salvation.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>Increase the target's Minor Actions by 1 during the target's Main Process at the beginning of this round.</p>\n<p></p>\n<p>A special skill that allows for continuous actions with the protection of the Senju, which is said to have been extended to all those who seek salvation.</p>",
     "limit": {
       "min": 0,
       "value": 0,

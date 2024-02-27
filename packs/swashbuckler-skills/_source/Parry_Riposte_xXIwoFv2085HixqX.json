@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill can only be used when one or more of your [Hand Slots] are empty. Use it when you succeed in a [Defense Check] against an attack from a target. It gives direct damage to the target that attacked based on your [Attack Power].</p>",
+    "description": "<p>This skill can only be used when one or more of your [Hand Slots] are empty. You may use this skill when you succeed in a [Defense Check] against an attack from a target.</p>\n<p></p>\n<p>Deal [Attack Power] direct damage to the target.</p>\n<p></p>\n<p>A special skill that allows you to keep the enemy in check with your free hand, parry the enemy's attacks with a fine line, and launch a counterattack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

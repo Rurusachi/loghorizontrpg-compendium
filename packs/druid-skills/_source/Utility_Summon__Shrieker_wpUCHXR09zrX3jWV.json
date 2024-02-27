@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Target a square. If there are any [Hidden] characters in the targeted square, immediately remove their [Hidden] status. During each Cleanup Process, if there are any [Hidden] characters in the target square, you may apply the removal effect again. This effect lasts until the end of the scene.</p>\n<p></p>\n<p>A special skill that summons a Shrieker, an ancestral spirit that embodies the hustle and bustle of the forest. Mushrooms that scream like the roar of the wind warn of hidden existences.</p>",
+    "description": "<p>This skill targets a square. </p>\n<p></p>\n<p>If there are any [Hidden] characters in the targeted square, immediately remove their [Hidden] status. During each Cleanup Process, if there are any [Hidden] characters in the target square, you may apply the removal effect again. This effect lasts until the end of the Scene.</p>\n<p></p>\n<p>A special skill that summons a Shrieker, an ancestral spirit that embodies the hustle and bustle of the forest. Mushrooms that scream like the roar of the wind warn of hidden existences.</p>",
     "limit": {
       "min": 0,
       "value": 0,

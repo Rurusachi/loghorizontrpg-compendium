@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Extra): Secondary targets (excluding the initial target) within a range of [Target: Two / Range: 2 Sq.] from you take 10 direct damage. This damage triggers [Pursuit] once on the secondary target, as if they had failed their [Defense Check].</p>\n<p></p>\n<p>A special skill that makes the wind an ally and releases a shock wave along with the attack. A crescent-shaped wave spreads out and engulfs many enemies.</p>",
+    "description": "<p>Deal [(SR + 3)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Extra): Secondary targets (excluding the initial target) within a range of [Target: Two / Range: 2 Sq] from you take 10 direct damage. This damage triggers [Pursuit] once on the secondary target, as if they had failed their [Defense Check].</p>\n<p></p>\n<p>A special skill that makes the wind an ally and releases a shock wave along with the attack. A crescent-shaped wave spreads out and engulfs many enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

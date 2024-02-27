@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR 11 or higher. The target gains a + [SR x 4] bonus to damage rolls. This skill can be used multiple times when used during the same Briefing.</p>\n<p></p>\n<p>(CR 21): Increase the bonus to + [SR x 5].</p>\n<p></p>\n<p>Support magic that strengthens weapons and increases power. By directly strengthening its essence and concept, commercially available weapons can be transformed into masterpieces, and if they are masterpieces, they can be transformed into treasures that are praised in legends.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>The target gains a + [SR x 4] bonus to damage rolls. This skill can be used multiple times when used during the same Briefing.</p>\n<p></p>\n<p>(CR 21): Increase the bonus to + [SR x 5].</p>\n<p></p>\n<p>Support magic that strengthens weapons and increases power. By directly strengthening its essence and concept, commercially available weapons can be transformed into masterpieces, and if they are masterpieces, they can be transformed into treasures that are praised in legends.</p>",
     "limit": {
       "min": 0,
       "value": 0,

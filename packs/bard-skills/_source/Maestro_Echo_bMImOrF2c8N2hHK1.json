@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You cannot target yourself with this skill. When using this skill, you may spend up to three [Fate Points] (0 is okay). Target gains a +[(Spent [Fate Points] + SR) x 5] bonus to damage rolls.</p>\n<p></p>\n<p>(CR11): The multiplier bonus becomes x10.</p>\n<p>(CR21): The multiplier bonus becomes x15.</p>\n<p></p>\n<p>A special skill that creates illusions of magic and weapons by reproducing the \"sound\" of allies' attacks through improvisation and singing. The sonic illusions you command pierce your foes as they chase the attacks of your allies.</p>",
+    "description": "<p>You cannot target yourself with this skill. When using this skill, you may spend up to three [Fate Points] (0 is okay). Target gains a + [(Spent [Fate Points] + SR) x 5] bonus to damage rolls.</p>\n<p></p>\n<p>(CR 11): The multiplier bonus becomes x 10.</p>\n<p>(CR 21): The multiplier bonus becomes x 15.</p>\n<p></p>\n<p>A special skill that creates illusions of magic and weapons by reproducing the \"sound\" of allies' attacks through improvisation and singing. The sonic illusions you command pierce your foes as they chase the attacks of your allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

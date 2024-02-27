@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. During this Main Process, you gain a +[SRx3] bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>(Minor): Increase the distance moved by +1 Sq.</p>\n<p></p>\n<p>A skill that provides a run-up for subsequent attacks. The momentum from sprinting is directly converted into striking power.</p>",
+    "description": "<p>You may make a [Normal Move] up to your [Speed] Sq. During this Main Process, you gain a + [SR x 3] bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>(Minor): Increase the distance moved by + 1 Sq.</p>\n<p></p>\n<p>A skill that provides a run-up for subsequent attacks. The momentum from sprinting is directly converted into striking power.</p>",
     "limit": {
       "min": 0,
       "value": 0,

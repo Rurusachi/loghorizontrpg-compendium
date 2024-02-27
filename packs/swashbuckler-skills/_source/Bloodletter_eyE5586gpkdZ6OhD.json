@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Inflict physical damage of [2D + (Attack Power)]. The number of [Pursuit] activated by this attack will be [SR + 1], instead of one.</p>\n<p></p>\n<p>(Crit) [Pursuit] triggered by this attack is not be canceled and remains on the target.</p>",
+    "description": "<p>Inflict physical damage of [2D + (Attack Power)]. The number of [Pursuit] activated by this attack will be [SR + 1], instead of one [Pursuit].</p>\n<p></p>\n<p>(Critical): [Pursuit] triggered by this attack is not canceled and remains on the target.</p>\n<p></p>\n<p>A special skill that allows you to perform sharp slashes in succession. The trajectory of the slash will remain like blood on the enemy's body, causing further damage.</p>",
     "limit": {
       "min": 0,
       "value": 0,

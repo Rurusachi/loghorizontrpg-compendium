@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target. You may make the target make a [Safe Move (Forced)] of 1 Sq.</p>\n<p></p>\n<p>Like a grizzly bear, a throwing technique that grabs the enemy firmly with both arms and slams it into the ground. You can also throw the enemy far away to get out of range.</p>",
+    "description": "<p>Deal [(SR + 1)D + (Attack Power)] physical damage to the target. You may make the target make a [Safe Move (forced)] of 1 Sq.</p>\n<p></p>\n<p>Like a grizzly bear, a throwing technique that grabs the enemy firmly with both arms and slams it into the ground. You can also throw the enemy far away to get out of range.</p>",
     "limit": {
       "min": 0,
       "value": 0,

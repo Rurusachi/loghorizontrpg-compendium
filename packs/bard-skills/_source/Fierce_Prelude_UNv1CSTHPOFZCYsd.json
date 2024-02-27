@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>The target gains a +[SRx3] bonus to damage rolls. </p>\n<p></p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by +1 during the Cleanup Process of every round.</p>\n<p></p>\n<p>A support song that plays an overture that foreshadows the advance of the bamboo shoots, and raises the morale of the comrades fiercely.</p>",
+    "description": "<p>The target gains a + [SR x 3] bonus to damage rolls. </p>\n<p></p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by + 1 during the Cleanup Process of every round.</p>\n<p></p>\n<p>A support song that plays an overture that foreshadows the advance of the bamboo shoots, and raises the morale of the comrades fiercely.</p>",
     "limit": {
       "min": 0,
       "value": 0,

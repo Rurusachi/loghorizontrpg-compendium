@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use it in the Attack Declaration step when you are selected for attack. You can instantly move 2 Sq as a [Safe Move] and redo the Attack Declaration step once again after the end of the move.</p>",
+    "description": "<p>You may use this skill when you are selected as the target of an attack during the Attack Declaration step.</p>\n<p></p>\n<p>You may immediately make a [Safe Move] up to 2 Sq. After completing this movement, repeat the Attack Declaration step again.</p>\n<p></p>\n<p>A special skill that allows you to escape from the enemy's attack range by wrapping your whip around surrounding trees and moving from there. Acrobatic movements keep the enemy from targeting you.</p>\n<p></p>",
     "limit": {
       "min": 0,
       "value": 0,

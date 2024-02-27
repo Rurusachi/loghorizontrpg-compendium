@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill at the same time as a [Melee Attack] with [Target: Single]. That attack becomes [Target: Wide 1 (P)].</p>",
+    "description": "<p>Use this skill at the same time as a [Melee Attack] with [Target: Single]. That attack becomes [Target: Wide 1 (P)].</p>\n<p></p>\n<p>His special skill is to raise his mouth loudly, take a splendid stance, and slash in all directions like the protagonist of a sword play. At that moment, the battlefield becomes your stage.</p>",
     "limit": {
       "min": 0,
       "value": 0,

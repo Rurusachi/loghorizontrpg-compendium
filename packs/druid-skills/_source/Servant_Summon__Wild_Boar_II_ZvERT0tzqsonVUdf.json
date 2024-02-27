@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR 11 or higher. You gain the [Nature] tag. You gain a +1 bonus to [Speed].</p>\n<p></p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes [SR x 7] direct damage.</p>\n<p></p>\n<p>(CR21): Increase the damage to [SR x 10].</p>\n<p></p>\n<p>A special skill that makes a high-level pact with Wild Boar, an ancestral spirit that embodies the wildness of nature, and commands it. The giant boar runs around the battlefield with its momentum and crushes enemies.</p>",
+    "description": "<p>Only available at CR 11 or higher. You gain the [Nature] tag. You gain a + 1 bonus to [Speed].</p>\n<p></p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes [SR x 7] direct damage.</p>\n<p></p>\n<p>(CR 21): Increase the damage to [SR x 10].</p>\n<p></p>\n<p>A special skill that makes a high-level pact with Wild Boar, an ancestral spirit that embodies the wildness of nature, and commands it. The giant boar runs around the battlefield with its momentum and crushes enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

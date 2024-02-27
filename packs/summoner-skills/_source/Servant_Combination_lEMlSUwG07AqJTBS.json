@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When using this skill, you may spend up to three [Fate Points] (0 is okay). The target takes [Weakness] with a rating equal to [(Spent [Fate Points] + SR) x 2]. This weakness lasts until the end of the round.</p>\n<p></p>\n<p>(CR11): The multiplier bonus becomes x4 instead of x2.</p>\n<p>(CR21): The multiplier bonus becomes x6.</p>\n<p></p>\n<p>A special skill that attacks in conjunction with summoned creatures. A perfect combination will inflict further damage on the enemy.</p>",
+    "description": "<p>When using this skill, you may spend up to three [Fate Points] (0 is okay). The target takes [Weakness] with a rating equal to [(Spent [Fate Points] + SR) x 2]. This weakness lasts until the end of the round.</p>\n<p></p>\n<p>(CR11): The multiplier bonus becomes ~x 4 instead of ~x 2.</p>\n<p>(CR21): The multiplier bonus becomes ~x 6.</p>\n<p></p>\n<p>A special skill that attacks in conjunction with summoned creatures. A perfect combination will inflict further damage on the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

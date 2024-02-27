@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR 11 or higher. During this Main Process, you gain a +[SRx7] bonus to [Ranged Attack] damage rolls. </p>\n<p></p>\n<p>(CR 21): +[SRx9] bonus to [Ranged Attack] damage rolls instead of +[SRx7].</p>\n<p></p>\n<p>A special skill that stops movement on the spot, concentrates, and quietly aims so as not to be distracted by the enemy. By reading the wind and grasping the flow of the battlefield, making one-shot kills is the ultimate way of sniping.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>During this Main Process, you gain a + [(SR) x 7] bonus to [Ranged Attack] damage rolls. </p>\n<p></p>\n<p>(CR 21): You gain a + [(SR) x 9] bonus to [Ranged Attack] damage rolls instead of + [(SR) x 7].</p>\n<p></p>\n<p>A special skill that stops movement on the spot, concentrates, and quietly aims so as not to be distracted by the enemy. By reading the wind and grasping the flow of the battlefield, making one-shot kills is the ultimate way of sniping.</p>",
     "limit": {
       "min": 0,
       "value": 0,

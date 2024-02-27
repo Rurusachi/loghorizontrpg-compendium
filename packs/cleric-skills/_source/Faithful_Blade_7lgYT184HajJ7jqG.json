@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR + 2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Fate 1): Increase the damage by +[POW Mod].</p>\n<p>(Fate 2): Increase the damage by +[Base POW].</p>\n<p></p>\n<p>A special skill that thoughtlessly swings a blade while maintaining your conviction and faith. That thought blow is sometimes guided by karma and can even open up one's destiny.</p>",
+    "description": "<p>Deal [(SR + 2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Fate 1): Increase the damage by + [POW Mod].</p>\n<p>(Fate 2): Increase the damage by + [Base POW].</p>\n<p></p>\n<p>A special skill that thoughtlessly swings a blade while maintaining your conviction and faith. That thought blow is sometimes guided by karma and can even open up one's destiny.</p>",
     "limit": {
       "min": 0,
       "value": 0,

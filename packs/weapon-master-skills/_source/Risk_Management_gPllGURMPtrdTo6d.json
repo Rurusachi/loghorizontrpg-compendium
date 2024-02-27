@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>When the target rolls on the [Exhaustion Table: Energy, Money], reduce the result of that roll by -1.</p>\n<p></p>\n<p>(Bonus): You gain +10 [Max HP].</p>\n<p></p>\n<p>You are very good at spotting danger and avoiding it.</p>",
+    "description": "<p>When the target rolls on the [Exhaustion Table: Energy, Money], reduce the result of that roll by - 1.</p>\n<p></p>\n<p>(Bonus): You gain + 10 [Max HP].</p>\n<p></p>\n<p>You are very good at spotting danger and avoiding it.</p>",
     "limit": {
       "min": 0,
       "value": 0,

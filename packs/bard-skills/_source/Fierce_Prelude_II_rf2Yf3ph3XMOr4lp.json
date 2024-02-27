@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR21 or higher. The target gains a +[POW Mod] bonus to damage rolls. </p>\n<p></p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by +3 during the Cleanup Process of every round.</p>\n<p></p>\n<p>(SR2): Gain +2 [Hate] instead of +3 during the Cleanup Process.</p>\n<p></p>\n<p>A support song that plays an overture that foreshadows the advance of the bamboo shoots, and raises the morale of the comrades fiercely. Each person who listens to this song becomes a mighty warrior.</p>",
+    "description": "<p>Only available at CR 21 or higher.</p>\n<p></p>\n<p>The target gains a + [POW Mod] bonus to damage rolls. </p>\n<p></p>\n<p>(Effect): While this [Harmony] is in effect, increase your [Hate] by + 3 during the Cleanup Process of every round.</p>\n<p></p>\n<p>(SR 2): Gain + 2 [Hate] instead of + 3 during the Cleanup Process.</p>\n<p></p>\n<p>A support song that plays an overture that foreshadows the advance of the bamboo shoots, and raises the morale of the comrades fiercely. Each person who listens to this song becomes a mighty warrior.</p>",
     "limit": {
       "min": 0,
       "value": 0,

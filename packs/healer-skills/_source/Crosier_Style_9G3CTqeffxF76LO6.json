@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You become able to equip weapons with the [Staff] tag. You may only equip [Staff] weapons with an Item Rank equal to or lower than [CR-2 (minimum 1)].</p>\n<p></p>\n<p>(SR2): You may equip [Staff] weapons with an IR equal to your CR.</p>\n<p></p>\n<p>A fighting style that draws power from a ceremonial staff and wields powerful magic.</p>",
+    "description": "<p>You become able to equip weapons with the [Staff] tag. You may only equip [Staff] weapons with an Item Rank equal to or lower than [CR - 2 (minimum 1)].</p>\n<p></p>\n<p>(SR 2): You may equip [Staff] weapons with an IR equal to your CR.</p>\n<p></p>\n<p>A fighting style that draws power from a ceremonial staff and wields powerful magic.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR 11 or higher. You can make a [Safe Move] up to your [Speed] Sq. Make + [Base DEX] to the damage roll of [Weapon Attack] done in this main process.</p>\n<p></p>\n<p>(Minor) The movement distance is + 1 Sq.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>You can make a [Safe Move] up to your [Speed] Sq. Make + [Base DEX] to the damage roll of [Weapon Attack] done in this Main Process.</p>\n<p></p>\n<p>(Minor) The movement distance is + 1 Sq.</p>\n<p></p>\n<p>A special skill that moves with sharp steps like lightning. Received by the force of god-speed, the power of the attack that follows is doubled.</p>",
     "limit": {
       "min": 0,
       "value": 0,

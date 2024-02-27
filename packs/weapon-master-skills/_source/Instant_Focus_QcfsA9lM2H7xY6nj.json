@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>During this Main Process, you gain a +1D bonus to [Hit Checks]. In addition, (Extra) conditions on attacks you make automatically succeed.</p>\n<p></p>\n<p>A special skill that sharpens awareness through concentration and increases the accuracy of attacks.</p>",
+    "description": "<p>During this Main Process, you gain a + 1D bonus to [Hit Checks]. In addition, (Extra) conditions on attacks you make automatically succeed.</p>\n<p></p>\n<p>A special skill that sharpens awareness through concentration and increases the accuracy of attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

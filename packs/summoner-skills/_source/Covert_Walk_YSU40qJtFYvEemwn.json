@@ -4,7 +4,7 @@
   "_id": "YSU40qJtFYvEemwn",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You become [Hidden] and may [Normal Move] up to 3 Sq while maintaining it. Can only be used when you have the [Undead] [Construct] tag. </p>\n<p></p>\n<p>(Minor) Movement distance is increased by +2 Sq.</p>\n<p></p>\n<p>With the help of undead and artificial creatures that are summoning servants, it is a skill that allows you to move without being distracted by the enemy. There are various methods of support depending on the follower, such as actually disappearing or moving behind the shadow of the follower.</p>",
+    "description": "<p>You become [Hidden] and may [Normal Move] up to 3 Sq while maintaining it. Can only be used when you have the [Undead] [Construct] tag. </p>\n<p></p>\n<p>(Minor): Movement distance is increased by + 2 Sq.</p>\n<p></p>\n<p>With the help of undead and artificial creatures that are summoning servants, it is a skill that allows you to move without being distracted by the enemy. There are various methods of support depending on the follower, such as actually disappearing or moving behind the shadow of the follower.</p>",
     "limit": {
       "min": 0,
       "value": 1,

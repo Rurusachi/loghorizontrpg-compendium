@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Requires CR11 or higher. Increase the damage of \"Shadowless Kick\", \"Silent Palm\", and \"Beat Up\" by +[DEX Mod].</p>\n<p></p>\n<p>With your physical abilities honed through many battles, your fists and legs will become even more powerful.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>Increase the damage of \"Shadowless Kick\", \"Silent Palm\", and \"Beat Up\" by + [DEX Mod].</p>\n<p></p>\n<p>With your physical abilities honed through many battles, your fists and legs will become even more powerful.</p>",
     "limit": {
       "min": 0,
       "value": 0,

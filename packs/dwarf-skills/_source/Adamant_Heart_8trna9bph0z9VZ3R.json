@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You recover [[Base STR] x 2] HP.</p>\n<p></p>\n<p>A special skill that inspires a wounded body with an unyielding spirit. Dwarves are said to be hardy, but you're tough even in your soul.</p>",
+    "description": "<p>You recover [[Base STR] x 2] [HP].</p>\n<p></p>\n<p>A special skill that inspires a wounded body with an unyielding spirit. Dwarves are said to be hardy, but you're tough even in your soul.</p>",
     "limit": {
       "min": 0,
       "value": 0,

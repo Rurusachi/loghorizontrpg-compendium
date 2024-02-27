@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR 11 or higher. The target takes two stacks of [Pursuit] with a rating equal to [[Base INT]].</p>\n<p></p>\n<p>(Fate 1): The target takes three stacks of instead of two.</p>\n<p></p>\n<p>Magic that binds the enemy with magical thorns that shine in azure color. Thorns explode on impact, dealing mortal damage to enemies with magical spikes and explosions.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>The target takes two stacks of [Pursuit] with a rating equal to [[Base INT]].</p>\n<p></p>\n<p>(Fate 1): The target takes three stacks of instead of two.</p>\n<p></p>\n<p>Magic that binds the enemy with magical thorns that shine in azure color. Thorns explode on impact, dealing mortal damage to enemies with magical spikes and explosions.</p>",
     "limit": {
       "min": 0,
       "value": 0,

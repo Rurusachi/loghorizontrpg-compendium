@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a bonus to the [Regen] rating of «Heart Beat Healing» and «Gaia Beat Healing» equal to your [Recovery].</p>\n<p></p>\n<p>You are proficient with the Druid's unique healing spell, Heartbeat Healing. Deeper sympathy with nature heals deep wounds while watching.</p>",
+    "description": "<p>You gain a bonus to the [Regen] rating of \"Heart Beat Healing\" and \"Gaia Beat Healing\" equal to your [Recovery].</p>\n<p></p>\n<p>You are proficient with the Druid's unique healing spell, Heartbeat Healing. Deeper sympathy with nature heals deep wounds while watching.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR16 or higher. [Melee Attack] Can be used immediately before applying HP damage from attacks other than yours. Only when equipped with a weapon capable of a [Melee Attack]. Adds +[SR x 8] to the target's expected HP damage.</p>\n<p></p>\n<p>A special skill that unleashes a flash with a combination that matches the timing of the attacks of allies, as if performing a duet. With that collaboration that breathes, the battlefield becomes a stage with the two protagonists.</p>",
+    "description": "<p>Only available at CR 16 or higher.</p>\n<p></p>\n<p>[Melee Attack] Can be used immediately before applying [HP] damage from attacks other than yours. Only when equipped with a weapon capable of a [Melee Attack]. Adds + [SR x 8] to the target's expected [HP] damage.</p>\n<p></p>\n<p>A special skill that unleashes a flash with a combination that matches the timing of the attacks of allies, as if performing a duet. With that collaboration that breathes, the battlefield becomes a stage with the two protagonists.</p>",
     "limit": {
       "min": 0,
       "value": 0,

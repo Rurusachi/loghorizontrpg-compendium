@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You become [Flying], and may make a [Safe Move] up to your [[Speed] + 2] Sq. After the end of this movement, you lose [Flying] gained from this skill. </p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+    "description": "<p>You become [Flying], and may make a [Safe Move] up to your [[Speed] + 2] Sq. After the end of this movement, you lose [Flying] gained from this skill. </p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that allows you to move while jumping around like a unicorn. Its appearance looks like it is dancing in the sky.</p>",
     "limit": {
       "min": 0,
       "value": 0,

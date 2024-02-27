@@ -30,7 +30,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain a +[(SR)D] bonus to [Athletics Checks].</p>\n<p></p>\n<p>You can move around like an action movie hero. Scenes that require agility, such as cliffs with bad footing and swaying suspension bridges, are in your own hands.</p>",
+    "description": "<p>You gain a + [(SR)D] bonus to [Athletics Checks].</p>\n<p></p>\n<p>You can move around like an action movie hero. Scenes that require agility, such as cliffs with bad footing and swaying suspension bridges, are in your own hands.</p>",
     "limit": {
       "min": 0,
       "value": 0,

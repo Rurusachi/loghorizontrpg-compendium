@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Reduce your [Hate] by -1.</p>\n<p></p>\n<p>(Minor): You may make a [Safe Move] of 1 Sq. This additional effect cannot be activated if you have [Rigor].</p>\n<p></p>\n<p>Magic that creates blind spots in the enemy's consciousness and distracts them. You can also use this opportunity to move around the enemy.</p>",
+    "description": "<p>Reduce your [Hate] by - 1.</p>\n<p></p>\n<p>(Minor): You may make a [Safe Move] of 1 Sq. This additional effect cannot be activated if you have [Rigor].</p>\n<p></p>\n<p>Magic that creates blind spots in the enemy's consciousness and distracts them. You can also use this opportunity to move around the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You must have «Call Servant» in order to acquire this skill. This skill only produces an effect when you have one or more empty [Hand Slots]. Reduce the [Hate] cost of «Call Servant» to 0.</p>\n<p></p>\n<p>A fighting style in which one hand is freed and commands are given to followers one after another with hand signals and short commands. Depending on various situations, you can quickly use different servants.</p>",
+    "description": "<p>You must have \"Call Servant\" in order to acquire this skill.</p>\n<p></p>\n<p>This skill only produces an effect when you have one or more empty [Hand Slots]. Reduce the [Hate] cost of \"Call Servant\" to 0.</p>\n<p></p>\n<p>A fighting style in which one hand is freed and commands are given to followers one after another with hand signals and short commands. Depending on various situations, you can quickly use different servants.</p>",
     "limit": {
       "min": 0,
       "value": 0,

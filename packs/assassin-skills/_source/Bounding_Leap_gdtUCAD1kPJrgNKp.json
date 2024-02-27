@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may [Normal Move] up to 2 Sq. At this time if the difference in the [Height] of the destination is within 2 Sq. the effect can be ignored and moved.</p>\n<p></p>\n<p>(Minor) The moving distance is +2 Sq.</p>\n<p></p>\n<p>Further more if you finish moving into a Sq. which is 3 or more that is lower than the Sq. in which you started moving you gain +[STR Mod] to the damage roll of your [Weapon Attack] this Main Process.</p>\n<p></p>\n<p>A special ability to move over obstacles by handling your body as if ignoring gravity. The enemy will be caught off guard by the unconventional approach.</p>",
+    "description": "<p>You may [Normal Move] up to 2 Sq. At this time if the difference in the [Height] of the destination is within 2 Sq the effect can be ignored and moved.</p>\n<p></p>\n<p>(Minor): The distance moved is increased by + 2 Sq.</p>\n<p></p>\n<p>Further more if you finish moving into a Sq which is 3 or more that is lower than the Sq in which you started moving you gain + [STR Mod] to the damage roll of your [Weapon Attack] this Main Process.</p>\n<p></p>\n<p>A special ability to move over obstacles by handling your body as if ignoring gravity. The enemy will be caught off guard by the unconventional approach.</p>",
     "limit": {
       "min": 0,
       "value": 0,

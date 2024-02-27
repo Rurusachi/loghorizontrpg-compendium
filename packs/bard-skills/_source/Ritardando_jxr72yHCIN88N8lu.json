@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>At the end of this Main Process, you may make a [Normal Move] up to your [Speed] Sq.</p>\n<p></p>\n<p>(Minor): Reduce the distance moved by -1 Sq, and the move becomes a [Safe Move].</p>\n<p></p>\n<p>A special skill that gradually slows its pace so that it is not noticed, outwits the enemy's expectations, and moves through obstacles.</p>",
+    "description": "<p>At the end of this Main Process, you may make a [Normal Move] up to your [Speed] Sq.</p>\n<p></p>\n<p>(Minor): Reduce the distance moved by - 1 Sq, and the move becomes a [Safe Move].</p>\n<p></p>\n<p>A special skill that gradually slows its pace so that it is not noticed, outwits the enemy's expectations, and moves through obstacles.</p>",
     "limit": {
       "min": 0,
       "value": 0,

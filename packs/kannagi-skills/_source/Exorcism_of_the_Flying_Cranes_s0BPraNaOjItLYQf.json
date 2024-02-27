@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target. </p>\n<p></p>\n<p>(Target: Missing [Boss] [Raid] tag): Target's [Initiative] is -2. This effect is handled as Bad Status. </p>\n<p>(Target: Boss, Raid): Give the target [Weakness (Melee Attack): [STR Mod]]. This [Weakness] is treated as Bad Status.</p>\n<p></p>\n<p>At the same time as attacking, countless small crane-shaped shikigami soar from the enemy's feet, blocking their movement. The crane dance, which is considered to be a good omen, is a bad omen of death for the enemy.</p>",
+    "description": "<p>Deal [2D + (Attack Power)] physical damage to the target. </p>\n<p></p>\n<p>(Target: Missing [Boss] [Raid] tag): Target's [Initiative] is - 2. This effect is handled as Bad Status. </p>\n<p>(Target: Boss, Raid): Give the target [Weakness (Melee Attack): [STR Mod]]. This [Weakness] is treated as Bad Status.</p>\n<p></p>\n<p>At the same time as attacking, countless small crane-shaped shikigami soar from the enemy's feet, blocking their movement. The crane dance, which is considered to be a good omen, is a bad omen of death for the enemy.</p>",
     "limit": {
       "min": 0,
       "value": 0,

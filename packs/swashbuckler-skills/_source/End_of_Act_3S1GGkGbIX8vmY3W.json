@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>If a [Mob] has taken at least one point of HP Damage as a result of this damage roll, it becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>",
+    "description": "<p>If a [Mob] has taken at least one point of HP Damage as a result of this damage roll, it becomes [Incapacitated] or [Dead] (your choice).</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special skill that instantly neutralizes the enemy with a graceful attack. Your flash will bring a merciless curtain to the performance of the three-penny actor who pollutes the stage.</p>",
     "limit": {
       "min": 0,
       "value": 0,

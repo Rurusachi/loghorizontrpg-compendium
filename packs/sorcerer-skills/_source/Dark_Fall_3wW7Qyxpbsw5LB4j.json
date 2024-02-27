@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>This skill targets a sq. Place the Prop [Darkness] (B1P418) to Sq selected as a target. The tag of this prop is [Magic].</p>\n<p></p>\n<p>(SR 2) This skill becomes [Range: 4 Sq].</p>\n<p>(SR 3) This skill becomes [Target: Wide 2 (P)].</p>\n<p></p>\n<p>\"Darkness\" [Space] [Natural] [Detect: Auto] [Analyze: Auto]</p>\n<p>(Touch): Treat the target as if it had [Hidden] from all other characters in the scene. In addition, treat all other characters present in the scene as if they had [Hidden] to the target. This effect continues until the target exits the Prop.</p>\n<p></p>\n<p>Magic that spreads darkness with magical power and obstructs vision.</p>",
+    "description": "<p>This skill targets a Sq. Place the Prop [Darkness] (B1P418) to Sq selected as a target. The tag of this prop is [Magic].</p>\n<p></p>\n<p>(SR 2): This skill becomes [Range: 4 Sq].</p>\n<p>(SR 3): This skill becomes [Target: Wide 2 (P)].</p>\n<p></p>\n<p>\"Darkness\" [Space] [Natural] [Detect: Auto] [Analyze: Auto]</p>\n<p>(Touch): Treat the target as if it had [Hidden] from all other characters in the scene. In addition, treat all other characters present in the scene as if they had [Hidden] to the target. This effect continues until the target exits the Prop.</p>\n<p></p>\n<p>Magic that spreads darkness with magical power and obstructs vision.</p>",
     "limit": {
       "min": 0,
       "value": 0,

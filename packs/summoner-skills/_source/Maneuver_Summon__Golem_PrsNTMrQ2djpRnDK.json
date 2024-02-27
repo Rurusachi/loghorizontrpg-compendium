@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You gain the [Riding: Golem] state and gain [Barrier: (SR of \"Servant Summon: Golem\" x [Base INT]) + (SRx20)]. This state is lost as soon as this [Barrier] is lost. During the [Riding: Golem] state, EX Power \"Titan Trample\" and \"Gigant Punch\" becomes available for use.</p>\n<p> </p>\n<p>A special skill that summons a megalithic soldier and rides on their shoulders to fight together. That giant will protect you both offensively and defensively.</p>",
+    "description": "<p>You gain the [Riding: Golem] state and gain [Barrier: (SR of \"Servant Summon: Golem\" x [Base INT]) + (SR x 20)]. This state is lost as soon as this [Barrier] is lost. During the [Riding: Golem] state, EX Power \"Titan Trample\" and \"Gigant Punch\" becomes available for use.</p>\n<p> </p>\n<p>A special skill that summons a megalithic soldier and rides on their shoulders to fight together. That giant will protect you both offensively and defensively.</p>",
     "limit": {
       "min": 0,
       "value": 0,

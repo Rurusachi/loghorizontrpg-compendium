@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target.</p>\n<p></p>\n<p>(Self: Servant Summon): Increase the damage by +[Active Servant Summon's SR x 6].</p>\n<p></p>\n<p>Attack magic that manipulates the surrounding nature and hits an enemy with trees and rocks. Its power doubles when you use the ancestral spirits that embody nature.</p>",
+    "description": "<p>Deal [2D + (Magic Power)] magical damage to the target.</p>\n<p></p>\n<p>(Self: Servant Summon): Increase the damage by + [Active Servant Summon's SR x 6].</p>\n<p></p>\n<p>Attack magic that manipulates the surrounding nature and hits an enemy with trees and rocks. Its power doubles when you use the ancestral spirits that embody nature.</p>",
     "limit": {
       "min": 0,
       "value": 0,

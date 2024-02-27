@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain the [Construct] tag. You get [Cancel (Magic): (INT Mod) x SR]. </p>\n<p></p>\n<p>(Effect): An ally within range of [Target: Two / Range: 2 Sq] that you can see reduces their [Hate] by -1.</p>\n<p></p>\n<p>An artificial creature with an amorphous body, a special skill that summons and uses slime. Depending on the situation, it can change shape to defend against enemy attacks.</p>",
+    "description": "<p>You gain the [Construct] tag and [Cancel (Magic): (INT Mod) x SR]. </p>\n<p></p>\n<p>(Effect): An ally within range of [Target: Two / Range: 2 Sq] that you can see reduces their [Hate] by - 1.</p>\n<p></p>\n<p>An artificial creature with an amorphous body, a special skill that summons and uses slime. Depending on the situation, it can change shape to defend against enemy attacks.</p>",
     "limit": {
       "min": 0,
       "value": 0,

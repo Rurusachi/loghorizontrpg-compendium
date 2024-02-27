@@ -8,7 +8,7 @@
   "flags": {},
   "_id": "4rNDhX1uyP5nuqbu",
   "system": {
-    "description": "<p>The target may reduce their [Hate] by -3.</p>\n<p></p>\n<p>A magic that calms down the surrounding hostility and diminishes interest in yourself and your friends.</p>",
+    "description": "<p>The target may reduce their [Hate] by - 3.</p>\n<p></p>\n<p>A magic that calms down the surrounding hostility and diminishes interest in yourself and your friends.</p>",
     "limit": {
       "min": 0,
       "value": 0,

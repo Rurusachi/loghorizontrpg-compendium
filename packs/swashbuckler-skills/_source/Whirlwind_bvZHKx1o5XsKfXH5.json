@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>A special skill that allows you to hold up your weapon and spin around on the spot, mowing down nearby enemies all at once. It was like a whirlwind of death.</p>",
     "limit": {
       "min": 0,
       "value": 0,

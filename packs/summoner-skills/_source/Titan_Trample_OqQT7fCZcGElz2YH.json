@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Normal Move] up to 1 Sq. During this movement, you are immune to [Hinder] by [Mob] enemies</p>\n<p></p>\n<p>(Minor): The movement is +2 Sq.</p>\n<p>(Fate 1): During this movement, enemies with [Mob] tag immediately become [Incapacitated] who share the same square as you.</p>\n<p></p>\n<p>EX power that makes use of the golem's gigantic body to move while trampling the enemy. If it is a weak enemy, it will be trampled as it is.</p>",
+    "description": "<p>You may make a [Normal Move] up to 1 Sq. During this movement, you are immune to [Hinder] by [Mob] enemies</p>\n<p></p>\n<p>(Minor): The movement is + 2 Sq.</p>\n<p>(Fate 1): During this movement, enemies with [Mob] tag immediately become [Incapacitated] who share the same square as you.</p>\n<p></p>\n<p>EX power that makes use of the golem's gigantic body to move while trampling the enemy. If it is a weak enemy, it will be trampled as it is.</p>",
     "limit": {
       "min": 0,
       "value": 0,

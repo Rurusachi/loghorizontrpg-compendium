@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>It is effective when you are equipped with only one [One-Handed] weapon capable of [Weapon Attacks] in your [Hand Slots]. Your [Attack Power] is +[[Weapon's [Attack Power]] x 2]. Only for the first round of the scene, your [Evasion] and [Resistance] is incremented by +1.</p>\n<p></p>\n<p>(SR 2) Always +1 to [Evasion] and [Resistance], not just the first round.</p>\n<p></p>\n<p>A fighting style that makes full use of easy-to-handle weapons and uses agile movements to attack the enemy like a raging fire.</p>",
+    "description": "<p>This skill is effective only while you are equipped with one [One-Handed] weapon capable of [Weapon Attacks] in your [Hand Slots].</p>\n<p></p>\n<p>Your [Attack Power] is + [[Weapon's [Attack Power]] x 2]. Only for the first Round of the Scene, your [Evasion] and [Resistance] is increased by + 1.</p>\n<p></p>\n<p>(SR 2): You always gain a + 1 to [Evasion] and [Resistance], not just during the first Round.</p>\n<p></p>\n<p>A fighting style that makes full use of easy-to-handle weapons and uses agile movements to attack the enemy like a raging fire.</p>",
     "limit": {
       "min": 0,
       "value": 0,

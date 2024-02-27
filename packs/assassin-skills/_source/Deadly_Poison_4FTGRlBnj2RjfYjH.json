@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Increase the rating of [Decay] you apply by +[SR x 3].</p>\n<p></p>\n<p>You are proficient in handling various poisons. Any poison you handle will turn into a deadly venom.</p>",
+    "description": "<p>Increase the rating of [Decay] you apply by + [SR x 3].</p>\n<p></p>\n<p>You are proficient in handling various poisons. Any poison you handle will turn into a deadly venom.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Inflict physical damage of [(Attack Power) + (SR + 1)D] and [Weakness (Physical): [INT Mod]] to the target. This [Weakness] is treated as LS with [Seal] tag, and it continues until the target consumes 2 [Fate Points] or until you start the next main process.</p>",
+    "description": "<p>Deal [(SR + 1)D + (Attack Power)] physical damage and give [Weakness (Physical): [INT Mod]] to the target. This [Weakness] is treated as a LS with the [Seal] tag, and it continues until the target consumes 2 [Fate Points] or until you start your next Main Process.</p>\n<p></p>\n<p>A special skill that inflicts so much pain that it cracks the target's will to fight and takes away their concentration.</p>",
     "limit": {
       "min": 0,
       "value": 0,

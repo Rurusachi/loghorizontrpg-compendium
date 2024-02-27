@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use this skill just before you make an [Analysis Check]. You gain a +2D bonus to that check.</p>\n<p></p>\n<p>A special skill that draws out the knowledge of mythical traditions from the songs acquired as a <Bard> and sees through the identity of the object in front of you.</p>",
+    "description": "<p>Use this skill just before you make an [Analysis Check]. You gain a + 2D bonus to that check.</p>\n<p></p>\n<p>A special skill that draws out the knowledge of mythical traditions from the songs acquired as a <Bard> and sees through the identity of the object in front of you.</p>",
     "limit": {
       "min": 0,
       "value": 0,

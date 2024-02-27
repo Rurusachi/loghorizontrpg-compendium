@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target recovers [(SRx2)D + (Recovery)] [HP], and removes 1 BS currently affecting them. You may only use this skill when you have the [Mythic] tag.</p>\n<p></p>\n<p>A special skill that heals the wounds of allies by ordering a mythic beast who is summoned as a follower.</p>",
+    "description": "<p>The target recovers [(SR x 2)D + (Recovery)] [HP], and removes 1 BS currently affecting them. You may only use this skill when you have the [Mythic] tag.</p>\n<p></p>\n<p>A special skill that heals the wounds of allies by ordering a mythic beast who is summoned as a follower.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Replace Heartbeat Healing with this skill at CR 11 or higher. Give the target [Regen: [Magic Power] x2].</p>\n<p></p>\n<p>Magic that activates the target's vitality and gradually heals wounds. The effectiveness of the basic pulsation recovery magic also increases greatly with proficiency.</p>",
+    "description": "<p>Replace \"Heartbeat Healing\" with this skill at CR 11 or higher. Give the target [Regen: [Magic Power] x 2].</p>\n<p></p>\n<p>Magic that activates the target's vitality and gradually heals wounds. The effectiveness of the basic pulsation recovery magic also increases greatly with proficiency.</p>",
     "limit": {
       "min": 0,
       "value": 0,

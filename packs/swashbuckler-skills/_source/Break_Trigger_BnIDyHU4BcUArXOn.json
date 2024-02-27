@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You trigger all [Pursuit] stacks the target of your attack has, rather than just one.</p>",
+    "description": "<p>You trigger all [Pursuit] stacks the target of your attack has, rather than just one.</p>\n<p></p>\n<p>A special skill that allows you to perform countless follow-up attacks with incredible speed. The enemy falls to the ground, unable to even comprehend what has happened, due to the onslaught that is still fleeting.</p>",
     "limit": {
       "min": 0,
       "value": 0,

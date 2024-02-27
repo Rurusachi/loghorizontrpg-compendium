@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+3)D + (Attack Power)] physical damage to the target, and the target takes [Confusion]. If this [Confusion] is removed by any means, the target takes 20 direct damage.</p>",
+    "description": "<p>Deal [(SR + 3)D + (Attack Power)] physical damage to the target, and the target takes [Confusion]. If this [Confusion] is removed by any means, the target takes 20 direct damage.</p>\n<p></p>\n<p>A special skill that attacks the enemy's legs and restricts their movement. Small thorns remain in the wound, causing further pain when pulled out.</p>",
     "limit": {
       "min": 0,
       "value": 0,

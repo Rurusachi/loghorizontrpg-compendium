@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR + 2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Any Bad Status): Increase the damage by +8.</p>\n<p></p>\n<p>A special skill that envelops the attack with a weapon with fiery fangs, inflicting burns as well as damage from blows.</p>",
+    "description": "<p>Deal [(SR + 2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Any Bad Status): Increase the damage by + 8.</p>\n<p></p>\n<p>A special skill that envelops the attack with a weapon with fiery fangs, inflicting burns as well as damage from blows.</p>",
     "limit": {
       "min": 0,
       "value": 0,

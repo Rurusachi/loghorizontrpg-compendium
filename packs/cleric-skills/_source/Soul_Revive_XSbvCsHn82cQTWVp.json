@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>You must have \"Resurrection\" in order to acquire this skill. You immediately use \"Resurrection\".</p>\n<p></p>\n<p>(SR2): When you use this skill, \"Resurrection\" is used with [Range: 4 Sq.]</p>\n<p></p>\n<p></p>\n<p>A magic that simplifies the resurrection magic chant ritual and resurrects allies at any time. You can assess the battle situation, take advantage of the enemy's gaps, and summon the souls of your allies.</p>",
+    "description": "<p>You must have \"Resurrection\" in order to acquire this skill. You immediately use \"Resurrection\".</p>\n<p></p>\n<p>(SR 2): When you use this skill, \"Resurrection\" is used with [Range: 4 Sq]</p>\n<p></p>\n<p></p>\n<p>A magic that simplifies the resurrection magic chant ritual and resurrects allies at any time. You can assess the battle situation, take advantage of the enemy's gaps, and summon the souls of your allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

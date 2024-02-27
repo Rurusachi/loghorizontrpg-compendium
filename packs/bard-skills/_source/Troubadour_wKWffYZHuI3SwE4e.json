@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +2 bonus to [Negotiation Checks] and [Operate Checks].</p>\n<p></p>\n<p>(SR2): The bonus becomes +1D.</p>\n<p></p>\n<p>You are worthy of the name Bard, with knowledge of the etiquette of various venues and the dexterity to handle any musical instrument.</p>",
+    "description": "<p>You gain a + 2 bonus to [Negotiation Checks] and [Operate Checks].</p>\n<p></p>\n<p>(SR 2): The bonus becomes + 1D.</p>\n<p></p>\n<p>You are worthy of the name Bard, with knowledge of the etiquette of various venues and the dexterity to handle any musical instrument.</p>",
     "limit": {
       "min": 0,
       "value": 0,

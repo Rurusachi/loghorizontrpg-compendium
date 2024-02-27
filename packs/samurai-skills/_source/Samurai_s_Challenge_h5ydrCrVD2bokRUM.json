@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>This skill may only target an ally other than yourself. The target may reduce their [Hate] by -3. </p>\n<p></p>\n<p>(Fate 1): This skill can be used with [Range: 20 Sq.]</p>\n<p></p>\n<p>A provocation skill that attracts attacks by striking the enemy with one's own spirit by raising a weapon or raising one's name.</p>",
+    "description": "<p>This skill may only target an ally other than yourself. The target may reduce their [Hate] by - 3. </p>\n<p></p>\n<p>(Fate 1): This skill can be used with [Range: 20 Sq]</p>\n<p></p>\n<p>A provocation skill that attracts attacks by striking the enemy with one's own spirit by raising a weapon or raising one's name.</p>",
     "limit": {
       "min": 0,
       "value": 0,

@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>It is used when the target receives a status with [Seal] tag. The status is immediately released.</p>\n<p></p>\n<p>(Fate 1) The Range can be changed to [Range: 20 Sq.].</p>\n<p></p>\n<p>A special skill that removes terrifying status ailments such as petrification, complete paralysis, strong restraints, blindness, and fainting encountered by high-level adventurers.</p>",
+    "description": "<p>It is used when the target receives a status with [Seal] tag. The status is immediately released.</p>\n<p></p>\n<p>(Fate 1): The Range can be changed to [Range: 20 Sq].</p>\n<p></p>\n<p>A special skill that removes terrifying status ailments such as petrification, complete paralysis, strong restraints, blindness, and fainting encountered by high-level adventurers.</p>",
     "limit": {
       "min": 0,
       "value": 0,

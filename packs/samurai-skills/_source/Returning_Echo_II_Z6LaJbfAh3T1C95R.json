@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR11 or higher. Use this skill just after you are attacked. Deal [(SR) x (DEX Mod)] direct damage to the character who made the attack.</p>\n<p></p>\n<p>(Fate 1): Increase the damage by +[CR].</p>\n<p></p>\n<p>A special skill that unleashes an unavoidable counterattack that traces back the trajectory of the enemy's attack. Its sharpness has reached the speed of sound in a echo-like manner through refinement.</p>",
+    "description": "<p>Only available at CR 11 or higher. Use this skill just after you are attacked. Deal [(SR) x (DEX Mod)] direct damage to the character who made the attack.</p>\n<p></p>\n<p>(Fate 1): Increase the damage by + [CR].</p>\n<p></p>\n<p>A special skill that unleashes an unavoidable counterattack that traces back the trajectory of the enemy's attack. Its sharpness has reached the speed of sound in a echo-like manner through refinement.</p>",
     "limit": {
       "min": 0,
       "value": 0,

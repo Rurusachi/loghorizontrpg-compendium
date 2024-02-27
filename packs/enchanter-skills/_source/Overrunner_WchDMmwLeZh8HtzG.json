@@ -3,7 +3,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>The target gains a +1 bonus to [Speed]. This skill can be used multiple times when used during the same Briefing.</p>\n<p></p>\n<p>Support magic that strengthens the target's speed and increases mobility.</p>",
+    "description": "<p>The target gains a + 1 bonus to [Speed]. This skill can be used multiple times when used during the same Briefing.</p>\n<p></p>\n<p>Support magic that strengthens the target's speed and increases mobility.</p>",
     "limit": {
       "min": 0,
       "value": 0,

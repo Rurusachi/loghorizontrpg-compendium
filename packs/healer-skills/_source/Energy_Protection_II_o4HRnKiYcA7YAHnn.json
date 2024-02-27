@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Available at CR11 or higher. Choose one of the following tags: [Flame] [Cold] [Shock] [Blight] [Holy] [Spirit]. The target gains [Cancel (Chosen Tag)] with a rating equal to [[INT Mod] x SR].</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A magic that develops a powerful force field centered on you that conflicts with a specific attribute, and grants various resistances to surrounding allies.</p>",
+    "description": "<p>Only available at CR 11 or higher.</p>\n<p></p>\n<p>Choose one of the following tags: [Flame] [Cold] [Shock] [Blight] [Holy] [Spirit]. The target gains [Cancel (Chosen Tag)] with a rating equal to [[INT Mod] x SR].</p>\n<p></p>\n<p>(Fate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A magic that develops a powerful force field centered on you that conflicts with a specific attribute, and grants various resistances to surrounding allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

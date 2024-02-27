@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain a +1D bonus to [Disable Checks].</p>\n<p></p>\n<p>You are very dexterous with your hands. Any trap will be neutralized better than a man.</p>",
+    "description": "<p>You gain a + 1D bonus to [Disable Checks].</p>\n<p></p>\n<p>You are very dexterous with your hands. Any trap will be neutralized better than a man.</p>",
     "limit": {
       "min": 0,
       "value": 0,

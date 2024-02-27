@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You choose one tag from [Fire], [Cold], [Shock], [Blight], [Holy]. and [Spirit]. The targets receive [Cancel (selected tag)]. Its rating is equal to [[POW Mod] x SR]. This [Cancel] lasts until the end of the round.</p>\n<p></p>\n<p>Magic that casts spells to avoid specific disasters such as fire and poison, and protects allies.</p>",
+    "description": "<p>You choose one tag from [Fire], [Cold], [Shock], [Blight], [Holy]. and [Spirit].</p>\n<p></p>\n<p>The targets receive [Cancel (selected tag)]. Its rating is equal to [[POW Mod] x SR]. This [Cancel] lasts until the end of the Round.</p>\n<p></p>\n<p>Magic that casts spells to avoid specific disasters such as fire and poison, and protects allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

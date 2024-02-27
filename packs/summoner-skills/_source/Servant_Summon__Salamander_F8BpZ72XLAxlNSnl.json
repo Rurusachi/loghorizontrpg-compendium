@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain the [Fairy] and [Flame] tags. You gain a +[SRx5] bonus to the damage roll of attacks that have the [Flame] tag.</p>\n<p></p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes 5 direct damage.</p>\n<p></p>\n<p>A special skill that summons and uses Salamander, a fire fairy with a body that resembles a lizard's flame. Flaming fangs and claws burn your foes.</p>",
+    "description": "<p>You gain the [Fairy] and [Flame] tags. You gain a + [SR x 5] bonus to the damage roll of attacks that have the [Flame] tag.</p>\n<p></p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq] from you takes 5 direct damage.</p>\n<p></p>\n<p>A special skill that summons and uses Salamander, a fire fairy with a body that resembles a lizard's flame. Flaming fangs and claws burn your foes.</p>",
     "limit": {
       "min": 0,
       "value": 0,

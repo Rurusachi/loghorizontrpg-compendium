@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>During this main process, give 2 stacks of [Pursuit] when using \"Assist Attack\" instead of 1.</p>\n<p></p>\n<p>A special skill that accurately breaks the enemy's balance by effectively cooperating with allies and keeping the enemy in check. Attacking the enemy directly and using recovery magic are not your only battles.</p>",
+    "description": "<p>During this Main Process, you give 2 stacks of [Pursuit] when using \"Assist Attack\" instead of 1.</p>\n<p></p>\n<p>A special skill that accurately breaks the enemy's balance by effectively cooperating with allies and keeping the enemy in check. Attacking the enemy directly and using recovery magic are not your only battles.</p>",
     "limit": {
       "min": 0,
       "value": 0,

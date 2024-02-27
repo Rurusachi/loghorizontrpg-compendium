@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>Deal [(SR+2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Pursuit): [Pursuit] triggered by this attack is not removed.</p>\n<p></p>\n<p>An attack that destroys the enemy from the inside and outside by sending a special vibration from the fist that hits the opponent.</p>",
+    "description": "<p>Deal [(SR + 2)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Target: Pursuit): [Pursuit] triggered by this attack is not removed.</p>\n<p></p>\n<p>An attack that destroys the enemy from the inside and outside by sending a special vibration from the fist that hits the opponent.</p>",
     "limit": {
       "min": 0,
       "value": 0,

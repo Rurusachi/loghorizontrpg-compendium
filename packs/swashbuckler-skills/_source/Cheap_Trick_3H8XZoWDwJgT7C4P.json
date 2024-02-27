@@ -8,7 +8,7 @@
   "sort": 0,
   "flags": {},
   "system": {
-    "description": "<p>During this Main Process, if you deal at least 1 HP Damage to the target with an attack, the target takes [Dazed].</p>",
+    "description": "<p>During this Main Process, if you deal at least 1 [HP] damage to the target with an attack, the target takes [Dazed].</p>\n<p></p>\n<p>A special skill that uses a weapon, shield, or free hand to make a slight feint, slowing down the reaction to an immediate attack.</p>",
     "limit": {
       "min": 0,
       "value": 0,

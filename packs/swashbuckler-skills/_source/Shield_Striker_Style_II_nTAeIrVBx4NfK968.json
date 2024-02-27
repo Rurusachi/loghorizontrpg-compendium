@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Available at CR 11 or higher. This skill is only effective when you are equipped with a [Shield]. The damage you takeover with \"Protect\" and \"Take Over\" is -[SRx8].</p>\n<p></p>\n<p>(SR2) Your [Attack Power] is + [STR Mod].</p>\n<p>(SR3) The [Shield] you are equipped with becomes +[INT Mod] to the [Physical Defense] of the [Shield].</p>",
+    "description": "<p>Only available at CR 11 or higher. This skill is only effective while you are equipped with a [Shield].</p>\n<p></p>\n<p>The damage you take from using \"Protect\" and \"Take Over\" is reduced by - [SR x 8].</p>\n<p></p>\n<p>(SR 2): Your [Attack Power] is increased by + [STR Mod].</p>\n<p>(SR 3): The [Shield] you are equipped with gains a + [INT Mod] to its [Physical Defense].</p>\n<p></p>\n<p>A fighting style that skillfully combines weapon and shield skills and applies them to attacks. Its defensive ability shows its true value when protecting its allies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

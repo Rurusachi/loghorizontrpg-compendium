@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Safe Move] of 1 Sq.</p>\n<p></p>\n<p>(Hate 1) If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special ability to run through short distances unhindered by anyone with tremendous force like a gust of wind.</p>",
+    "description": "<p>You may make a [Safe Move] of 1 Sq.</p>\n<p></p>\n<p>(Hate 1): If you have reached your Limit for this skill, you may pay this cost to use it again.</p>\n<p></p>\n<p>A special ability to run through short distances unhindered by anyone with tremendous force like a gust of wind.</p>",
     "limit": {
       "min": 0,
       "value": 0,

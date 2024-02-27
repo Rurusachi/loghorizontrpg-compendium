@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You may make a [Safe Move] up to your [Speed] Sq. During this Main Process, you gain a +8 bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>(Minor): Increase the distance moved by +1 Sq.</p>",
+    "description": "<p>You may make a [Safe Move] up to your [Speed] Sq. During this Main Process, you gain a + 8 bonus to [Weapon Attack] damage rolls.</p>\n<p></p>\n<p>(Minor): Increase the distance moved by + 1 Sq.</p>\n<p></p>\n<p>A special skill that moves with sharp steps like lightning. The attacks unleashed with such force are extremely powerful.</p>",
     "limit": {
       "min": 0,
       "value": 0,

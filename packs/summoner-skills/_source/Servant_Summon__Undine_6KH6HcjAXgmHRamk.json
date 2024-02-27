@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>You gain the [Fairy] and [Cold] tags. You gain a +[SRx5] bonus to the damage roll of attacks that have the [Cold] tag.</p>\n<p></p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq.] from you takes 5 direct damage.</p>\n<p></p>\n<p>A special skill that summons Undine, a water fairy in the form of a beautiful maiden, and uses it. The currents and cold she produces freeze her enemies.</p>",
+    "description": "<p>You gain the [Fairy] and [Cold] tags. You gain a + [SR x 5] bonus to the damage roll of attacks that have the [Cold] tag.</p>\n<p></p>\n<p>(Effect): A secondary target within a range of [Target: Single / Range: 4 Sq] from you takes 5 direct damage.</p>\n<p></p>\n<p>A special skill that summons Undine, a water fairy in the form of a beautiful maiden, and uses it. The currents and cold she produces freeze her enemies.</p>",
     "limit": {
       "min": 0,
       "value": 0,

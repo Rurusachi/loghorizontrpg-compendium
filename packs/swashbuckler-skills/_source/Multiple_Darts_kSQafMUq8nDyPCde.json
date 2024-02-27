@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR+1)D + (Attack Power)] physical damage to the target, and the target takes [Afflicted].</p>",
+    "description": "<p>Deal [(SR + 1)D + (Attack Power)] physical damage to the target, and the target takes [Afflicted].</p>\n<p></p>\n<p>A special skill in which a throwing weapon is thrown at the enemy's weak points or wounds, making the opponent's condition worse.</p>",
     "limit": {
       "min": 0,
       "value": 0,

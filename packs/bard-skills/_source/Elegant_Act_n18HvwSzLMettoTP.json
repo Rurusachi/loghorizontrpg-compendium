@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Effect): You gain a +1D bonus to your next [Defense Check]. Treat this effect as a Combat Status that is removed after being applied once.</p>\n<p></p>\n<p>A special skill that unleashes an elegant blow from a beautiful movement. With sophisticated and efficient movements, it is possible to deal with the attack immediately after with plenty of time to spare.</p>",
+    "description": "<p>Deal [(SR)D + (Attack Power)] physical damage to the target.</p>\n<p></p>\n<p>(Effect): You gain a + 1D bonus to your next [Defense Check]. Treat this effect as a Combat Status that is removed after being applied once.</p>\n<p></p>\n<p>A special skill that unleashes an elegant blow from a beautiful movement. With sophisticated and efficient movements, it is possible to deal with the attack immediately after with plenty of time to spare.</p>",
     "limit": {
       "min": 0,
       "value": 0,

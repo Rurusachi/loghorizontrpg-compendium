@@ -4,7 +4,7 @@
   "type": "skill",
   "img": "icons/svg/item-bag.svg",
   "data": {
-    "description": "<p>Use it when a [Damaged] tag is attached to an item that has a [Consumable] tag that the target possesses. Immediately remove that [Damaged] tag.</p>\n<p></p>\n<p>A special skill that prevents food from deteriorating and medicine bottles from breaking by creating a small barrier of cold air in the pocket or bag.</p>",
+    "description": "<p>You may use this skill when a [Damaged] tag is attached to an item that has a [Consumable] tag that the target possesses. Immediately remove that [Damaged] tag.</p>\n<p></p>\n<p>A special skill that prevents food from deteriorating and medicine bottles from breaking by creating a small barrier of cold air in the pocket or bag.</p>",
     "limit": {
       "min": 0,
       "value": 0,
