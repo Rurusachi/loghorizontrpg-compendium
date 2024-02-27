@@ -2,10 +2,10 @@
   "id": "loghorizontrpg-compendium",
   "title": "Log Horizon Compendium",
   "description": "Compendium pack for Log Horizon",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": 11,
-    "verified": 11.307
+    "verified": 11.315
   },
   "relationships": {
 	  "systems": [{
@@ -13,7 +13,7 @@
 			"type": "system",
 			"manifest": "https://github.com/Rurusachi/loghorizontrpg/releases/latest/download/system.json",
 			"compatibility": {
-				"verified": "0.5.0"
+				"verified": "0.6.0"
 			}
 		}
 	  ]
